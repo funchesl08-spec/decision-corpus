@@ -1,0 +1,16 @@
+# 原料存档 · Skinner, B. F. (1948). "Superstition in the pigeon." JEP 38(2), 168–172.
+# 来源：Classics in the History of Psychology（psychclassics.yorku.ca/Skinner/Pigeon/）
+# 抓取方式：web_reader 服务器端抓取，2026-09-29。以下为原文关键段落照录（非转写）。
+
+---
+
+THE EXPERIMENT
+[食物投送装置的设定]：水与食物斗（hopper）每次投食运作约 5 秒，投放间隔为 15 秒——投食与鸟正在做什么完全无关。
+
+RESULTS
+第一只鸟：在偶然强化下形成逆时针转圈行为——"One bird was conditioned to turn counter-clockwise about the cage, making two or three turns between reinforcements."
+（其余鸟的仪式行为原文照录）"In six out of eight cases the response was counter-clockwise movement of the head."（八只中六只为逆时针甩头）；其他个体分别发展出：反复把头伸进上方角落、'tossing'反应（如把头放到看不见的横杆下反复上举）、两只出现钟摆式摆头摆身、啄地等。
+
+解释（原文）：行为在时间上与投食偶然相邻即被强化——"There are many analogies in human behavior... The analogy to the bowler who has developed a superstition concerning the ritual which he performs before delivering the ball..."（保龄球手投球前的仪式即同型）。
+
+注：本存档为抓取核心段落的照录；全文页面仍在线可复查，批 4 可补整页 HTML 存档。

@@ -1,0 +1,3587 @@
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Abraham Wald's Work on Aircraft Survivability: Comment
+Author(s): James O. Berger
+Source: Journal of the American Statistical Association, Vol. 79, No. 386 (Jun., 1984), pp.
+267-269
+Published by: Taylor & Francis, Ltd. on behalf of the American Statistical Association
+Stable URL: http://www.jstor.org/stable/2288258
+Accessed: 13-05-2017 20:34 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+American Statistical Association, Taylor & Francis, Ltd. are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of the American Statistical Association
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:34:35 UTC
+All use subject to http://about.jstor.org/terms
+ Berger: Comment on Wald's Work on Aircraft Survivability 267
+ one could investigate statistically, via a likelihood ratio
+ test or otherwise, the validity of the assumption qi q.
+ With the type of data available to Wald, such an option
+ is not open because of the lack of identiflability of larger
+ models. Wald cautioned his readers that the solution he
+ provides should be used only "if it is known a priori that
+ q, = q2 = = qn." How and whether such a priori
+ knowledge could be garnered is open to debate. Wald
+ does provide an option for those who are more conser-
+ vative. The lower bounds for Qi may be considered con-
+ servative estimates of survival probabilities, although
+ they might often be too small to be useful. The dilemma
+ one encounters with the foregoing three assumptions
+ mentioned is similar to that faced in competing risks
+ methodology, where considerable recent work has fo-
+ cused on identifiability and bounds for survival proba-
+ bilities (see Tsiatis 1975 and Peterson 1976).
+ Viewing Wald's work on aircraft survivability in light
+ of the state of the art at the time it was done, it seems to
+ us to be a remarkable piece of work. While the field of
+ statistics has grown considerably since the early 1940's,
+ Wald's work on this problem is difficult to improve upon.
+ Much of the work appears to be ad hoc-there are few
+ allusions to modeling and no reference to classical sta-
+ tistical approaches or results. By the sheer power of his
+ intuition, Wald was led to subtle structural relationships
+ (e.g., Equations (3.3) and (3.24)), and was able to deal
+ with both structural and inferential questions in a defin-
+ itive way.
+ [Received May 1981. Revised March 1983.]
+ REFERENCES
+ AVRIEL, M. (1976), Nonlinear Programming: Analysis and Methods,
+ Englewood Cliffs, N.J.: Prentice Hall.
+ BARLOW, R.E., BARTHOLOMEW, D.J., BREMNER, J.M., and
+ BRUNK, H.D. (1972), Statistical Inference Under Order Restric-
+ tions, New York: John Wiley.
+ DEMPSTER, A.P., LAIRD, N.M., and RUBIN, D.B. (1977), "Max-
+ imum Likelihood From Incomplete Data Via the EM Algorithm"
+ (with discussion), Journal of the Royal Statistical Society, Ser. B,
+ 39, 1-38.
+ MORSE, P.M. (1977), In at the Beginnings: A Physicist's Life, Cam-
+ bridge, Mass.: MIT Press.
+ PETERSON, A.V. (1976), "Bounds for a Joint Distribution Function
+ With Fixed Sub-Distribution Functions: Application to Competing
+ Risks," Proceedings of the National Academy of Sciences, 73, 11-
+ 13.
+ TSIATIS, A. (1975), "A Nonidentifiability Aspect of the Problem of
+ Competing Risks," Proceedings of the National Academy of Sci-
+ ences, 72, 20-22.
+ WALD, A. (1973), Sequential Analysis, New York: Dover.
+ (1980), "A Method of Estimating Plane Vulnerability Based on
+ Damage of Survivors," CRC 432, July 1980. (Copies can be obtained
+ from the Document Center, Center for Naval Analyses, 2000 N.
+ Beauregard St., Alexandria, VA 22311.)
+ WALLIS, W.A. (1980), "The Statistical Research Group, 1942-1945"
+ (with discussion), Journal of the American Statistical Association,
+ 75, 320-335.
+ Comment
+ JAMES 0. BERGER*
+ The authors are to be congratulated on a fine paper.
+ They have distilled the key ideas in Wald's work on air-
+ craft survivability, and have successfully related the ideas
+ to standard statistical methods. The bulk of this discus-
+ sion will be concerned with this relationship of the work
+ to standard statistical methods, particularly the use of
+ statistical models to describe the situation. Some atten-
+ tion will also be given to decision-theoretic issues.
+ 1. STATISTICAL MODELING
+ As indicated in the paper, the primary quantities stud-
+ ied can be considered
+ Pi, = P (i hits and survival)
+ = Qi At,
+ * James Berger is Professor of Statistics, Department of Statistics,
+ Purdue University, West Lafayette, IN 47907. Research was supported
+ by the National Science Foundation Grant MCS-8101670A1.
+ where
+ Qi = P (survival I i hits),
+ xi = P (i hits),
+ and
+ PO* = P (not surviving) = 1 - E Pi1. i=O
+ If the observations can be assumed to be independent,
+ and out of a total of n missions the data are
+ Xi, = the number of aircraft that receive i hits
+ and survive,
+ ? Journal of the American Statistical Association
+ June 1984, Volume 79, Number 386
+ Applications Section
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:34:35 UTC
+All use subject to http://about.jstor.org/terms
+ 268 Journal of the American Statistical Association, June 1984
+ XO n - , Xi, = the number that do not i=O
+ survive,
+ then the likelihood function for P = (Po*, PI 1, P21, )
+ is proportional to
+ L(P) = (fPixi,) (po*)xO*
+ i=O
+ i- 00 ix*
+ = I| (Qi. ki)xt I - E Qi' Xi] *(1) i=O i=O
+ In this framework, which is more or less that given in
+ Section 3 of Mangel and Samaniego, Wald's model can
+ be described by the following assumptions:
+ (i) Qi = qi (i.e., iid survival of each hit);
+ (ii) Pi, = 0 for i - 6 (or, more generally, for i for
+ which X1, = 0).
+ We will return to the crucial assumption (i) later, but for
+ now will accept it. Assumption (ii) leaves an obvious un-
+ comfortable feeling, but probably makes no great differ-
+ ence for the type of data expected. A third assumption,
+ actually a lack of an assumption, is also a possible cause
+ for concern: Wald effectively leaves the Xi (the proba-
+ bility of i hits) completely unrestricted, whereas it would
+ seem more natural to restrict the parameter space to con-
+ sist only of decreasing Xi. (Actually, the Xi are never even
+ mentioned in Wald's work, an omission of some concern,
+ as we shall see.)
+ As mentioned in the paper, Wald's analysis effectively
+ corresponds to a maximum likelihood analysis using (1)
+ and assumptions (i) and (ii). The results of this analysis
+ for the given data are q = .851 and Xi = Xi, /[400 (.85 l)i].
+ The values of the Xi for the data are given in Table 1, and
+ indeed they are not decreasing (AX > X4. The possible
+ difference here seems minor but, as a theoretical point,
+ it seems desirable to ensure monotonicity of the Xi in the
+ analysis. (Perhaps the most straightforward way of in-
+ corporating monotonicity is simply to put the (noninfor-
+ mative) uniform prior distribution on
+ A = [(A0, W. . , A): aXi= 1, Ao >_ A I . 5. ,
+ a uniform prior on q (in [0, 1), and calculate the posterior
+ means, providing the numerical integration problem is
+ feasible.)
+ The most significant question that can be raised con-
+ Table 1. Model Fit
+ xi xi1~~~~~~~~~~i
+ 0 .8000 .8000 320.0 320
+ 1 .0928 .0940 31.5 32
+ 2 .0640 .0690 18.5 20
+ 3 .0295 .0162 7.2 4
+ 4 .0102 .0095 2.1 2
+ 5 .0028 .0t112 0.5 2
+ cerning Wald's analysis is that of overparameterization.
+ The parameters are (q, Ao, . . . , X5), seven parameters
+ for the seven data values (Xo*, Xol, . . . , X51). Wald
+ attempts a model robustness study by finding lower and
+ upper bounds for the Pi, (actually, for the Qi), but these
+ bounds are too disparate to be of much use (more on this
+ in Section 3). The best way to investigate model robust-
+ ness is usually just to try other possible models. What
+ follows is a minimally parameterized model, which is ac-
+ tually the model we produced when challenged in the
+ paper at the end of the Section 1.2 to analyze the data
+ before reading further. (For fear of overparameterization,
+ it is often helpful to start out by trying very small models.)
+ Consider the following assumptions:
+ (i) Qi = q';
+ (ii) Xi = (1 - Xo) -y' e-"/[(1 - e-I) i!] for i ? 1.
+ Note that this is a three-parameter model, the parameters
+ being 0 - q c 1, 0 < Xo < 1, and -y > 0. Our thoughts
+ in choosing this model were (a) independence of effect
+ of hits is a reasonable starting point, and (b) the number
+ of hits might be approximately Poisson, except that some
+ planes may never come under effective fire (for a variety
+ of reasons), so that extra mass at zero hits is to be an-
+ ticipated. Thus Xo was left unrestricted, while the re-
+ maining Xi were given the truncated Poisson distribution.
+ Of course, these assumptions can also be criticized, but
+ they seemed to be a plausible starting point. Note that
+ these assumptions bypass the need to make Wald's as-
+ sumption (ii), and also will automatically result in de-
+ creasing Xi (except possibly for Ko, which seemed so
+ likely to be large that monotonization would probably be
+ unnecessary).
+ Using the fact that
+ 00
+ qi -y'li! = eqy _ I, i = I
+ the likelihood function (1) can be written (under our as-
+ sumptions and after some algebra) as
+ L(q, Xo, y) = XoXoI(( - XO)nf-Xo (e' y 1)(Xoi-n)
+ X (qoy)xXiI (e - eq-Y)(n - XiI )
+ A routine maximum likelihood analysis for the given data
+ yields Xo = .8, qc = .85, and j' = 1.38. How well this
+ model fits the data can be seen in Table 1, which presents
+ the estimated Xi under this model, namely Xo* = .8 and
+ A= (1 - Xo*) A i e-Y/[(l - e-9) i!], ij 1,
+ along with the expected observations,
+ A A
+ Xi, = n * Pi, = n q
+ and the actual observations, Xi,. For comparison pur-
+ poses, the unmodeled estimates X: for the X, are also
+ given.
+ The low-parameter model seems to fit the data ex-
+ tremely well. Of course, one would expect to be able to
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:34:35 UTC
+All use subject to http://about.jstor.org/terms
+ Berger: Comment on Wald's Work on Aircraft Survivability 269
+ fit seven decreasing data points well with some three-
+ parameter model, but not necessarily this well and not
+ necessarily with a model incorporating separate and very
+ specialized structures for the Qi and the Xi. In any case,
+ the main feature of interest here is that the answers ob-
+ tained with this plausible three-parameter model are vir-
+ tually identical to those of Wald's analysis (especially the
+ qi), so that one can feel somewhat confident about the
+ model robustness of the answers.
+ Before moving on, it is worthwhile commenting that,
+ instead of the maximum likelihood analysis, a noninfor-
+ mative prior Bayesian analysis could have been per-
+ formed, using (say) a constant (generalized) prior on the
+ set
+ -{(q, Xo, y): O s q '1, Xo ? Xi, y > O}.
+ The advantages of this would be (a) the constraint Xo ?
+ X l is automatically built in; (b) one does not have to worry
+ about having found only local maxima of the likelihood
+ function; and (c) with essentially no extra effort, the pos-
+ terior variances can be found, yielding good small-sample
+ variance estimates (an attractive alternative to the clas-
+ sical need to resort to large-sample theory).
+ 2. ANALYSIS OF VULNERABILITY AREAS
+ It is in this aspect of the problem that statistical mod-
+ eling can reap greater rewards than Wald's approach.
+ Wald needed to assume that the effects of hits on a given
+ area of the aircraft were independent (an assumption that
+ seemed to work reasonably well for the entire aircraft),
+ but this is unlikely to be true for certain vulnerable areas
+ of the aircraft. One obvious example is the important en-
+ gine area: A multi-engine aircraft might well be able to
+ fly with one engine out, so that the effect of the first hit
+ to the engine area would be inconsequential, while a sec-
+ ond hit (to a different engine) could be fatal. It is not hard
+ to think up appropriate models for this situation, and no
+ identifiability problems arise as long as one also makes
+ some effort to model the probability of i hits to a given
+ area (combining, say, the ideas discussed earlier about
+ modeling Xi with Wald's ideas concerning the probability
+ that a single hit strikes a given area).
+ 3. LOWER BOUNDS ON SURVIVABILITY
+ A large portion of Wald's analysis is concerned with
+ obtaining lower bounds, Qi*, on Qi, the probability of
+ surviving i hits. One possible use of this would be to allow
+ the aircraft commander to abort a mission if the risk of
+ subsequent hits is too high, but common sense would
+ argue that the relevant factor in such a decision is not
+ how many hits have been sustained (which may even be
+ hard to determine during combat), but rather the amount
+ of actual damage (say, fuel lost or engines destroyed) that
+ can be determined. Data allowing analysis of such oc-
+ currences would be hard to come by, and any such anal-
+ ysis would almost certainly involve detailed knowledge
+ about the workings of the aircraft.
+ A second possible use of the Qj* would be in bounding
+ the overall probability of mission survival, presumably
+ for logistic purposes. Clearly
+ T P (survival)
+ = E Qi .i i=O
+ E Qi* xi i=O
+ The difficulty with this use of the Qj* is that Wald de-
+ termined Qi* as Qi* = mindp Qi, where 9P is the set of
+ probability structures such that Po*, Po,, . . . , P51 are
+ equal to the sample proportions. Besides the lack of at-
+ tention to the effect of sampling error on the analysis,
+ there is the more basic problem that each Qi is minimized
+ separately over 9?, and each minimum is attained at a
+ different probability structure. Thus
+ min T > ,Qi* xi,
+ 91 i=O,
+ so that one can get a better lower bound by simply min-
+ imizing T directly over 2?. Of course, this will be com-
+ putationally more difficult, which could well explain
+ Wald's use of the Qi*, but today the additional compu-
+ tation would pose no serious problem.
+ As a final point, the use of lower bounds at all is prob-
+ ably unwise. Providing one can arrive at model-robust
+ estimates of survivability, use of the estimates discussed
+ in the previous paragraph will generally prove more val-
+ uable than use of lower bounds.
+ 4. CONCLUSIONS
+ All nitpicking aside, the authors seem correct in their
+ conclusion that the answers Wald obtained could not be
+ greatly improved upon today. It can be argued, however,
+ that the methodology employed by Wald was much more
+ difficult and far less flexible than standard methodology
+ involving statistical modeling. Of course, Wald was work-
+ ing under computational limitations (although use of sim-
+ ple statistical models and maximum likelihood methods
+ would not necessarily have been harder computation-
+ ally), and could perhaps have been writing for a special
+ (nonstatistical) audience. Whatever the reasons for his
+ approach, we can admire his ingenuity while being thank-
+ ful for the availability of more powerful methods today.
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:34:35 UTC
+All use subject to http://about.jstor.org/terms
+ 
+ 
+Abraham Wald's Work on Aircraft Survivability: Rejoinder
+Author(s): Marc Mangel and  Francisco J. Samaniego
+Source: Journal of the American Statistical Association, Vol. 79, No. 386 (Jun., 1984), pp.
+270-271
+Published by: Taylor & Francis, Ltd. on behalf of the American Statistical Association
+Stable URL: http://www.jstor.org/stable/2288259
+Accessed: 13-05-2017 20:37 UTC
+ 
+REFERENCES 
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/2288259?seq=1&cid=pdf-reference#references_tab_contents 
+You may need to log in to JSTOR to access the linked references.
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted
+digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about
+JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+American Statistical Association, Taylor & Francis, Ltd. are collaborating with JSTOR to digitize,
+preserve and extend access to Journal of the American Statistical Association
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:37:25 UTC
+All use subject to http://about.jstor.org/terms
+ Rejoinder
+ MARC MANGEL and FRANCISCO J. SAMANIEGO
+ 1. INTRODUCTION
+ In this rejoinder we reply to the published remarks of
+ Berger, respond to questions and comments that were
+ raised at the American Statistical Association annual
+ meeting in Toronto in August, 1983, and comment briefly
+ on our recently completed Monte Carlo study on the ro-
+ bustness of Wald's methods.
+ 2. REMARKS ON BERGER'S DISCUSSION
+ We thank Berger for his thoughtful and thought-pro-
+ voking commentary on Wald's paper and ours. We are
+ in general agreement with Berger on the main issues he
+ has raised: (a) careful modeling can produce an excellent
+ fit of Wald's data, and the related statistical computations
+ are not that imposing; (b) some of Wald's assumptions
+ are more troublesome than others; and (c) the lower
+ bounds produced by Wald are mathematically interesting
+ but of limited use in decision making. In spite of the con-
+ sonance of our views with Berger's, there are one or two
+ points on which we differ.
+ In our Section 3, we described Wald's first data set as
+ an incomplete sample from a multinomial distribution.
+ Berger criticized Wald's assumption that the probability
+ of receiving more than five hits is zero. Actually, the
+ assumption is inconsequential in a multinomial model,
+ since every cell probability associated with an empty cell
+ would be estimated as zero. Thus, Wald's estimator of
+ the parameter q surfaces as the MLE with or without
+ Wald's assumption.
+ Berger's three-parameter model for Wald's first data
+ set is intriguing. We also tinkered with the Poisson model
+ a bit, but found the fit unacceptable. Berger's idea and
+ rationale for separating the events {O hits} and {at least
+ one hit} are appealing; it is the kind of idea that seems
+ obvious as soon as it is mentioned, but it is to Berger's
+ credit that he thought of it. Berger mistakenly claims that
+ his model yields decreasing probabilities for 1, 2, 3, . . .
+ hits. Actually, the positive Poisson model with parameter
+ y has mode M = max([,y], 1), where [-] is the greatest
+ integer function. Thus, these probabilities increase up to
+ M and decrease thereafter. With Wald's data, y is esti-
+ mated to be 1.38, so that XI > X2 > X3 > K4 > A5 in this
+ particular application. However, Berger's model does not
+ guarantee this monotonicity. Furthermore, although the
+ Bayesian approach that Berger proposes in order to en-
+ sure the inequality Xo > XI can be expanded to cover Xi
+ > yi+, for all i, one should not underestimate the diffi-
+ culties involved in implementing such an approach in a
+ reasonable manner.
+ Having pointed out the lack of guaranteed monoton-
+ icity of the Xi's, we hasten to add that, in our view, Ber-
+ ger's model nonetheless has substantial merit. Consider
+ the proposition that XA > K2, that is, that an aircraft is
+ more likely to receive one hit than it is to receive two
+ hits. It seems to us that this proposition is not an inviol-
+ able imperative. Indeed, the expected number of hits de-
+ pends quite crucially on the density of fire. Suppose all
+ 400 planes in Wald's first problem were sent on a mission
+ in which intense fire was anticipated. It might well be
+ true that virtually no aircraft would receive only one hit.
+ In fact, it might be that aircraft would be more likely to
+ receive 10 or 12 hits than only one. Berger's model will
+ accommodate such situations, and it should be useful in
+ problems in which the number of hits (to aircraft receiving
+ at least one hit) is expected to have a unimodal distri-
+ bution. It is interesting that data analysis with the three-
+ parameter model yields the same estimate of q that Wald
+ obtained, which imparts a certain model robustness to
+ Wald's results. One could also interpret this coincidence
+ as speaking to the model robustness of the approach Ber-
+ ger has taken. We are in agreement with the limitations
+ of Wald's results, as discussed by Berger in his Sections
+ 2 and 3.
+ Motivated in part by Berger's comments on robustness,
+ we conducted our own study on the robustness of Wald's
+ methods. Although the complete details are presented
+ elsewhere (Mangel and Samaniego 1984), we wish to de-
+ scribe our results briefly. We studied two questions: (a)
+ If the assumption that qj q for all j is violated, how
+ badly does one do in estimating the Pi2 using Wald's
+ method? and (b) In the case of unequal qj, what are the
+ behavior and proper interpretation of Wald's estimator
+ q? To answer these questions, we carried out a Monte
+ Carlo study in which data in (4.1) were repeatedly gen-
+ erated using a multinomial experiment with parameters
+ {pij} chosen so that the qj were unequal but had the av-
+ erage q = .851, as in Wald's data. Our base case involved
+ equal qj. We measured departure from the true proba-
+ bilities Pi2 via a x2-like statistic. We found that Wald's
+ model worked very well in a fairly generous neighbor-
+ hood of the central value q = .851, and that the fit was
+ a monotonic function of the dispersion in the set {q 1,.
+ q5}. We also discovered that Wald's estimator q is an
+ excellent estimator of the average q, regardless of the
+ dispersion.
+ 3. COMMENTS AND QUESTIONS
+ RAISED IN TORONTO
+ A discussant took exception to Wald's derivations and
+ proposed the following alternative analysis. Retaining the
+ ? Journal of the American Statistical Association
+ June 1984, Volume 79, Number 386
+ Applications Section
+ 270
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:37:25 UTC
+All use subject to http://about.jstor.org/terms
+ Mangel and Samoniego: Rejoinder 271
+ notation of Section 4 of our article, let
+ PjI = P{receive exactly j hits and survive}
+ Pj2 = P{receive exactlyj hits and go down}.
+ It follows that
+ pOl - (Pjl + Pj2) (R.1)
+ J= 1
+ The following modeling assumption was then introduced
+ (apparently after Wald):
+ P121Pj1I = (1 - q)lq, j = 1, 2,.... (R.2)
+ Using (R.2) in (R.1) yields
+ pj( + Pj20 1=1 E \ pj!
+ = 1 E pu'. (R.3)
+ Thus
+ I 00
+ q = 1 p Pi, (R.4) 1-pOI1j=1
+ leading to the estimator
+ q = 1 E aj (R.5) 1 aoj=l
+ for q. For Wald's data, one obtains q = .75, which differs
+ from the estimate of .851 obtained by Wald. Further dis-
+ cussion failed to shed any light on the comparative merits
+ of the two estimators.
+ The confusion during the discussion at Toronto was due
+ in part to blind acceptance of the faulty premise that the
+ two estimators were estimating the same parameter. The
+ proper resolution of this apparent anomaly is that these
+ estimators are not competing against each other, but in-
+ stead are valid estimators of parameters in different
+ models. Modeling assumption (R.2) is equivalent to
+ Pjll(Pjl + Pj2) = q, j = 1, 2, . . . , n, (R.6)
+ which differs from the modeling assumption
+ Pj'/(Pji + Pi2) = qJ, j = 1, 2, . . . , n (R.7)
+ made by Wald. Indeed, if fi, . . , fn are continuous,
+ increasing functions mapping (0, 1) onto itself, then the
+ modeling assumption
+ Pjl/(Pjl + Pj2) = fj(q), j = 1, 2, . . ., n (R.8)
+ for the multinomial data in (4.1) gives rise to a unique
+ MLE that can be obtained as the solution of the equation
+ . ( = 1 - ao. (R.9)
+ Each such model has a parameter q, but the estimator of
+ q in one model has no meaning as an estimator of q in
+ another model.
+ It remains to comment on the modeling assumptions
+ (R.6) and (R.7). Equations (R.6) constitute the assump-
+ tion that the chance of surviving another hit, given sur-
+ vival thus far, is always the same. On the other hand,
+ equations (R.7) assert that the conditional probability of
+ surviving another hit, given survival thus far, depends on
+ the number of hits sustained thus far. Wald's general
+ model, with
+ J
+ = fl qj, j=1,..* n, (R.10) P3 + Pj2 i=1
+ stipulates that these conditional probabilities are decreas-
+ ing. Wald's assumption (R.7) asserts that these proba-
+ bilities decrease geometrically. It is thus clear that the
+ choice we have discussed is between two models rather
+ than between two estimators. Applications undoubtedly
+ exist in which either one of these models is more appro-
+ priate than the other.
+ A number of people have asked whether Wald's work
+ has actually been used. We do not know whether it was
+ used during World War II, although it was produced early
+ enough in the war to have been available. We do know
+ that during the Vietnam War, analysts at the Operations
+ Evaluation Group of the Center for Naval Analyses used
+ Wald's techniques to study the survivability of the A-4
+ aircraft. Their analysis led to structural modifications that
+ improved the A-4's survivability. Wald's methods were
+ also used by analysts at Wright Patterson Air Force Base
+ in studying ways of improving the B-52's survivability.
+ Cunningham and Hynd (1946) also provided perspective
+ on the use of statistical analysis during World War II.
+ One tactical use of this kind of work is the development
+ of rules for exiting from combat. The most important case
+ is the one in which different survival probabilities are
+ estimated (that is, where the qi are not constant). For
+ example, consider the result presented in Table 1 of our
+ article. The change in the exact value of the probability
+ of surviving i hits as i increases from 1 to 2 is .130, from
+ 2 to 3 is .204, and from 3 to 4 is .235. When confronted
+ with such data, aviators could develop rules of thumb
+ such as, "Stay in combat with up to three hits, but leave
+ after the fourth." Similarly, having an estimate for the
+ survival probabilities would provide the mission planner
+ with one more piece of information that could be used to
+ determine the number of aircraft to send into a particular
+ combat mission.
+ One factor that Wald did not take into account, but that
+ is quite important, is the crew of the aircraft. Studies done
+ during World War II showed that the crew was an im-
+ portant consideration in determining survivability. For
+ example, crews that had already survived three missions
+ had a much higher probability of continued survival
+ (Morse 1977 discusses this point in more detail).
+ REFERENCES
+ CUNNINGHAM, L.B.C., and HYND, W.R.B. (1946), "Random Pro-
+ cesses of Air Warfare," Journal of the Royal Statistical Society, Ser.
+ B, 8, 62-65.
+ MANGEL, M., and SAMANIEGO, F.J. (1984), "On the Robustness
+ of Wald's Estimator of Aircraft Survivability," unpublished manu-
+ script.
+ MORSE, P.M. (1977), In at the Beginnings: A Physicist's Life, Cam-
+ bridge, Mass.: MIT Press.
+This content downloaded from 132.174.254.12 on Sat, 13 May 2017 20:37:25 UTC
+All use subject to http://about.jstor.org/terms
+CRC 432 / J u ly 1980
+,*
+A R E P R I NT O F
+"A M E T H OD O F E S T I M A T I NG
+PLANE V U L N E R A B I L I TY B A S ED
+ON D A M A GE O F SURVIVORS "
+BY A B R A H AM W A LD
+Abraham W a ld
+CENTER F OR N A V AL A N A L Y S ES
+
+Approved for public release;
+distribution unlimited
+This Research Contribution d o es not necessarily represent
+the opinion of the Department of the Navy
+4
+*
+
+O
+LJJ
+cuco.c
+Q.
+J5<B
+CM
+0]
+'c
+T3
+C
+CD
+X
+<D
+0)
+t/3
+•o
+co
+O)
+CU
+CO
+0)
+m
+-C•*-»
+oz
+ooo
+CN
+MEMORANDUM FOR DISTRIBUTION LIST
+Subj: C e n t er for Naval Analyses Research Contribution 432
+Encl: ( 1) CRC 432, "A Reprint of 'A Method of Estimating
+Plane Vulnerability Based on Damage of Survivors'
+by Abraham Wald," July 1980
+1. E n c l o s u re ( 1) is forwarded as a matter of possible
+interest.
+2. T h is Research Contribution contains a series of
+memoranda written by Abraham Wald of the Statistical
+Research Group at Columbia University during World War II.
+Unfortunately, this work was never published externally,
+although some copies of his original memoranda have been
+available and his methodology has been employed in the
+analysis of data from both the Korean and Vietnam Wars.
+It is published by CNA not only as a matter of historical
+interest but also because the methodology is still relevant,
+3. R e s e a r ch Contributions are distributed for their
+potential value in other studies and analyses. T h ey do
+not necessarily represent the opinion of the Department
+of.the Navy.
+PHIL E. DePOY
+Director
+Operations Evaluation Group
+an affiliate  of  the  University  of  Rochester
+
+Subj; C e n t er for Naval Analyses Research Contribution 432
+DISTRIBUTION LIST
+Department of the Navy
+SNDL
+A2A
+B3
+B3
+SNDL Part II:
+E3A
+FF38
+FF44
+FKA1A
+FKR3C
+FT73
+CNR
+National Defense University ( N D U)
+Armed Forces Staff College (AFSC)
+NRL
+USNA, Nimitz Library
+NAVWARCOL
+COMNAVAIRSYSCOMHQ
+NAVAIRTESTCEN
+NAVPGSCOL
+OpNav: Op-09BH, Op-96, Op-05, Op-50W
+Other:
+Defense Technical Information Center
+Department of the Air Force ( S A M I)
+Air University
+Air Proving Ground Center, Eglin AFB
+Institute for Defense Analysis ( I D A)
+Mathematics Research Center
+The Mitre Corporation
+The Rand Corporation
+University of Rochester ( 1 0)
+Navy Tactical Support Activity
+(DTIC) (12 Copies)
+
+CRC 432 / J u ly 1 9 80
+A R E P R I NT OF
+"A M E T H OD O F E S T I M A T I NG
+PLANE V U L N E R A B I L I TY B A S ED
+ON D A M A GE O F SURVIVORS "
+BY A B R A H AM WAL D
+Abraha m W a ld
+Operations Evaluation  Group
+CENTER F OR N A V AL A N A L Y S ES
+2000 Nort h B e a u r e g a rd Street, Alexandria , Virginia 2 2 3 11
+
+Pa ;
+'
+:: P a r t ' '-'
+Proipabilities That"
+l;y:::: i. Hits . . . . ' • '. .... .•.' .v.'."-i. : - * • - '' - • ' ' • '-'•'  •-''• • • ~  -  ' " ' • • " •
+:•• - - lv;.j. . - • i - - A - . - > ;:. • • . . •  • . . • • • .
+Number of Hits ... . .
+of'; t h e ;::Prob|l^p||';y; That; X Plane Will
+^6i||||;i|^^
+|i^^n||K:'a'nd;'Mait::ip0'tii::|^^2i&of;.;;the^::Probabiiity:;
+b^.;
+:a;:
+Under Some Furthfer
+IsEh to Seyera 1 Equ i -
+to Dif f e r e nt 'Type;s" ' '  •  •
+Page
+iii
+11
+22
+39
+56
+66
+75
+78
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+.
+of'; the S t a t i st ic al '  ; " •  .
+' e A p p l i e sd .  • • ; • • • • •
+ifense R e s e a r ch C o i n m i t f e e e.-;..'.- ' • . : . ' / • •- ' •• Y •  " • . .. '  ; i • . ; ' • . : . '. . • ' . • " . •  .  • / •  • ' i  . : -'-/-: ' •  •  .  •  '
+^1 n ia t ing t h e v u I ne r ab il i t y o f
+Of d a m a ge o b | S i e r ^ 0d P "1
+:i s w o rk W as n e v er p i i t > i i i s h ed
+memor a h da f h a ve :  ;
+.histof'ical' '  interest b ut
+'' . '  . ' . • ' • ' : " : : ' • : . . / ' " . , '. " . " ",:,
+separately, but
+^|ip^S;qi|:f;^i;fi)|i|^|ia.3
+'AllMl'^lS^ipr^f'^'S:^^^^!^(p^|fj|^6^|]^^^|^Mst; o n ly
+jpt^g^jfc^
+the: '. accoiiimpd;at.e' -C H
+fs;' wptd ifig , . '; h o we v er r .. :;;::ha v e ;' b e en
+tlhrpiig t h e N a t i o n al
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+PART I
+AN EQUATION SATISFIED BY THE PROBABILITIES THAT A
+PLANE WILL BE DOWNED BY i HITS1
+INTRODUCTION
+Denote by P. (i = 1,2,..., ad inf.) the probability that a plane
+will be downed by i hits. D e n o te by p. the conditional prob-
+ability that a plane will be downed by the i-th hit knowing that
+the first i - 1 hits did not down the plane. L et Q. = 1 - P. and
+q. = 1 - p. (i = 1,2,..., ad inf.). I t is clear that
+Qi ^
+and
+Suppose t h at p. and P. (i = 1,2,...) are unknown and our infor-
+mation consists only of the following d a ta concerning p l a n es
+participating in combat:
+• T he total number N of planes participating in combat.
+• F or any integer i ( i = 0,1,2,...) the number A. of
+planes t h at received exactly i hits but have not been
+downed, i.e., have returned from combat.
+A.
+-^
+proportion of planes lost. T h en we have
+Denote the ratio -  b y a. (i = 0,1,2,...) and let L be the
+a. = 1 - L. ( 3 )
+i = 0
+-1-This part of "A Method of Estimating Plane Vulnerability
+Based on Damage of Survivors" was published as SRG memo 85 and
+AMP memo 76.1.
+— 1 —
+
+The purpose of this memorandum is to draw inferences concerning
+the unknown probabilities p^ and P^ on the basis of the known
+quantities a , a.. , a.,,..., etc.
+To simplify the discussion, we shall neglect sampling errors,
+i.e., we shall assume that N is infinity. F u r t h e r m o r e, we shall
+assume that
+0<p.< l ( i = 1, 2, . . . , ad in f. ) . ( 4 )
+From equation 4 it follows that
+0 <  P^ < I ( i = 1,2,..., ad inf.). ( 5 )
+We shall assume that there exists a non-negative integer n such
+that an > 0 but a .^ = 0 for i > n.
+We shall also assume that there exists a positive integer m such
+that the probability is zero that the number of hits received by
+a plane is greater than or equal to m. L et m1 be the smallest
+integer with the property that the probability is zero that the
+number of hits received by a plane is greater than or equal to
+m1. T h en the probability that the plane receives exactly m1 - 1
+hits is positive. W e shall prove that m' = n + 1. S i n ce an > 0,
+it is clear that m1 must be greater than n. T o show that m'
+cannot be greater than n + 1, let y be the proportion of planes
+that received exactly m1 - 1 hits. T h en y > 0 and
+y(l - P^^) = a
+m'_i«  S i n ce y > 0 and 1 - Pmi_1 > 0, we have
+a , , > 0. S i n ce a. = 0 for i > n, we see that m1 - 1 < n,m — 1 i  —
+i.e., m'< n + 1. H e n c e, m1 = n + 1 must hold.
+Denote by x - ( i = 1,2,...) the ratio of the number of planes
+downed by the i-th hit to the total number of planes
+participating in combat. S i n ce m' = n + 1, we obviously have
+x. =0 for i > n. I t is clear that
+n
+y x . = L = 1 - a -a , - ... - a .  ( 6 )£l 1 o  1  n
+-2-
+
+CALCULATIO N O F x. I N T E R MS O F a ,  a - , , . . . ,a ,  p  , . . . ,p
+•I. \J  _ L 1 1 J . I I
+Since the proportion of planes t h at received at least one hit is
+equal to 1 - a , we have
+(7)
+The proportion of planes that received at least two hits and the
+first hit did not down the plane is obviously e q u al to
+1 - a -  a, - x,. H e n c e,
+x2 = p2(l - (8)
+In general, we obtain
+ct . ,  ~"X , * ™ * X ,, * • • ^ X -  i1-1 1  2  1 - 1
+(i = 2,3, . .. , n) ( 9 )
+Putting
+ci = - 1 ~ ao ~ al ~ *
+equation 9 can be written
+Substituting i - 1 for i, v /e obtain from equation 11
+"• + Xi-2} - Pi
+Dividing by p _ , , v/e o b t a in
+(11)
+x .
+-^± +  (x, + ... + x. )  = c ( i = 3,4
+*J'_ 1 J . i ^ X J .
+n). (13)
+-3-
+
+Adding x. ,  j 1 - ——— ] = — — —— x'-i * -°  both sides of
+\ i '1/ 1 "1
+equation 13, we obtain
+x + . . . + X. = c . —  — — x. ( 1 4 )l- i - p i_i 1 ~
+(i = 3,4,...,n+l).
+From equations 11 and 14, we obtain
+x . + p . I  c . , - — — - x . , 1 = p . c . . ( 1 5 )i L  1 ~-'- 1 ~1
+Hence
+xi = pi(ci ~
+Let
+di = pi(ci - ci-l) = -piai-l ( i = 3,4, . . . , n) ( 1 7 )
+and
+p . q . ,
+t. = ^ ( i = 3,4,...,n). ( 1 0 )
+1 P i-l
+Then equation 16 can be written as
+Xi = di + fcixi-l ( i = 3,4,...,n). ( 1 9 )
+P2qlDenote p^(l - a ) by d,, ~P2
+ai bV d2' a nd ~ ~p — b y f c2' tnen we
+have
+xl = dl an X 2 =
+-4-
+
+From equations 19 and 20, we obtain
+xl= dl
+xi - j?! djtj+ltj+2 '•• fc i+di (i = 2,3,...,n). ( 2 1)
+EQUATION SATISFIED BY qJL,...,qn
+To derive an equation satisfied by q-j_,..., q , we shall express
+n
+Y* x . i n terms of the quantities t. and d. (i = l,...,n).
+Substituting i for i - 1 in equation 14, we obtain
+(22)
+j = l
+.
+Hence, in particular
+n
+n
+n-1
+n
+(23)
+= L
+Since c -  L = a , and since t.. , ... t = ' We
+obtain from equation 23
+n-1 d .
+(24)
+Dividing by q, ... q a nd substituting -p-a._ , for d., we obtain
+— 5—
+
+an-l
+p^
+an a n-l
+ql ' •• qn q l '•• qn-l
+(25)
+n-1 a - ! d ,____3-1 J L
+n a  •
+or
+n
+= 1 - a .  ( 2 6 )
+If it is known a priori that q, = ... = q , then our problem
+is completely solved. T he common value of q, , . . . ,q i s the
+root (between 0 and 1) of the equation
+n a  .
+Y - 4f-^1 13=1 q j
+It is easy to see that there exists exactly one root between zero
+and one. W e can certainly assume that q, >_  q~ ^_ ••• > _ q . W e
+shall investigate the implications of these inequalities and
+equation 26 later.
+ALTERNATIVE DERIVATION OF EQUATION 26
+Let b- be the hypothetical p r o p o r t i on of planes that would have
+been hit exactly i times if dummy bullets would have been used.
+Clearly b^ > _ a^. D e n o te b^ - a^ by y^ ( i = 0,l,2,...,n). O f
+n
+course, b =  aQ, i.e., yQ = 0. W e have X ) b^ = 1. C l e a r ly
+j=0
+-6-
+
+yi = Pibi = Pi(ai + y i) ( i = l,2,...,n). ( 2 7 )
+Hencej
+Pi 1  - gjL ... qt a A
+y . = -=. a. = ———— i — — — —— i a. = ——— - ——— - a. . ( 2 8)
+n
+Since £ y. = L, we obtain from equation 28i
+- •' - - •
+.-This equation is the same as equation 26. T h is is a simpler
+derivation than the derivation of equation 26 given before.
+However, equations 21 and 22 (on which the derivation of equation
+26 was based) will be needed later for other purposes.
+As mentioned before, equation 29 leads to a solution of our
+problem if it is known that q. = ... = q . I n the next
+memorandum ( p a rt II) we shall investigate the implications of
+equation 29 under the condition t h at q, _ > q0 >_  . .. _ > . ^ •
+NUMERICAL EXAMPLES
+N is the number of planes participating in combat. A  , A,, A2,
+...,A a re the number returning with no hits, one hit, t wo hits,
+...,n hits, respectively. T h en
+A.
+ai = ~ ( i = 0,1,2,...,n)
+i.e., a. is the proportion of planes returning with i hits. T he
+computations below were performed under the following two
+assumptions:
+-7-
+
+• T he bombing mission is representative so that there is no
+sampling error.
+• T he probability that a plane will be shot down does not
+depend on the number of previous non-destructive h i t s.
+Example 1; L et N =  400
+and AQ = 320 t h e n aQ = .80
+&1 =3 2 a ; L = .08
+A = 20 a  =  .05
+^ ^
+A3 = 4 a 3 = .01
+A4 = 2 a 4 = .005
+AS = 2 a 5 = .005
+We assume q =  q =  ... = q =  q., where q. is the probability of
+-L £*  J  - L _ L
+a plane surviving the i-th hit, knowing that the first i - 1 hits
+did not down the plane.
+Then equation 26,
+n a .
+Z TT——1 qj
+reduces to
+n a  .
+£ -i = 1 - a• i  DD=l qj
+Substituting values of a.
+.08 . 0 5 . 0 1 . 0 0 5 . 0 05
+—— + ——2 + ——3 — —4 — — —5q q  q  q  q
+
+or
+.200q5 - . 080q4 - .050q -  .OlOq2 - . 005q - .005 = 0.
+The Birge-Vieta method of finding roots described in Marchant
+Method No. 225 is used to solve this equation ( t a b le 1). W e find
+q = q. = .851, p. = .149 where p . is the probability of a plane
+being downed by the i-th h i t, knowing that the first i - 1 hits
+did not down the plane.
+x. equals the ratio of the number of planes downed by the i-th
+hit to the total number of planes participating in combat. U s i ng
+equation 9
+Xi = Pi(1 - ao - al - '•• - ai-l - Xl - X2 - •'• - Xi-l)
+(i = 2,3,...,n)
+for n = 5, we obtain
+- aQ) = .030
+= »01 3
+X3 = P3(1 ~ ao ~ al ~ a2 ~ Xl ~ X2) = *004
+X
+4
+ = P4<1 ~ ao ~ al ~ a2 ~ a3 ~ Xl ~ X2 ~ X3} = 'U02
+X5 = P5(1 - ao ~ al ~ 32 ~ a3 ~ a4 - Xl ~ X2~ X3 ~ X4) = '
+Example 2; L et a =  .3, a, = .2, a =  .1, a =  .1, a =  .05, and
+a,. = .05. T h en the following r e s u l ts are obtained: q  = .87,5
+p = 1 - q = .13, x, = .09, x9 = .05, x., = .03, x. = .02, and-i —  %  \j *s f '*•'')  •  \j -j i " 3 —  • * . ' - », A
+X5 =
+The value of q in the second example is nearly equal to the value
+in the first example in spite ot the fact that the values a.
+(i = 0,1,...,5) differ considerably. T he difference in the
+values a. in these two examples is mainly due to the fact that
+the probability t h at a plane will receive a hit is much smaller
+in the first example than in the second e x a m p l e. T he probability
+that a plane will receive a hit has, of course, no relation to
+the probability t h at a plane will be downed if it receives a
+hit.
+
+1 . A s s u m e
+.20 0
+.20 0
+q -  1  - y .
+-.08 0
++ .20 0
++ .12 0
++ .20 0
+-.05 0
++ .12 0
++ . 0 70
++ . 3 20
+-.01 0
++ .07 0
++ . 060
++ . 390
+-.00 5
++ .06 0
++ . 0 55
++ .45 0
+-.00 5
++ .05 5
++ . 050 = A
+.200 + . 3 90 + . 4 50 +.505 " A.
+y -  —— « = 1  - .0990 - .9010
+2. A s s u me q = .9010 = y
+. 2 0 00
+.2000
+-. 0 8 00
++ . 1802
++. 1 0 02
++.1802
+-.0500
++.0903
++.0403
++. 2 5 26
+-.0100
++. 0 3 63
++. 0 2 63
++. 2 6 39
+-.0050
++.0237
++ .0 1 87
++.2615
+-.0050
++.0168
++.0118 = B
+(
+.2000 +.2929 +.2902 +.2802 = B.
+f -  -- = .901 0 - . 0 4 2 1 13 = .858887
+3. A s s u me q = .858887
+.200000 -.060000 - . 0 5 0 0 00 - . 0 1 0 0 00 - . 0 0 5 0 00 - . 0 0 5 0 00
++.17177 7 + . 0 7 8 8 26 + . 0 2 4 7 58 + . 0 1 2 6 75 + . 0 0 6 5 92
+.200000 + . 0 9 1 7 77 + . 0 2 8 8 26 + . 0 1 4 7 58 + . 0 0 7 6 75 + . 0 0 1 5 92
++.171777 + . 2 2 6 3 63 + . 2 1 9 1 79 + . 2 0 0 9 25
+.200000 + . 2 6 3 5 54 + . 2 5 5 1 89 + . 2 3 3 9 37 + . 2 0 8 6 00 = C
+y =  y -  -- = .858887 - .0076324 3  C
+Assume q = .851255 = y
+.2000000 + . 0 8 0 0 00 - . 0 5 0 0 00 - . 0 1 0 0 00 - . 0 0 5 0 00 - . 0 0 5 0 00
++.17025 1 + . 0 7 6 8 27 + . 0 2 2 8 37 + . 0 1 0 9 28 + . 0 0 5 0 46
+.2000000 +.09025 1 + . 0 2 6 6 27 + . 0 1 2 8 37 + . 0 0 5 9 28 + . 0 0 0 0 46 = D
++.17025 1 + . 2 2 1 7 54 + . 2 1 1 6 06 + . 1 9 1 0 58
+.2000000 + . 2 6 0 5 02 + . 2 4 8 5 31 4 . 2 2 4 4 43 + . 1 9 6 9 86 = D
+.851255 - .000234 .851021
+-10-
+
+PART II
+MAXIMUM VALUE OF THE PROBABILITY THAT A PLANE WILL BE DOWNED
+BY A GIVEN NUMBER OF HITS1
+The symbols defined and the results obtained i n part I will be
+used here without further explanation. T he purpose of this
+i
+memorandum is to derive the least upper bound of X. = Y^ x. and
+1 J=l D
+that of P. (i = l,...,n) under the restriction that
+<3i .> ^2 - ' ** * ' - qn*
+First, we shall show that X. is a strictly i n c r e a s i ng function
+of p. for j _ < i . L et us replace p . by p . + A  ( A > 0) and l et
+us study the effect of this change on x,,...,x- . D e n o te t he
+changes in x ,...,x. by A  , ...,A., respectively. C l e a r l y,
+A^ = ... = A .^ = 0. I t follows e a s i ly from equation 9 that
+A . > 0  and
+Aj
+Hence,
+AJ + A j+1 = (1 - Pj+1) AJ > 0.
+Similarly, we obtain from equation 9
+Hence,
+Aj '
+A j +  A j+l +  A j + 2 =  ( 1 -  P j + 2> < A -  P j + l > A j >  °'
+In g e n e r al
+AJ +  A j+ 1 +  . . . +  A j+ k =  ( 1 -  P j+1 ) . . . ( 1 -  P j+k ) A J > 0
+(k =  1,.. ., i-j )
+Hence, we have proved t h at X. is a strictly i n c r e a s i ng f u n c t i on
+of P. (j = 1,...,i).
+J-This part of "A Method of Estimating Plane Vulnerabilit y
+Based on Damage of Survivors" v / as p u b l i s h ed as SRG memo 87 and
+AMD m ^ i m r ^i " 7 £ ~)AMP memo 76.2.
+-11-
+
+On the basis of the inequalitie s p.> _ p. ,  we shall derive the
+least upper bound of X.. F or the purpose of this derivation we
+shall admit 0 and 1 as possible values of p. (i = l,...,n), thus
+making the domain of all possible points (p,,...,p ) to be a
+closed and bounded s u b s et of the n-dimensional Cartesian s p a c e.
+Since X. is a continuous function of the probabilities p,, p ,
+etc. (X is a polynomial i n p,,...,p.), the maximum of X. exists
+and coincides, of course, with the least upper bound. H e n c e,
+our problem is to determine the maximum of X..
+First, we show that the value of X. is below the maximu m if
+p >  p.. A s s u me that p >  p. and let k be the smallest positiv e
+integer for which p, > p.. O b v i o u s ly k > i. L et p 1. = p (1 + e )K ! D  Jfor j = l,...,k-l, and p\ = p. (1 - n ) for j = k,k+l,...,n,
+where e  > 0 and n  is a function n ( e ) of e  d e t e r m i n ed so that
+n
+23 x 1 = L ( x j. is the proportion of planes that would have been
+brought down with the j-th hit if p',...,p' were the true
+probabilities). S i n ce X ( r = l,...,n) is a strictly monotonic
+function of p ,...,p , it is clear that for sufficiently small
+such a function n ( e ) exists. I t is also clear t h at for suffi-
+ciently small e  t he condition p1 _ < p' _ < . .. £ p1 i s fulfilled.
+Since p' > p. (j = l,...,i), we see that X* >  X. (X. does not
+depend on p1 f or r > i). H e n c e, we have proved t h at if
+p,,...,p i s a point at which X. becomes a  maximum, we must have
+pi =
+Now we shall show that if X. is a maximum then p, = p,; = . . . = p .
+For this purpose assume that p. > p a nd we shall deriv e a con-
+tradiction. L e t j  be the greatest integer for which p.= p,.
+Since p.> p., we must have j < i. L et p1 = p (1 + e ) for
+r = l,...,j and p ' = p ( 1 - 1 ) for r = j + l , . . . , i, where
+i i
+e >  0 and n is determined so that V x l = V x, . Then for the
+kti k
+ k ti k
+probabilities p',...tp'.r p . ,,..., p t he proportion o f lost
+-12-
+
+planes is not changed, i.e., it is equal to L. N ow let p1 = p!
+for r > i. T h en the proportion L1 of lost planes corresponding
+to p|»...fp^ is less than L. H e n c e, there exists a positive
+A so that the proportion L" of lost planes corresponding to the
+probabilities p" = p' (1 + A ) is equal to L. B u t, since p" > p1
+i i  i
+(r = l,...,i) we must have ]P x" >  £ x^ = ^ x.. H e n c e, we
+j=l D  j  = l J  j  = l D
+arrived at a contradiction and our statement that p, = P2
+ = ••• =
+p. is proved. T h u s, we see that the maximum of X. is reached
+when p, = p =  ... = p .
+LEAST UPPER BOUND OF Pi
+Now we shall calculate the least upper bound of P.. A d m i t t i ng
+the values 0 and 1 for p., the maximum of P. exists and is equal
+to the least upper bound of P.. S i n ce P. = 1 - q . . . q .,
+maximizing P^ is the same as minimizing q^ ... q^. W e know that
+q,,...,q a re subject to the restriction
+n a  •
+Z. qj_ . ?. q. = 1 - ao • < 30)
+Let q?,...,q°  be a set of values of q,,...,q ( s a t i s f y i ng
+equation 30) for which q, ... q - becomes a minimum. F i r s t, we
+show that q . = q. ,=... = q .  S u p p o se that q <  q. .
+Consider the set of probabilities q1 = q°  for r <_  1 and q1 = q?
+for r > i. T h en
+n a .
+-i——3——r <  1 - aq • •• q
+-13-
+
+Hence, there exists a positive factor A  < 1 so that
+a .
+= q - a
+where q1' = \ q! (i = l,...,n). T h en
+q;g»  . . .ql<q° q°... q°
+in contradiction to our assumption that q? . .. q? is a minimum.
+Hence, we have proved t h at q. = ... = q
+Now we show that there exists at most one value j such that
+1 > q°  > q? . S u p p o se t h e re are two integers j and k' such that
+1 > q. 2. ^k > qi * Let 3 * ke the smallest integer for which
+q., = q. a nd let k1 be the largest integer for which q?, = q°  ,D D  K  K
+Let q^, = (1 + e) q°, , q~k,= ± * £ q°, (£ > 0), and q"r = q°
+for r ^ j ' , ^ k1. T h en
+n a— —  o  Q J * - ^ r  ,  ,q, . .. q. — q, . .. q - a nd >  — — — — — — —— < 1 — a .Jl ^ l ^ 1 ^ l - 6 - —  —  o
+r=l q l ••- qr
+Hence, there exists a positive f a c t or X  < 1 such that
+n a ,
+r=l ql * " * Mr
+where q* = X q" .  B ut q* . .. q ^f < q -i • •• q - =< 3i • •• ^- f v / h i ch
+contradicts the assumption that q, ... q. is a minimum. T h is
+proves our statement.
+±——r =  1 - a
+-14-
+
+It follows from our results that the minimum of q1 is the root of
+the equation
+n a rE - F =  i - ao • 0 2 )r=i q
+Now we shall calculate the minimum of q^q^. F i r s t, we know that
+q. = q ( i > L 2) if ^-.^y be a minimum. H e n c e, we have to minimize
+q.q? under the restriction
+Using the Lagrange multiplier method we obtain the equations
+2 a + +  ~ +  '-+-\ = ° < 34>
+(Lagrange multiplier = A .)
+a 2 a ( n - l)a
++ -,*.+ ...+ — — — _ __ ,  = o . ( 3 5 )
+Because of equation 33, we can write equation 34 as follows
+qq
+q2 -
+Substituting for X in equation 35, we obtain
+2a. 3 a 4 ( n - l)a__£ .  __2. j. 4 . ________li I - n
+O ^  *  * * r ^ T  *  —
+-15-
+
+or
+2a3 { n ~ 1)an
+On the other hand, from equation 33 we obtain
+Equating the right-hand sides of equations 37 and 38, we obtain
+a 2 a . 3 a 5 ( n - 2)a
+—— + —— +-T + '•• + —— Z=I ——q q  q  q
+- 0. ( 3 9 )
+It is clear that equation 39 has exactly one positive root. T he
+root is less than or equal to 1 if and only if
+a., + 2a. + 3a5 + ... + (n - 2)a < _ a - j^ . ( 4 0 )
+Equations 3 8 and 39 have exactly one positive root in q, and qy.
+We shall show that if the roots satisfy t he inequalities 1 _ > q _ > q ,
+then for these roots q^q^ becomes a minimum. W e can assume
+that 2 < n, since the derivation of the minimum value of q, ... q
+will be given later in this memorandum. I t is clear that for any
+alvalue q , > ^ — — —— e q u a t i on 38 has exactly one positive root inx x  — ao
+q?. D e n o te this root by < t > ( q - i ). H e n c e, ^ ( q i) is defined for
+aiall values qn > -^  ———— .  i t is easy to see thatj. j . ~ * a o
+-16-
+
+lim <f>  ( q )  =  +  c o
+Henc e ( a s s u m i ng a  >  0 )
+lim i j > (q, ) =  +
+wher e - q
+It i s c l e ar t h at l i m < f > ( q }  =  0 . S i n c e a  >  0 , i t f o l l o ws f r o mn
+*"equation 38 that q, [ ^ ( q - , ) ]" " * " h as a positive lower bound when
+q,-»-oa . B ut then, since n > 2, lim q , ^(q,) = + oo. F r om
+the relations l im ( p ( q - ,) = lim = + ° ° it follows
+that the absolute minimum value of t p ( q1 ) is reached for some
+positive value q, . S i n ce equations 38 and 39 have exactly one
+positive root in q a nd q , the absolute minimum value of ^ ( q,
+must be reached for this root. T h is proves our statement that
+if the roots of equations 38 and 39 satisfy t he inequalities
+>^ q >_ then for these roots q,q2 becomes a minimum con-
+q issistent with our restrictions on q, and q-. I f 1 > ^ q,
+not satisfied by the roots of equations 38 and 39, then q i s
+equal either to 1 or to q a nd the minimum value of q^q^ is
+2either < j > ( l) or q ,  where q is the root of the equation
+-17-
+
+n a
+_ =  i  -  a
+qr
+How we shall determine the minimum of q, ... q. (2 < i < n).
+First, we determine the minimum M. , of q, ... q. under the re-
+striction that q2 = q.. T h u s, we have to minimize q-iqV" u n d er
+the restriction that
+...
+ql q lq2 q iq2 q lq2
+Using the Lagrange multiplier method, we obtain
+"n
+- a ( 40a)
+(41 )\ /
+and
+i-2 X  / a2 2 a 3 ( n "  1 ) an
+< i -  1 ) qlq2 - q T 4 - + ~r +  — —  + — — — r T
+1 \q2 q 2 q 2 /  ( 4 1 a)
+Substituting ^ — — — —— f or X  ( t he value of X  o b t a i n ed from
+i ~ c l
+o
+equation 41), we obtain
+'a2 2 a 3 ( n - l)an
+0 q 2 q 2 q 2 ( 4 2 )
+Prom e q u a t i on 4 0a
+a a
+, ~~-J- * ™  a . I  - 1-
+a +  - + ' . .. +  — —  ~  1  =  0  .  ( 4 3 )
+. - - , - »  f~+
+o q 2 q 2
+-18-
+
+From equations 42 and 43, we obtain
+(i - 2)a ( i - 3)a ( i - n)a
+(i - I)a1 + — — — — — —- +  ———^——- + ... + — — — — —- =  0.
+q2 q 2 q 2 ( 4 4 )
+From Descartes' sign rule it follows t h at equation 44 has exactly
+one positive root.
+Let q, = q, and q_ = q»  b e the roots of the equations 43 and
+44. I f 1 > q°  > q°  t h en M. =  q^q?)1"1 . I f 1 > q°  > q°  does
+~~ - L ~~ ^  1  J. 1  £•  "~  1  ^" £
+not hold, then M. , is either (q1)1 or (q11)1" , where q1 is the
+root of the equation
+n a .
+L ——^T - 1 - a
+0 ( 4 5 )
+j = l (q')11 °
+and q " i s t h e r o ot o f t h e e q u a t i on
+a a  a
+a +  —  +  — — — ^ +  . .. +  — — " - — y =  1  -  a  .  ( 4 6 )
+-1- _ • ! /  _ _ II \  ^ /  _ _ l l \ l * J- *-*
+q
+Let Mir (r = 2,...,i-l) be the minimum of q, ... q .^ under the
+restriction that q, = . . . = q ,  = 1 and q ., = q.. T h en M. c an^ ^ - ^  ^ i i r
+be calculated in the same way as M. ,; we have merely to make the
+substitutions
+*
+n =  n  -  r  +  1
+ao "  a o +  a l +  • •• + a r-l
+* * i ( ] = l,...,n )
+j =  1 , . . . ,n )
+*i =  i  -  r +  1,
+and we have to calculate the minimum of q, ... q.^ . T h u s, we
+have to solve the equations corresponding t o equations 43 and 44,
+i.e., the equations
+-19-
+
+* *  *
+a? a ^ a n
+n*-lao \  q 2 < q 2) < q 2)
+(43*)
+and * *  * *  *  *  *
+* *  ( i - 2)a ( i -  3)a ( i -  n )a *
+(i -  Da. + ——————— - +  — — — — —— — —• + . . . + — — — — — — — — — —— =  0.
+* *  *  n*- l
+<32 < < 3 2) ( q 2} ( 4 4 *>
+* *
+Let q, = v, and q«  = v9 be the positive roots of the equations
+*
+43* a nd 44*. I f 1 _ > v, > _ v , then M. =  v v^ ~1 . I f 1 > _ v > _ v
+~ "~ J L " " ^  \ . \ - J L £ * \.  £*
+*
+does not hold, then M. i s equal to either (v1)1 or
+*
+(v")1 ~ , where v1 is the positive root of the equation* *n a  .
+and v" is the positive root of the equation
+* a n a o a
+n*
+(v») 2 ( v » ) n -
+The minimum M^ of q, . . . q . ( i = 2,3,...,n-l) is equal to the
+smallest of the i - 1 values M. , , . . ., M. .  , .IX 1  / 1 — i
+Now we shall determine the minimum of q . . . q .  We show that
+the minimum is reached when q, = ... =  qn_i = 1 «  S u p p o se that
+this is not true and we shall derive a contradiction^ L et j be
+the smallest integer for which q. < 1 (j < n). L et q. = (1 + e ) q.
+_ q  _
+(e >  0), qn = ± +
+n
+ e , and qr = qr for all r ji  j»  / n.
+Then q . . . q . . . = q . . . q and
+-20-
+
+n
+E . - a
+r=l
+Hence, there exists a positive A  < 1 such that
+n a _
+r=l q .
+where
+_q =  A q^ J
+* _q <  q q =  q q i n contradiction toBut then q , .
+the assumption that q, ... q i s a minimum. H e n c e, we must have
+q, = ... =  qn i  = 1«  T h e n, from equation 26 it follows that the
+minimum value of qn is given by
+n
+ao - al - - an-l
+If i > 1 but < n, the computation of the minimum value of q, ...
+is involved,.since a large number of algebraic equations have to
+be solved. I n the next part we shall discuss some approximation
+methods by means of which the amount of computational work can be
+considerably r e d u c e d.
+-21-
+
+PART III
+APPROXIMATE D E T E R M I N A T I ON OF THE MAXIMUM VALUE OF THE PROBABILITY
+THAT A PLANE WILL BE DOWNED BY A GIVEN NUMBER OF HITS1
+The symbols defined in parts I and II will be used here without
+further explanations. W e have seen in part II that the exact
+determination of the maximum value of P. (i < n) involves a con-
+siderable amount of computational work, since a large number of
+algebraic equations have to be solved. T he purpose of this
+memorandum is to derive some approximations to the maximu m of P.
+which can be computed much more easily than the exact values.
+Let us denote the maximum of P. by P°  and let Q? = 1 - P? .
+Thus, Q. is the minimum value of Q.. B e f o re we derive approxi-
+mate values of P. (or Q.) we shall discuss s o me simplifications
+that can be made in calculating t he exact value P. (or Q.)
+assuming 1 < i < n. W e have seen in part II that Q. is equal to
+the smallest of the i - 1 values M. , , . . ., M. .  ,. W e shallXX X  , X X
+make some simplifications in calculating M. ( r = l,...,i-l).
+For this purpose consider the equation
+*"-*- 1 -"-"--- - ( 4 7)
+a
+It is clear that for any value u > -; — — — — — —— - — — — — — — —— ,  equation1 - aQ - ... - ar-1
+47 has exactly one positive root in v. D e n o te t h is root by < J > ( u)
+Thus, < f > ( u) is defined for a ll values u > ^————-————-————
+In all that follows we shall assume that a. > 0 (i = l,...,n).
+We shall prove that
+u <J>(u ) (48)
+s part of "A Method of Estimating Plane Vulnerability
+Based on Damage of Survivors" w as published as SRG memo 88 and
+AMP memo 76.3.
+-22-
+
+and
+"* >  l - . (u ) *•-* | . +. . ( 4 9 )
+u
+rIt follows easily from equation 47 that if u - »-
+~ ao ~ •" ~ ar-l
+then 4 > ( u) - >• + CD . S i n ce i > r, we see that equation 48 must
+hold. I t follows easily from equation 47 that lim 0  (u) = 0.
+We also see from equation 47 that if u - > o >, the product
+must have a positive lower bound. E q u a t i on 49 follows
+and t he fact that lim < j > ( u) = 0.
+ln-ru < £ (u)
+from this
+U -J-oo
+We have seen in part II that equations 43* and 44* have exactly* *one positive root in the unknowns, q, and q~. L et the root in
+q.. be u°  . T h en the root in q_ is equal to d > (u°  }.^1 i r ^ 2 ^  T rv ir
+From equations 48 and 49 it follows that u  1 0 ( u) 1~r is
+rstrictly decreasing in the interval • * — — — — — — — — — — — — — —— <  u < u? ,1 - aQ - ... - ar_1 i r
+and is strictly increasing in the interval u. <  u < + <»  .
+Denote by u' the positive root of the equation
+... __  . . . _ . ( 5 0 )
+u u  u
+It i s c l e ar t h at u 1 <  1  an d 4 > ( u ' ) =  u ' .  T h e v a l ue M . i s
+equa l t o t h e s m a l l e st o f t h e t h r ee v a l u es
+-'. -a u°r
+A simplification in the calculation of M. c an be achieved by
+the fact that in some areas M - c an be determined without
+calculating the value u . .  W e consider t h r ee cases.
+u£ | ~ 4 >r ( u£)l XCase A:
+-23-
+
+In this case,
+M. =  u1 I  <j> (u» ) I1"1" if - =£ uU (u)|x~" > 0 for u  =ir r  T rv r d u
+and
+M. = u . c | > ( u. ) i f - r— u < b ( u) <  0 for u  = u 1 .ir i r T rv i r' d u y rv ' r
+Case B: u .
+In this case,
+and
+M. =  U . . ( l ) r ~I- if -£• u U..(u)|J-~r < 0 for u = 1ir
+[
+-1 .  _  p  - i .
+4> ( u °  )  x "r i f ^ 2 . u  < b ( u ) r ~r >  0  f o r u  =  1 ,Tr i r d u I  Yr I
+u^ [ * ( u ; ) liCase C: - r
+In this case,
+o f , . o . "I i-= u . ^ > ( u . )ir i r I  i r I
+We c a n e a s i ly c a l c u l a te t h e v a l ue o f — r —  u  < b ( u ) f o r u  =  u 1
+J d  u r r r
+and u  =  1 . I n f a c t, w e h a ve
+~r +  ( i -  r ) u
+(51)
+d4>r(u) d vand —g—— =  j— can be obtained from equation 47 as follows.
+-24-
+
+Denote
+a a  . ,_£ r + 1
+T T
+n
+u uv uv
+by G(u,v). T h en
+d<)>r(u)
+~~du
+d_v
+du
+(52)
+1
+U
+1
+u
+a
+r r + 1
+\u u v
+/•r+1 ,  2 a r+2 ,
+^v 2 v 3
+hi ,  2 a r+2 ,
+^ "uvn-r/
+(n -  r ) a \
+- +  v -^ )
+, < " -  " « n \ f
+= < t > ( u )T - W * \ /
+v n-r+1
+On the oasis of equations 51 and 52, we can easily obtain the
+value of i-r for u = u1 and u = 1 if u 1 and < J > ( 1)
+have been calculated. I f u = u1 ,  then <f>  ( u) = v = u1; if
+u = 1, then v = < J > ( 1) .
+Since $  (1) is equal to the root of the equation i n v
+,f ...
+it follows from equation 50 that
+(53)
+-25-
+
+Thus, for carrying out the investigations of cases A, B, and C
+for r = l,...,i-l, we merely have to calculate u',...,u!.
+If we want to calculate Q°  for all values i < n, then it seems
+best to compute first the n quantities uj,...,u'.
+Since u£ = < l >r(u^) and < | >r(l) = u - ' we can sa¥  that M i s
+the smallest of the three values
+,\i-r+l /  . \ i -r ,  o  ( " , , o .1 i -ru ' ,  u  ' , . ,  and u . H > ( u . )ry '  \ r + iy '  i r I  Trx ir J
+Since Q. is equal to the minimum of the i - 1 values,
+M. , , . . ., M. .  - , , we s ee t h atl J. i  , i~" _L
+Q°  1 tif ( 5 4 )
+where
+t._ = Min ("(up1, (u^)1'1,..., (u^)2, uM .  ( 5 5 )
+If n is large, it can be expected that Q. will be nearly equal to
+t.. T h u s, t. can be used as an approximation to Q. . I n order
+to see how good this approximation is, we shall derive a lower
+bound z. for Q°  .  I f the difference t. - z. is small, we are
+certain to have a satisfactory a p p r o x i m a t i on to Q. . I f t. - z.
+is large, then t. still may be a good approximation to Q., since
+it may be that z. is considerably below Q. .
+To obtain a lower bound z. of Q., denote by y . (j = 0,1,..., i-1)
+the proportion of planes ( n u m b er of planes divided by the total
+number of planes participating in combat) that would be downed
+out of the returning planes with j hits if they were subject to
+i - j additional hits. T h en
+Pi = yo + yl + *' * + yi-l + xl + X2 + ** * + xi
+-26-
+
+It is clear that a.P.> y. (j = 0,1,..., i-1) and consequently
+(ao + &1 + ... + a.^) P± > yo
+Hence,
+y
+°  j.  *  ...————^ a
+1"1 <  P< • ( 5 7 )
+Equation 56 can be written
+aQ
+(58)
+x, + ... + x.
++ (1 - a -  ... - a. )-- ... - .  _  _  — — —— I- —— .o 1 - 1 1 a Q . .. - ai_1
+YO + ... + yi_1Hence, P. is a yeighted average of —— - — — —— - ————i a  +  ... + a and
+x . + ... + x.
+- ——————— - —— . T h e n, from equation 57 it follows that- -
+X..+...+X .
+p <  ^  _ — — — — ^ _ — —— .  ( 5 9 )-
+Since y. > 0, we obtain from equations 56 and 59
+x, + ... + x.
+x, + ... + x. < P. < _  L ———————-i— .  ( 6 0 )1 i  i  J . a Q - ... a i_1
+Hence,
+x +  ... + x.
+1 - -j——±-———————i-—— < Q <  l - (X, + ... + x. ) . ( 6 1)i - a -  . .. - a 1 1 1
+-27-
+
+In part II we have calculated the maximum value of x +  ... + x..
+Denote this maximum value by A.. T h en a lower bound of Q. is
+given by
+A.
+z . = 1 - _  1———————— <  Q°  .  ( 6 2 )i 1  - aQ - ... - ai_1 i
+NUMERICAL EXAMPLE
+The same notation will be used as in the numerical examples f or
+part I. q . is the probability of a plane surviving the i-th h i t,
+knowing t h at the first i - 1 hits did not down the plane. T h en
+the probability that a plane will survive i hits is given by
+Qi = qlq2 ••' qi '
+In part I it was assumed that
+qi = q2 = ... = q. = qo ( s a y ),
+which is equivalent to the assumption that the probability that a
+plane will be shot down does not depend on the number of previous
+non-destructive hits. U n d er this assumption
+Q. - q1 .vi M o
+The example below is based on the assumption t h at
+q, > q0 > ... > q ,_L —' ^  — —  n
+i.e., t he probability of surviving the i + 1 hit is less than or
+equal to the probability of surviving the i-th h i t. In this
+case, it is not possible to find an explicit formula for Q., but
+a lower bound can be obtained. T h at is, a value of Q. can be
+found such that the actual value of Q. must lie above it. T he
+ogreatest lower bound is denoted by Q. . H e n c e, we have
+o
+^i — i
+If
+o o
+i i '
+-28-
+
+P. is the least upper bound of P.; that is, the probability of
+being downed by i bullets cannot be greater than P. .
+Since the computation of the exact value of Q. is relatively
+complex/ an approximate formula has been developed. T h is
+approximation is called t. and t . _ >. Q-; • A n o t h er approximation
+(z.) is available such that z. _ < Q. . H o w e v e r, z. is not as
+accurate as t.. W h e n e v er the full computation is to be omitted,
+it is recommended that t. be used.i
+The observed data of example 1, part I, will be used. T h u s,
+a =  .80, a. = .08, an = .05, a _ = .01, a. = .005, a _ = .005o 1  2  3  4  5
+The calculations are in three sections:
+• T he calculation of t. > Q.,i — i
+• T he calculation of z. _< Q?.
+• T he exact value of Q..
+1. C a l c u l a t i on of t^ (t^ Q?)
+(1) C a l c u l a te u', the positive root of equation 50:
+a a  . ar r + 1 n  _  ,
+~ + ~^2~ + ' *' +
+ un-r+l ~ - 1 " ao ~ ' *' " ar-l '
+For r = 1, we obtain
++ +  +  +  .
+u u 2 u 3 V ?
+-29-
+
+which reduces to
+.20u5 - .08u4 - .05u3 - .Olu2 - .005u - .005 = 0
+u =  .851 .
+For r = 2,
+3.^ c l _ 3 . ^ ^ c
+— + -^ + - | + ^ = l - ao-a ,
+u u  u  u
+which reduces to
+.12u4 - ,05u3 - .Olu2 - .005u = 0
+u^ = .722 .
+For r = 3,
+a a  a
++ 0  + 0  — J _ — a — a, — a „ .2 3 o  1  2u u  u
+which reduces to
+.07u3 - .Olu2 - .005u - .005 = 0
+u^ = .531 .
+For r = 4,
+^ + ^| = i ~ ao - al - a2 ' a3'
+which reduces to
+.06u2 - .005u - .005 = 0
+u^ = .333 .
+(2) t , , . . . ,t a re given by equation 54
+-30-
+
+ti = Min [(up1, (up1'1,..., (uj^)2, (u!)j
+We have
+u| a .851, u^ = .722, u^ = .531, u^ = .333 .
+Hence,
+ti = Min [(up] = u^
+= .851
+t2 = Min [(u^)2, (up]
+= Min [.724, .722 ]
+= .722
+t3 = Min [(up3, (up2, (up]
+= Min [.616, .521, . 5 3 1]
+= .521
+t4 = Min [(up4, (up3, (up2, (u4)]
+= Min [ . 5 2 4, .376, .282, .333] -
+= .282
+t,. is not calculated s i n ce the exact value of Q ,- can be
+easily obtained.
+2. C a l c u l a t i on of z. (z. < Q?)X X  * • "* X
+The following values must be obtained:
+q , the root of equation 26A
+This has already been obtained as u' . T h us q =  .851. The1 o
+values of x1,...,x[- have been calculated in part I:
+-31-
+
+= . 0 3 0, x  =  . 0 1 3, x  =  . 0 0 4, x  =  . 0 0 2, K  =  . 0 0 1,
+A. =  x +  x +  . . . +  x . .
+J~ J _ £*  - L
+A =  x  =  . 0 3 0
+A2 =  x , +  x ~ =  . 0 4 3
+A3 =  x , +  x  +  x 3 =  . 0 47
+A. =  x , +  x ~ +  x ~ +  x , =  . 0 49
+Ac =  x n +  x ~ +  x .. +  x . +  x n =  . 0 5 0.51234 5
+From equation 62 the lower bounds z. are calculated
+z . = 1 - , — — — — — —— — — — — — —— <  Q°  .i 1  - a -  . . . - a .
+Then
+i A l ,  . 0 30zi = 1 - r ^- =  x - T 2o = -850
+i A 2 n  . 0 43 . . „
+Z2 = l ~ 1 - a -  a = X - ^12 = « 642
+„ _  , _____  3 _______ . 0 4 77 - J - - ~ i — 3 — - —— ~ — r —— _ - , -  J . - —— p r rr3 1  - a -  a -  a . 0 7
+, _  i  _ _______ i __________ _ _  .0494 1  - ao - ai - a, - a3 - 1 . 0 6
+z,. is not calculated since Q j. can be obtained directly,
+3. T he Exact Value of Q°
+We have calculated t. and z. such that
+-32-
+
+zi 1 QI 1 fci ( * * 1/2,...,5) .
+The exact value of Q. is obtained as follows:
+i-r+l .  , .  i-r o f . 0 .li-r I, (ur+1) ,  uir |^r(ulr) J  ,Mir«  Min j(ur)
+where u? a nd < | > ( u? ) will be defined below.
+Q°  = Min lMil/...,Mi i-:i]
+or combining these equations with the definition of t. we obtain
+= Min ftJ =  .851
+°Q°  = Min |t, uf 4 1
+°  = Min | t3/ u^t 4>1(u°1)]
+= Min
+If u? > 1, * r (uirM > lf ° r Uir < * r ^uir^' t"6"
+<j>r(u. ) ~ i s neglected in the equations above.
+Q°  = _________ ___________
+5 - i - ao -ai - a, - a, - a4 - .055
+In the equation of Q? the additional quantities we have to
+compute are
+o o
+U 0 1 A , ( U 01 )21 1  2 1
+O Ou -^ i < M U -JI )oi i  j i
+o ,  .  o  .
+U32 4 > 2(U 32 )
+o .  .  o  .u ., < P , (u, , )41 l x 4 1'
+O fL  O
+U Y (  11 \
+m n O  \ A  "~l  '
+U«  * 3 ' U« '
+-33-
+
+The following equations have exactly one positive root in q*, q*
+The root in q* is u°  ; the root in q* is < J > ( u? ) .
+•J- - L I T £,  7 7 I f
+2 a
+a* + _ + — - + ... + ——— =  (1 - a *)q* ,
+q ( q 2 ( q * ) n l  °  1
+where q* satisfies
+(i* - 2)a* U * -  3)a* ( i * - n*)a*.
+(i* - Da* + — — — — — —— ± + —————— 5 -1 + ... + ————— "  =  o,
+where
+n* =  n - r + 1
+a* = a +  a, + ... + a .o o  1  r - 1
+_ -ff  _ _ _  / ' - i ^ l O 4e  s
+i* =  i - r + 1 .
+The details of the computation are given in tables 2 and 3.
+TABLE 2
+ii i  r  n * i * 3 * a * s * a * 3 * a *u • - L . i . 1 1 J . a  a . . c i „ c i - , d . a  _
+O
+U21
+o
+U31
+o
+o
+o
+U 42
+o
+U43
+2
+3
+3
+4
+4
+4
+1
+1
+2
+1
+2
+3
+5
+5
+4
+5
+4
+3
+2
+3
+2
+4
+3
+2
+.80
+.80
+.88
+.80
+.88
+.93
+.08
+.08
+.05
+.08
+.05
+.01
+.05
+.05
+.01
+.05
+.01
+.00 5
+.01
+.01
+.00 5
+.01
+.00 5
+.00 5
+.00 5
+.00 5
+.00 5
+.00 5
+.00 5
+.005
+.00 5
+.00 5
+where
+aQ = .80, a1 = .08, &2 = .05, a3 = .01, a^ = .005, a5 = .005
+-34-
+
+TABLE 3
+Computation
+of Equation
+(i*-2)a* ( i * - 3 ) a* ( i * - 4 ) a* ( i * - S ) a*
+Numerical Equation
+.08(q*)4 - .OKq*)2 - .01(q*) - .015 - 0
+Result
+Obtained
+.774
+21
+aj a ! a  a ?
+(1-a*)q* „ . 05 . 01 . 0 05 . 0 05 „ ..08 + ——— + — — — —- + — — — —- + — — — —- - .20q*
+.774 ( . 7 7 4) ( . 7 7 4) ( . 7 7 4)
+.932
+<i*-2)a; < i * - 3 ) a* ( i * - 3 ) aj ( i * - 5 ) aj
+(i*-1)ar + — — — — —- +———r-^ +-———r-= + — — — —^ - 0 .16(qJ)4 + .05(q*)3 - .005(q*> - .01 - 0 .463
+.oa.^.^o^.^oo^.^oo^.
+.463 ( . 4 6 3) ( . 4 6 3) ( . 4 6 3)
+1.968"
+(jJ
+U1 (i*-2)a* ( i * - 3 ) a«  ( i « - 4 ) a*
+*
+05(q*2) - .005(q*) -.01 " 0 .642
+32
+a5 a 3 « Ja* + — + —i-r + —^ - (1-a*
+a* ( a *) ( o * >q2 l q 2 > q 2'
+.to5+iO!.+ ^05_^+-^5_^..12q.
+.642 ( . 6 4 2) ( . 6 4 2)
+.80S
+VV.'
+(i*-2)al ( i * - 3 ) a? ( i * - 4 ) a <| ( i * - S ) a*
+(i*-1)a* + _____- • »• _____- + _____- + _____-
+' _ * /  _* » * I  _* \ •* I  _* * ^
+.24(qJ)4 + .10(qJ)3 + .Ol(qJ)2 - .005 - 0 .29C
+
+TABLE 3 (Continued)
+Computation
+of Numerical Equation Result
+Obtained
+41 - ( 1-» .08 +.05 . 0 1 . 0 0 5 . 0 05
+.290 ( . 2 9 0 )2 ( . 2 9 0 )3 ( . 2 9 014 ' " "I 6.402
+<1«-2)a J ( i * - 3 ) a»  ( i * - 4 ) aj
+(i*-1)a* + — — — — —— + — — —$— + — — — — 3— • 0 .10(q*)3 + .OKq*)2 - .005 - 0
+o
+U42 qj .338 ( . 3 3 8) ( . 3 3 8)
+2.108
+I
+U)
+(i*-2)aj ( i * - 3 ) a*
+(i*-1)a| + — — — — —— + -———:;— - 0
+qj
+.OKq*)' - .005 - 0 .707
+43
+"I a '
+.0, + ^ +
+.707 ( . 7 0 7)
+.387"
+l.968 > 1 :. not used.
+6.402 > 1 . '. is not used.
+2.108 > 1;-
+.387
+
+Substituting the values from table 3 in equation A and neglecting
+several terms as explained in table 3, we have
+Q° = .851
+Q° = Min { . 7 2 2, .721} = .721
+Q° = Min {.521, .517} = .517
+Q4 = .282
+Q° = .091
+The results obtained are shown in table 4.
+TABLE 4
+i
+1
+2
+3
+4
+5
+z .i
+.851
+.64 2
+.32 9
+.183
+__
+Q •i
+.851
+.721
+.517
+.282
+.091
+t.i
+.851
+.72 2
+.521
+.28 2
+__
+q-1-
+o
+.851
+.72 4
+.616
+.52 4
+.44 6
+Thus, with the observed data, this example, if all the
+information available about the g.'s is that
+q >  q >  ... > q ,
+J. " "" £-  " " "" " " D
+all we can say about the Q. is that
+Q > _ .85, Q _ > . 7 2, Q > ^ .52, Q _ > . 2 8, Q =  .09
+Note that
+-37-
+
+This is always true.
+It is interesting to compare Q. with the values of Q. obtained
+under the assumption that all the q.'s are equal and have the
+value q . U n d er this assumption,
+Qi = q* ( i = 1,2,...,5).
+In table 4, Q, = q a nd Q~ is very close to q .  Q ., and q
+differ by approximately .1 and the agreement between Q. and
+q g e ts progressively worse. I t will usually be true that q
+and Q. are approximately e q u al for small values of i ,- but will
+differ widely as i increases.
+-38-
+
+PART IV
+MINIMUM AND MAXIMUM VALUE OF THE PROBABILITY THAT A PLANE
+WILL BE DOWNED BY A GIVEN NUMBER OF HITS CALCULATED UNDER
+SOME FURTHER RESTRICTIONS ON THE
+PROBABILITIES q1,...,qn"L
+In parts I, II, and I II we merely assumed t h at q1 _ > q _ > . .. > ^ q
+In many cases we may have some further a priori knowledge
+concerning the values c h / . . . ,q . W e shall consider
+here t he case when it is known a priori that X j q - ; .< q -j + i <_
+(j = l,...,n-l), where X  a nd A  ( A, < \ < 1) are known
+positive constants.
+We shall also assume that
+n a  .
+Jfciq=u
+(63)
+Since a, + a2 + ... + a <l-a , the inequality in equation
+63 is certainly f u l f i l l ed if A, is sufficiently n e ar 1. I t
+follows immediatel y from equations 63 and 26 that q <  1.
+CALCULATION OF THE MINIMUM VALUE OF Q. = 1 - P. (i < n)
+Let q,,...,q b e the values of q,,...,q f or which Q. becomes
+a minimum. W e shall prove the following.
+Lemma 1; T he relations
+qj+l = X2qj ( j = i"-""-1) ( 6 4 )
+must hold.
+Proof:- S u p p o se that the relation in equation 64 does not hold
+for at least one value j > i and we shall derive a contradiction
+s part of "A Method of Estimating Plane Vulnerability
+Based on Damage of Survivors" w as published as SRG memo 89 and
+AMP memo 76.4.
+-39-
+
+Let q£ = q°  for r = lf...,i and <3^ + 1 = X2ql for j = i,...,n-l,
+Then we have
+and q. .
+Hence, there exists a positive value A < 1 such that
+n a .
+^«t f r t " r - f " r > '
+where q1! = Aq1. (j = l,...,n). B ut then
+in contradiction to our assumption that q, ... q? is a minimum.
+Hence , Lemma 1 is proved .
+Lemma 2 ; I f j is the smallest i n t e g er such that q, ,  = X0q, for—————— • —— J C " r J _ £.  K.
+all k > j, then q°  = X,q°  , for r = 2,3,...,j-l.— r  j . r~ j.
+Proof: A s s u me that Lemma 2 does not hold and we shall derive a
+contradiction. L et u be the smallest integer greater than one
+such that q >  A q .  I t follows from the definition of the
+integer u that if u > 2, then q _, = X,q » . F r om assumption 63
+it follows that q, < 1. H e n c e, if we replace q ,  by
+qu-1= (1 + e )4"u_3_ (e > O)»  then for sufficiently small e the
+inequalities X ,q £  ^r+1 — ^2^r ^r = l'««'' n~l) will not be
+disturbed. L et v be the smallest i n t e g er greater than or equal
+to u such that q ,  < X?q .  S i n ce by assumption j is the
+smallest i n t e g er such that 4"j,+i = ^2^k ^or a^ ^ — ^ ' we raust
+have q. < X^q, - , . H e n c e, v < j-1. I t is clear that replacingJ *•  j~-*-  ~
+o vq b y q1 = -z  — - — - w e shall not disturb the inequalitiesV V  J . T o
+*lqr -  q r+l - X 2qr ( r =  l f * « " n-1). H e n c e, i f
+-40-
+
+o
+e) '  * - -
+for r ^u, X v, then A.^ _< q£+1 £ A2q£ (k = l,...,n-l) is ful
+filled. F u r t h e r m o r e, we have
+o o  n' . .. q = q .  .. q a nd £
+"l
+Hence, there exists a positive A < 1 such that
+f * j 1  a_A< q '1 . . . q!! o
+and q ! ,1 = A q ^! (j = l,...,n). B ut then
+in contradiction to the assumption t h at q°  ... q? is a minimum.
+Hence, Lemma 2 is proved.
+Let E. ( r = l,...,i-l) be the minimum value of Q. under the
+restriction that q^ + i = ^q-i ^or J = r+l/'-«/ n~l ' j . ! i  •
+for 3 = l,...-,r-l. F r om Lemma 1 and 2 it follows that the mini-
+mum of Q. is equal to the smallest of the i - 1 values E.,,...,E. . ,,i i j . i , i — J.
+The computation of the exact value of E. c an be carried out
+in a way similar to the computation of M. d e s c r i b ed in part
+II. S i n ce these computations are involved if n is large, we shall
+discuss here an approximation method.
+Let E? ( r = l,...,i-l) be the value of Q. if q.., = X« q . for
+ITXf c
+j = r+l,...,n-l and q -j + i = \ [ 9 -; for J  = If •••**•. F u r t h e r m o r e,
+let E£Q be the value of (^ if q^+1 = X2q • (j = l,...,n-l). T h e n,
+if n is large, the minimum of E? „ , and E lf w i ll be nearly equali / 1 *~ x x i r
+to E. . H e n c e, we obtain an approximation t o the minimum of Q.
+by taking the minimum of the i numbers E* , £*,,...,£* . ,.1O 1  J. l f l " ~ J .
+The quantity E. c an be computed as follows. L et g b e the
+positive root in q of the equation
+-41-
+
+r+1 a .3
+j(j-l')2 j
+n-r-1 , , , .r+1+3
+•r3 . 2  r + l +jX q
+(66)
+(r = 0,1
+Then
+E*ir = Xl
+(i-r)(i-r-l)
+(67)
+MINIMUM OP Qn
+Let q, , . . . ,q b e values of q,,...,q f or which Q b e c o m es a
+minimum. W e shall prove that q-,- , . ( j = l,...rn-l).
+Assume that there exists a value j < n such that q-,- . > X q.
+and we shall derive a contradiction. L et u be the smallest
+integer such that q°+1 > ^iq^ and let v be the largest integer
+o
+such that q°+1 > Xiq°  . L et qu = ( 1 + e)q°  (e > O) , q;+1= 3——
+and q! = q°  for j ^ u, ^ v + 1. T h en for sufficiently
+small e we shall have X,q' £ q^+l — ^2qr ^r = J-''--'11"1)*
+Furthermore , we have
+n a .
+and - a
+Hence, there exists a positive A < 1 such that q1! =
+( j = 1 , . . . , n ) a nd
+q'.
+n
+^= q
+a .
+-42-
+
+But then q" ... q" < q, ... q i n contradiction to the assumption
+that q *? ... q°  is a minimum. H e n c e, our statement is proved.
+If q is the root of the equation
+a .
+n(n-l)
+then the minimum of Q i s equal to A , q
+MAXIMUM OF Q^ (i < n)
+Let q?,...,q* be values of qlf.../q f or which Q. becomes a
+maximum. W e shall prove the following:
+Lemma 3 ; T he relations
+Xlqj (68)
+must hold.
+Proof: A s s u me that there exists an integer j _ > i such that
+q*,i >  ^q* and we shall derive a contradiction. L et q1 = q*
+for r = !,..., i and let q' =  q ' (j = i,...,n-l). T h en
+q- . . . = q* . q* and
+n
+h « i ••• qj *  l ' a°
+Hence, there exists a value A > 1 such that
+n a .
+3 - a
+where q !j = Aq! (j = l,...,n). B ut then
+contradiction to the assumption that q*
+Hence, Lemma 3 is proved.
+<3i > qf ••
+is a maximum.
+q* in
+-43-
+
+Lemma 4: I f for some j < i we have q*,- , > ^ -, q* then
+k+l = X2qk f°r
+Proof: A s s u me that q* >  X,q* for some j < i and that there
+exists an integer k _ < j-1 such that q£ , < ^2
+qv * We s n a-1--'-
+derive a contradiction from this assumption. L et u be the
+smallest integer such that q*,- , < ^2
+q* . F u r t h e r m o r e, let v be
+the smallest integer greater than or equal to u + 1 such that
+v+l Xlqv Zt is clear that v
+q1 = (1 + e) q*
+ciently small e we have
+/ and q 1 = q* f or r  7*  u,
+Let q^ = 1 g  (e > O) ,
+v. T h en for suffi-
+xlqj 1 1 X
+2
+qj
+Furthermore, we have
+| . . . q! =  q*
+n a  .
+q*. and ^ q. ..? q.
+Hence, there exists a value A > 1 such that
+n
+-, r T= q
+a .3 _ i  _  = ,~
+where q1.' = Aq! (j = i,...,n). But then q" .. q1.' > q*
+contradiction to the assumption that q?
+q1.1 i n
+is a maximum.
+Let D. ( r = l,...,i-l) be the maximum of Q. under the restric-
+tion that q. =  A,q. for j = r+l,...,n-l and q. =  X q. for
+From Lemma 3 and 4 it follows that the maximum of
+., D. . , .*~
+j = l,...,r-l.
+Q. is equal to the maximum of the i - 1 values D. ,,1 X X
+The computation of the exact value of D. c an be carried out in a
+way similar to the computation of M. i n part II. Since these
+computations are involved if n is large, we shall discuss here
+only an approximation method.
+-44-
+
+Let D* ( r = l,...,i-l) be the value of Q. if q. =  A,q. for
+j = r+l,...,n-l and q-j+1 = ^2
+q-i for J  = l/--«/ r' F u r t h e r m o r e,
+let D?o be the value of Q^ if q. =  X^. (j = l,...,n-l). T h e n,
+if A, is not much below one, the maximum of D* a nd D* ,J. i r i , r— j.
+(r = l,...,i-l) will be nearly equal to D. . H e n c e, we obtain an
+approximation to the maximum value of Q. by taking the largest of
+the i values D* ,...,0? . -.
+The value of. D? c an be determined as follows. L et g b e the
+root in q of the equation
+r+1 a . n —  r—  1 a
+j(j-l ) '
+X 2  ^
+^i ^ ( r + l ) ^ ^ ; j ( j + l ) "  " o3 1  . 2 + j r / 2  r + l + jX2 X 1 q
+Then
+(i-r-1) (i-r)
+i 2 A  2  ~ i{2 X l 9 r
+MAXIMUM OF Qn
+We shall prove that the maximum of Q i s reached when
+(j = l,...,n-l). D e n o te by q| ... q* t he values of q, ... q
+for which Q b e c o m es a maximum. W e shall assume that there
+exists a value j < n such that q*.-, < A9q^ and we shall deriveJ "*"•*• *•  ja contradiction from this assumption. L et u be the smallest and
+v be the largest i n t e g er such that q* , < Xnq* and q* , < A0g* .U-rJ. ^  U V + X /  V
+q*
+Let q^ = ^ ^U
+£ (e > O) , qv+1 = ( l + e) q^+1r and q ^. = q* for
+r ^ u, / v + 1. T h en for sufficiently small e we shall have
+Alq
+r <  q
+r+1 < A2qr (r " l-'-n-l).
+-45-
+
+Furthermore, we have
+n q  .
+ql '' ' qA = ql ' * • qn and ^ &——2~^r > 1 ~ ao-L r i x  a  * • • " -
+Hence, there exists a value A > 1 such that q ' .' = Aq'
+( j = 1, . . . ,n) and
+n a .
+= 1 - a
+But then q ' ,1 . .. q" > q? ... q* in contradiction to the assumption
+that q* ... q* is a maximum. H e n c e, our statement is proved.
+The maximum of Q i s equal to
+n(n-l)
+2 n  '
+2
+where q is the root of the equation
+n a .«—»  " i = 1 - aJ(J-D
+^, , j
+NUMERICAL EXAMPLE
+The same notation will be used as in the previous numerical
+examples. T he assumption of no sampling error, which is common
+to all the previous examples, is retained. I n part I it was
+assumed that the q., the probability of a plane surviving the
+i-th hit, k n o w i ng that the first i - 1 hits did not down the
+plane, were equal for all i (q, = q«  = ... =  q =  q ( s a y ) ).
+Under this assumption, the exact value of the probability of a
+plane surviving i hits is given by
+Qi = qo '
+In part III it was assumed t h at q >  q >  ... > q .  S i n ce no1 — 2.  — —  n
+lower limit is assumed in the decrease from q. to q. ,  only a
+-46-
+
+lower bound to the Q. could be obtained. T he assumption here is
+that the decrease from q. to q-. , lies between definite limits.
+Therefore, both an upper and lower bound for the Q. can be
+obtained.
+We assume that
+where X  <  X  <  1 and such that the expression
+A 2
+Al
+is satisfied.
+The exact solution is tedious but close approximations to the
+upper and lower bounds to the Q. for i < n can be obtained by
+the following procedure. T he set of hypothetical data used is
+aQ = .780 a 3 = .010
+a, = .070 a . = .005
+a =  .040 a , . = .005^ o
+X^ = .80 X 2 = .90
+Condition A is satisfied, since by substitution
+.07
+.8 ( . 8 )J ( . 8 )b ( . 8 )±U
+which is less than
+1 - ao = .22 .
+THE LOWER LIMIT OF
+The first step is to solve equation 66. T h is involves the
+solution of the following four equations for positive roots g ,
+g2' g3'
+-47-
+
+a4 +  S 5 =  i - ao = .22 ( B )
+,
+q X  q \y  X  q \ 2 q
+.07 . 0 4 + . 0 1 + . 0 05 +  . 0 05 _
+.92 . 7 2 9 q3 . 5 3 1 4 4 1 q4 . 3 4 8 6 7 8 q5
+q . q
+22q5 - .07q4 - .044444q3 - .013717q2 - .009408q - .014340 = 0
+q^ = .844.
+al S 2 a 3 ±  9 4 ._ , 5  =  i - a '  ( C )
+— —+ - + +  5q A iq A lA2M , v^ x  ^
+_________ ___  _ _ _ _ _ . 0 0 5 _ _ _ _ __
+(.64)(.9)q3 ( . 5 1 2 ) ( . 7 2 9 ) q4 ( . 4 0 9 6 ) ( . 5 3 1 4 4 1 ) q!
+^11 + ^£4 ^ _ _ ^ g l _ __ + _  :
+005__^_4
+q .  Oq
+<22q5 _ .07q4 _ .05q3 - .017361q2 - .013396q - .022970 - 0
+g;L = .904.
+al . a2_ , " 3_ + _!4 +  _^5 =  , _ a
+.01 -  . 0 0 5 _  j . - 005——————F = .2207 . 0 4 ^ . 0 1 .  • VVJ———-,. +
+——— + ———" + —————^ ( . 3 2 7 6 8 ) ( . 9 ) q4 ( . 2 0 9 7 1 5 ) ( . 7 2 9 )q
+.22q5 - .07q4 - .05q3 - .019531q2 - .016954q - .032705 - 0
+g2 - .941.
+-48-
+
+.07 . 0 4 . 0 1 . 0 0 5 . 0 0 5
+q . 8 q2 . 5 1 2 q3 . 2 6 2 1 4 4 q4 ( . 1 3 4 2 1 8) (. 9 )q5
+22q5 - .07q4 - .05q3 - .019531q2 - .019073q - .041392 = 0
+g3 = .964 .
+Next, calculate the i numbers defined by
+ir
+where
+- r -
+go = .844
+g-j^ = .904
+g2 = .941
+g =  .964
+The minimum of the E* ( r = 0,...,i-l) will be the lower limit of
+Q.. T he computations are given in table 5.
+-49-
+
+TABLE 5
+COMPUTATION OF LOWER LIMIT OF Q ._
+Qi
+Q-L 1  u
+i
+1
+r
+0
+a(i,r )
+0
+b(i,r )
+0
+9r
+.844
+gr
+.844
+E*ir
+,844
+Min C E *Q] =  . 8 44
+Q2 2
+2
+0
+1
+0
+1
+1
+0
+.844
+.904
+.712
+.817
+.641
+.654
+Min [ E *0, E *x] =  . 6 41
+Q3 3
+3
+3
+0
+1
+2
+0
+2
+3
+3
+1
+0
+.844
+.904
+.941
+.601
+,739
+.833
+.438
+.426
+.427
+Min = . 4 26
+Q4 4
+4
+4
+4
+0
+1
+2
+3
+0
+3
+5
+6
+6
+3
+1
+0
+.844
+.904
+.941
+.964
+.507
+.668
+.784
+.864
+.270
+.249
+.231
+.226
+Min = -22 6
+-50-
+
+The lower limit of Q c an be obtained directly. T he lower limit
+of
+Q5 - xj"q5 ,
+where q is the positive root of
+a a  a  a
+_, * _ . 4 . ° .  ^  i  J  _  1  at n  T - ^ - 5 T >  *  T - * - / * r - ^ ~ J L C l
+Xig
+2 X j q3
+ X 6q4
+ X fq5
+.07 ^ . 04 _ , _ . 0 1 ^  . 0 05 _ , _ . 0 05 0 0—— + — —2 + — — — —3 + ——————T + — — — — — — —F = .22
+q . 8 q . 5 1 2q . 2 6 2 1 4 4q . 1 0 7 3 7 4q
+q = .974 .
+The lower limit of
+Q5 = (.8)10(.974)5 = .094 .
+THE UPPER LIMIT OF Q.
+The computations for the upper limit of Q, are entirely analogous
+to the computations of the lower limit. F i r s t, we solve the
+equations of part IV, which for this example are the following:
+,33 T ,64Xj_q X iq
+07 ^ . 04 _ , _ . 01 ^  . 0 05 ^  . 0 05 _ _+ ——j + ————^ + ———————j + ———————^ = .22
+q . 8 q^ . 5 J . 2 qJ . 2 6 2 1 4 4 qf* . 1 0 7 3 7 4 q°
+22q5 - .07q4 - .05q3 - .019531q2 - .019073q - .046566 = 0
+g* = .974
+-51-
+
+a4 a 5
+" a2, 3  , 3 , 3 4  4 . 6 5  ~  -  "  o
+2xxq X 2xiq X 2xiq
+,07 . 0 4 . 0 1 . 0 0 5 . 0 0 5_____ _____  _______
+q . 9 q2 ( . 8 1 ) ( . 8 ) q3 (  . 7 2 9) ( , 512)q4 (  . 6561 ) ( . 262144)q5
+22q5 - .07q4 - .044444q3 - .015432q2 - .013396q - .029071 = 0
+g* = .905
+al a
+2
+ a 3 a
+4
+ a
+5
+2 3 3 5  4
+I \ 2q X 2Xlq
+,07 . 0 4 . 0 1 _ _ _ _ . 0 0 5 _ _ __ _ _ _ _ _ . 0 0 5 _ _ _ _ __ _
+q . 9 q2 . 7 2 9 q3 ( . 5 9 0 4 9 ) ( . 8 ) q4 ( . 5 1 2 ) ( . 4 7 8 2 9 7 ) q5
+22q5 - .07q4 - .044444q3 - .013717q2 - .010584q - .020417 = 0
+g* = .869
+»- a2- - 5 -5 - g -j - g- —— 5 -
+2q 2 q 2  lq
+.0 7 . 0 4 . 0 1 . 0 0 5 . 0 0 5— —  +  — — - +  — — — — - +  — — — — — — — 7 +  — — — — — — — — — — — — = • =  . 2 2
+q . 9 q . 7 2 9 q . 5 3 1 4 4 1 q { . 3 8 7 4 2 0 ) ( . 8 ) q
+22q5 - .07q4 - .044444q3 - .013717q2 - .009408q - .016132 = 0
+g =  .851
+-52-
+
+Next, calculate the i numbers defined by
+Dir = *2(l'r) *i(l'r) ^r1 ( r = 0,l,...,i-l)
+where
+. .  r f r + i)
+(i-D(i-r-l )
+g* = .974
+g* = .905
+g* * .869
+g* = .851
+The maximum of the D*r (r = 0,...,i-l) will be the upper limit of
+Q.. T he computations are given in table 6.
+The upper limit of Q_ can be obtained directly. T he limit of
+Q5 = \2 q ,
+where q* is the positive root of
+07 . 0 4 . 0 1 . 0 0 5 .  . 0 05f ——— =• +
+q . 9 q^ . 7 2 9q . 5 3 1 4 4 1 q* . 3 4 8 6 7 8q
+q* = .844.
+-53-
+
+TABLE 6
+COMPUTATION OF UPPER LIMIT OF Q.
+Qi
+Ql
+i
+1
+r
+0
+a(i,r )
+0
+b(i,r )
+0
+g*^r
+.974
+*igr-
+.974
+D*ir
+.974
+Max C D *Q] =  . 9 74
+Q2 2
+2
+0
+1
+0
+1
+I
+0
+.974
+.905
+.949
+.819
+.759
+.737
+Max [ D *0, D * x] =  . 7 59
+Q3 3
+3
+3
+0
+1
+2
+0
+2
+3
+3
+1
+0
+.974
+.905
+.869
+.924
+.741
+.656
+.47 3
+.480
+.478
+Max [D*0. D*31, D32] = .480
+Q4 4
+4
+4
+4
+0
+1
+2
+3
+0
+3
+5
+6
+6
+3
+1
+0
+.974
+.905
+.869
+.851
+.890
+.671
+.570
+.524
+.236
+.250
+.269
+.279
+= .279
+-54-
+
+The upper limit of
+Q5 = (.9)10(.844)5 = .149
+Sultunarizing the results, the upper and lower limits of the
+probability of a plane surviving i hits are given by
+.844 <  Q1 < .974
+.641 <  Q2 < .759
+.426 <  Q3 < .480
+.226 <  Q4 < .279
+.094 <  Q <  .149
+-55-
+
+PART V
+SUBDIVISION OF THE PLANE INTO SEVERAL
+EQUI-VULNERABILITY AREAS1
+In parts I through IV we have considered the probability that a
+plane will be downed by a hit without any reference to the part
+of the plane that receives the hit. Undoubtedly, the probability
+of downing a plane by a hit will depend considerably upon the
+part that receives the hit. The purpose of this memorandum is to
+extend the previous results to the more general case where the
+probability of downing a plane by a hit depends on the part of
+the plane sustaining the hit. To carry out this generalization
+of the theory, we shall subdivide the plane into k equi-
+vulnerability areas A, , . . . , A ,. F or any set of non-negative
+integers i,,...,i, let P(i,,...,i, ) be the probability that aJ. J c J . f C
+plane will be downed if the area A, receives i, hits, the area
+A0 receives i0 hits,..., and the area A, receives i, - h i t s. L et
+^ £.  K.  K.
+Q(i 1 ,...,i k ) =  1 - P ( i lf ...,i k ) . T h e n Q ( i lf ...,i k ) i s t h e p r o b-
+abilit y t h at t h e p l a ne w i ll n o t b e d o w n ed i f t h e a r e as A  ,...,A ,jL K l
+receive i1 ,.* * , i, hits, respectively* W e shall assume that_L J C
+Q(i ,.,.,i ) is a symmetric function of the arguments i ,...,i .I K I K .
+To estimate the value of Q(i ,...,i,) from the damage to
+returning planes, we need to know the probability distribution of
+hits over the k areas A,,...,A, knowing merely the total number
+of hits received. I n other words, for any positive integer i we
+need to know the conditional probability Y, (i, ,. . . , i, ) that the
+areas A,,...,Ak will receive i,,...,ik hits, respectively,
+knowing that the total number of hits is i. O f course,
+Y-( i, ,. . . , i,) is defined only for values i,,...,i, for which1 J _ K  X  K.
+i +  ... + i, = i . T o avoid confusion, it should be emphasized1 K .
+that the probability Yj(ii»•••ri k) is determined under the
+s part of "A Method of Estimating Plane Vulnerability
+Based on Damage of Survivors" was published as SRG memo 96 and
+AMP memo 76.5.
+-56-
+
+assumption that dummy bullets are used. I t can easily be shown
+that it is impossible to estimate both Y. (i, , . . . , i, ) andX X  J C
+Q(i,,...,i, ) f r om the damage to returning planes only. T o see
+this, assume that k is equal to 2 and all hits on the returning
+planes were located in the area A, . This fact could be explained
+in two different ways. O ne explanation could be that
+Y. ( i , ,i ) = 0 for i»  > 0. The other possible explanation would be that
+Q(i.,i ) = 0 for i >  0. H e n c e, it is impossible to estimate
+both Yi(i1,i2) a nd Q(i-L,i2)«  F o r t u n a t e l y, Y^ijy . . . , ik) c an be
+assumed to be known a priori ( on the basis of the dispersion of
+the guns), or can be established experimentally by firing with
+dummy bullets and recording the hits scored. T h u s, in what
+follows we shall assume that Y. (i. ,. . . , i, ) is known for any set1 - L J C
+of integers i .,..., i, .
+Clearly, the probability that i hits will not down the plane is
+given by
+QI =L ••• £ \(i 1,.»,i k)Q(i1,...,ik), ( 6 9 )
+where the summation is to be taken over all non-negative integers
+,,...,i, for which i,i,,...,i, for which i, + . . . + i =  i
+&. (i,,...,i,) be the conditional probability that the areas
+A,,..., A, received i ,...,i, hits, respectively, knowing that the-L J C X X
+plane received i hits and that the plane was not downed. T h en we
+have
+(70)
+Of course, 6. (i, , . . . , i, ) is defined only for non-negative.L J . J C
+integers i, , . . . , i, for w h i ch i, + . . . + i =  i .
+-57-
+
+The probability < 5 . ( i , . . . , i) can be determined from the distri1 - L K
+bution of hits on returning planes. I n fact, let a( i.. , . . ., i, )
+be the proportion of planes (out of the total number of planes
+participating in combat) that returned with i h i ts on area A ,
+i_ hits on area A_,..., and i h i ts on area A^. T h en we
+obviously have
+a(i, , .. ., i, )
+a.i
+From equations 70 and 71, we obtain
+(72)
+Since Q. can be estimated by methods described in parts I through
+IV, estimates of Q(i, , . . . , ! ,) can be obtained from equation 72.
+According to equation 29, the probabilities Q,,...,Q s a t i s fy the
+equation
+.£ ^ - 1 - ao . ( 7 3 )
+We have assumed that q > _ q2 > _ . .. >_  q . T h is is equivalent to
+stating that
+-A±i. < -1±1 f o r j < i .  ( 7 4 )
+Qi " ° j
+A similar assumption can be made with respect to the prob-
+abilities Q(i, , . . ., i, ) . In fact, the conditional probabilityJL K.
+that an additional hit on the area A w i ll not down the plane
+knowing that the areas AI , . . ., A, have already sustained
+i.,...,!, hits, respectively, is given by
+-58-
+
+n —  i  i  i  T  r  .yill'""1r-l' r' " * "1 (75)
+Obviously, we can assume that if
+J2 1
+then
+Q ( i , . . . > i_ , i +l , i ,  . . . , ik ) Q ( j ^. . . , Jr_1/ Jr+l, J
+(76)
+for r = 1,2, . .. , k.
+Hence, the possible values of Q, , ...,Q a re restricted to those
+for which equation 73 is fulfilled and for which the quantities
+Q(i ,...,i, ) computed from equation 72 are less than or equal to
+one and satisfy the inequalities of equation 76. I t should be
+remarked that the inequalities of equation 76 do not follow from
+the inequalities of equation 74. F r om equation 72 and the
+inequality Q(i ,...,i, ) £ 1, it follows that
+a. y. (i, ,. . . , i , _)
+If the right-hand side expression in equation 77 happens to be
+less than one, then equation 77 imposes a restriction on Q. .
+Since
+= 4-"
+(the summation is taken over all values i, ,...,i, for which
+i-,+ ... + ik = i), we must have either
+-59-
+
+a.Y.(ilf...,ik)
+a (i ,. . . , i)
+for all values i,,...,i, for which i, + .. . + i, = i, or
+a. Y. ( i, ,. . . ,i.11 1 K <
+at least for one set of values i,,...,i, satisfying t he condition
+i +  . . . + i, = i . H e n c e, equation 77 gives an upper bound for1 K
+Q. whenever there exists a set of integers i,,...,i, such that1 JL  K.
+i.. + ... + i, =  i and_L k
+ai
+It is of interest to investigate the case of independence, i.e.,
+the case when the probability t h at an additional hit will not
+down the plane does not depend on the number and distribution of
+hits already received. D e n o te by q(i) the probability that a
+single hit on the area A. will not down the plane. T h en under
+the assumption of independence we have
+il i 2 i kQ(ilf...,ik) = [q(l)l - 1 [ q ( 2 )J *  ... [ q ( k )J * .  ( 7 8)
+Hence, the only unknown probabilities are q(1),..*,q(k).
+Let Y(i) be the conditional probability that the area A. is hit
+knowing that the plane received exactly one hit. Obviously
+tY(k)] k . (79),J. •. •
+-60-
+
+Similarly, let < $ ( i) be the conditional probability that the area
+A. is hit knowing that the plane received exactly one hit and
+this hit did not down the plane. B e c a u se of the assumption of
+independence, we have
+6, ( i , ,. ..,!,.) = •  , ' —— TT [6(D] . . . [ 6 ( J O1 .  ( C O)J- - L J S . J . - . : . .. 1 , i
+Furthermore, we have
+5(1, =
+Since the probability q that a single hit does not down the plane
+k
+is equal to £  Y ( i ) q ( i ), we obtain from equation 81
+(82)
+Because of the assumption of independence, we see that 6(i) is
+equal to the ratio of the total number of hits in the area A. of
+the returning planes to the total number of hits received by the
+returning planes. T h at is
+£ • • • £ J i a< Jj." • • '3fc)
+Jk 1 ) ,6(i) = ————— ± — — — —— i — — — — — — — — — — — — — — — — — — —— .  ( 8 3 )
+Since Y(i) is assumed to be known and since 6(i) can be computed
+from equation 83, we see from equation 82 that q(i) can be
+determined as soon as the value of q is known. T he value of q
+can be obtained by solving the equation
+n a  .
+£ - i = 1 - a . ( 8 4 )
+-61-
+
+NUMERICAL EXAMPLE
+In the examples for parts I, III, and IV we have estimated the
+probability t h at a plane will be downed without reference to the
+part of the plane that receives the hit. H o w e v e r, the vulner-
+ability of a particular part (say the motors) may be of interest
+and this example illustrates the methods of estimating part
+vulnerabilities under the following a s s u m p t i o n s:
+• T he number of planes participating in combat is large so
+that sampling errors can be neglected.
+• T he probability that a hit will down the plane does not
+depend on the number of previous non-destructive hits. T h at
+is, qi = q2 = ... = qn = qo .
+• G i v en that a shot has hit the plane, the probability that
+it hit a particular part is assumed to be known. I n this
+example it is put equal to the ratio of the area of this
+part to the total surface area of the plane.-"-
+• T he division of the plane into several parts is repre-
+sentative of all the planes of the mission. I f the types of
+planes are radically different so that no representative
+division is possible, we may consider the different classes
+of planes separately.
+Consider the following example. O f 400 planes on a bombing
+mission, 359 return. O f these, 240 were not hit, 68 had one hit,
+29 had two hits, 12 had three hits, and 10 had four hits.
+Following t he example in part I we have
+N = 400,
+whence
+A =  240 a  =  .600o o
+h =6 8 a^  = .170
+A2 = 29 a 2 = .072
+A- = 1 2 a - = .030
+•j O
+A. = 10 a . = .0254 4
+•'-By area is meant here the component of the area perpendic-
+ular to the direction of the enemy attack. I f this direction
+varies during the combat, some proper average direction may be
+taken.
+-62-
+
+As before, the probability that a single hit will not down the
+plane is given by the root of
+q
+2
+o
+^4
+4 lo '
+which reduces to
+- .030qQ - .025 = 0
+and
+q =  .850^
+Suppose that we are interested in estimating the vulnerability of
+the engines, the fuselage, and the fuel system. A s s u me that the
+following data is representative of all the planes of the
+mission:
+Part number Description
+2 engines
+Fuselage
+Fuel system
+All other parts
+Total area
+Ratio of
+area of part
+to total
+Area o f
+35
+45
+20
+30
+130
+sq.
+sq.
+sq.
+sq.
+sq.
+part
+ft .
+ft .
+ft .
+ft .
+ft .
+area ( Y ( i ) )
+35
+130 ~
+45
+130
+20
+130
+30
+130
+.26 9
+. 346
+.154
+.231
+The ratio of the area of the i-th p a rt to the total area is
+designated Y(i). G i v en that the plane is hit, by the third
+assumption, Y(i) is the probability that this hit occurred on
+part i. T h us
+-63-
+
+Y(l) = .269
+Y(2) = .346
+Y(3) = .154
+Y(4) = .231
+The only additional information we require is the number of hits
+on each part. L et the observed number of hits be 202. I n
+general, the total number of hits (on returning planes) must be
+equal to
+A. + 2A_ + 3A_ + ... + nAi 2  3  n
+and in this example
+AI + 2A2 + 3A3 + 4A4 = 68 + 2(29) + 3(12) + 4(10) = 202
+The hits on the returning planes were distributed as follows:
+Ratio of number of hits
+observed on part to
+Number of hits t o t a l number of observed
+Part number o b s e r v ed on part h i t s (6(i))___________
+1 3 9 . 1 9 3
+2 7 8 . 3 8 6
+3 3 1 . 1 5 4
+4 5 4 . 2 6 7
+Total number of hits 2 0 2
+The ratio of the number of hits on part i to the total number of
+hits on surviving planes is designated 6(i). T h en q(i), t he
+probability that a hit on the i-th p a rt does not down the plane,
+is given by
+-64-
+
+whence
+K I 1 \ 1  Q -3
+(.850) = .61
+Til! <-850> - '85
+<-850) = -98
+The results may be summarized as follows:
+Probability of P r o b a b i l i ty of being
+surviving a single d o w n ed by a single
+Part h i t (g(i))_______ h i t (1 - g(i) ) _ _ _ __
+Entire plane . 8 5 . 1 5
+Engines . 6 1 . 3 9
+Fuselage . 9 5 . 0 5
+Fuel system . 8 5 . 1 5
+Other parts . 9 8 . 0 2
+Thus, for the observed data of this hypothetical example, the
+engine area is the most vulnerable in the sense that a hit there
+is most likely to down the plane. T he fuselage has a relatively
+low vulnerability.
+-65-
+
+PART VI
+SAMPLING ERRORS1
+In parts I through V we have assumed that the total number of
+planes participating in combat is so large that sampling errors
+can be neglected altogether. H o w e v e r, in practice N is not
+excessively large and therefore i t is desirable to take sampling
+errors into account. W e shall deal here with the case when
+q, = q.p... = q =  q (say) a nd we shall derive confidence limits for
+the unknown probability q.
+If there were no sampling errors, then we would have
+(85)
+xi = p(l - a
+0 - a]_ ~ ••• ~ ai_i ~ xi
+( i = 2,3, . . . ) ,
+where p = 1 - q. H o w e v e r, because of sampling errors we shall
+have the equation
+xi = P^1 ~ a
+0 ~ ••• ~
+where p. is distributed like the success r a t io in a sequence of
+N. = N(l - a^ - a, - ... -a . - , -x, - ... - x - ,  ) independenti o x i  — i x  i  — j.
+trials, the probability of success i n a single trial being equal
+to p.
+Let q. = 1 - p. . T h e n, according to equation 26 we have
+n a  .
+V"1 _ _ _ _ _ _ D _ _ _ _ _ _ __ —  1  a  I  "T \L, ~————— - 1 - aQ, ( < , 7 )
+j=l q, ... q.
+part of "A Method of Estimating Plane Vulnerability
+Based on Damage of Survivors" was published as SRG memo 103 and
+AMP memo 76.6.
+-66-
+
+provided that x. = 0 for i > n. I n part I we have shown that
+x. = 0 for i > n if there are no sampling errors. T h is is not
+necessarily t r ue if sampling errors are taken into account. However,
+in the case of independence, i.e., w h en q. = q (i = 1,2,...), x.
+OQ
+is very small for i > n so that £ x , can be neglected.
+i=n+l
+In fact, if the number of planes that received more than n hits
+were not negligibly small, it follows from the assumption of
+independence that the probability is very high that at least some
+of these planes would return. S i n ce no plane returned with more
+oo
+than n hits, for practical purposes we may assume that 2_,  x . = 0.
+In what follows we shall make this assumption. i = n + l
+Each of the quantities q -, ,. . . ,q c an be considered as a sample
+e_stimate_ of the unknown probability q. H o w e v e r, the quantities
+q,,...,q a re unknown. I t is merely known that they satisfy
+the relation in equation 87. C o n f i d e n ce limits for q may be
+derived on the basis of equation 87. H o w e v e r, we shall use
+another more direct approach.
+To derive confidence limits for the unknown probability q we shall
+consider the hypothetical proportion b. of planes that would have
+been hit exactly i times if dummy bullets would have been used.
+We shall treat the quantities b, , . . . , b, as fixed (but u n k n o w n)
+constants.. T h is assumption does not involve any loss of
+generality, since the confidence limits for q obtained on the
+basis of this assumption remain valid also when b.,...,b, are
+random variables. C l e a r l y, the probability distributio n of Na.
+(i = l,...,n) .is the same as the distribution of the number of
+successes in a sequence of Nb. independent trials, the prob-
+ability of success in a single trial being q . H e n ce
+E(Hai) = q1Nbi ( 8 8 )
+a2 ( N aj_) = Nbiq1(l - q1) . ( 8 9 )
+-67-
+
+From equations 88 and 89 we obtain
+= b ( 9 0 )
+2 /ai
+a, a _ a
+Since the variates —, —=• > . . . ,— a re independently distributed,
+q q  q n
+and since a. is nearly normally distributed if N is not small, we
+can assume with very good approximation that the sum
+n a .
+£ "I 0 2 )
+i=l q1
+is normally distributed. W e obtain from equations 90 and 91
+n a . \ n
+E -I -  E *i - 1 - ao ( 9 3 )
+=l q / 1 = 1
+/ n a . \ n  b . (1 - q )2 /  \p i  \ _ V  1 _____o 2 ^ - r) - 2- ———T— •
+\i=l q 1/ i = l N q 1
+For any positive a < 1 let Aa be the value for which
+.2
+' Aa i  -  T-——— e d t = a
+a
+The s et o f a ll v a l u es q  f or w h i ch t he i n e q u a l i ty
+"'
+«v/i= i N q 1 -  i = i ^  °  A °  7  i -i m 1 ( 9 5 )
+-68-
+
+is fulfilled forms a confidence set for the unknown probability q
+with confidence coefficient a . H o w e v e r, formula 95 cannot be
+used, since it involves the unknown quantities b,...,b . S i n ce
+ai—- c o n v e r g es stochastically t o b. as N •* « , we change the stan-
+ai 1dard deviation of £—r- only by a quantity of order l e ss t h an —
+q r / N
+if we replace b. by — r . ' T h u s, the set of values q that satisfy
+the inequalitie s
+n a  (I - q1) n  ^ / „ a ^ l - q1) ( 9 6 )
+is an approximation to a confidence set with confidence
+coefficient a •
+Denote by q t he root of the equation in q
+n a  .
+Then q c o n v e r g es stochastically to q as N -> »  . A  considerable
+simplificatio n can be achieve d in the computation of the
+confidence set by substituting q f or q in the expression of the
+aistandard deviatio n of £/— -^ . T he error i n t r o d u c ed by this substi-
+q
+tution is small if 11  is large. M a k i ng this substitution, the
+inequalitie s defining the confidence set are given by
+. = 1
+-69-
+
+Hence, the confidence s et is an interval. T he upper end point of
+the confidence i n t e r v al is the root of the equation
+n
+— =  1 - a -
+a.(1 - q )i o
+Nq2i
+o
+(98)
+and t he lower end point of the confidenc e interval is. the root of
+the equation
+n
+E = 1 - a
+n a . (1 - q )i o
+Nq2i (99)
+NUMERICAL EXAMPLE
+In all previous examples it was assumed that A. (the number ot
+planes returning with i hits) was compiled f r om such a large
+number of observations t h at they were not subject to sampling
+errors. I f it is further assumed that the probability q that a
+hit will down a plane does not depend on the number of previou s
+non-destructive h i t s, it is possible t o obtain an exact solution
+for the probability t h at a hit will down a plane. H e re we
+introduce t he possibility t h at the A ,...,A a re subject too n
+sampling errors but retain the assumption of independence. U n d er
+these less restrictive a s s u m p t i o ns w e cannot obtain the exact
+solution f or q, but for any positive number a < 1 we can construct
+two functions of the data, called confidence limits, such that
+the statement that q lies between the confidence limits will be
+true lOOa percent of the time in the long run. T he confidence
+limits are calculated f or a = .95 and .99.
+-70-
+
+Under the assumptions of part I, it was proved that no planes
+received more hits than the greatest n u m b er of hits observed on a
+returning plane. T h is is not necessarily t r ue when the possi-
+bility of sampling error is introduced, but it is retained as an
+assumption, since the error involved is small.
+If the a. are subject to sampling error, and q is the true para-
+meter.
+n a.
+E4- ( A )i q
+will be approximately normally distributed with mean value 1 - a ,
+In outlining the steps necessary to calculate the confidence
+limits, the following hypothetical set of data will be used.
+Given
+A.
+N = 500 a  =
+A^ =O
+Al =
+A2 =
+A =A3
+A4 =
+A =A5
+400
+40
+25
+5
+•3
+2
+a =o
+al =
+a2 =
+a =3
+a4 =
+a =5
+.80
+.08
+.05
+.01
+.006
+.004
+475
+The first step is to find the value q , for which expression A is
+equal to its mean value, by finding the positive root of
+q q
+We obtai n
++ +  +  _  1 _ a
+2 3  4  5
+. 2 0 q5 - .08q4 - . 05q3 - . O l q2 - .006q - .004 = 0
+qQ = .850 .
+-71-
+
+The next step is to calculate the standard deviation of
+expression A. T h is can be shown to be approximately equal to
+2i
+o
+Nq6 N q 8 N q 10n ^  M
+= .01226 .
+n a^
+Knowing that ] T) — - is approximately normally distributed with
+i=l q 1
+mean value 1 - a a nd the standard deviation a, we can determineo
+aithe range in which /  „ — r- c an be expected to be l O O cx percent of
+q1
+the time (say 95 and 99 percent) by determining X _ _ and X• y !5 •  y y
+such that
+2lT
+-X
+r1
+.95
+_ '
+2? J
+_ f - ± _ I  d t =  . 99 .
+n .9 9
+From t he t a b le o r t he a r e as o f a  n o r m al c u r v e, i t i s f o u nd t h at
+X 9 5 =  1 . 9 5 9 9 64
+A „ „ =  2 . 5 7 5 8 29 .
+We can now calculate the confidence limits for each value of a by
+finding the two values of q for which the equality sign of the
+following expression holds:
+-72-
+
+n a .
+V —
+£l?
+It follows t h at for each a , the confidence limits are the
+positive r o o ts of the equation
+n a .
+5- _ i = 1 - a +x  c>-', i  o  —A al-l. q
+Xn . 0 1 2 2 6 7 8A 1  - a - A a 1 - a +  \aa. a  a  o  a  o  a
+.95 1 . 9 5 9 9 64 . 0 2 4 0 44 . 1 7 5 9 56 . 2 2 4 0 4 4
+.99 2 . 5 7 5 8 29 . 0 3 1 6 00 . 1 6 8 4 00 . 2 3 1 6 0 0
+For a = .95 the confidence limits of q a re the positive roots of
+equat i on
+a ^ a  a  _ a  a
+—— +-^+^+-|+-|= .175956,
+q q  q  q  q
+which reduces to
+.175956q5 - .08q4 - .05q3 - .Olq2 - .006q - .004 = 0
+q = .912,
+and equation
+dl a -) a 3 a 4 a s
+~2 1+ ~T + ~ ? +  ~§ = . 2 2 4 0 4 4,q q  q  q  q
+which reduces to
+.224044q5 - .08q4 - .05q3 - .Olq2 - ,006q - .004 = 0
+q =
+Similarly, for a = . 99 we have
+-73-
+
+5 - S 4 - . 0 5 q3 -  W -  - 0 0 6, - . 0 04 - 0.168400q -  - O S q -  . 0 5q
+= . 9 35
+.231600 q -
+= . 7 87 .
+5 -  -  . 0 5 q3 -  -  Olq2 -  - 0 0 6q -  . 0 04 -  0
+limit s a re . 7 8 7 a nd . 9 3 5.
+-74 -
+
+PART VII
+MISCELLANEOUS REMARKS1
+1. F a c t o rs that may vary from combat to combat but influence t he
+probability of surviving a hit. The factors that influence t he
+probability of surviving a hit may be classified i n to two groups.
+The first group contains those factors t h at do not vary from
+combat to combat. T h is does not necessarily m e an that the factor
+in question has a fixed value of all combats; the factor may be a
+random variable whose probability distribution does not vary from
+combat to combat. T he second group comprises those factors whose
+probability d i s t r i b u t i on c a n n ot be assumed t o be the same for all
+combats. T o make predictions as to the proportions of planes
+that will be downed in future combats, it is necessary to study
+the dependence of the probability q of surviving a hit on the
+factors in the second group. I n part V we have already taken
+into account such a factor. I n part V we have considered a
+subdivision of the plane into several equi-vulnerability areas
+A,,...,A, and we expressed the probability of survival as a func-
+tion of the part of the plane that received the hit. Since the
+probability of hitting a certain part of the plane depends on the
+angle of attack, this probability may vary from combat to combat.
+Thus, it is desirable to study the dependence of the probability
+of survival on the part of the plane that received the hit. In
+addition to the factors represented by the different parts of the
+plane, there may also be other factors, s u ch as the type of gun
+used by the enemy, etc., which belong to the second group. T h e re
+are no theoretical d i f f i c u l t i es whatsoever i n extending the
+theory in part V to any number and type of factors. T o
+illustrate this, let us assume t h at the factors to be taken into
+account are the different parts A-,,...,A, of the plane and the
+different guns g,,...,g u s ed by the enemy. L et q(i,j) be the
+probability of surviving a hit on part A, knowing that the bullet
+has been fired by gun g.. W e may order the km pairs (i,j) in a
+sequence. W e shall denote q(i,j) by q(u) if the pair (i,j) is
+the u-th e l e m e nt in the ordered s e q u e n ce of pairs. T he problem
+of determining the unknown probabilities q(u) (u = l,...,km) can
+be treated in exactly t he same way as the problem discussed i n
+part of "A Method of Estimating P l a ne Vulnerability
+Based on Damage of Survivors" w as published as SRG memo 109 and
+AMP memo 76.7.
+-75-
+
+part V assuming that the plane consists of km parts. A ny hit on
+part A. by a bullet from gun g . can be considered as a hit on
+part A i n the problem discussed in part V where (i,j) is the
+u-th element in the ordered s e q u e n ce of pairs.
+2. N o n - p r o b a b i l i s t ic i n t e r p r e t a t i on of the results. I t is
+interesting to note that a purely arithmetic interpretation of
+the results of parts I through V can be given. I n s t e ad of
+defining q. as the probability of surviving the i-th hit knowing
+that the previous i - 1 hits did not down the plane, we define q.
+as follows: Let M. be the number of planes that received at least
+i hits and the i-th hit did not down the plane, and let N. be the
+total number of planes that received at least i hits. T h en
+Miq. = — — .  T h u s, q. is defined in terms of what actually hap-
+1. I J «  1
+pened in the particular combat under consideration. T o distin-
+guish this definition of q. from the probabilistic definition, we
+M. _  _
+shall denote the ratio — b y q.. T h e quantity q i s unknown,
+since we do not know the distribution of hits on the planes that
+did not return. H o w e v e r, it follows f r om the results of part I
+that these quantities must satisfy equation 26. I f we can assume
+that in the_particular combat under consideration we have
+q. = ... = q t h en the common value q of these quantities is the
+root of the equation
+= 1 - a
+Assuming that c [, > _ q „ >_  . . . > _ q ,  the minimum value Q. of Q.
+derived i n_ partis III a r id IV can be interpreted as the minimum
+value of Q . = q, ... q. .
+The minimum and maximum values of Q. derived in part IV can also
+be interpreted as minimum and maximum values of Q.= q,... q. if
+we assume that the inequalities ^q.; <. ^-i + i 5.  ^ 2 ^ -1 ^ = • * • ' • •• 'n~
+are fulfilled. S i m i l a r l y, a pure arithmetic interpretation of
+the results of part V can be given.
+-76-
+
+3. T he case when Y(i) is unknown. I n part V we have assumed
+that the probabilities Y( 1 )r•.•,Y(k) are known. S i n ce the
+exposed areas of the different parts A-,,...,A, depend on the
+angle of attack, and since this angle may vary during the combat,
+it may sometimes be difficult to estimate the probabilities
+Y( 1) ,.. •, Y ( k) . T h u s, it may be of interest to investigate the
+question whether any inference as to the probabilities
+q(l),...,q(k) can be drawn when Y(l),...,Y(k) are entirely unknown,
+We shall see that frequently a useful lower bound for q(i) c an
+still be obtained. I n fact, the value q*(i) of q(i), calculated
+under the assumption t h at the parts A.(j £ i) are not vulnerable
+(q(j) =1) , is certainly a lower bound of the true value q(i).
+Considering only the hits on part A., a lower bound of q*(i), and
+therefore also of q(i), is given by the root of the equation
+n a *
+£ - £ = 1 - a* ,  ( 1 0 0 )
+r=l q
+where a* (r = 0,1,...,n) is the ratio of the number of planes
+returned with exactly r hits on part A. to the total number of
+planes participating in combat.
+The lower limit obtained from equation 100 will be a useful one
+if it is not near zero. T he root of equation 1 00 will be
+n
+considerably above zero if ^ a* i s not very small as compared
+with 1 - a*. ' T h is can be expected to happen whenever both Y(i)
+and q(i) a re considerably above zero.
+-77-
+
+PART VIII
+VULNERABILITY OF A PLANE TO DIFFERENT TYPES OF GUNS1
+In part V we discussed the case where the plane is subdivided
+into several equi-vulnerability areas (parts) and we dealt with
+the problem of determining the vulnerability of each of these
+parts. I t was pointed out in part VII that the method described
+in part V can be applied to the more general problem of esti-
+mating the probability q(i,j) that a plane will survive a hit on
+part i caused by a bullet fired from gun j. H o w e v e r, this method
+is based on the assumption t h at the value of Y(i,j) is known
+where Y(i,j) is the conditional probability that part i is hit by
+gun j knowing that a hit has been scored. I n practice it may be
+difficult to determine the value of Y(i,j) since the proportions
+in which the different guns are used by the enemy may be unknown.
+On the other hand, it seems likely that frequently we shall be
+able to estimate the conditional p r o b a b i l i ty Y ( i l j) that part i
+is hit knowing that a hit has been scored by gun j. T he purpose
+of this memorandum is to investigate the question whether q( i , j )
+can be estimated f r om the data assuming that merely the quan-
+tities Y(ilj ) are known a priori. I n what follows we shall
+restrict ourselves to the case of independence, i.e., it will be
+assumed that the probability of surviving a hit does not depend
+on the non-destructive hits already received.
+Let 6(i,j) be the conditional probability t h at part i is hit by
+gun j knowing that a hit has been scored and the plane survived
+the hit. F u r t h e r m o r e, let q be the probability that the plane
+survives a hit (not knowing which part was hit and which gun
+scored the hit) . T h e n, similar to equation 82, we shall have
+(101)
+Let q(j) be the probability that the plane will survive a hit by
+gun j (not knowing the part hit) . Then obviously
+,j) •  ( 1 0 2 )
+1
+Let < 5 ( i | j) be the conditional probability that part i is hit by
+gun j knowing that a hit has been scored by gun j and the plane
+survived the hit. C l e a r ly
+s part of "A Method of Estimating Plane Vulnerability
+Based on Damage of Survivors" was published as SRG memo 126 and
+AMP memo 76.8.
+-78-
+
+i'JWi'J ) .  ( 1 0 3 )
+From e q u a t i on 1 0 3, w e obtai n
+q(i'j ) -  • ' 7 7 T T TT 9  ( J ) •  ( 1 0 4 )
+The quantity 6(i|j) can be estimated on the basis of the observed
+hits on the returning planes. T he best sample estimate of 6(i|j)
+is the ratio of the number of hits scored by gun j on part i of
+the returning planes to the total number of hits scored by gun j
+on the returning planes. T h u s, on the basis of equation 104, t he
+probability q(i,j) can be determined if q(j) is known.
+Now we shall investigate the question whether q(j) can be
+estimated. F i r s t, we shall consider the case when it is known a
+priori that a certain part of the plane, say part 1, is not
+vulnerable. T h en q(i,j) = 1 and we obtain from equation 104
+1 = S ( l l j) . .. a
+Y( 11 j ) q n) ' ( 1 °5'
+Hence,
+ar- n -  T d l J ) n n f i iq(D ) ~  6 d l j ) '  ( 1 0 6 )
+Thus, in this case our problem is solved. I f no part of the
+plane can be assumed to be invulnerable, then we can still obtain
+upper limits for q(j). I n fact, since q(i,j) £ 1, we obtain from
+equation 1 04 ~ ~
+(107 )
+Y( i I " i)Denote by p(j) the minimum of ; t ^i with respect to 1. T h en
+we have
+q(j) 1 p(j) • ( 1 0 8 )
+If there is a part of the airplane that is only slightly
+vulnerable (this is usually the case), then q(j) will not be much
+below P(j). Let the part i. be the part of the plane least
+-79-
+
+vulnerable to gun j. I f q( i . ,j ) has the same value for any gun
+j, then q(j) is proportional to P(j). T h u s, the error is perhaps
+not serious if we assume that q(j) is proportional to p(j), i.e.,
+q(j) = XP(j). ( 1 0 9 )
+The proportionality factor X can be determined as follows. F r om
+equations 101 and 104 we obtain
+Y(i,j) * ~ AKVJ ' Y(ilj)
+Hence,
+- -,D) -
+Denote £ 8(i,j) by s(j). T h e n,
+i
+From equations 111 and 112 we obtain
+Since
+E v(iij ) = i,
+i
+we obtain from equatio'n 113
+D i
+But
+(112)
+-80-
+
+Hence ,
+Since 6(j) and P ( j) are known quantities, the proportionality
+factor A can be obtained f r om equation 1 1 5. T he probability q is
+the root of the equation
+n
+where a. denotes the ratio of the number of planes returned with
+exactly j hits to the total number of planes participating in
+combat .
+NUMERICAL EXAMPLE
+In part V, the case of a plane subdivided into several equi-
+vulnerability areas was discussed, and the vulnerability of each
+part was estimated. T he same method can be extended to solve the
+more general problem of estimating the probability that a plane
+will survive a hit on part i caused by a bullet fired from gun j,
+if assumptions corresponding to those of part V are made. T he
+first three of the four assumptions that must be made to apply
+the method of part V directly are identical with those made in
+part V. T h ey are:
+• T he number of planes participating in combat is large so
+that sampling errors can be neglected.
+• T he probability that a hit will not down the plane does
+not depend on the number of previous non-destructive
+hits. T h at is , q, = q =  ... = q ( s a y ), where q. is the
+conditional probability t h at the i-th hit will not down
+the plane, knowing t h at the plane is hit.
+• T he division of the plane into several parts is
+representative of all planes of the mission.
+The fourth assumption necessary to apply the method of part V
+directly u s u a l ly c a n n ot be fulfilled in practice. I t is:
+• G i v en that a shot has hit the plane, the probability t h at
+it hit a particular part, and was fired from a particular
+type of gun, is known.
+-81-
+
+These probabilities depend upon the proportions in which differ-
+ent guns are used by the enemy. T o overcome this difficulty a
+method that does not depend on these proportions is developed in
+part VIII. T he assumptions necessary for the method of part VIII
+differ from those of part V only in that the fourth assumption i s
+replaced by:
+• G i v en that a shot has hit the plane, and given that it
+was fired by a particular type of gun, the probability
+that it hit a particular part is known.
+The information necessary to satisfy this assumption i s more
+readily available, and in the numerical example that follows a
+simplified method is suggested for estimating these
+probabilities.
+The Data
+The numerical example will be an analysis of a set of hypotheti-
+cal data, which is based on an assumed record of damage of sur-
+viving planes of a mission of 1,000 planes dispatched to attack
+an enemy objective. O f the 1,000 planes dispatched, 634 (N)
+actually a t t a c k ed t he objective. T h i r t y - t wo p l a n es were lost
+(L=32) in combat and the number of hits on returning planes was:
+A. = number of planes returning with i hits
+A =  386
+A° = 120 ( A )
+A2 = 4?
+A3 = 22
+A4 = 1 6
+A5 = ll
+The total number of hits on all returning planes is
+Al + 2A2 + 3A3 + 4A4 + 5A5 =
+(B)
+120 + 2x47 + 3x22 + 4x16 4 - 5x11 = 399 .
+These 399 hits were made by three types of enemy ammunition:
+-82-
+
+B, F l a k
+B»  2 0 - m m aircraft cannon
+B,. 7 . 9 - m m aircraft machine gun
+and the hits by these different types of ammunition were also
+recorded by part of airplane hit:
+C, F o r w a r d fuselage
+C~ E n g i n e
+C_ F u l l system
+C. R e m a i n d e r
+The necessary information from the record of damage is given in
+table 7.
+TABLE 7
+NUMBER OF HITS OF VARIOUS TYPES BY PARTS
+Forward F u e l T o t a lfuselage, E n g i n e, s y s t e m, Remainder,
+c c  c  ccl C 2 ^ 3 U 4 p a r t s
+Flak, BI 1 7 2 5 5 0 2 0 2 2 9 4
+20-mm 8  7  1 7 1 8 5 0
+cannon, B
+7.9-mm 7  1 3 1 7 1 8 5 5
+machine
+gun, B3
+Total all 3 2 4 5 8 4 2 3 8 3 9 9
+types
+A Method of Estimating the Probability of Hitting a Particular
+Part Given That a Shot of a Particular Ammunition Has Hit the
+Plane!
+The conditional probability that a plane will be hit on the i-th
+area, knowing that the hit is of the j-th type, must be deter-
+mined from other sources of information than the record of
+^-Necessar y f o r f o u r th a s s u m p t i o n.
+-03-
+
+damage. A l t h o u gh a simplified method is used in this example,
+more accurate estimates can be made if more technical data is at
+hand. T he first step is to make definite boundaries for the
+areas C. , C« , C» , C.. N e x t, assume that each type of enemy fire
+& , B« , B_ has an average angle of fire 6., 9_ , e _. F i n a l l y,
+assume that the probability of hitting a part of the plane from a
+given angle is equal to the ratio of the exposed area of that
+part from the given angle to the total area exposed from that
+angle.
+In this example it is assumed that flak ( BI ) h as the average
+angle of attack of 45 degrees in front of and below the plane,
+whereas 20-mm c a n n on and 7 . 9— mm m a c h i ne gun fiire both hit the
+plane head-on on the average. T he area C .. is so bounded that it
+includes areas which, if hit, w i ll endanger the pilot and
+co-pilot. A r ea C_ includes the engine area and area C3 consists
+essentially of the area covering the fuel tanks. T he results of
+computations, based on the above assumptions, are assumed to be
+as follows, where " Y ( C. |B.) r e p r e s e n ts the probability that a hit
+is on part C, knowing it is of type B. (as estimated by deter-
+mining the ratio of the area of C. to the total area as viewed
+from the angle 6. associated w i th ammunition B.).
+•J - J
+(C)
+Y(C1lB1) = .058 7 ( C 1lB2) = .143 - / ( C - j B g) = .143
+•Y(C2lB1) = .092 7 ( C 2lB2) = .248 Y ( C 2|B3) = .248
+T(C3lB1) = .174 7 ( C 3lB2) = .303 ^ C ^ B ^ = -303
+Y(C4lB1) = .676 7 ( C 4lB2) = .306 Y ( C 4|B3) = .306
+1-This notation differs from the previous notation of part
+VIII. I n the first part of part VIII, Y(i|j) is used with the
+understanding t h at the first subscript refers to the part hit and
+the second subscript refers to the type of bullet. I n the
+numerical example, the relationship is made explicit by letting
+C. stand for the i-th p a rt (or component) and B. for the j-th
+type of bullet. T he same device is used throughout this example.
+-84-
+
+Computations for Method of Part VIII
+Let q(C.,B.) be the probability of surviving a hit on part C. by
+gun B.. B y equation 104, we have
+q(ci'Bj} =
+6(C |B
+where 8(C. I B .) is the probability of being hit on part C.,
+knowing that the hit was scored by a bullet from gun B. and that
+the plane survived? 7(C. IB.) is the probability of being hit on
+part C. , knowing that the hit was scored by a bullet of type B.;
+and q(B.) is the probability that a plane will survive a hit of
+type B., knowing that the plane is hit. T h is can be estimated by
+taking the ratio of the number of hits of type B. on part C. to
+the total number of hits of type B. on returning planes.
+Applying this method to the table we obtain
+(E)
+atC^lB ^ = .058 6 ( C 1lB2) = .160 ^ ( C j B g) = .127
+5(C2lB1) = .085 6 ( C 2lB2) = .140 5 ( C 2|B3) = .236
+5(C3lB1) = .170 5 ( C 3|B2) = .340 8 ( C 3|B3) = .309
+5(C4|B1) = .687 6 ( C 4lB2) = .360 6 ( C 4|B3) = .327
+The final quantity required to calculate q(C.,B.) by equation D
+is q(B.). B y equation 109, we have
+q(B..) = XP(Bj) ,  ( F )
+r(c IB )
+where p(B.) i s the minimum of / _ \J \ w i th respect to i.D o  I*-. 11> •)
+-85-
+
+Y(C2|Bj)1 2  j  4 ..
+P(BJ) = mm |6 | B ) '6(C |B ) 'fi(C IB. ) '6(C,|B
+\ - * • J  *•  j  J J ^ J
+'058 - 092 * 174 - 6 7 61- min- mm
+min l  ,  >1 ,  >1 ,  .984
+.984
+- min- mm
+(G)
+,306 1
+(.894 , >1 ,  .891 , . 85oJmm
+.850
+.143 . 2 48 . 3 03- min- mm
+min > 1 f  > 1 ,  .981
+.936
+, . 9 3 6J
+The constant multiplier A . is defined by equation 1 15
+6(B.)
+j
+where 6(B.) is the conditional probability that a hit is of type
+V
+The determination of q is identical with the procedure of part
+VII. F r om equation 26
+= N - Aoq
+we substitute t he values of equation K'.
+248q5 - 120q4 - 47q3 - 22q2 - 16q - 11 = 0 ( I )
+-86-
+
+The root is .930 (= q , say)
+The values 6(B.) are obtained directly from table 7 by taking the
+ratio of hits of type B. on returning planes to the total number
+of hits on returning planes.
+294
+S^B1^ = "399 = *737
+6(B2) = -J| = .125 ( J )
+6(B3) = 3§f = -138
+Substituting the results of equations G, I, and J in equation H,
+we obtain:
+6(8..)
+X = qo £ P(B.)
+f '1.
+737 - 125 - 138
+984 . 8 50 . 9 36
+= .930 (1.0433)
+= .9703
+Substituting in equation F
+q(B1) = (.9703) (.984) = .955
+q(B2) = (.9703) (.850) = .825 ( K )
+q(B3) = (.9703) (.936) = .908
+The probabilities q(C.,B.) can now be determined from equation D
+by using the values given in equations C, E, and K.
+6(C.|B.)
+/____ \ 1  J  /  1-1 \
+-87-
+
+q(C ,B ) = (.058) (.955)/.058 = .955
+q(C2,B1) = (.085) (.955)/.092 = .882
+q(C3,B1) = (.170) (.955)7.174 = .933
+q(C4,B1) = (.687) (.955)7.676 = .971
+q(ClfB2) = (.160) (.825)7.143 = .923
+q(C2,B2) = (.140) (.825)7.248 = .466
+q(C3,B2) = (.340) (.825)7.303 = .926 ( L )
+q(C4,B2) = (.360) (.825)7.306 = .971
+q(Cl'B3) = ('127) (-908)7.143 = .806
+q(C2,B3) = (.236) (.908)/.248 = .864
+q(C3,B3) = (.309) (.908)7.303 = .926
+q(C4,B3) = (.327) ( . 9 0 8 ) / . 3 06 = .970
+Comments on Results
+The vulnerability of a plane to a hit of type B. on part Ci is
+the probability that a plane will be destroyed if it receives a
+hit of type B. on part C.. L et P(C.,B.) represent t h is vulner-
+ability. T he numerical value of P(C.,B.) is obtained from the
+set L and the relationship
+P(Ci,Bj) = 1 - q(Ci,Bj) ( M )
+The vulnerabilit y of a plane to a hit to type B. on part C. is
+given in table 8.
+This analysis of the hypothetical d a ta would l e ad to the
+conclusion that the plane is most vulnerable to a hit on the
+engine area if the type of bullet is not specified, and is most
+vulnerable to a hit by a 20-mm c a n n on s h e ll if the part hit is
+not specified. T he greatest probability of being destroyed is
+.534, and occurs when a plane is hit by a 20-mm c a n n on shell
+-88-
+
+on the engine area. T he next most vulnerable event is a hit by a
+7.9-mm m a c h i ne gun bullet on the cockpit. T h e s e, and other
+conclusions that can be made from the table of vulnerabilities
+derived by the method of analysis of part VIII, can be used as
+guides for locating protective armor and can be used to make a
+prediction of the estimated loss of a future mission.
+TABLE 8
+VULNERABILITY OF A PLANE TO A HIT OF A SPECIFIED TYPE
+ON A SPECIFIED PART
+Flak, B
+20-mm
+cannon,
+Forward
+fuselage
+.045
+.077
+Engine
+.118
+.534
+Fuel
+system
+.067
+.074
+Remainder
+.029
+.029
+Vulner-
+ability to
+specified
+type of
+hit when
+area is un-
+specified
+.045
+.175
+7.9-mm
+machine
+gun, B
+,194 136 .074 .030 .092
+Vulnerability
+to hit on
+specified area
+when type of
+hit is un-
+specified .114 .179 .074 .038 .070
+aThese vulnerabilities are calculated using the method of
+part V, and assuming that the y(C.), the probability that part
+C. is hit, knowing that the plane is hit, are as follows:
+y(C. ) = .084 Y ( C ,) = .128 Y ( C .J = .212 Y (C ) = .576 .
+1 £•  3  4 r
+"This is the probability that a plane will be destroyed by a
+hit, when neither the part hit nor the type of bullet is
+specified.
+-89-
+
+SECURIT Y C L A S S I F I C A T I ON OF T H IS PAG E (When Data  Entered)
+REPORT D O C U M E N T A T I ON P A GE READ I N S T R U C T I O NS
+BEFORE C O M P L E T I NG F O RM
+1. R E P O RT NUMBE R
+RC 4 32
+2. G O VT ACCESSIO N NO 3. RECIPIENT' S C A T A L OG NUMBE R
+4. T I T LE (and  Subtitle)
+A REPRINT OF "A METHOD OF ESTIMATING PLANEVULNERABILITY BASED ON DAMAGE OF SURVIVORS"
+BY ABRAHAM WALD
+5. TYPE OF REPOR T & PERIOD COVERE D
+Reprint -  1 9 43
+6. P E R F O R M I NG ORG . R E P O RT N U M B ER
+See B l o ck 1 8
+7. A U T H O R f s;
+Abraha m W a ld
+8. CONTRAC T OR GRAN T NUMBER ^
+9. PERFORMIN G O R G A N I Z A T I ON NAM E AND ADDRES S
+Statistical Research Group/National
+Defense Research Committee,
+Applied Mathematics Panel
+10. P R O G R AM E L E M E N T, PROJECT , T A SK
+ARE A &  W O RK U N IT N U M B E RS
+II . C O N T R O L L I NG O F F I CE N A ME A ND ADDRES S
+Center for Naval Analyses
+2000 N. Beauregard Street
+Alexandria, Virginia 2 2 3 11
+12. R E P O RT D A TE
+July 1 9 80
+13. N U M B ER O F P A G ES
+_______01__________ _
+I* M O N I T O R I NG AGENC Y N A ME &  A D D R E S S f /f dltterent  Irom  Controlling  Otttce)
+Office of the Chief of Naval Operations (Op03)
+Department of the NavyWashington, D.C. 20350
+IS. S E C U R I TY C L A S S, (of  thla  report)
+Unclassifie d
+I5a. D E C L A S S I F I C A T I O N / D O W N G R A D I NG
+SCHEDUL E
+16. D I S T R I B U T i qN S T A T E M E NT (of  this  Report)
+Approved for public release? distribution unlimited
+17. D I S T R I B U T I O N STATEMEN T ( at t h e abstract  entered  I n Block 3 0, I I dlilerent Irom  Report)
+18. S U P P L E M E N T A RY N O T ES
+1) SRG Memo 85/AMP Memo 76.12) SRG Memo 87/AMP Memo 76.2
+3) SRG Memo 88/AMP Memo 76.3
+4) SRG Memo 89/AMP Memo 76.4
+5) SRG Memo 96/AMP Memo 76.56) SRG Memo 103/AMP Memo 76.6
+7) SRG Memo 109/AMP Memo 76.7
+8) SRG Memo 126/AMP Memo 76.8
+19. K E Y W O R DS (Continue o n reverse aide  It  neceaaary a nd Identity  b y block  number)
+aircraft, equations, kill probabilities, probability, vulnerability
+20. A B S T R A CT (Continue o n reverie tide  I I neceaaary a nd Identity b y block  number)
+This research contribution consists of a series of eight memorandaoriginally published by the Statistical Research Group at ColumbiaUniversity for the National Defense Research Committee in 1943 on methods
+of estimating the vulnerability of various parts of an aircraft based on
+damage to surviving planes. T he methodology presented continues to be
+valuable in defense analysis and, therefore, has been reprinted by the
+Center for Naval Analyses in order to achieve wider dissemination.
+145
+DD ,
+FOR M
+JA N 73 1473 E D I T I O N O F 1  NOV 65 I S OBSOLET E
+S/N 0 1 0 2- L F - 0 1 4 - 6 6 01 SECURIT Y C L A S S I F I C A T I ON O F T H IS P A GE (When  Dmtm  Bnterad)
+
+'V
+. . - .  -  '  .  -  •  ' . .  .  •  .  . . . . •  . ' . ' . . . - : • , - . . . . ' , . ; . . . ' . - . . ' •  -  '  - . '  -  -  - ' - - • - . . • - • •  - - ; . . . - : •  - ' • ' ' • . • •  .  • ' • ' . ' \  •  •  •
+1 . ' " ' '  -  • ' '  . - • ' • . - -  v  •  . : - . - • -  .  -  - ' '-:" • • ; • • - • ; . . .  ' • " " ' . •  ' ' '  •  •  • •  • ;  •_ '',:  ;  ' ' . " " ' . '.'.'  ' . ' ' - . '  '-v "
+' . • ' : -' '  . ' . - "; - - : ;  '  ; • ; • ' •.-:• -  '  :  "  ' . : - - " v . • . ' - . • ' . ' • ' • . •  ' ' / .•^••:--::-'$. . • . . ' - - ' . : : . . ' ^ : . ' '" • " ,  • : ^ - ^ .; v- .' ' • • : .-. - '  ' • ' • - ' . '  ' . ' '-. . - : - • , • / • V . - ' . . : - '• •  . , . . : ."•' • • • ' . •  .  •  ;  r  - ' - • ' : '  :  . ' '  :. - /TV, . . . • - • . ; '' : '  '  " : : ' : '. ; - . " ' -  .'•'••
+: •  ' • • ' - ". ' • . . - • • • - - ' . : . " ' .. . - • . :/ : : • - ; . ; . • ' ., . . . : • • ' " • • , • • • /  ' . / • '  - . . . : . - . . ' : ' ;' .  , . . - . : • • - ' • • " ; ' • • " ' : " • : • • " •  :  •  . • • " . '  . • •  ' :- ..••:;••
+."•.• • -  •  • - • - - - - ; • ' • • • • • • • : . - • . ' . " • • •'."••••':•• •:.'•-:•' -  '  •  ' • •  •  . • • '  • • • ' • ' '  •  ' : ' ' " • • • ' • . •  . • • . - . - :  : - . . . . ' • : '. .':.';.• .•••'• • •  ' ' . • • . ' ' " • ' • "  •  • '  " • ' •; " • ; ' "  ' " . • ' '  '•-.'" , •  • - . . • . " ' • - '. - '  : • • • • ' " . . ' - " ' ' . ' ' ' . . •  • ' -  -
+-'•• -  • . '  '  '  '•''•'-'.',' "'."•.- - . ' : :'.' •'•'"•'' ~  "  '  '  : . ' • ' • ' . . ' . •' ' ' • ' ' " ' • ' ' ' ' - • . ' • • : ' _ ' : • • • ' . ' : . . . ":''•'.:  -  . . ' - • ' • " ' ' • . ' ; . / • . .. ' .
+,...- - .  .  " • ' " • ..'.'. . • . " . -. -  • /. ; ' .  - . , . ' . " • • ' • " ' : . . . . ' . .  • ' " . " ' . .; . . ' • - '  ,.. ' -  ' - "'  -  -"'.,..•/• , . ' . . . : '  • - ' . . ' „ -• '  • . . •  - . - ; ' .
+• . : ; • .. :  '  " '  . ' ; • • ; : : ; : . : • ' '  : " " . ' : . . . . • • . '  ;  ' - • ". . ' ' . : ': ; ' . . ' , •. • ' . ; . - . . - ' . " • ' . • "- ' • - : : - , '  • - ; " • ; • ' . '  • • - • • - . ' . ..-..• . '; - • '
+• '••-.'• / ' . ' : '' .  '  •••:  . ' " \ :''';'•:.':-. •  ^.."-^ ' ^' ^' '  '  : ;;: :- ' ' • • ' : ^'~'.  ''':'•'-.'  •  '  ^  •'{  ^"- •'  "•  -  ' ' • • ' ' . / - .  • • • • - :: - - : :'' : ' . " ' /'
+• •  ' ' •  •  " • • - ' • : • ' ' . ; . " - ' ' . -. '"''  :
+ :  '  :  ' - . • • ! ''-} ' '  ' .
+v;-;£'-'^'l: :;;v- '^^^^^:&^ : :.^/'^: ^^ -' \ '  ' , ; ' , ' ' ' i'^ '.••^' '"^ "• ; ; ' - ' • • ' • • ' ' .
+:'*:.:'^:-^.'-.'.--:c--: -  ,:  .  •  :  . - / • . . ^ k -^ . : • . • • . . : - , . / ; • . , : . : .. , - • • • . . . - . -.---'• • . - , . : :: . • : . - , • • • . - .-;:>::•;••'?••••: . . . ' . :. • . • ; :.':;;;vr.:: ' . :' • . ; . " • • ;• ' . • ' ; • • ; x ..'-•,••:;•'•'•",:; : . : . : ; • : ' • : : ; • :' • • • • • ' . " ' : •  -  " - ' : • . " • " " ' • : : • ' • • • ' • _ _ _ _ _ _ _ _ __

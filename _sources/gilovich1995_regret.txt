@@ -1,0 +1,1103 @@
+Psychological Review 
+Copyright 1995 by the American Psychological Association, Inc. 
+Volume 102(2)             April 1995             p 379–395 
+The Experience of Regret: What, When, and Why 
+[Articles] 
+Gilovich, Thomas1,2; Medvec, Victoria Husted1,3
+ 
+1Cornell University.
+ 
+2Correspondence concerning this article should be addressed to Thomas Gilovich, Department of Psychology, Uris 
+Hall, Cornell University, Ithaca, New York 14853. 
+3Correspondence concerning this article should be addressed to Victoria Husted Medvec, Johnson Graduate School of 
+Management, Malott Hall, Cornell University, Ithaca, New York 14853. 
+Much of the research reported here was supported by Grants MH45531 from the National Institute of Mental Health 
+and SBR9319558 from the National Science Foundation. We would like to thank Todd Bickford, Kirsten Blau, Ann 
+Charlton, Theresa Buckley, Deborah Fidler, Nina Hattiangadi, Allison Himelfarb, Elena Jeffries, Danielle Kaplan, Dorie 
+Katzer, Talia Korenbrot, Jennifer Lowe, Ken Savitsky, Marshall Schacht, Sarah Sirlin, Shane Steele, and Robin Winitsky 
+for collecting much of the data reported here. Daryl Bem and Dennis Regan provided helpful comments on an earlier 
+version of this article. 
+Received Date: June 24, 1994; Revised Date: October 31, 1994; Accepted Date: November 1, 1994 
+ 
+Outline 
+z Abstract 
+z Previous Approaches to the Study of Regret 
+z Philosophical Approaches 
+z Economic Approaches 
+z Counterfactual Thinking and Regret 
+z Regrets of Action and Inaction 
+z What People Regret Most in Their Lives 
+z Forced-Choice Responses 
+z Free-Response Data. 
+z The Temporal Aspects of Regret 
+z Intuitions About the Short-Term and Long-Term Regrets of Others 
+z Recent and Life-Long Regrets 
+z Why Regrets Shift Systematically With Time 
+z Factors That Reduce the Pain of Regrettable Actions 
+z Behavioral repair work. 
+z Psychological repair work I: Identifying silver linings. 
+z Psychological repair work II: Dissonance reduction. 
+z Summary. 
+z Factors That Bolster the Pain of Regrettable Inactions 
+z Inexplicable inaction I: Confidence and temporal perspective. 
+z Inexplicable inaction II: The differential impact of compelling and restraining forces. 
+z What was versus what might have been: Differences in the imagined consequences of regrettable actions and inactions. 
+z Factors That Promote the Cognitive Availability of Regrettable Inactions 
+z General Discussion 
+z Multiple Mechanisms and How They Interrelate 
+Page 1 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+z Cultural Influences 
+z Is Regret a Unitary Emotion? 
+z Normative Considerations 
+z References 
+ 
+Graphics 
+z Table 1 
+z Table 2 
+z Table 3 
+z Figure 1 
+z Table 4 
+Abstract  
+This article reviews evidence indicating that there is a temporal pattern to the experience of 
+regret. Actions, or errors of commission, generate more regret in the short term; but inactions, or 
+errors of omission, produce more regret in the long run. The authors contend that this temporal 
+pattern is multiply determined, and present a framework to organize the divergent causal 
+mechanisms that are responsible for it. In particular, this article documents the importance of 
+psychological processes that (a) decrease the pain of regrettable action over time, (b) bolster the 
+pain of regrettable inaction over time, and (c) differentially affect the cognitive availability of 
+these two types of regrets. Both the functional and cultural origins of how people think about 
+regret are discussed. 
+ 
+We have left undone those things which we ought to have done; and we have done those 
+things which we ought not to have done. - —American Book of Common Prayer 
+Many people say they “regret nothing” or they “wouldn't do anything differently” if they 
+could live over again. Although such statements are offered with sincerity, they can be difficult 
+to accept at face value. Living a life with no mistakes and without any regrets is extraordinarily 
+hard to accomplish. A lifetime of making choices brings with it the knowledge that at least some 
+actions were ill-considered, some failures to act unwise. For most of us, it also brings with it the 
+realization that some of these unfortunate outcomes could have been avoided. To live, it seems, 
+is to accumulate at least some regrets. 
+Given that few of us are likely to be strangers to the experience of regret, one question that 
+arises is how we can minimize the depth and frequency of this unpleasant emotional experience. 
+How might we live our lives so as to keep the number and intensity of our future regrets close to 
+some optimal level? To answer this question requires an understanding of what it is that people 
+regret most in their lives and why. These issues are the focus of the present article. 
+Previous Approaches to the Study of Regret  
+Philosophical Approaches  
+Until recently, nearly all scholarly work on the subject of regret involved philosophical efforts 
+Page 2 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+to define the term (Bedford, 1957; deSousa, 1987; Hampshire, 1960; Landman, 1987a; Rorty, 1980; Taylor, 
+1985; see also Landman, 1993). This work has tried to elucidate the nature of the internal state that 
+accompanies or constitutes the experience of regret, specify the circumstances in which regret 
+can properly be said to be experienced, and distinguish regret from related emotional states such 
+as disappointment, guilt, remorse, and sadness. 
+These philosophical efforts have met with mixed success. On the plus side, there is general 
+consensus that regret is an unusually cognitively-laden or cognitively-determined emotion. As 
+Hampshire (1960) states, “‘Do you regret that decision?’ is a question that requires me to think and 
+to think practically, about the decision, and not merely to inspect my feelings” (p. 241). 
+Judgment is more central, in other words, to the experience of regret than, say, the experience of 
+jealousy or anger. At the same time, regret is more than a simple appraisal or judgment; it is 
+typically loaded with feeling and therefore qualifies as a true emotion. When one contemplates a 
+life of unfulfilled promise, the destructive things said in anger, or the failure to heed the “cries 
+for help” from someone who later committed suicide, one feels “… a particular sort of painful 
+feeling, a pang, a stab, waves of stabs” (Rorty, 1980, p. 496). 
+There are other definitional issues, however, that are harder to resolve. For example, there 
+appears to be little consensus as to whether one can properly be said to regret something that one 
+would continue to do under similar circumstances in the future. Hampshire (1960) asserts that 
+If a man continues to make the kind of decisions that he claims that he regrets, he could not 
+properly continue to describe his distress as regret. He would be compelled to describe it as a 
+vague sense of guilt or anxiety, or perhaps as an unhappy wish that he had greater powers, or that 
+he was placed in other circumstances (p. 241). 
+Others disagree (Landman, 1993; Rorty, 1980; Taylor, 1985), and it is unclear how these rival claims 
+can be decided. Hampshire's contention—that we should differentiate between “regrettable” acts 
+a person would and would not repeat—certainly has some appeal. At the same time, it is easy to 
+generate examples in which someone could rightfully be said to regret an action that is repeated 
+many times. For example, if Richard Nixon were the type to experience regret, he might 
+genuinely regret Red-baiting his opponents and yet continue to do so in election after election in 
+order to win votes. 
+Because debates such as this one about the nature of regret have not always been decisive, the 
+conceptual edges of regret are not sharp, and so a rather inclusive definition is in order. 
+Landman's definition seems to be the most suitably inclusive and appropriate, both in general 
+and with respect to the empirical research we review in this article. According to Landman (1993) 
+Regret is a more or less painful cognitive and emotional state of feeling sorry for misfortunes, 
+limitations, losses, transgressions, shortcomings, or mistakes. It is an experience of felt-reason or 
+reasoned-emotion. The regretted matters may be sins of commission as well as sins of omission; 
+they may range from the voluntary to the uncontrollable and accidental; they may be actually 
+executed deeds or entirely mental ones committed by oneself or by another person or group; they 
+may be moral or legal transgressions or morally and legally neutral…. (p. 36) 
+Economic Approaches  
+Another approach to the subject of regret, one that combines conceptual analysis with 
+empirical investigation, comes from the field of economics. The impetus for this work was the 
+Page 3 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+idea that certain violations of the axioms of rational choice, such as that revealed in Allais' 
+paradox, can be explained by postulating that people will sacrifice monetary gain to ensure that 
+they will not experience subsequent regret. Thus, the anticipation of future regret affects current 
+choices (Bell, 1981, 1982, 1983, 1985; Loomes & Sugden, 1982, 1987a). These core ideas have considerable 
+intuitive appeal, and they have received some support from empirical tests (Loomes, 1988; Loomes & 
+Sugden, 1987a, 1987b; Simonson, 1992). 
+Unfortunately, economic theorists have defined or operationalized regret so narrowly that the 
+applicability of their work is more limited than perhaps it could be. In particular, regret has been 
+conceptualized as “the difference in value between the assets actually received and the highest 
+level of assets produced by other alternatives” (Bell, 1982, p. 963). Although this difference is 
+certainly an important determinant of the amount of regret experienced, other elements are also 
+critical. For example, the path by which a particular alternative was decided on can have a 
+tremendous impact on whether the choice is regretted, as can the way the alternatives or 
+outcomes are framed (Harless, 1992; Thaler, 1980; Tversky & Kahneman, 1981). By defining regret as a 
+reaction to the simple difference between the outcomes of a chosen and rejected alternative, 
+economic regret theories cannot account for the fact that some rejected alternatives generate 
+more regret than others because they are particularly salient, because they were “almost” chosen, 
+or because they are the choices that others would make. 
+A number of economic theorists have also argued that regret does not arise if the outcomes of 
+the rejected alternatives are never revealed (Bell, 1982, 1983; Kelsey & Schepanski, 1991; Sage & White, 
+1983). Thus, no allowance is made for the fact that individuals might be tormented by what they 
+imagine to be the consequences of roads not taken. 
+Counterfactual Thinking and Regret  
+A number of the shortcomings of the economic models of regret have been directly addressed 
+by psychological research on counterfactual thinking (Kahneman & Miller, 1986; Kahneman & Tversky, 
+1982b; Miller, Turnbull, & McFarland, 1990). This research begins with the observation that events are 
+not evaluated in isolation, but are compared to alternative events that “could have,” “might 
+have,” or “should have” happened. The work on counterfactual thinking has focused on two 
+subtopics: (a) the rules by which counterfactual alternatives are generated (i.e., some alternatives 
+to reality are more likely to be imagined than others) and (b) the consequences of comparing 
+actual events with imagined events that might have happened. 
+Much of the work on the consequences of various counterfactual comparisons has focused on 
+the phenomenon of emotional amplification, or the tendency for people to react more strongly to 
+those events for which it is easy to imagine a different outcome occurring. For example, the fate 
+of someone who dies in an airplane crash after switching flights seems more tragic than that of a 
+fellow traveler who was booked on the flight all along (Miller et al., 1990). The former induces a 
+stronger reaction because it is so easy to imagine the person surviving “if only” he or she had not 
+switched flights. This phenomenon underlies a favorite technique of film directors. Whenever a 
+character in an action film announces that “This is my last mission,” “I'm quitting the force,” or 
+“I think we should turn back,” experienced moviegoers know that the character is unlikely to 
+survive to the final scene. The death of such a character evokes particularly strong emotions 
+because he or she “almost” made it out of harm's way. 
+The work on counterfactual thinking overcomes two of the biggest shortcomings of the 
+economic models of regret. First, because the study of counterfactual thinking is concerned with 
+Page 4 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+people's imagined alternatives to reality, regret is not thought to be restricted to those 
+circumstances in which the outcomes of rejected alternatives are known. Second, in contrast to 
+the economic models, the exact path by which a decision is made is seen as critically important: 
+Different paths to the same outcome can lead to the consideration of very different counterfactual 
+alternatives and thus induce very different levels of regret. 
+Regrets of Action and Inaction  
+One way that individuals can arrive at the same outcome via different paths is through action 
+or inaction. The research on counterfactual thinking demonstrates that the distinction between 
+omission and commission has considerable hedonic consequences. In what is perhaps the 
+clearest and most frequently replicated finding in the entire literature on counterfactual thinking, 
+it appears that people experience more regret over negative outcomes that stem from actions 
+taken than from equally negative outcomes that result from actions foregone (Gleicher et al., 1990; 
+Kahneman & Tversky, 1982a; Landman, 1987b). Consider an oft-cited scenario experiment by Kahneman 
+and Tversky (1982a) 
+Mr. Paul owns shares in company A. During the past year he considered switching to stock in 
+company B, but he decided against it. He now finds out that he would have been better off by 
+$1,200 if he had switched to the stock of company B. Mr. George owned shares in company B. 
+During the past year he switched to stock in company A. He now finds that he would have been 
+better off by $1,200 if he had kept his stock in company B. Who feels greater regret? (p. 173) 
+A rather stunning 92% of the respondents thought that Mr. George, whose misfortune stems 
+from an action taken, would experience more regret. And who could argue with them? It is much 
+easier to put oneself in Mr. George's position and imagine being tormented by thoughts such as 
+“This need not have happened” or “I brought this on myself.” It is harder to imagine getting 
+equally worked up if one were in Mr. Paul's position. Mr. George seems more likely to be 
+plagued by thoughts of what might have or should have been in part because “it is usually easier 
+to imagine oneself abstaining from actions that one has carried out than carrying out actions that 
+were not in fact performed” (Kahneman & Miller, 1986). 
+Nevertheless, as powerful and intuitively appealing as these results are, they do conflict—at 
+least on the surface—with a common observation from everyday life. When people are asked 
+about their biggest regrets in life, it seems that they tend to focus on things they failed to do in 
+their lives: “I wish I had been more serious in college”; “I should have told my father I loved him 
+before he died”; “I regret that I never went to Europe.” As troubling as regrettable actions might 
+be initially, when people look back on their lives, it seems to be their regrettable failures to act 
+that stand out and cause greater grief.1 
+How can this apparent conflict between the research on counterfactual thinking and the 
+lessons of everyday life be resolved? We believe that both observations are valid reflections of 
+important phenomena and that both reveal something significant about the experience of regret. 
+In particular, we believe that together the two findings indicate that there is a temporal pattern to 
+the experience of regret over actions and inactions (Gilovich & Medvec, 1994, in press). As the 
+literature on counterfactual thinking suggests, people may be more upset by their unfortunate 
+actions in the short run. Initially, regrettable actions may generate more counterfactual thoughts 
+about “what might have been.” Over time, however, it may be those things that people have 
+failed to do that stand out and cause the most grief. Regrettable failures to act, in other words, 
+may have a longer half-life than regrettable actions. The interesting question, then, is why might 
+such a temporal pattern exist. What is it about the way people think about actions and inactions 
+Page 5 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+that makes failures to act more cognitively available in the long run and preserves their power 
+to cause grief when the impact of regrettable actions has faded? 
+Our examination of these questions proceeds in three parts. First, we investigate whether, with 
+time, people do indeed regret their failures to act more than their actions. Second, we review 
+evidence indicating that this tendency is part of an overall time course in which actions are 
+regretted more in the short term but failures to act are regretted more in the long run. Finally, we 
+present a framework to organize the various psychological mechanisms that give rise to this 
+temporal pattern to the experience of regret. 
+What People Regret Most in Their Lives  
+We are aware of no research that has directly examined the extent to which people's real-life 
+regrets stem from action versus inaction. Nevertheless, some suggestive evidence can be found 
+in the literature. For example, Kinnier and Metha (1989) asked samples of young (ages 20 to 29 
+years), middle-aged (35 to 55), and older (64 and above) respondents what they would do 
+differently if they could live their lives over again. The most common regret across all three 
+samples was an inaction—a wish that they had taken their “education more seriously and worked 
+harder on it.” The same result was obtained in two Gallup polls conducted in 1953 and 1965 
+(Erskine, 1973). Inactions predominated in the other most frequently mentioned regrets reported by 
+Kinnier and Metha's respondents as well—not being more assertive, not taking more risks, and 
+not spending more time with family (see also Metha, Kinnier, & McWhirter, 1989). 
+This same question was also asked of the intellectually gifted individuals studied by Lewis 
+Terman. In particular, 381 men and 339 women from his original sample were asked this 
+question in 1986 when they were mostly in their 70s (mean age = 74 years). Their responses 
+were coded by the Terman group into numerous categories, including the 50 shown in Table 1.2 
+We obtained the coded data from the Terman archives and examined the exten to which the 
+respondents listed an action or inaction as the first thing they would do differently if they had the 
+opportunity (Hattiangadi, Medvec, & Gilovich, in press). Eight judges, unaware of the study's 
+hypotheses, evaluated whether each of the 50 categories represented a regret of action, a regret of 
+inaction, or was “indeterminate.” As the data in Table 1 make clear, Terman's respondents 
+reported many more regrets of inaction than regrets of action. Overall, 54% of the regrets 
+appeared to be regrets of inaction, whereas only 12% appeared to be regrets of action (34% were 
+ambiguous with respect to the action–inaction dichotomy). 
+ 
+Page 6 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+Page 7 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+Table 1 What Terman's ‘Geniuses’ Would Do Differently If They Could Live Their Lives Over 
+Although all of these results support our claim that people's biggest regrets involve their 
+failures to act more than their actions, the data are limited in a number of respects. For one thing, 
+the respondents were never actually asked about their regrets. Although asking people what they 
+would do differently if they had another chance is likely to tap into some regrets, it need not. A 
+person can look back and seize on something that should have been done differently without 
+feeling any sense of regret or remorse. One might look back and wish one had bought shares of 
+Microsoft stock instead of investing in TIAA-CREF, but one might do so without much emotion, 
+or without a sense of self-recrimination that is characteristic of regret. In addition, asking people 
+what they would do differently if they had the chance may have predisposed them to think of 
+inactions. After all, inactions can only be overturned by doing something, whereas many actions 
+are overturned by not doing something. Thus, to determine whether people really do tend to 
+regret their inactions more than their actions, further research is needed. 
+Forced-Choice Responses  
+To overcome the limitations of previous research, we conducted telephone surveys that 
+directly asked people about their regrets of action and inaction (Gilovich & Medvec, 1994, Study 1). 
+In our initial survey, a random sample of 60 adults (M age = 40.3 years) selected from the 
+Syracuse, New York, telephone directory was asked the following question: 
+When you look back on your experiences in life and think of those things that you regret, what 
+would you say you regret more, those things that you did but wish you hadn't, or those things 
+that you didn't do but wish you had? 
+The question was counterbalanced across respondents in terms of the order in which the two 
+types of regret were mentioned. The results were both clear and supportive of our hypothesis: Of 
+the 60 respondents, 45 (75%) indicated that they experienced more regret over those things they 
+did not do but wish they had done (binomial p < .001). The order in which the two alternatives 
+were listed made no difference. 
+By themselves, these data do not establish unequivocally that people regret their inactions 
+more than their actions. Indeed, it might even be the case that people actually feel more pain over 
+their regrettable actions, but there may be fewer of them than regrettable failures to act. After all, 
+the set of things one does has to be smaller than the set of things one does not do because for 
+every action taken there are many options that are passed over. Thus, when summed over a larger 
+number of regrettable inactions, people may report greater regret for their failures to act, even 
+though individually they are not as potent. Although asymmetries such as this may contribute to 
+any differences in regrets over actions and inactions (and to any changes in relative regret with 
+the passage of time), it is important to determine whether this is the sole explanation of our 
+survey findings. 
+To examine this issue, we selected a random sample of 30 adults from the Chicago telephone 
+directory (M age = 40.1 years) and asked them to think of their greatest regret of action and their 
+greatest regret of inaction. We told each respondent not to tell us the content of each regret, but 
+to be sure to have a specific instance of each type in mind. Once they had done so, we asked 
+them which they regretted more. Twenty-one of the 30 respondents (70%) expressed greater 
+regret over their biggest failure to act (binomial p < .05).3 Thus, when directly asked, people 
+Page 8 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+report that they regret their inactions more than their actions. 
+Free-Response Data.  
+What happens when people are asked to list specific regrets rather than to make a summary 
+judgment about what they regret most? Do they report more regrets of inaction? To find out, we 
+asked several groups of respondents to describe the biggest regrets in their lives (Gilovich & 
+Medvec, 1994, Study 2). We did not mention the action–inaction distinction; instead, we had raters 
+score each regret on this dimension afterwards. Because we were interested in obtaining the 
+regrets of a wide range of people, we interviewed four groups of participants. Three of the 
+groups were interviewed face-to-face: 10 professors emeriti at Cornell University, 11 residents of 
+various nursing homes in upstate New York, and 40 Cornell University undergraduate students. 
+The responses of individuals in each of these three groups were tape-recorded and later 
+transcribed. In addition, a group of 16 clerical and custodial staff members at Cornell were given 
+questionnaires that they returned anonymously through the campus mail. 
+All respondents were asked (either in person or by questionnaire), “When you look back on 
+your life to this point, what are your biggest regrets?” Those interviewed in person were 
+prompted after each response, “Is there anything else you regret?” Those filling out written 
+questionnaires found space marked off for as many as five regrets. 
+Overall, the 77 respondents described 213 regrets. Each of these regrets was scored by two 
+judges who were unaware of our hypothesis. The judges determined whether each regret 
+stemmed from an action taken, an action foregone, or circumstances beyond the person's control 
+(e.g., “Having polio as a child”). The judges agreed on the scoring of 204 of the 213 regrets. The 
+scoring of the remaining 9 was resolved by having a third judge, also unaware of the hypothesis, 
+cast a decisive vote.4 
+It is interesting that only 10 of the 213 regrets involved outcomes caused by circumstances 
+beyond the person's control. Thus, a sense of personal responsibility appears to be central to the 
+experience of regret. People might bemoan or curse their bad fate, but they rarely regret it in the 
+sense that the term is typically understood. As for the events people do regret, the results 
+provided strong support for our hypothesis: Regrettable failures to act outnumbered regrettable 
+actions by nearly a 2 to 1 margin (63% vs. 37%). 
+A number of subsidiary issues were also examined. First, male and female respondents did not 
+differ in terms of how frequently they mentioned regrets of action versus regrets of inaction. 
+Second, there was some (not statistically significant) evidence that older individuals were more 
+likely than younger respondents to regret things they failed to do. For instance, 74% of the 
+regrets listed by our two oldest samples (the professors emeriti and the nursing home residents) 
+involved things they did not do, as compared to 61% for our two youngest samples (the students 
+and the staff members).5 
+A third issue concerns the precise content of individuals' regrets beyond the action–inaction 
+dichotomy. What do people regret most in their lives? Table 2 presents the regrets most frequently 
+mentioned by our respondents. The taxonomy presented in Table 2 was designed to be balanced 
+with respect to the action–inaction dichotomy. For example, because “not pursuing interest in 
+‘X’” was a commonly mentioned regret, it appears as an inaction category along with its 
+complementary action category “wasted time on ‘X’” (see Gilovich & Medvec, 1994, Study 2, for 
+details on scoring) 
+Page 9 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+ 
+ 
+Table 2 Most Common Regrets 
+An examination of Table 2 indicates that the most common regrets involved such inactions as 
+missed educational opportunities, the failure to “seize the moment,” and not devoting enough 
+time and effort to personal relationships. The most common regret of action was to “[rush] in too 
+soon.” Sadly, it seemed to us that people's regrets reflect a trade-off between educational and 
+career pursuits on the one hand and interpersonal relationships on the other: Those who spent 
+time on interpersonal relationships regretted not achieving more professionally; those who spent 
+time in professional pursuits regretted not devoting enough attention to friends and family. 
+Table 2 also reveals that no one regretted spending time developing a skill or hobby, even when 
+the skill lies dormant and the hobby is no longer pursued. No one reported any misgivings about 
+spending their adolescence learning ballet or collecting coins, even though, as adults, they have 
+given up dance and the coin collection no longer holds interest. Compare this to the 11 entries in 
+the corresponding inaction category, “Not pursuing interest in ‘X’.” The difference within this 
+pair of action–inaction categories captures our main finding with particular clarity: When people 
+look back on their lives, it is the things they have not done that generate the greatest regret. 
+The Temporal Aspects of Regret  
+Having established that people regret their failures to act more than their actions, we return to 
+the conflicting pattern of results with which we began. Scenario experiments like the stock 
+market example of Kahneman and Tversky (1982a) indicate that commission looms larger than 
+omission in the experience of regret. However, surveys of people's greatest real-life regrets 
+reveal that people are more troubled by their omissions. Of course, there are important 
+differences in the types of data on which these contradictory findings are based, and it may be 
+these differences that are responsible for the divergent results. People who have been asked 
+about specific, short-term regrets may be evaluating fundamentally different kinds of events than 
+those queried about the biggest regrets of their lives. In addition, there may be various subtle but 
+important differences in what is meant by regret when applied to these two temporal 
+perspectives. 
+Our thesis, however, is that these two different sets of results are manifestations of a temporal 
+pattern to the experience of regret. Actions tend to generate more regret in the short term, but 
+inactions tend to be more troubling in the long run. We have obtained evidence consistent with 
+Page 10 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+this idea from two very different kinds of experiments (see Gilovich & Medvec, 1994, Studies 3–5). 
+Intuitions About the Short-Term and Long-Term Regrets of Others  
+Consider the following scenario: 
+Dave and Jim do not know each other, but both are enrolled at the same elite East Coast 
+university. Both are only moderately satisfied where they are, and both are considering 
+transferring to another prestigious school. Each agonizes over the decision, going back and forth 
+between thinking he is going to stay and thinking he will leave. They ultimately make different 
+decisions: Dave opts to stay where he is and Jim decides to transfer. 
+Suppose their decisions turn out badly for both of them: Dave still doesn't like it where he is 
+and wishes he had transferred, and Jim doesn't like his new environment and wishes he had 
+stayed. 
+Students who were presented with this scenario were then asked (a) “Who do you think would 
+regret his decision the most upon learning that it was a mistake?” and/or (b) “Who do you think 
+would regret his decision the most in the long run?” 
+Whether participants answered both questions in a within-subjects design or only one of the 
+two in a between-subjects format, most (76%) thought that Jim, the person who regrets doing 
+something, would experience more regret in the short term—tha t is, upon learning his action was 
+a mistake. When asked about the long run, however, the majority (63%) thought that Dave, who 
+regretted not doing something, would experience more regret (Gilovich & Medvec, 1994, Studies 3 
+and 4). 
+These data suggest that people are familiar with both sides of the temporal profile we have 
+proposed. People have apparently been exposed to the intense, immediate pain that stems from a 
+regrettable action; at the same time, they are aware that in the long run it is often the failure to 
+act that causes more distress. 
+Recent and Life-Long Regrets  
+To move beyond the scenario methodology and examine the temporal profile of people's own 
+real-life regrets, we recruited a group of adults to fill out a questionnaire that asked them to recall 
+(but not write down) their single most regrettable actions and inactions both from the past week 
+and from their entire lives. Then, for each time period, they were asked to indicate which they 
+regretted more, the action or the inaction. As anticipated, participants' responses depended on the 
+time period under consideration. When focused on the last week, the respondents were rather 
+evenly split between those who most regretted their actions (53%) and those who most regretted 
+their failures to act. However, when looking back over their entire lives, a substantial majority 
+(84%) reported greater regret for what they failed to do (Gilovich & Medvec, 1994, Study 5). 
+Although people's actions may be troublesome initially, it is their inactions that plague them 
+most with long-term feelings of regret. 
+Why Regrets Shift Systematically With Time  
+We have argued that the discrepancy between past research and our more recent findings 
+indicates that there is a consistent temporal pattern to the experience of regret. Actions produce 
+Page 11 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+greater regret in the short term; inactions generate more regret in the long run. Several tests of 
+this contention were supportive. Why might such a temporal pattern exist? What is it about the 
+way people think about their choices and their lives that diminishes regrets of action but 
+strengthens dismay over regrettable failures to act? 
+As with many complex psychological phenomena, there is unlikely to be a single answer. The 
+temporal pattern to the experience of regret is no doubt multiply determined. Indeed, we propose 
+that there are three distinct categories of mechanisms that together give rise to this temporal 
+pattern. First, there are those elements that decrease the pain of regrettable actions. Second, there 
+are those elements that bolster the pain of regrettable inactions. Finally, there are those elements 
+that differentially affect the cognitive availability (Tversky & Kahneman, 1973) of a person's 
+regrettable commissions and omissions. These latter elements do not affect the intensity of regret 
+over actions and inactions, but they do affect how often one is reminded of such regrets and 
+therefore how often they are experienced. 
+Our explanatory framework is summarized in Table 3. Among the processes that reduce the 
+pain of regrettable action is a tendency for people to take steps to undo or ameliorate their regrets 
+of action more than their regrets of inaction. A person who regrets marrying Mr. Wrong will 
+likely get divorced; someone who regrets passing up Mr. Right typically must cope with the fact 
+that he is no longer available. Regrettable actions tend to be further diminished by the 
+identification of “silver linings” that offset the pain they cause. A person who marries Mr. 
+Wrong will often say, “But I have these wonderful children I would not have had otherwise”; 
+someone who passes up Mr. Right typically finds less consolation. Finally, identifying silver 
+linings is but one way of rationalizing or reducing dissonance for a bad decision. As we 
+demonstrate below, there is reason to believe that regrettable actions tend to prompt more 
+vigorous efforts to reduce dissonance than do regrettable failures to act, further reducing the pain 
+of unfortunate actions relative to unfortunate inactions. 
+ 
+ 
+Table 3 Causes of the Temporal Pattern to the Experience of Regret 
+Page 12 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+Of course, the factors that serve to reduce the pain of regrettable action tend to do so for 
+regrettable inaction as well—they just do so  less consistently, less vigorously, or less 
+successfully. For inactions, furthermore, such efforts at “damage control” are often undermined 
+by several processes that conspire to bolster the pain of regrettable inaction. First, because the 
+passage of time often brings with it increased confidence that one could have performed an 
+earlier task successfully, the original reason for many inactions—a lack of confidence—can 
+seem less than compelling with the passage of time. Someone might decline to marry Mr. Right 
+out of fear that their religious differences would be insurmountable. Looking back, however, the 
+person may increasingly come to believe that “we could have worked it out.” This tendency for 
+inactions to seem inexplicable afterwards is accentuated by a tendency for causal factors that 
+compel behavior to be more salient than those that inhibit behavior (Dunning & Parpal, 1989; Hansen & 
+Hall, 1985; Read, 1985). The person who passes up Mr. Right often has trouble in retrospect thinking 
+of a truly compelling reason why such a choice was ever made. In contrast, someone who 
+mistakenly marries Mr. Wrong can nonetheless recall how much fun he was at one time, how 
+responsible he seemed back then, or how much everyone liked him. Finally, there is an important 
+asymmetry in the perceived negative consequences of regrettable actions and inactions: Regrets 
+of action center around bad things that actually happened; regrets of inaction involve good things 
+that one believes would have happened. Because of the open-ended nature of the latter, the 
+perceived consequences of missed opportunities often grow in scope and importance with the 
+passage of time. Someone who chooses not to marry Mr. Right may develop an unrealistic 
+picture of the marital bliss that was foregone. 
+In addition to these mechanisms that alter the intensity of regrettable actions and inactions, 
+there is reason to believe that, over time, regrets of inaction occupy the mind more often than 
+regrettable actions. Many regrets of inaction involve unrealized ambitions and unfulfilled 
+intentions that are more available in memory than those goals or tasks that have been 
+successfully completed (Seifert & Patalano, 1991; Zeigarnik, 1935). 
+None of this is to suggest that the processes we have briefly described always work in 
+precisely this fashion. We view each of these as tendencies that, in general, give rise to the 
+observed temporal pattern to the experience of regret. There are bound to be occasional 
+exceptions, and no doubt many readers have been able to think of counterexamples in which, 
+say, a particular inaction is accompanied by a powerful silver lining or a specific restraining 
+force is unusually salient. Nevertheless, we believe that there is ample theoretical and empirical 
+support for each of the mechanisms we have put forward. We now turn to a more in-depth look 
+at the theoretical and empirical basis of each of these three classes of mechanisms. 
+Factors That Reduce the Pain of Regrettable Actions  
+Behavioral repair work.  
+When bad things happen, we sometimes sit idly by and bemoan our bad judgment or bad luck. 
+Other times, however, we take decisive action to overcome, undo, or compensate for the negative 
+outcome. If we sign on with the wrong organization, we switch companies or even careers; if we 
+do something to hurt or offend someone, we apologize and vow to do better in the future. When 
+our actions get us “off course” in some way, we endeavor to set ourselves right. The claim, in 
+other words, is that people do things to alleviate the pain of their regrettable choices, and they are 
+more likely to do so for their actions than for their failures to act. Their regrettable failures to act 
+often just sit there, causing continued grief. 
+There are at least two reasons why people may be more inclined to rectify their regrettable 
+Page 13 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+actions than their regrettable failures to act. First, as our earlier data make clear, the pain of 
+regrettable action is often felt more quickly than that of regrettable inaction and, therefore, 
+provides more of an impetus to immediate change. And, as everyday experience demonstrates, 
+that which is not dealt with immediately is often never dealt with at all. 
+A second, related reason to expect people to do more about their regrettable actions than their 
+regrettable inactions is best understood by thinking of behavior in Lewinian terms (Lewin, 1938, 
+1951). Lewin argued that various psychological and physical forces form a tension system that 
+determines the behavior of the individual. Because the forces in the tension system tend toward 
+equilibrium, people are subject to a fair amount of inertia. From a Lewinian perspective, then, 
+whenever people act, they overcome whatever inertia had kept them in the position they were in 
+beforehand, which upsets the balance of forces that existed previously. By acting, in other words, 
+people alter the tension system in which they were embedded, creating a new situation in which 
+the forces acting upon them are less likely to be in equilibrium. With the operative forces in flux, 
+it is relatively easy to take steps to overcome whatever mistakes were made. It is often easiest to 
+make a move when our bags are already packed, so to speak. 
+In contrast, when people fail to act, they are still held—by definition—in the grip of 
+preexisting inertial forces. By not acting, in other words, individuals remain in the same situation 
+as before with the forces acting upon them in equilibrium. Whatever it was that made it difficult 
+to pull free of these forces initially often makes it difficult to pull free later on. As a result, it is 
+relatively difficult to change from initial inaction to subsequent action. Like many other things in 
+life, behavior is subject to momentum. 
+To test this contention, we asked 60 adults recruited from various locations around Ithaca, 
+New York, to recall (but not describe) their single most regrettable action in their lives and their 
+single most regrettable failure to act. Once they had a specific instance of each category in mind, 
+we asked them, 
+Have you done anything in an effort to overcome or compensate for your regrets? In 
+particular, for which regret have you engaged in the most effective remedial action? By remedial 
+action we mean any actions or life changes you made to offset the regret; we do not mean any 
+psychological changes or strategies you have employed to try to think differently about the regret 
+or cope better with it. 
+As expected, a substantial majority of the respondents (65%) indicated that they had made 
+more significant changes to deal with their most regrettable action than their most regrettable 
+inaction (binomial z = 2.20, p < .03). 
+Because of this difference in steps taken to ameliorate regrettable actions and inactions, 
+unfortunate actions should be less bothersome over time. They become less troubling after the 
+remedial steps have been taken. As a result, commissions may generate the most regret initially, 
+but omissions may prove more troublesome in the long run. 
+Psychological repair work I: Identifying silver linings.  
+There are many ways to deal with negative events. Sometimes, one can cope by taking 
+remedial action. Other times, however, there is no effective action to be taken, and so efforts to 
+come to grips with the problem are confined to the psychological realm. People engage in 
+“psychological work” designed to lessen the pain of the unfortunate event. Once again, we argue 
+Page 14 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+that people are more likely to engage in effective psychological work for their regrettable 
+actions than for their regrettable inactions. 
+Consider one of the most common ways people cope with negative events, by noting how 
+much they have learned from the experience. In other words, people acknowledge that the 
+outcome may have been regrettable, but they mentally offset the regret by identifying a silver 
+lining that consists of how much they profited from the experience as well. Such a silver lining—
+“But I learned so much”—is obviously much more likely to apply to regrettable actions than 
+regrettable inactions. People typically learn more by doing new things than by sticking to old 
+patterns. In fact, for most inactions the claim that “I learned so much” hardly makes sense. (“I 
+did not do anything, but I learned so much?”) 
+But taking stock of how much one learned from an unpleasant experience is not the only way 
+to lessen the pain of a negative outcome. There are other silver linings that serve the same 
+purpose. To examine whether people are generally more likely to identify offsetting positive 
+elements for their unfortunate actions than for their unfortunate failures to act, we asked another 
+group of 60 adults to think of their single most regrettable action in their lives and their single 
+most regrettable failure to act. Once respondents had a specific instance of each category in 
+mind, we asked them which regret was offset by the most significant silver lining. As expected, 
+the vast majority (75%) cited their most regrettable action (binomial z = 3.74, p < .001). 
+Thus, in addition to making more material changes to overcome the negative ramifications of 
+a regrettable action (see results above), people also engage in more psychological work directed 
+toward the same end. What cannot be accomplished materially can be dealt with psychologically. 
+The net effect of both of these processes is that the initial sting of a regrettable action tends to 
+diminish with time, more so than the pain associated with a regrettable failure to act. 
+Psychological repair work II: Dissonance reduction.  
+Identifying a silver lining in a dark cloud can be one way to reduce the cognitive dissonance 
+associated with a negative outcome brought on by a freely chosen action (Aronson, 1969; Cooper & 
+Fazio, 1984; Festinger, 1957; Wicklund & Brehm, 1976). Indeed, the statement that “I learned so much” 
+can be thought of as a generic form of dissonance reduction that can apply to nearly any 
+unfortunate course of action. As we have shown, people are more likely to use such a generic 
+dissonance reduction technique for their regrettable actions than for their regrettable failures to 
+act. Are people also more likely to use other modes of dissonance reduction for their regrettable 
+actions than for their regrettable inactions—mode s more precisely tailored to the specific 
+behavior in question? 
+There are reasons to believe they might. First, as the literature on counterfactual thinking 
+indicates, people initially find negative outcomes brought on by their actions more troublesome 
+than identical outcomes brought on by inaction. The more aversive the outcome, in turn, the 
+more motivation there is to reduce dissonance (Cooper & Fazio, 1984; Cooper & Worchel, 1970; Nel, 
+Helmreich, & Aronson, 1969). Second, actions are typically more salient than inactions and therefore 
+constitute a more noticeable target for psychological repair work than failures to act. As the 
+extensive literature on the “feature positive effect” attests, what does happen has more 
+psychological impact than what does not happen (Fazio, Sherman, & Herr, 1982; Newman, Wolff, & Hearst, 
+1980). Finally, because inaction is often viewed as the status quo and action as a departure from 
+the norm (Kahneman & Miller, 1986), people generally feel more personally responsible for their 
+actions than for their inactions. With a greater sense of personal responsibility for the outcome 
+comes a greater amount of dissonance to be reduced (Cooper, 1971; Cooper & Fazio, 1984; Goethals, 
+Page 15 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+Cooper, & Naficy, 1979; Hoyt, Henley, & Collins, 1972). Thus, because people's regrets of action are 
+more salient, more painful initially, and engender more of a sense of personal responsibility, they 
+should elicit more cognitive dissonance (and dissonance reduction) than corresponding failures 
+to act. If people engage in more dissonance reduction for their regrettable actions than for their 
+regrettable inactions, they might regret their actions more initially but end up regretting their 
+inactions more in the long run. 
+A recent experiment verified this tendency for people to reduce dissonance more for 
+commissions than for omissions (Gilovich, Medvec, & Chen, 1995). The experiment was a laboratory 
+analog of the “Monty Hall” or “three doors” problem (Engel & Venetoulias, 1991; Tierney, 1991; vos 
+Savant, 1990a, 1990b, 1991). Subjects were recruited for a study of group decision making and were 
+told they would receive, depending on the decisions they made, either a grand prize or a modest 
+prize for their participation. The prizes were hidden in three boxes and, as on Monty Hall's Let's 
+Make a Deal television program, the subject's first task was to choose one of the boxes. Two of 
+the boxes were said to contain modest prizes, and one was said to contain the grand prize. After 
+the initial box was selected, the subject confronted a choice of whether to keep his or her 
+unopened box or trade it in for one of the remaining boxes. However, before the choice was 
+made, the experimenter (like Monty) opened one of the two remaining boxes and revealed a 
+modest prize. The subject's choice, then, was whether to keep his or her box or exchange it for 
+the remaining, unopened box. 
+Subjects made this latter decision in consultation with another “subject” who was their partner 
+in the group decision task. In reality, the partner was a confederate whose job was to ensure that 
+the subject chose in accordance with his or her randomly assigned condition—to Stay with the 
+original choice or Switch to the other box. The confederate thus influenced the subject's choice 
+when necessary (i.e., when the subject appeared inclined toward the “wrong” box), but did so in 
+a sufficiently delicate way such that the subject was unaware of any influence.6 
+The experiment was arranged so that regardless of the subject's “choice,” he or she received a 
+modest prize (a Cornell bumper sticker) and missed out on the grand prize (an expensive Cornell 
+T-shirt). The experiment was designed to ascertain whether subects who lost out on the grand 
+prize because of an action (i.e., those who switched boxes) would reduce their dissonance over 
+the outcome more than those who experienced the same fate after deciding not to act (i.e., those 
+who kept their initial boxes). In particular, the experiment examined whether subjects in the 
+Switch condition came to view the modest prize they received as more attractive than did 
+subjects in the Stay condition. After learning about which prize they won, subjects were asked to 
+specify how much money we would have to offer them to get them to sell back the bumper 
+sticker to us. 
+The results are reproduced in Figure 1. Subjects who switched boxes and ended up with the 
+bumper sticker demanded a significantly higher price to sell it back than did those who received 
+the same prize by sticking with their original choice. Regrettable actions seemed to induce more 
+dissonance reduction than did regrettable failures to act. The responses of both groups of subjects 
+were also compared to those of subjects in a control condition whose “decisions” were 
+determined randomly. As dissonance theory would predict (Cooper, 1971; Cooper & Fazio, 1984; 
+Goethals et al., 1979; Hoyt et al., 1972), these subjects, who were not personally responsible for their 
+outcomes, valued the bumper sticker least of all. 
+ 
+Page 16 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+ 
+Figure 1. Mean amount of money subjects demanded to exchange bumper sticker, by condition. From “Omission, Commission, 
+and Dissonance Reduction: Overcoming Regret in the Monty Hall Problem,” by T. Gilovich, V. H. Medvec, S. Chen, 1995 , Personality 
+and Social Psychology Bulletin, 21, p. 186. Copyright by Sage Publications, Inc. Adapted with permission. 
+Summary.  
+We have demonstrated three ways in which people are able to reduce their regret over 
+unfortunate actions with the passage of time. People make more life changes to cope with their 
+regrettable actions than their regrettable inactions; they are more likely to find a silver lining that 
+justifies such actions; and they engage in more dissonance reduction to reduce the pain of their 
+errors of commission. Over time, these three processes collude to lessen the impact of mistaken 
+actions. By comparison, regrettable failures to act seem more troublesome as time goes by. This 
+latter tendency is accentuated by several psychological processes that serve to bolster the 
+intensity of regrets of omission with the passage of time. It is to these processes that we now 
+turn. 
+Factors That Bolster the Pain of Regrettable Inactions  
+Inexplicable inaction I: Confidence and temporal perspective.  
+Many regrets of inaction arise from an inability to conquer our fears or overcome our doubts 
+when the “moment of truth” is at hand. We fail to make a career change because we are unsure 
+of what the outcome will be. We do not ask someone for a date because we are afraid of 
+rejection. We do not “let loose” or even venture out on the dance floor because we think we 
+might look ungainly or out of fashion. 
+These concerns, however, which seem so pressing when the time to act is at hand, may 
+diminish with the passage of time. The further removed we are from the occasion, the more 
+convinced we become that we could have or would have done just fine. It is easy to be confident 
+when the task is not imminent; it is hard to be so assured when the challenge is at hand. 
+Of course, any such tendency for confidence to soar with increasing distance from an event 
+would tend to magnify the feeling of regret over a failure to act. If the fears that kept us from 
+performing some action tend to diminish with time, the reasons we had for not acting will no 
+longer seem compelling. With no compelling reason for failing to do something we wish we had 
+done, we regret our failure to act even more (Lecci, Okun, & Karoly, 1994). We curse ourselves by 
+asking “Why didn't I at least try?” and torment ourselves with accusations that “I'm just too 
+timid” or “I'm too indecisive.” 
+Page 17 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+A recent series of studies demonstrates that people are indeed more confident that they will do 
+well at a task the further they are, either prospectively or retrospectively, from the time the task 
+is to be performed (Gilovich, Kerr, & Medvec, 1993; see also Nisan, 1972, 1973). People feel much better 
+about their chances of success well beforehand than right beforehand. Likewise, people are more 
+convinced that they would have done well at a task long after, rather than right after, the critical 
+moment was at hand. 
+It is this latter effect of retrospective temporal distance that is most relevant to the experience 
+of regret. In the critical test of this effect, we asked Cornell students and alumni to consider the 
+impact of adding a challenging course to their work load during a typical semester. How much 
+would it affect their grade-point average for the semester? The amount of sleep they got? Their 
+extracurricular and social lives? One group of respondents consisted of Cornell alumni who had 
+been out of college for an average of 3.5 years. Another was a group of current students who 
+were asked how much the extra course would affect their current semester. Finally, a third group 
+consisted of students who were asked how much it would have affected them the previous 
+semester. 
+The relevant data are presented in Table 4. As anticipated, participants' assessments of how well 
+they could cope with an increased work load were directly related to their distance from the time 
+the extra burden was to be faced. The alumni indicated that the extra work load would take less 
+of a toll on their academic and social lives than did either group of current students. Furthermore, 
+current students who were asked to consider the impact on a recently completed semester 
+expressed less concern about disruption than did those making assessments for the current 
+semester. It seems that the further away the challenge, the less threatening it appears. 
+ 
+ 
+Table 4 Means Estimated Impact of Increased Work Load as a Function of Temporal Perspective 
+Page 18 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+These data have obvious implications for the experience of regret. As our confidence that we 
+could have done well at some task increases, the rationale for our original inaction fades. Not 
+only might we now wish we had gone ahead and acted, but we find it difficult to sympathize 
+with our previous failure to do so. Our regret intensifies because our failure to act now seems so 
+inexplicable. This retrospective increase in confidence sometimes increases a person's regret 
+over failing to act when the chances of success were in fact rather high. On other occasions, 
+however, such revisionist tendencies may be sufficiently strong to convince a person of the 
+feasibility of rather implausible, pie-in-the-sky wishes. 
+In either case, it should be clear how this process gives rise to the observed temporal pattern to 
+the experience of regret. As many have noted (Kahneman & Miller, 1986; Kahneman & Tversky, 1982a, 
+1982b; Miller et al., 1990) regret is fundamentally a counterfactual emotion: It arises from the 
+contrast between what has actually happened and an easily imagined alternative outcome that 
+might have happened. As those working in the area of counterfactual thinking have shown, 
+action tends to generate more regret than inaction (in the short term) because it is typically easier 
+to “undo” an action than an inaction. However, the present results suggest that this may not be 
+true in the long run. Because our confidence that we could have done something increases with 
+the passage of time, it becomes progressively easier to psychologically “undo” a regrettable 
+failure to act. Thus, the relative ease of undoing actions and inactions appears to reverse with the 
+passage of time, with predictable consequences for the experience of regret. 
+Inexplicable inaction II: The differential impact of compelling and restraining 
+forces.  
+The increase in confidence that occurs with the passage of time represents one way in which 
+the elements that originally restrained a person's actions can lose their psychological impact over 
+time and thereby intensify regret over inaction. There is reason to believe, moreover, that this 
+may be but one aspect of a very general pattern: Forces that restrain human action may be 
+inherently less salient than forces that compel action. As a result, it may be easy for individuals 
+to get in touch with why they acted (thereby justifying regrettable actions), but more difficult for 
+them to understand why they failed to act (thereby rendering regrettable failures to act rather 
+mystifying). 
+Kurt Lewin (1951) was one of the first to point out that compelling forces are typically more 
+salient than restraining forces. Lewin noted that when trying to induce another person to do 
+something, people are generally tempted to increase the person's motivation for doing so—that 
+is, they try to “push” the person in the direction they want him or her to go. However, Lewin also 
+pointed out that it is often more effective to eliminate whatever has kept the person from 
+behaving in the desired fashion in the first place. He argued that often one should devote more 
+effort toward removing the barriers to change and less effort toward supplying additional reasons 
+to change. 
+Lewin would not be credited with this idea if it were not to some degree counterintuitive. 
+Thus, the fact that Lewin's advice was novel suggests that those factors that compel action loom 
+larger in intuitive assessments of behavior than those factors that restrain action. People have 
+known all along about how to induce behavior by increasing the pressures to change; their 
+attention had to be drawn to the possibilities inherent in removing the impediments to change. 
+This implies that reasons for refraining from doing something may typically be less accessible 
+than reasons for doing something, and, as we argue below, this asymmetry may increase over 
+time. 
+Page 19 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+A number of recent experiments support this thesis. Read (1985 [described in Kahneman & Miller, 
+1986]) taught students a simple card game and then showed them various hands of two 
+hypothetical players. They were then asked to reverse the apparent outcome by changing the 
+hand of one of the players. The students typically chose to change the outcome by strengthening 
+the losing hand rather than by weakening the winning hand. In other words, they apparently 
+found it more natural to add elements that would compel a victory than to delete elements that 
+had prevented it. 
+Similar results have been obtained in the domain of causal attribution (Hansen & Hall, 1985). 
+When people were told about the outcome of various contests (e.g., hockey game, a tug-of-war), 
+they were more inclined to attribute the outcome to the strength of the winning side than to the 
+weakness of the loser. That which causes victory looms larger than that which prevents it. Dunning 
+and Parpal (1989) obtained analogous results in their work on “mental addition” and “mental 
+subtraction.” Participants in the mental addition condition of their experiments were asked 
+questions such as “How many more questions will you get right if you study for an upcoming 
+exam?” Those in the mental subtraction condition were asked questions such as “How many 
+fewer questions will you get right if you do not study for an upcoming exam?” Participants 
+indicated that adding a bit more studying time would help their performance more than 
+subtracting an equal amount of studying time would hurt it. That which compels (e.g., studying) 
+has a greater impact than that which impedes (e.g., not studying). 
+These various findings suggest that, after the fact, it may be easier to get in touch with why 
+one did something that one should not have done than it is to fully comprehend why one failed to 
+do something one should have done. This difference has obvious implications for the experience 
+of regret. Knowing why one acted tends to lessen the self-recrimination and remorse that 
+accompany regrettable actions. In contrast, the lack of a satisfying explanation for inaction 
+intensifies the amount of self-recrimination and regret that is experienced over failures to act. 
+Furthermore, this asymmetry in the accessibility of reasons for action and inaction may become 
+more pronounced with the passage of time. In the short term, one can rely on relatively accurate 
+“bottom up” processes that call up specific memories of the thought processes that led to action 
+or inaction. Over time, however, one must employ less reliable “top down” processes that 
+generate inferences about the kinds of reasons one must have had for one's actions or failures to 
+act. It is when these more abstract inferential processes are engaged that the differential impact 
+of compelling and restraining forces is likely to be most pronounced. 
+What was versus what might have been: Differences in the imagined 
+consequences of regrettable actions and inactions.  
+There are systematic differences in the feedback people receive from acting and from not 
+acting, and these differences tend to make regrettable omissions loom larger than regrettable 
+commissions. What is troubling about a regrettable action is the set of bad things that actually 
+happened as a consequence of the action taken. Thus, the consequences of regrettable actions are 
+often finite: They are bounded by what actually happened. In contrast, what is troublesome about 
+a regrettable inaction is the set of good things that would have happened had one acted. The 
+consequences of inactions are therefore potentially infinite: They are bounded only by one's 
+imagination. 
+To document this asymmetry in the perceived consequences of regrettable actions and 
+inactions, we asked a group of 20 adults to think of their greatest regret of action and their 
+greatest regret of inaction. Without describing their regrets, they then rated each one on a 10-
+point scale indicating how different “… your life would be or would have been had you done 
+Page 20 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+what you regret not doing (not done what you regret doing).” It is interesting that 2 subjects 
+stated that they could not think of any regrettable actions in their lives, and 2 other subjects 
+indicated that their regrettable actions have, in the long run, actually improved their lives. 
+Among the remaining 16 respondents, the average rating of how much their lives would change 
+by undoing their regrettable inactions was significantly higher (M = 6.8, SD = 2.1) than their 
+average rating of how much their lives would change by undoing their regrettable actions (M = 
+4.8, SD = 2.6), t(15) = 2.39, p < .05. 
+To pursue this further, we asked an additional group of 38 adults to likewise think of their 
+biggest regret of action and their biggest regret of inaction. We then asked each of them to 
+discuss why their action and inaction were regrettable—that is , to describe the unfortunate 
+consequences, immediate or delayed, of each. Their comments were tape-recorded and later 
+scored by judges unaware of our hypothesis. The judges determined how much time was spent 
+discussing the consequences of each regret. Consistent with our earlier findings, the participants 
+had more to say about the consequences of their regrettable inactions than their regrettable 
+actions. On average, they spent 42 seconds talking about the consequences of their inactions and 
+only 29 seconds talking about their regrettable actions, t(37) = 3.33, p < .005. When combined 
+with the data from the study just described (in which participants rated how different their lives 
+would have been had they acted differently), these results indicate that people tend to believe that 
+more harm has come from their failures to act than from their actions. 
+Note that this difference in the perceived consequences of regrettable actions and inactions is 
+likely to become increasingly pronounced over time. After all, one can always add elements to 
+the list of good things that would have happened if one had acted. As this list grows, so too does 
+the regret over a failure to act. People tend to idealize many aspects of their distant pasts, and lost 
+opportunities are no exception. The cost of such distortion can be rather high, as people can end 
+up tormenting themselves far beyond what is called for by the actual state of affairs. 
+There is a second way in which the perceived consequences of actions and inactions diverge, 
+and it has similar effects. Because regret over action is due to the bad things that actually 
+happened as a result of the action, the consequences are tied to a particular event or decision. 
+Although the consequences on the whole may be bad, often there is some good that stems from 
+the action as well. Thus, when people think of their regrettable actions, they often think of 
+compensatory silver linings, a phenomenon that we documented earlier. In contrast, many 
+regrettable inactions are not tied as closely to a particular event or decision (see footnote 1). Often 
+it is not the failure to act in a particular moment that is regrettable, but one's accumulated failure 
+to, say, get closer to one's parents, spend more time with one's children, or more diligently 
+pursue one's career aspirations. As a result, inactions are less likely to prompt thoughts about 
+compensatory gains. Regrettable omissions, in other words, tend to be remembered in the long 
+term only for being regrettable, whereas regrettable commissions are more likely to be 
+remembered for a number of qualities—qualitie s that only on the whole are unfortunate. 
+Factors That Promote the Cognitive Availability of Regrettable Inactions  
+We suspect that for some readers our analysis thus far may be less than completely satisfying. 
+Some may be experiencing a recurrent and disquieting sense of incompleteness. Good. There is 
+an additional mechanism we have yet to discuss, and, as it happens, it is one that derives from a 
+similarly disquieting state of psychological incompleteness. 
+There have been suggestions since at least the 1920s that people tend to remember incomplete 
+Page 21 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+tasks and unrealized goals better than those that have been finished, accomplished, or 
+resolved. This phenomenon has come to be known as the Zeigarnik effect, after the person who 
+first tested it empirically (Zeigarnik, 1935; see also Seifert & Patalano, 1991). The original interpretation 
+of this effect was that the intention to carry out a task generates a state of psychological tension 
+that keeps the issue alive until the task is complete and the tension is released (Lewin, 1935, 1951). 
+The central idea, however, does not require that one accept the Lewinian metaphor of the mind 
+as a tension system. All that is necessary is that one grant that people typically are more 
+preoccupied by and perseverate longer over incomplete tasks than completed ones (Martin & Tesser, 
+1989; Martin, Tesser, & McIntosh, 1993). The extra mental work that is devoted to unfulfilled intentions 
+constitutes additional rehearsal time that makes them more memorable. 
+There are striking parallels between incomplete tasks and regrettable omissions. Many regrets 
+over previous failures to act involve things we could still do at any time. We might regret never 
+having learned to speak French, play the violin, or talk with real intimacy to those whose love 
+and friendship we value, but these are all things we can still do whenever the sting of regret is 
+felt. Our accent may never be as good, our ear never as developed, and our intimate moments not 
+as numerous as they would have been if we had acted earlier, but much of the gratification we 
+imagine such activities to bring could still be obtained whenever we choose to start. To be sure, 
+many regrettable inactions involve failing to seize a moment that is long past. For these, there is 
+no second chance. The case is closed. For many other regrettable omissions, however, the 
+opportunity and temptation to act still exists. Regrettable omissions often belong as much to the 
+present as they do to the past. This sense of incompleteness and possibility that surrounds our 
+failures to act keeps them alive longer. 
+This is in marked contrast to many regrettable actions, which belong almost entirely to the 
+past. We messed up. We might worry about it now and vow to do better in the future, but the 
+event itself lies entirely in the past. The story of regrettable actions tends to be closed; the story 
+of failures to act, open. Because regrettable inactions are more alive, current, and incomplete 
+than are regrettable actions, we are reminded of them more often. And a regret that we are 
+reminded of more often is a regret that we experience more often. Thus, this Zeigarnik-like 
+aspect of regrettable omissions may not increase the intensity of the emotional pain of failures to 
+act, but it does increase the frequency with which it is felt. 
+This idea was tested in a two-stage experiment in which adults were recruited from an outdoor 
+shopping mall in Ithaca, New York, and asked to describe their three biggest regrets of action 
+and their three biggest regrets of inaction. Three weeks later, they were contacted by telephone 
+and asked to recall the six regrets they had mentioned during the first session. As anticipated, the 
+participants recalled more of their regrettable inactions (M = 64%) than their regrettable actions 
+(M = 39%), t(24) = 3.76, p < .001. This effect held up, furthermore, when the severity of each 
+regret was controlled statistically. Holding the amount of regret constant, regrets of inaction 
+seem to stay in the mind longer than regrets of action (Savitsky, Medvec, & Gilovich, 1994). 
+General Discussion  
+We reviewed evidence indicating that when people look back on their lives, it is mainly those 
+things they did not do but wish they had done that generate the most regret. When combined 
+with earlier results from the literature on counterfactual thinking, these data imply a temporal 
+pattern to the experience of regret. Commissions generate greater regret initially, but over time it 
+is omissions that dominate the experience of regret. We then reviewed additional evidence 
+supporting the existence of such a temporal pattern. Finally, we introduced a number of 
+Page 22 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+psychological mechanisms that appear to give rise to this temporal pattern and described the 
+results of experiments designed to examine each of them. Some of the mechanisms we identified 
+reduce the sting of regrettable action over time, others bolster the pain of regrettable inaction, 
+and an additional mechanism differentially affects how often one is reminded of these two 
+different sources of regret. 
+Multiple Mechanisms and How They Interrelate  
+To this point, we have largely discussed each mechanism separately, but they are, of course, 
+interrelated in various ways. One connection we have already noted is that the tendency for 
+people to offset the pain of regrettable action by identifying compensatory silver linings is but 
+one specific version of a broader tendency for regrets of action to induce more dissonance 
+reduction than regrets of inaction. We have also discussed how the relationship between 
+confidence and temporal distance is connected to the relative invisibility and mild psychological 
+impact of restraining forces. Whatever inhibited a course of action that now looks attractive often 
+seems less and less compelling, and therefore less and less legitimizing, over time. 
+An important category of such inhibitory causes that we have yet to discuss explicitly is an 
+action's “opportunity costs.” Often one refrains from doing something because its pursuit would 
+foreclose other attractive options. It would be nice to become an accomplished pianist, but at 
+what cost? Such trade-offs may seem sufficient to stymie action at the time, but perhaps not 
+when reconsidered from a much later vantage point. Over time, one may lose track of what the 
+cost of a particular course of action may have been, or the costs may simply not seem as great. 
+The extent to which people retrospectively downgrade opportunity costs remains an interesting 
+topic for future research. 
+Another set of important links between the mechanisms we have described involves the 
+factors that affect the magnitude of regret that is experienced and those that influence the extent 
+to which a particular regret is thought about and obsessed over. The three mechanisms that 
+diminish the pain of regrettable actions will, in turn, decrease their cognitive availability. 
+Similarly, the three factors that increase the angst of regrettable inactions will tend to increase 
+their availability. 
+Perhaps the best way to examine the similarities and differences among the various 
+mechanisms we have proposed is to take a closer look at their temporal profile. As a first 
+approximation, it appears that the mechanisms that diminish the regret of action tend to come 
+into play relatively quickly. Mistaken actions are often corrected immediately, before one is 
+trapped in a new web of inertial forces that take extra effort to overcome. Also, the tendency for 
+errors of commission to induce greater dissonance reduction than errors of omission no doubt 
+stems in part from the greater immediate discomfort that arises from regrettable actions. Indeed, 
+the results of the one dissonance experiment that directly examined dissonance reduction after 
+mistakes of commission and omission showed how quickly the relevant psychological repair 
+efforts can be mobilized (Gilovich et al., 1995). 
+In contrast, the factors that reinforce the pain of regrettable inaction often take longer to 
+develop, as does the tendency for regrets of inaction to remain more cognitively available than 
+regrets of action. Differences in cognitive availability obviously cannot occur until sufficient 
+time has elapsed for memory to decay and “ceiling effects” to disappear. Similarly, the increase 
+in retrospective confidence with temporal distance has been shown to vary directly with the 
+amount of time that has elapsed between the initial moment of opportunity and the subsequent 
+Page 23 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+period of assessment (Gilovich et al., 1993). 
+Some readers may be troubled by our invoking so many distinct mechanisms to account for 
+our primary results. All else being equal, it is surely more satisfying when a single mechanism 
+explains a given phenomenon. However, for many complex social psychological phenomena, the 
+search for a single cause is likely to be in vain. Indeed, we must confess that we were initially 
+drawn to this research topic in part because so many mechanisms seemed to be involved. Each of 
+the psychological processes that we identified seemed to us to be intriguing not just as an 
+explanation of the regret results, but also as a psychological phenomenon in its own right. The 
+relationship between confidence and temporal distance, the amount of dissonance reduction 
+devoted to errors of omission and commission, and the relative impact of compelling versus 
+restraining forces all tell us something potentially significant about the human condition. These 
+phenomena are worthy subjects of investigation quite apart from their role in the experience of 
+regret. 
+Cultural Influences  
+But we did not undertake this research because of the mechanisms alone, of course. Everyone 
+has regrets, and yet, as we alluded to earlier, little is known about the underlying psychology of 
+regret. This is unfortunate because our current cultural and historical context is one that is likely 
+to maximize the experience of regret. In earlier times and in cultures with more rigid behavioral 
+prescriptions, there were fewer opportunities for regret. Marriages were arranged; stations in life 
+were inherited; choices among various material goods were much narrower. Things could hardly 
+be more different today. One of the difficulties of modern life is coping with all of the choices 
+that are available. With a greater range of choices comes increased opportunities for regret, and 
+so a related problem with modern life is how to cope with the inevitable and increasingly 
+common experience of regret. 
+This raises the question of whether the observed temporal pattern to the experience of regret is 
+largely universal across cultures. Because it is our belief that many of the mechanisms that 
+account for this pattern are universal, we would expect to observe some reasonable facsimile of 
+these results everywhere. This is not to suggest that the findings presented here—both the greater 
+regret of action in the short term and the greater regret of inaction in the long run—are immune 
+to cultural influence. They almost certainly are not. For example, Western society seems to 
+revere action and disdain inaction (Farley, 1986). The abundance of long-term regrets of inaction in 
+our sample of respondents may be attenuated in people from a less action-oriented culture who 
+may be less troubled by their failures to act. In addition, the overwhelming majority of our 
+respondents' regrets of inaction stemmed from failures of self-actualization—not getting enough 
+education, not adequately fulfilling the role of parent or child, or not developing their artistic 
+talents. These regrets may be particularly prominent in Western cultures that stress self-
+actualization (Lasch, 1979). In contrast, our sample of regrettable actions, although also most often 
+tied to failures of self-actualization, nonetheless were relatively more likely to be linked to moral 
+transgressions in which harm was done to another person (e.g., “whipping my son when he was a 
+boy,” “talking about a friend behind her back,” and “breaking off a relationship in an unkind 
+way”). Thus, it is possible that regrets of action may be more prominent—and more 
+psychologically enduring—in more interdependent, communitarian cultures that stress duty and 
+responsibility to others more than self-fulfillment. 
+Is Regret a Unitary Emotion?  
+Page 24 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+Thus far we have largely discussed regret as if it were a unitary emotion. But clearly the rather 
+broad definition we cited earlier (Landman, 1993) provides plenty of room for different flavors of 
+regret. So too does the minimal constraint we imposed on our subjects when we asked them to 
+recall their biggest regrets. Indeed, earlier we distinguished between regrets that stem from moral 
+transgressions (which are likely to be tinged with guilt and shame) and those that derive from 
+failures of self-Íactualization (which may involve strong feelings of sadness and yearning). 
+One particularly relevant distinction between different types of regret has recently been 
+offered by Kahneman (in press). He proposes a distinction between “hot” and “wistful” regret. Hot 
+regret, as the name implies, is the more intense of the two. It is the burning pain that 
+accompanies thoughts of “What a disaster!” or “How could I have been so stupid?” and is 
+usually evoked by events that are coded as outright losses. Wistful regret, in contrast, is typically 
+evoked by thoughts of foregone gains and is less intense in flavor. It is the more pensive side of 
+what “might have been.” Kahneman suggests that hot regret is more characteristic of the short-
+term experience of regret, whereas wistful regret is more associated with the long term. 
+Kahneman's proposal fits well with our data and offers an intriguing perspective from which 
+to view the temporal pattern to the experience of regret. The regrets people have when looking 
+back over their entire lives certainly include some of the wistful variety. As we suggested earlier, 
+on occasion these regrets may even center around a fanciful, pie-in-the-sky wish, and thus can 
+sometimes be quite mild. At the same time, it is important to note that many long-term regrets of 
+inaction are anything but wistful. Among our participants' regrets, for example, one would not 
+describe as wistful “not having helped someone escape from Hitler” or “not paying more 
+attention to my son's heart condition before he died of a heart attack.” 
+In an effort to examine more extensively the wistfulness of our sample of long-term regrets of 
+action and inaction, we had a group of raters examine the regrets of the two sets of respondents 
+who looked back on their regrets from the most long-term perspective—the professors emeriti 
+and the nursing home residents. The raters were asked to imagine that each regret applied to 
+them and then to indicate on a 9-point scale how painful the thought of each regret would be. 
+Interestingly, the regrets of inaction were just as painful as a whole as the regrets of action. 
+These data are not decisive, of course, because they involve outsiders' judgments of the intensity 
+of each regret, not the intensity as it actually was felt by the person experiencing it. Nevertheless, 
+they suggest that a sense of wistfulness is not the whole story behind long-term regrets of 
+inaction. It may be an important part of the story, however, and so the relationship between 
+action and inaction, temporal perspective, and Kahneman's provocative distinction between hot 
+and wistful regret clearly merits further empirical investigation.7 
+Normative Considerations  
+Another important question that arises from the present findings is whether they carry any 
+implications for how people might minimize, or better manage, their regrets. The most obvious, 
+perhaps, is the possibility that people should be encouraged to act on their impulses more often. 
+Because people so often end up regretting things they failed to do, they might be encouraged to 
+try to overcome the inertia that leads to inaction. People might profit from developing the will 
+and courage to “seize the moment” whenever relevant opportunities present themselves. There is 
+considerable evidence indicating that people are so heavily influenced by the immediate sting of 
+regrettable action that they are prone to an “omission bias” in which inaction is favored over 
+action (Ritov & Baron, 1990, 1992; Spranca, Minsk, & Baron, 1991). Our research suggests that this concern 
+with the short-term negative consequences of action blinds people to the more enduring 
+Page 25 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+drawbacks of inaction. Predicting whether one's current preferences or evaluations will stand 
+the test of time is no simple matter (Kahneman & Snell, 1990), in part because of the well-established 
+tendency for people to weight current experience more heavily than anticipated future outcomes 
+(Herrnstein, 1990; Loewenstein & Thaler, 1989). Perhaps, then, our research can encourage people to 
+focus less on the short-term consequences of their actions, to be less subject to the omission bias, 
+and to more often—in the words of a currently popular ad campaign—“Just do it.” 
+But isn't this recommendation a bit glib? After all, there may be important reasons why people 
+are subject to an omission bias—r easons that are ignored at great peril. Indeed, when considered 
+from an evolutionary perspective, the omission bias may constitute a very functional adaptation. 
+Ceteris paribus, the status quo is probably safer than trying something new. Following the status 
+quo has kept one alive at least until that point. An organism that pays attention to the short term 
+and punishes itself with more immediate regret for unwise actions than for unwise inactions may 
+engage in fewer activities that risk its existence. Such an organism is more likely to survive to 
+experience the long term, and if being haunted by imagined lost opportunities is the cost, so be it. 
+These divergent considerations suggest that there may be no overall answer to the normative 
+question of whether people should try to overcome the omission bias and take bold action more 
+often, or whether they should maintain their current behavioral tendencies and suffer the long-
+term regrets of inaction that they currently do. Our research indicates that people would come to 
+different conclusions about the wisdom of a given course of action depending on whether their 
+assessments were elicited immediately or long after a choice was made. Although some would 
+suggest that the long-term perspective is more meaningful and informative, there is no truly 
+compelling reason to favor one over the other. Both represent authentic reactions to events at 
+different points in time. The immediate perspective lacks the benefit of knowledge that is gained 
+in the full measure of time, but the long-term perspective often lacks a full appreciation of the 
+richness of prior emotional states. On what grounds can acute, short-term pain be deemed less 
+significant than long-term angst? 
+Perhaps a more fruitful approach to the normative question is to examine the individual 
+mechanisms that give rise to the temporal pattern to the experience of regret. By doing so, it 
+becomes clear that at least some of the psychological processes that are engaged by mistakes of 
+omission and commission can be called into question. It is hard to imagine, for example, that 
+people are well served by a tendency to little notice nor long remember causal forces that restrain 
+human action. Likewise, the tendency for confidence to increase with the passage of time rests 
+on equally shaky normative ground. The only way such a tendency could be justified is if people 
+are actually under confident when the time to act is at hand, a proposition that has been soundly 
+refuted by empirical evidence (Dunning, Griffin, Milojkovic, & Ross, 1990; Kahneman & Lovallo, 1993; 
+Vallone, Griffin, Lin, & Ross, 1990; Wagenaar & Keren, 1986). 
+The applied message of this research, then, is not a general one about being more bold in 
+embracing various courses of action in everyday life. The lesson is more limited: People would 
+profit from knowing about the various psychological processes that alter the evaluation of events 
+with the passage of time. Knowing the ways in which evaluations of events are likely to be 
+different in the future than they are now allows one to bring a bit of the future to the present, and 
+therefore enables one to make current decisions (to venture forth or to hold back) with an 
+increased awareness of both temporal perspectives. 
+In the final analysis, we are loathe to seize too quickly or too heavily on an apparent lesson of 
+this research—that people should more frequently throw caution to the wind and act boldly more 
+often. But we were worried about our own long-term regrets if we did not at least mention such 
+Page 26 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi
+an implication. 
+References  
+Aronson, E. (1969). The theory of cognitive dissonance: A current perspective. In L. Berkowitz (Ed.), Advances in 
+experimental social psychology (Vol. 4, pp. 1–34). New York: Academic Press. [Context Link] 
+Bedford, E. (1957). Emotions. Proceedings of the Aristotelian Society: 1956–1957. London: Harrison & Sons. [Context 
+Link] 
+Bell, D. E. (1981). Explaining utility theory paradoxes by decision regret. In J. Morse (Ed.), Proceedings of the Fourth 
+International Conference on Multiple Criteria Decision Making (pp. 28–39). New York: Springer. [Context Link] 
+Bell, D. E. (1982). Regret in decision making under uncertainty. Operations Research, 30, 961–981. [Context Link] 
+Bell, D. E. (1983). Risk premiums for decision regret. Management Science, 29, 1156–1166. [Context Link] 
+Bell, D. E. (1985). Putting a premium on regret. Management Science, 31, 117–120. [Context Link] 
+Black, M. (1958). Making something happen. In S. Hook (Ed.), Determinism and freedom in the age of modern science 
+(pp. 15–30). New York: New York University Press. [Context Link] 
+Cooper, J. (1971). Personal responsibility and dissonance: The role of foreseen consequences. Journal of Personality and 
+Social Psychology, 18, 354–363. [Context Link] 
+Cooper, J., & Fazio, R. H. (1984). A new look at dissonance theory. In L. Berkowitz (Ed.), Advances in experimental 
+social psychology (Vol. 17, pp. 229–266). New York: Academic Press. [Context Link] 
+Cooper, J., & Worchel, S. (1970). Role of undesired consequences in arousing cognitive dissonance. Journal of 
+Personality and Social Psychology, 16, 199–206. [Context Link] 
+deSousa, R. (1987). The rationality of emotions. Cambridge, MA: MIT Press. [Context Link] 
+Dunning, D., Griffin, D. W., Milojkovic, J., & Ross, L. (1990). The overconfidence effect in social prediction. Journal of 
+Personality and Social Psychology, 58, 568–581. [Context Link] 
+Dunning, D., & Parpal, M. (1989). Mental addition versus subtraction in counterfactual reasoning: On assessing the 
+impact of personal actions and life events. Journal of Personality and Social Psychology, 57, 5–15. [Context Link]
+Page 27 of 27Ovid: Gilovich: Psychol Rev, Volume 102(2).April 1995.379–395
+1/8/2004http://gateway1.ma.ovid.com/ovidweb.cgi

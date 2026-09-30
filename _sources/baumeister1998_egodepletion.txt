@@ -1,0 +1,1558 @@
+Ego Depletion: Is the Active Self a Limited Resource? 
+Roy E Baumeister, Ellen Bratslavsky, Mark Muraven, and Dianne M. Tice 
+Case Western Reserve University 
+Choice, active response, self-regulation, and other volition may all draw on a common inner resource. 
+In Experiment 1, people who forced themselves to eat radishes instead of tempting chocolates 
+subsequently quit faster on unsolvable puzzles than people who had not had to exert self-control 
+over eating. In Experiment 2, making a meaningful personal choice to perform attitude-relevant 
+behavior caused a similar decrement in persistence. In Experiment 3, suppressing emotion led to a 
+subsequent drop in performance of solvable anagrams. In Experiment 4, an initial task requiring 
+high self-regulation made people more passive (i.e., more prone to favor the passive-response option). 
+These results suggest that the self's capacity for active volition is limited and that a range of 
+seemingly different, unrelated acts share a common resource. 
+Many crucial functions of the self involve volition: making 
+choices and decisions, taking responsibility, initiating and inhib- 
+iting behavior, and making plans of action and carrying out 
+those plans. The self exerts control over itself and over the 
+external world. To be sure, not all human behavior involves 
+planful or deliberate control by the self, and, in fact, recent work 
+has shown that a great deal of human behavior is influenced by 
+automatic or nonconscious processes (see Bargh, 1994, 1997). 
+But undoubtedly some portion involves deliberate, conscious, 
+controlled responses by the self, and that portion may be dispro-' 
+portionately important to the long-term health, happiness, and 
+success of the individual. Even if it were shown that 95% of 
+behavior consisted of lawful, predictable responses to situa- 
+tional stimuli by automatic processes, psychology could not 
+afford to ignore the remaining 5%. As an analogy, cars are 
+probably driven straight ahead at least 95% of the time, but 
+ignoring the other 5% (such as by building cars without steering 
+wheels) would seriously compromise the car's ability to reach 
+most destinations. By the same token, the relatively few active, 
+controlling choices by the self greatly increase the self's 
+chances of achieving its goals. And if those few "steering" 
+choices by the self are important, then so is whatever internal 
+structure of the self is responsible for it. 
+In the present investigation we were concerned with this con- 
+trolling aspect of the self. Specifically, we tested hypotheses of 
+ego depletion, as a way of learning about the self's executive 
+function. The core idea behind ego depletion is that the self's 
+acts of volition draw on some limited resource, akin to strength 
+or energy and that, therefore, one act of volition will have a 
+detrimental impact on subsequent volition. We sought to show 
+that a preliminary act of self-control in the form of resisting 
+temptation (Experiment 1 ) or a preliminary act of choice and 
+responsibility (Experiment 2) would undermine self-regulation 
+in a subsequent, unrelated domain, namely persistence at a dif- 
+ficult and frustrating task. We then sought to verify that the 
+effects of ego depletion are indeed maladaptive and detrimental 
+to performance (Experiment 3). Last, we undertook to show 
+that ego depletion resulting from acts of self-control would 
+interfere with subsequent decision making by making people 
+more passive (Experiment 4). 
+Our research strategy was to look at effects that would carry 
+over across wide gaps of seeming irrelevance. If resisting the 
+temptation to eat chocolate can leave a person prone to give up 
+faster on a difficult, frustrating puzzle, that would suggest that 
+those two very different acts of self-control draw on the same 
+limited resource. And if making a choice about whether to make 
+a speech contrary to one's opinions were to have the same 
+effect, it would suggest that that very same resource is also the 
+one used in general for deliberate, responsible decision making. 
+That resource would presumably be one of the most important 
+features of the self. 
+Roy E Baumeister, Ellen Bratslavsky, Mark Muraven, and Dianne M. 
+Tice, Department of Psychology, Case Western Reserve University. 
+This research was supported by National Institute of Health Grants 
+MH-51482 and MH-57039. Experiment 1 was the master's thesis of 
+Ellen Bratslavsky, directed by Roy E Baumeister. Some of these findings 
+have been presented orally at several conferences. 
+Correspondence concerning this article should be addressed to Roy E 
+Baumeister, Department of Psychology, Case Western Reserve University, 
+10900 Euclid Avenue, Cleveland, Ohio 44106-7123. Electronic mail may 
+be sent to rfb2@po.cwru.edu. 
+Executive Function 
+The term agency has been used by various writers to refer to 
+the self's exertion of volition, but this term has misleading 
+connotations: An agent is quintessentially someone who acts on 
+behalf of someone else, whereas the phenomenon under discus- 
+sion involves the self acting autonomously on its own behalf. 
+The term executive function has been used in various contexts 
+to refer to this aspect of self and hence may be preferable (e.g., 
+Journal of Personality and Social Psychology, 1998, Vol. 74, No. 5, 1252-1265 
+Copyright 1998 by the American Psychological Association, Inc. 0022-3514/98/$3.00 
+1252 
+
+EGO DEPLETION 1253 
+Epstein, 1973; see Baumeister, 1998). Meanwhile, we use the 
+term ego depletion to refer to a temporary reduction in the 
+self's capacity or willingness to engage in volitional action 
+(including controlling the environment, controlling the self, 
+making choices, and initiating action) caused by prior exercise 
+of volition. 
+The psychological theory that volition is one of the self's 
+crucial functions can be traced back at least to Freud (1923/ 
+1961a, 1933/1961b), who described the ego as the part of the 
+psyche that must deal with the reality of the external world by 
+mediating between conflicting inner and outer pressures. In his 
+scheme, for example, a Victorian gentleman standing on the 
+street might feel urged by his id to head for the brothel and by 
+his superego to go to church, but it is ultimately left up to his 
+ego to start his feet walking in one direction or the other. Freud 
+also seems to have believed that the ego needed to use some 
+energy in making such a decision. 
+Recent research has convincingly illuminated the self's 
+nearly relentless quest for control (Brehm, 1966; Burger, 1989; 
+DeCharms, 1968; Deci & Ryan, 1991, 1995; Langer, 1975; 
+Rothbaum, Weisz, & Snyder, 1982; Taylor, 1983, 1989; White, 
+1959). It is also known that when the self feels highly responsi- 
+ble (accountable) for its actions, its cognitive and behavioral 
+processes change (Cooper & Scher, 1994; Linder, Cooper, & 
+Jones, 1967; Tetlock, 1983, 1985; Tetlock & Boettger, 1989). 
+Active responses also have more powerful effects on the self 
+and its subsequent responses than do passive ones (Allison & 
+Messick, 1988; Cioffi & Garner, 1996; Fazio, Sherman, & Herr, 
+1982). The processes by which the self monitors itself in order 
+to approach standards of desired behavior have also been studied 
+(Carver & Scheier, 1981; Duval & Wicklund, 1972; Wegner, 
+1994; Wegner & Pennebaker, 1993). 
+Despite these efforts, it is hard to dispute that understanding 
+of the executive function remains far more vague and rudimen- 
+tary than other aspects of self-theory. Researchers investigating 
+cognitive representations of self have made enormous progress 
+in recent decades (for reviews, see Banaji & Prentice, 1994; 
+Fiske & Taylor, 1991). Likewise, there has been considerable 
+progress on interpersonal aspects of self hood (e.g., Leary, 1995; 
+Leary & Kowalski, 1990; Schlenker, 1980; Tesser, 1988). In 
+comparison, understanding of the self's executive function lags 
+behind at a fairly primitive level. 
+power be revived for self-regulation theory, and a literature re- 
+view by Baumeister, Heatherton, and Tice (1994) concluded 
+that much evidence about self-regulatory failure fits a model of 
+strength depletion. 
+An important early study by Glass, Singer, and Friedman 
+(1969) found that participants exposed to unpredictable noise 
+stress subsequently showed decrements in frustration tolerance, 
+as measured by persistence on unsolvable problems, t Glass et 
+al. concluded that adapting to unpredictable stress involves a 
+"psychic cost," which implies an expenditure or depletion of 
+some valuable resource. They left the nature of this resource to 
+future research, which has not made much further progress. 
+Additional evidence for a strength model was provided by 
+Muraven, Tice, and Baumeister (1998), whose research strategy 
+influenced the present investigation. Muraven et al. sought to 
+show that consecutive exertions of self-regulation were charac- 
+terized by deteriorating performance, even though the exertions 
+involved seemingly unrelated spheres. In one study, they showed 
+that trying not to think about a white bear (a thought-control 
+task borrowed from Wegner, 1989; Wegner, Schneider, Carter, & 
+White, 1987) caused people to give up more quickly on a subse- 
+quent anagram task. In another study, an affect-regulation exer- 
+cise caused subsequent decrements in endurance at squeezing a 
+handgrip. These findings suggest that exertions of self-control 
+do carry a psychic cost and deplete some scarce resource. 
+To integrate these scattered findings and implications, we sug- 
+gest the following. One important part of the self is a limited 
+resource that is used for all acts of volition, such as controlled 
+(as opposed to automatic) processing, active (as opposed to 
+passive) choice, initiating behavior, and overriding responses. 
+Because much of self-regulation involves resisting temptation 
+and hence overriding motivated responses, this self-resource 
+must be able to affect behavior in the same fashion that motiva- 
+tion does. Motivations can be strong or weak, and stronger im- 
+pulses are presumably more difficult to restrain; therefore, the 
+executive function of the self presumably also operates in a 
+strong or weak fashion, which implies that it has a dimension 
+of strength. An exertion of this strength in self-control draws 
+on this strength and temporarily exhausts it (Muraven et al., 
+1998), but it also presumably recovers after a period of rest. 
+Other acts of volition should have similar effects, and that is 
+the hypothesis of the present investigation. 
+Ego Depletion 
+The notion that volition depends on the self's expenditure of 
+some limited resource was anticipated by Freud (1923/1961a, 
+1933/1961b). He thought the ego needed to have some form 
+of energy to accomplish its tasks and to resist the energetic 
+promptings of id and superego. Freud was fond of the analogy 
+of horse and rider, because as he said the rider (analogous to 
+the ego) is generally in charge of steering but is sometimes 
+unable to prevent the horse from going where it wants to go. 
+Freud was rather vague and inconsistent about where the ego's 
+energy came from, but he recognized the conceptual value of 
+postulating that the ego operated on an energy model. 
+Several modern research findings suggest that some form of 
+energy or strength may be involved in acts of volition. Most of 
+these have been concerned with self-regulation. Indeed, Mischel 
+(1996) has recently proposed that the colloquial notion of will- 
+Experiment 1 
+Experiment 1 provided evidence for ego depletion by examin- 
+ing consecutive acts of self-control. The study was originally 
+designed to test competing hypotheses about the nature of self- 
+control, also known as self-regulation. Clearly the control over 
+self is one of the most important and adaptive applications of 
+the self's executive function. Research on monitoring processes 
+and feedback loops has illuminated the cognitive structure that 
+1 These researchers also showed that an illusion of controllability 
+eliminated this effect. From our perspective, this implies that part of the 
+stress involves the threat or anticipation of continued aversive stimula- 
+tion, which the illusion of controllability dispelled. In any case, it is 
+plausible that the psychic cost was paid in terms of affect regulation, 
+that is, making oneself submit and accept the aversive, unpredictable 
+stimulation. 
+
+1254 BAUMEISTER, BRATSLAVSKY, MURAVEN, AND TICE 
+processes relevant information (e.g., Carver & Scheier, 1981; 
+Wegner, 1994), but the actual process by which an organism 
+alters its own responses or subjective states is far less well 
+understood. At least three different models of the nature of self- 
+regulation can be proposed. Moreover, these three models make 
+quite different predictions about the effectiveness of self-control 
+immediately after an exertion of self-control in some unrelated 
+sphere. Experiment 1 provided a test of these three competing 
+predictions by requiring participants to engage in two seemingly 
+unrelated acts of self-control. 
+One model views self-regulation as essentially a skill. In this 
+model, people gradually develop the skill to regulate themselves 
+over long periods of time. On any given occasion, however, skill 
+remains roughly constant across repeated trials (except for small 
+and gradual learning effects), so there should be little or no 
+change in effectiveness of self-control on two successive exer- 
+tions within a short time. 
+Another model portrays self-regulation as essentially a 
+knowledge structure. In this view, self-control operates like a 
+master schema that makes use of information about how to alter 
+one's own responses or states. On the basis of this model, an 
+initial act of self-regulation should prime the schema, thereby 
+facilitating subsequent self-control. Another version of this view 
+would be that the self-regulatory system is normally in a standby 
+or depowered mode until it is pressed into action by one act of 
+self-control. Once activated, the system would remain in opera- 
+tion ( "on" ) for a time, making further acts of self-control easier. 
+A third model states that self-regulation resembles energy. In 
+this view, acts of self-regulation involve some kind of exertion 
+that expends energy and therefore depletes the supply available. 
+Unless the supply is very large, initial acts of self-regulation 
+should deplete it, thereby impairing subsequent self-control. 
+Thus, the three models respectively predict no change, an 
+increase, or a decrease in effectiveness of self-control following 
+an initial act of self-control. Other models are possible, such as 
+the possibility that self-regulation involves a collection of do- 
+main-specific but unrelated knowledge structures, so that an 
+initial act of self-control should prime and therefore facilitate 
+self-control in the same sphere but produce no change in other, 
+unrelated spheres. Still, these three models provide sufficiently 
+conflicting predictions about the sequence of unrelated acts of 
+self-control to make it worth conducting an initial test. 
+In the present research, we used impulse control, which to 
+many people is the classic or paradigmatic form of self-control. 
+More precisely, we manipulated self-control by instructing some 
+hungry individuals to eat only radishes while they were faced 
+with the tempting sight and aroma of chocolate. Thus, they had 
+to resist the temptation to perform one action while making 
+themselves perform a similar but much less desirable action. 
+We then sought to measure self-control in an unrelated sphere, 
+by persistence at a frustrating puzzle-solving task. A series of 
+frustrating failures may often make people want to stop doing 
+the task, and, so, self-control is needed to force oneself to con- 
+tinue working. 
+If resisting temptation depends on skill, then this skill would 
+predict no change in persistence under frustration. If resisting 
+temptation involves activating a knowledge structure or master 
+schema, then priming this schema should facilitate self-control, 
+and people should persist longer on the puzzles. Finally, if re- 
+sisting temptation uses some kind of strength or energy, then this 
+will be depleted afterward, and subsequent persistence should 
+decrease. 
+Method 
+Participants. Data were collected in individual sessions from 67 
+introductory psychology students (31 male, 36 female) who received 
+course credit for taking part. 
+Procedure. Participants signed up for a study on taste perception. 
+Each participant was contacted to schedule an individual session, and 
+at that time the experimenter requested the participant to skip one meal 
+before the experiment and make sure not to have eaten anything for at 
+least 3 hr. 
+The laboratory room was carefully set up before participants in the 
+food conditions arrived. Chocolate chip cookies were baked in the room 
+in a small oven, and, as a result, the laboratory was filled with the 
+delicious aroma of fresh chocolate and baking. Two foods were displayed 
+on the table at which the participant was seated. One display consisted 
+of a stack of chocolate chip cookies augmented by some chocolate 
+candies. The other consisted of a bowl of red and white radishes. 
+The experimenter provided an overview of the procedures, secured 
+an informed consent, and then elaborated the cover story. She explained 
+that chocolates and radishes had been selected for the taste perception 
+study because they were highly distinctive foods familiar to most people. 
+She said that there would be a follow-up measure for sensation memory 
+the next day, and so she asked the participant to agree not to eat any 
+chocolates or radishes (other than in the experiment) for 24 hr after the 
+session. 
+Participants in the chocolate and radish conditions were then asked 
+to take about 5 min to taste the assigned food while the experimenter 
+was out of the room. In the radish condition, the experimenter asked 
+the participant to eat at least two or three radishes, and in the chocolate 
+condition, the participant was asked to eat at least two or three cookies 
+or a handful of the small candies. Participants were reminded to eat only 
+the food that had been assigned to them. The experimenter left the room 
+and surreptitiously observed the participant through a one-way mirror, 
+recording the amount of food eaten and verifying that the participant 
+ate only the assigned food. (To minimize self-awareness, the mirror was 
+almost completely covered with a curtain.) 
+After about 5 min, the experimenter returned and asked the participant 
+to fill out two questionnaires. One was the Brief Mood Introspection 
+Scale (BMI; Mayer & Gaschke, 1988), and the other was the Restraint 
+Scale (Herman & Polivy, 1975). Then the experimenter said that it was 
+necessary to wait at least 15 min to allow the sensory memory of the 
+food to fade. During that time, she said, the participant would be asked 
+to provide some preliminary data that would help the researchers learn 
+whether college students differed from high school students in their 
+problem-solving ability. The experimenter said that the participant would 
+therefore be asked to work on a test of problem solving. The problem 
+solving was presented as if it were unrelated to the eating, but in fact 
+it constituted the main dependent measure. 
+There was also a no-food control condition. Participants assigned to 
+this condition skipped the food part of the experiment and went directly 
+to the problem-solving part. 
+The problem-solving task was adapted from a task used by Glass et 
+al. (1969), adapted from Feather ( 1961 ). The puzzle requires the person 
+to trace a geometric figure without retracing any lines and without lifting 
+his or her pencil from the paper. Multiple slips of paper were provided 
+for each figure, so the person could try over and over. Each participant 
+was initially given several practice figures to learn how the puzzles 
+worked and how to solve them, with the experimenter present to answer 
+any questions. After the practice period, the experimenter gave the partic- 
+ipant the two main test figures with the instructions 
+You can take as much time and as many trials as you want. You 
+will not be judged on the number of trials or the time you will take. 
+
+EGO DEPLETION 1255 
+You will be judged on whether or not you finish tracing the figure. 
+If you wish to stop before you finish [i.e., solve the puzzle], ring 
+the bell on the table. 
+Unbeknownst to the participant, both these test figures had been prepared 
+so as to be impossible to solve. 
+The experimenter then left the room and timed how long the participant 
+worked on the task before giving up (signified by ringing the bell). 
+Following an a priori decision, 30 rain was set as the maximum time, 
+and the 4 participants who were still working after 30 min were stopped 
+by the experimenter at that point. For the rest, when the experimenter 
+heard the bell, she reentered the room and administered a manipulation 
+check questionnaire. When the participants finished, the experimenter 
+debriefed, thanked, and dismissed them. 
+Results 
+Manipulation check. The experimenter surreptitiously ob- 
+served all participants during the eating phase to ascertain that 
+they ate the stipulated food and avoided the other. All partici- 
+pants complied with the instructions. In particular, none of the 
+participants in the radish condition violated the rule against 
+eating chocolates. Several of them did exhibit clear interest in 
+the chocolates, to the point of looking longingly at the chocolate 
+display and in a few cases even picking up the cookies to sniff 
+at them. But no participant actually bit into the wrong food. 
+The difficulty of the eating task was assessed on the final 
+questionnaire. Participants in the radish condition said that they 
+forced themselves in an effortful fashion to eat the assigned 
+food more than participants in the chocolate condition, F(1, 
+44) = 16.10, p < .001. They also rated resisting the nonassigned 
+food as marginally significantly mdre difficult, F( 1, 44) = 3.41, 
+p < .07. During the debriefing, many participants in the radish 
+condition spontaneously mentioned the difficulty of resisting the 
+temptation to eat the chocolates. 
+Persistence. The main dependent measure was the amount 
+of time participants spent on the unsolvable puzzles. A one-way 
+analysis of variance (ANOVA) indicated significant variation 
+among the three conditions, F(2, 64) = 26.88, p < .001. The 
+means are presented in Table 1. Pairwise comparisons among 
+the groups indicated that participants in the radish condition 
+quit sooner on the frustrating task than did participants in either 
+the chocolate condition, t(44) = 6.03, p < .001, or the no-food 
+(control) condition, t(44) = 6.88, p < .001. The chocolate 
+condition did not differ from the no-food control condition, 
+t< 1, ns. 
+It is conceivable that the time measure was affected by some- 
+thing other than persistence, such as speed. That is, the interpre- 
+tation would be altered if the participants in the radish condition 
+tried just as many times as those in the chocolate condition and 
+Table 1 
+Persistence on Unsolvable Puzzles (Experiment 1) 
+merely did so much faster. Hence, we also analyzed the number 
+of attempts that participants made before giving up. A one- 
+way ANOVA on these tallies again yielded significant variation 
+among the three conditions, F(2, 64) = 7.61, p = .001. The 
+pattern of results was essentially the same as with duration of 
+persistence, as can be seen in Table 1. Pairwise comparisons 
+again showed that participants in the radish condition gave up 
+earlier than participants in the other two conditions, which did 
+not differ from each other. 2 
+Moods. The mood measure contains two subscales, and we 
+conducted a one-way ANOVA on each, using only the radish 
+and chocolate conditions (because this measure was not admin- 
+istered in the no-food control condition). The two conditions 
+did not differ in valence (i.e., pleasant vs. unpleasant) of mood, 
+F(1, 44) = 2.62, ns, nor in arousal, F < 1, ns. 
+Dieting. The analyses on persistence were repeated using 
+dieting status (from the Restraint Scale) as an independent vari- 
+able. Dieting status did not show either a main effect or an 
+interaction with condition on either the duration of persistence 
+or the number of attempts. 
+Fatigue and desire to quit. The final questionnaire provided 
+some additional evidence beyond the manipulation checks. One 
+item asked the participant how tired he or she felt after the 
+tracing task. An ANOVA yielded significant variation among the 
+conditions, F(2, 64) = 5.74, p < .01. Participants in the radish 
+condition were more tired (M = 17.96) than those in the choco- 
+late (M = 11.85 ) or no-food (M = 12.29) conditions (the latter 
+two did not differ). Participants in the radish condition also 
+reported that their fatigue level had changed more toward in- 
+creased tiredness (M --- 6.28) than participants in either the 
+chocolate (M = -0.90) or no-food (M = 1.76) conditions, 
+F(2, 64) = 5.13, p < .01. 
+Participants in the radish condition reported that they had felt 
+less strong a desire to stop working on the tracing task than had 
+participants in the other two conditions, F(2, 64) = 4.71, p < 
+.01. Yet they also reported forcing themselves to work on the 
+tracing task more than participants in the other two conditions, 
+F(2, 64) = 3.20, p < .05. The latter may have been an attempt 
+to justify their relatively rapid quitting on that task. The former 
+may indicate that they quit as soon as they felt the urge to do 
+so, in contrast to the chocolate and no-food participants who 
+made themselves continue for a while after they first felt like 
+quitting. 
+Discussion 
+These results provide initial support for the hypothesis of 
+ego depletion. Resisting temptation seems to have produced a 
+psychic cost, in the sense that afterward participants were more 
+inclined to give up easily in the face of frustration. It was not 
+that eating chocolate improved performance. Rather, wanting 
+chocolate but eating radishes instead, especially under circum- 
+Condition Time (min) Attempts 
+Radish 8.35 19.40 
+Chocolate 18.90 34.29 
+No food control 20.86 32.81 
+Note. Standard deviations for Column 1, top to bottom, are 4.67, 6.86, 
+and 7.30. For Column 2, SDs = 8.12, 20.16, and 13.38. 
+2 As this article went to press, we were notified that this experiment 
+had been independently replicated by Timothy J. Howe, of Cole Junior 
+High School in East Greenwich, Rhode Island, for his science fair proj- 
+ect. His results conformed almost exactly to ours, with the exception 
+that mean persistence in the chocolate condition was slightly (but not 
+significantly) higher than in the control condition. These converging 
+results strengthen confidence in the present findings. 
+
+1256 BAUMEISTER, BRATSLAVSKY, MURAVEN, AND TICE 
+stances in which it would seemingly be easy and safe to snitch 
+some chocolates, seems to have consumed some resource and 
+therefore left people less able to persist at the puzzles. 
+Earlier, we proposed three rival models of the nature of self- 
+regulation. These results fit a strength model better than a skill or 
+schema model. If self-regulation were essentially a knowledge 
+structure, then an initial act of self-regulation should have 
+primed the schema, thereby facilitating subsequent self-regula- 
+tion. The present results were directly opposite to that predic- 
+tion. A skill model would predict no change across consecutive 
+acts of self-regulation, but we did find significant change. In 
+contrast, a strength or energy model predicted that some vital 
+resource would be depleted by an initial act of self-regulation, 
+leading to subsequent decrements, and this corresponds to what 
+we found. 
+It is noteworthy that the depletion manipulation in this study 
+required both resisting one impulse (to eat chocolate) and mak- 
+ing oneself perform an undesired act (eating radishes). Both 
+may have contributed to ego depletion. Still, the two are not 
+independent. Based on a priori assumptions and on comments 
+made by participants during the debriefing, it seems likely that 
+people would have found it easier to make themselves eat the 
+radishes if they were not simultaneously struggling with re- 
+sisting the more tempting chocolates. 
+Combined with other evidence (especially Muraven et al., 
+1998), therefore, it seems reasonable to infer that self-regulation 
+draws on some limited resource akin to strength or energy and 
+that this resource may be common for many forms of self- 
+regulation. In Experiment 1, we found that an initial act of 
+resisting temptation (i.e., an act of impulse control) impaired 
+subsequent persistence at a spatial puzzle task. Muraven et al. 
+found that an act of affect regulation (i.e., trying either to stifle 
+or amplify one's emotional response) lowered subsequent stam- 
+ina on a physical task, that an initial act of thought suppression 
+reduced persistence at unsolvable anagrams, and that thought 
+suppression impaired subsequent ability to hide one's emotions. 
+These various carryovers between thought control, emotion con- 
+trol, impulse control, and task performance indicate that these 
+four main spheres of self-regulation all share the same resource. 
+Therefore, the question for Experiment 2 was whether that same 
+resource would also be involved in other acts of choice and 
+volition beyond self-regulation. 
+Experiment 2 
+Experiment 2 addressed the question of whether the same 
+resource that was depleted by not eating chocolate (in Experi- 
+ment 1) would be depleted by an act of choice. For this, we 
+used one of social psychology's classic manipulations: High 
+choice versus low choice to engage in counterattitudinal behav- 
+ior. Festinger and Carlsmith (1959) showed that people change 
+their attitudes to make them consistent with behavior when they 
+have been induced to act in ways contrary to their attitudes. 
+Linder et al. (1967) showed that this effect occurs only when 
+people have been led to see their own (counterattitudinal) be- 
+havior as freely chosen, and many studies have replicated these 
+effects. 
+Our interest was not in the attitudinal consequences of count- 
+erattitudinal behavior, however. Rather, our hypothesis was that 
+the act of making the choice to engage in counterattitudinal 
+behavior would involve the self and deplete its volitional re- 
+source. As an index of this ego depletion, we measured frustra- 
+tion tolerance using the same task that we used in Experiment 
+1, namely persistence at unsolvable puzzles. The puzzles, of 
+course, had nothing to do with our independent variable (next 
+year's tuition), and so in all direct ways the two behaviors were 
+irrelevant. 
+Dissonance research has provided some evidence consistent 
+with the view that making a choice involves an exertion by the 
+self. The original article by Linder et al. (1967) reported that 
+participants in the high-choice (free-decision, low-incentive) 
+condition spent about half a minute deciding whether to engage 
+in the counterattitudinal behavior, even though all consented to 
+do it, whereas low-choice participants did not spend that amount 
+of time. This is consistent with the view that the self was engag- 
+ing in some effortful activity during the choice exercise. More 
+generally, Cooper and Scher (1994; see also Cooper & Fazio, 
+1984; Scher & Cooper, 1989) concluded that personal responsi- 
+bility for aversive consequences is the core cause of cognitive 
+dissonance, and their conclusion puts emphasis on the taking 
+or accepting of personal responsibility for one's actions--thus 
+an active response by the self. 
+The design of Experiment 2 thus involved having people 
+make a counterattitudinal speech (favoring a large tuition in- 
+crease, to which most students were opposed) under high- or 
+low-choice conditions. Because our focus was on the active 
+choice making by the self, we also included a condition in 
+which people chose to make a proattitudinal speech opposing 
+the increase. Choosing to engage in a proattitudinal behavior 
+should not cause dissonance (see Cooper & Scher, 1994; Coo- 
+per & Fazio, 1984; Festinger, 1957; Linder et al., 1967), but it 
+should still deplete the self to some degree because it still in- 
+volves an act of choice and taking responsibility. We did not 
+have any basis for predicting whether choosing to engage in 
+counterattitudinal behavior would deplete the self more than 
+choosing to engage in proattitudinal behavior, but we expected 
+that there should still be some depletion. 
+Me~od 
+Participants. Participants were 39 undergraduate psychology stu- 
+dents (25 male, 14 female). They participated in individual sessions. 
+They were randomly assigned among four experimental treatment condi- 
+tions: counterattitudinal choice, counterattitudinal no choice, proattitudi- 
+nal choice, and no speech (control). To ensure that the issue was person- 
+ally relevant to all participants, we excluded 8 additional potential parti- 
+cipants who were either graduating seniors or who were on full 
+scholarship, because preliminary testing revealed that next year's tuition 
+did not matter to students in these categories. 
+Procedure. The experimenter greeted each participant and explained 
+that the purpose of the study was to see how people respond to persua- 
+sion. They were told that they would be making stimuli that would be 
+played to other people to alter their attitudes. In particular, they would 
+be making an audiotape recording of a persuasive speech regarding 
+projected tuition increases for the following academic year. The topic 
+of tuition raises was selected on the basis of a pilot test: A survey had 
+found that students rated the tuition increase as the most important issue 
+to them. 
+The experimenter said that all participants would record speeches that 
+had been prepared in advance. The importance of the tuition increase 
+issue was highlighted. The experimenter also said that the university's 
+
+EGO DEPLETION 1257 
+Board of Trustees had agreed to listen to the speeches to see how much 
+impact the messages would have on their decisions about raising tuition. 
+The experimenter showed the participant two folders, labeled pro- 
+tuition raise and anti-tuition raise. Participants in the n0-choice (count- 
+erattitudinal) condition were told that they had been assigned to make 
+the pro-tuition raise speech. The experimenter said that the researchers 
+already had enough people making the speech against the tuition raise 
+and so it would not be possible to give the participant a choice as to 
+which speech to make. In contrast, participants in the high-choice condi- 
+tions were told that the decision of which speech to make was entirely 
+up to them. The experimenter explained that because there were already 
+enough participants in one of the groups, it would help the study a great 
+deal if they chose to read one folder rather than the other. The experi- 
+menter then again stressed that the final decision would remain entirely 
+up to the participant. All participants agreed to make the speech that 
+they had been assigned. 
+Participants in the no-speech control condition did not do this part 
+of the experiment. The issue of tuition increase was not raised with 
+them. 
+At this point, all participants completed the same mood measure used 
+in Experiment 1. The experimenter then began explaining the task for 
+the second part of the experiment. She said there was some evidence of 
+a link between problem-solving abilities and persuasiveness. Accord- 
+ingly, the next part of the experiment would contain a measure of prob- 
+lem-solving ability. For participants in the speech-making conditions, 
+the experimenter said that the problem-solving task would precede the 
+recording of the speech. 
+The problem-solving task was precisely the same one used in Experi- 
+ment 1, involving tracing geometric figures without retracing lines or 
+lifting the pen from the paper. As in Experiment 1, the participant's 
+persistence at the frustrating puzzles was the main dependent measure. 
+After signaling the experimenter that they wished to stop working on 
+the task, participants completed a brief questionnaire that included ma- 
+nipulation checks. They were then completely debriefed, thanked, and 
+sent home. 
+Table 2 
+Persistence on Unsolvable Puzzles (Experiment 2) 
+Condition Time (min) Attempts 
+Counterattitudinal speech 
+High choice 14.30 26.10 
+No choice 23.11 42.44 
+Proattitudinal speech 
+High choice 13.80 24.70 
+No speech control 25.30 35.50 
+Note. Standard deviations for Column 1, top to bottom, are 6.91, 7.08, 
+6.49, and 5.06. For Column 2, SDs = 14.83, 22.26, 7.13, and 9.14. 
+Similar results were found using the number of attempts 
+(rather than time) as the dependent measure of persistence. The 
+ANOVA indicated significant variation among the four condi- 
+tions, F(3, 35) = 3.24, p < .05. The same pattern of pairwise 
+cell differences was found: Both conditions involving high 
+choice led to a reduction in persistence, as compared with the 
+no-speech control condition and the no-choice counterattitudinal 
+speech condition. 3 
+Mood state. One-way ANOVAs were conducted on each of 
+the two subscales of the BMI Scale. There was no evidence of 
+significant variation among the four conditions in reported va- 
+lence of mood (i.e., pleasant vs. unpleasant), F(3, 35) < 1, 
+ns. There was also no evidence of variation in arousal, F(3, 
+35) < 1, ns. These results suggest that the differences in persis- 
+tence were not due to differential moods engendered by the 
+manipulations. 
+Discussion 
+Results 
+Manipulation check. The final questionnaire asked partici- 
+pants (except in the control condition) how much they felt that 
+it was up to them which speech they chose to make. A one-way 
+ANOVA confirmed that there was significant variation among 
+the conditions, F(2, 31) = 15.46, p < .001. Participants in the 
+no-choice condition indicated that it was not up to them which 
+speech to make (M = 27.10), whereas participants in the count- 
+erattitudinal-choice (M = 10.21) and proattitudinal-choice 
+conditions (M = 6.60) both indicated high degrees of choice. 
+Another item asked how much the participant considered read- 
+ing an alternative speech to the one suggested by the experi- 
+menter, and on this too there was significant variation among 
+the three conditions, F(2, 31) = 11.53, p < .001, indicating 
+that high-choice participants considered the alternative much 
+more than participants in the no-choice condition. 
+Persistence. The main dependent measure was the duration 
+of persistence on the unsolvable puzzles. The results are pre- 
+sented in Table 2. A one-way ANOVA on persistence times 
+indicated that there was significant variation among conditions, 
+F(3, 35) = 8.42, p < .001. Pairwise comparisons confirmed 
+that the counterattitudinal-choice and the proattitudinal-choice 
+conditions each differed significantly from both the control and 
+the counterattitudinal-no-choice conditions. Perhaps surpris- 
+ingly, the two choice conditions did not differ significantly from 
+each other. 
+The results supported the ego depletion hypothesis and sug- 
+gest that acts of choice draw on the same limited resource used 
+for self-control. Participants who agreed to make a counterattitu- 
+dinal speech under high choice showed a subsequent drop in 
+their persistence on a difficult, frustrating task, as compared 
+with participants who expected to make the same speech under 
+low choice (and as compared with no-speech control partici- 
+pants). Thus, taking responsibility for a counterattitudinal be- 
+havior seems to have consumed a resource of the self, leaving 
+the self with less of that resource available to prolong persistence 
+at the unsolvable puzzles. 
+Of particular further interest was the high-choice proattitudi- 
+nal behavior condition. These people should not have experi- 
+enced any dissonance, yet they showed significant reductions 
+in persistence on unsolvable problems. Dissonance is marked 
+3 The differences between the control condition and the two high- 
+choice conditions failed to reach significance if we used the error term 
+from the ANOVA as the pooled variance estimate. The proattitudinal- 
+choice condition did differ from the control condition in a standard t 
+test using only the variance in those two cells, t(18) = 2.94, p < .01. 
+The counterattitudinal-choice condition differed marginally from the 
+no-speech control using this latter method, t(18) = 1.71, p = .105. The 
+high variance in the counterattitudinal-no-choice condition entailed that 
+it also differed only marginally from the counterattitudinal-choice con- 
+dition if the actual variance in those cells was used rather than the error 
+term, t(17) = 1.90, p = .07. 
+
+1258 BAUMEISTER, BRATSLAVSKY, MURAVEN, AND TICE 
+by an aversive arousal state (Cooper, Zanna, & Taves, 1978; 
+Zanna & Cooper, 1974; Zanna, Higgins, & Taves, 1976), but 
+apparently this arousal or negative affect is not what is responsi- 
+ble for ego depletion, because we found almost identical evi- 
+dence of ego depletion among people who chose to make the 
+nondissonant, proattitudinal speech. 
+Thus, it is not the counterattitudinal behavior that depletes 
+the self. Indeed, people who expected to perform the counteratti- 
+tudinal behavior under low choice persisted just as long as no- 
+speech control participants. Making a speech contrary to one's 
+beliefs does not necessarily deplete the self in any way that our 
+measure detected. Meanwhile, making a speech that supports 
+one's beliefs did deplete the self, provided that the person made 
+the deliberate, free decision to do so. 
+The implication is that it is the exercise of choice, regardless 
+of the behavior, that depletes the self. Whatever motivational, 
+affective, or volitional resource is needed to force oneself to 
+keep trying in the face of discouraging failure is apparently the 
+same resource that is used to make responsible decisions about 
+one's own behavior, and apparently this resource is fairly 
+limited. 
+Experiment 3 
+Experiments 1 and 2 suggested that self-regulation is weak- 
+ened by prior exercise of volition, either in the form of resisting 
+temptation (Experiment 1 ) or making a responsible choice (Ex- 
+periment 2). In both studies, the dependent variable involved 
+persistence on unsolvable problems. It is reasonable to treat 
+such persistence as a challenge for self-regulation, because un- 
+doubtedly people would feel inclined to give up when their 
+efforts are met with frustration and discouraging failure, and 
+overcoming that impulse (in order to persist) would require an 
+act of self-control. 
+An alternative view, however, might suggest that it is adaptive 
+to give up early on unsolvable problems. Persistence is, after all, 
+only adaptive and productive when it leads to eventual success. 
+Squandering time and effort on a lost cause is thus wasteful, 
+and optimal self-management would involve avoiding such 
+waste (e.g., McFarlin, 1985). It is true that such an argument 
+would require one to assume that our participants actually recog- 
+nized the task as unsolvable, and there was no sign that they 
+did. (In fact, most participants expressed surprise during the 
+debriefing when they were told that the puzzles were in fact 
+unsolvable.) Yet for us to contend that ego depletion has a 
+negative effect, it seemed necessary to show some decrement 
+in task performance. Unsolvable puzzles cannot show such a 
+decrement, because no amount of persistence leads to success. 
+Study 3 therefore was designed to show that ego depletion can 
+impair performance on solvable tasks. 
+Because broad conclusions about ego depletion are difficult 
+to draw from any single procedure, it seemed desirable to use 
+very different procedures for Study 3. Accordingly, the manipu- 
+lation of ego depletion involved affect regulation (i.e., control- 
+ling one's emotions). Affect regulation is one important sphere 
+of self-regulation (e.g., Baumeister et al., 1994). In this study, 
+some participants were asked to watch an emotionally evocative 
+videotape and stifle any emotional reaction they might have. To 
+ensure that the effects were due to self-regulation rather than 
+the particular emotional response, we used both positive (hu- 
+morous) and negative (sad and distressing) stimuli. 
+For the measure of task performance, we selected anagram 
+solving. This is a widely used performance measure that has 
+elements of both skill and effort. More to the point, we suspected 
+that success at anagrams would require some degree of self- 
+regulation. One must keep breaking and altering the tentative 
+combinations of letters one has formed and must make oneself 
+keep trying despite multiple initial failures. In the latter respect, 
+anagram solving resembles the dependent measure used in the 
+first two studies, except that persistence can actually help lead 
+to success. The prediction was that participants who had tried 
+to control their emotional responses to the videotape would 
+suffer from ego depletion and, as a result, would perform more 
+poorly at anagrams. 
+Me~od 
+Participants. Participants were 30 (11 male and 19 female) under- 
+graduates who took part in connection with introductory psychology 
+requirements. They participated in individual sessions and were ran- 
+domly assigned among the conditions. 
+Procedure. The experimenter explained that the purpose of the study 
+was to see which personality traits would make people more responsive 
+to experiencing emotions. They were told that the first part of the proce- 
+dure would involve watching a movie. 
+In the suppress-emotion condition, participants were instructed to try 
+not to show and not to feel any emotions during the movie. The experi- 
+menter said that the participant would be videotaped while watching the 
+film, and so it was essential to try to conceal and suppress any emotional 
+reaction. Meanwhile, participants in the no-regulation condition were 
+instructed to let their emotions flow while watching the movie, without 
+any attempt to hide or deny these feelings. They were also told that 
+their reactions would be videotaped. 
+Following these instructions, each participant saw a 10-min videotape. 
+Half of the participants in each condition saw a humorous video featur- 
+ing the comedian Robin Williams. The others saw an excerpt from the 
+film Terms of Endearment, portraying a young mother dying from cancer. 
+At the end of the video clip, participants completed the BMI Scale. 
+Then the experimenter extended the cover story to say that they would 
+have to wait at least 10 min after the film to allow their sensory memory 
+of the movie to fade. During that time, they were asked to help the 
+experimenter collect some preliminary data for future research by com- 
+pleting an anagram task. Participants received 13 sets of letters that they 
+were to unscramble to make English words during a 6-min period. The 
+participant was left alone to do this task. After 6 min, the experimenter 
+returned and administered a postexperimental questionnaire. After the 
+participant completed that, he or she was debriefed and thanked. 
+Results 
+Manipulation check. The final questionnaire asked partici- 
+pants to rate how effortful it had been to comply with the 
+instructions for watching the video clip. Participants in the sup- 
+press-emotion condition reported that they found it much more 
+effortful (M = 13.88) than participants in the no-regulation 
+condition (M = 5.64), t(28) = 2.88, p < .01. Similar effects 
+were found on an item asking people how difficult it was to 
+follow the instructions while following the video, t(28) = 4.95, 
+p < .001, and on an item asking how much they had to concen- 
+trate in complying with the instructions, t(28) = 5.42, p < 
+.001. These findings confirm that it required a greater exertion 
+to suppress one's emotional response than to let it happen. 
+
+EGO DEPLETION 1259 
+In addition, the films were perceived quite differently. On the 
+item asking participants to rate the movie on a scale ranging 
+from 1 (sad) to 25 (funny), participants rated the comedy video 
+as much funnier (M = 21.94) than the sad video clip (M = 
+4.54), t(29) = 4.62, p < .001. There were no differences as 
+a function of ego depletion condition in how the movie was 
+perceived. 
+Anagram performance. The main dependent variable was 
+performance on the anagram task. Table 3 shows the results. 
+Participants in the suppress-emotion condition performed sig- 
+nificantly worse than participants in the no-regulation condition 
+in terms of number of anagrams correctly solved, t (28) = 2.12, 
+p < .05. There was no effect for type of movie. 
+Mood. There was no difference in either mood valence or 
+arousal between participants who tried to suppress their emo- 
+tional reactions and those who let their emotions go. Hence any 
+differences in performance between these conditions should not 
+be attributed to differential mood or arousal responses. 
+Discussion 
+The results confirm the view that ego depletion can be detri- 
+mental to subsequent performance. The alternative view, that 
+Experiments 1 and 2 showed improved self-regulation because 
+it is adaptive to give up early on unsolvable tasks, cannot seem- 
+ingly account for the results of Experiment 3. In this study, an 
+act of self-regulation--stifling one's emotional response to a 
+funny or sad video clip--was followed by poorer performance 
+at solving anagrams. Hence, it seems appropriate to suggest that 
+some valuable resource of the self was actually depleted by the 
+initial act of volition, as opposed to suggesting merely that initial 
+acts of volition alter subsequent decision making. 
+Experiment 4 
+The first three experiments provided support for the hypothe- 
+sis of ego depletion. Experiment 4 was designed to provide 
+converging evidence using quite different procedures. Also, Ex- 
+periment 4 was designed to complement Experiment 2 by re- 
+versing the direction of influence: Experiment 2 showed that 
+an initial act of responsible decision making could undermine 
+subsequent self-regulation, and Experiment 4 was designed to 
+show that an initial act of self-regulation could undermine sub- 
+sequent decision making. 
+Experiment 4 used procedures that contrasted active versus 
+passive responding. In many situations, people face a choice 
+between one course of action that requires an active response 
+and another course that will occur automatically if the person 
+does nothing (also called a default option). In an important 
+study, Brockner, Shaw, and Rubin (1979) measured persistence 
+in a futile endeavor under two contrasting situations. In one, 
+Table 3 
+Success at Solvable Puzzles (Experiment 3) 
+Condition Solved SD 
+Suppress 4.94 2.59 
+No regulation 7.29 3.52 
+the person had to make a positive move to continue, but the 
+procedure would stop automatically if he or she did nothing 
+(i.e., continuing was active and quitting was passive). The other 
+situation was the reverse, in which a positive move was required 
+to terminate whereas continuing was automatic unless the person 
+signaled to quit. Brockner et al. found greater persistence when 
+persistence was passive than when it was active. 
+In our view, the findings of Brockner et al. (1979) may reflect 
+a broader pattern that can be called a passive-option effect. The 
+passive-option effect can be defined by saying that in any choice 
+situation, the likelihood of any option being chosen is increased 
+if choosing involves a passive rather than an active response. 
+Sales organizations such as music, book, and film clubs, for 
+example, find that their sales are higher if they can make the 
+customer's purchasing response passive rather than active, and 
+so they prefer to operate on the basis that each month's selection 
+will automatically be mailed to the customer and billed unless 
+the customer actively refuses it. 
+For present purposes, the passive-option effect is an important 
+possible consequence of the limited resources that the self has 
+for volitional response. Our assumption is that active responding 
+requires the self to expend some of its resources, whereas passive 
+responses do not. The notion that the self is more involved and 
+more implicated by active responding than by passive re- 
+sponding helps explain evidence that active responses leave 
+more lasting behavioral consequences. For example, Cioffi and 
+Garner (1996) showed that people were more likely to follow 
+through when they had actively volunteered than passively vol- 
+unteered for the same act. 
+The passive-option effect thus provides a valuable forum for 
+examining ego depletion. Active responses differ from passive 
+ones in that they require the expenditure of limited resources. 
+If the self's resources have already been exhausted (i.e., under 
+ego depletion), the self should therefore be all the more inclined 
+to favor the passive option. 
+To forestall confusion, we hasten to point out that the term 
+choice can be used in two different ways, and so a passive 
+option may or may not be understood as involving a choice, 
+depending on which meaning is used. Passive choice is a choice 
+in the sense that the situation presents the person with multiple 
+options and the outcome is contingent on the person's behavior 
+(or nonbehavior). It is, however, not a choice in the volitional 
+sense, because the person may not perform an intrapsychic act 
+of volition. FOr example, a married couple who sleeps together 
+on a given night may be said to have made a choice that night 
+insofar as they could, in principle, have opted to sleep alone or 
+with other sleeping partners. Most likely, though, they did not 
+go through an active-choice process that evening, but rather they 
+simply did what they always did. The essence of passive options, 
+in our understanding, is that the person does not engage in an 
+inner process of choosing or deciding, even though alternative 
+options are available. Passive choices therefore should not de- 
+plete the self's resources. 
+In Experiment 4, we showed participants a very boring movie 
+and gave them a temptation to stop watching it. For some partici- 
+pants quitting was passive, whereas for others quitting required 
+an active response; The dependent variable was how long people 
+persisted at the movie. According to the passive-option effect, 
+they should persist longer when persisting was passive than when 
+
+1260 BAUMEISTER, BRATSLAVSKY, MURAVEN, AND TICE 
+persisting required active responses. We predicted that ego 
+depletion would intensify this pattern. 
+Prior ego depletion was manipulated by altering the instruc- 
+tions for a task in a way that varied how much the person had 
+to regulate his or her responses. The basic task involved crossing 
+out all instances of the letter e in a text. People can learn to do 
+this easily and quickly; and they become accustomed to scanning 
+for every e and then crossing it out. To raise the self-regulatory 
+difficulty, we told people not to cross out the letter e if any of 
+several other criteria were met, such as if there was another 
+vowel adjacent to the e or one letter removed. These people 
+would presumably then scan for each e but would have to over- 
+ride the response of crossing it out whenever any of those criteria 
+were met. Their responses thus had to be regulated according 
+to multiple rules, unlike the others who could simply respond 
+every time they found an e. Our assumption was that consulting 
+the complex decision rules and overriding the simple response 
+would deplete the ego, unlike the simpler version of the task. 
+Me~od 
+Participants. Eighty-four undergraduate students (47 maies, 37 fe- 
+maies) participated for partial fulfillment of a course requirement. Each 
+individual testing session lasted about 30 min. 
+Procedure. The experimenter told participants that the experiment 
+was designed to look at "whether personality influences how people 
+perceive movies." After signing an informed consent form, participants 
+completed several personality questionnaires to help maintain the cover 
+story. (Except for an item measuring tiredness, the questionnaires are 
+not relevant to the current study and will not be discussed further.) 
+Participants then completed the regulatory-depletion task. Each was 
+given a typewritten sheet of paper with meaningless text on it (a page 
+from an advanced statistics book with a highly technical style) and told 
+to cross off all instances of the letter e. For the participants assigned to 
+the ego-depletion condition, the task was made quite difficult, requiring 
+them to consult multiple rules and monitor their decisions carefully. 
+They were told that they should only cross off an e if it was not adjacent 
+to another vowel or one extra letter away from another vowel (thus, 
+one would not cross off the e in vowel). Also, the photocopy of the 
+stimulus page had been lightened, making it relatively difficult to read 
+and thus further requiring close attention. In contrast, participants in the 
+no-depletion condition were given an easily legible photocopy with good 
+contrast and resolution, and they were told to cross off every single e 
+with no further rules or stipulations. 
+The experimenter then told participants that they were going to watch 
+two movies and that after each movie they would answer a few simple 
+questions about it. He explained that the videos were rather long and 
+the participant did not have time to watch the complete movie. It would 
+be up to the participant when to stop. The participant was however 
+cautioned to "watch the video long enough so that you can understand 
+what happened and answer a few questions about the video." 
+The experimenter next gave the participant a small box with a button 
+attached. Participants were told to ring the buzzer when they were done 
+watching the movie, at which point the experimenter would reenter the 
+room and give them a few questions to answer. Half of the participants 
+were told to press the button down when they wanted to stop (active 
+quit condition). The others were told to hold down the button as long 
+as they wanted to watch more of the movie; releasing the button would 
+cause the movie to stop (passive quit condition). The buzzer was wired 
+to signal the experimenter when the button was pressed (active quit 
+condition) or released (passive quit condition). In other words, half of 
+the participants stopped the movie by pressing down on a button, 
+whereas the other half of the participants stopped the movie by taking 
+their hand off of a button. 
+Participants were then shown a film that had been deliberately made 
+to be dull and boring. The entire film consisted of an unchanging scene 
+of a blank white wail with a table and a computer junction box in the 
+foreground. The movie is just a picture of a wall and nothing ever 
+happens, although participants were unaware of this fact and were moti- 
+vated to keep watching to make sure that nothing did actually occur. 
+Participants were told that after they stopped watching this video, they 
+would see another video of highlights from a popular, humorous televi- 
+sion program (Saturday Night Live). Participants therefore believed that 
+after they finished watching the aversive, boring picture of a wall they 
+would get to watch a pleasant, amusing video. This was done to give 
+participants an added incentive to stop watching the boring video and 
+also to remove the possibility that stopping the movie would immediately 
+allow them to leave the experiment; although, to be sure, terminating 
+the first movie would in fact bring them closer to their presumed goal 
+of completing the experiment and being able to leave. 4 
+The experimenter left the room, surreptitiously timing how long parti- 
+cipants watched the video. When participants rang the buzzer (either 
+by pressing or releasing the button, depending on the condition), the 
+experimenter noted the time and reentered the room. At this point, parti- 
+cipants completed a brief questionnaire about their thoughts while 
+watching the movie and their level of tiredness. Participants were then 
+completely debriefed, thanked, and sent home. 
+Results 
+Manipulation check. On a 25-point scale, participants as- 
+signed to the difficult-rules condition reported having to concen- 
+trate on the task of crossing off the es more than participants 
+assigned to the easy-rules condition, t(63) = 2.30, p < .025. 
+Participants in the ego-depletion condition needed to concen- 
+trate more than participants in the no-depletion condition, which 
+should have resulted in participants in the ego-depletion condi- 
+tion using more ego strength than participants in the no-deple- 
+tion condition. 
+Further evidence was supplied by having participants rate 
+their level of tiredness at the beginning of the experiment and 
+at the end of the experiment. Participants in the ego-depletion 
+condition became more tired as the experiment progressed com- 
+pared with participants in the no-depletion condition, t(83) = 
+2.79, p < .01. Changes in level of tiredness can serve as a 
+rough index of changes in effort exerted and therefore regulatory 
+capacity (see Johnson, Saccuzzo, & Larson, 1995), and these 
+results suggest that participants in the ego-depletion condition 
+indeed used more regulatory strength than participants in the 
+no-depletion condition. 
+Movie watching. The main dependent measure was how 
+long participants watched the boring movie. These results are 
+presented in Table 4. The total time participants spent watching 
+the boring movie was analyzed in a 2 (rules) x 2 (button 
+position) ANOVA. Consistent with the hypothesis, the two-way 
+interaction between depletion task rules (depletion vs. no deple- 
+tion) and what participants did to quit watching the movie (ac- 
+tive quit vs. passive quit) was significant, F(1, 80) = 5.64, p 
+< .025. A planned comparison confirmed that participants under 
+ego depletion watched more of the movie when quitting required 
+an active response than when quitting involved a passive re- 
+4 Of course, participants were informed that they were free to leave 
+at any time. Still, most participants prefered to complete the procedure 
+and leave the experiment having accomplished something, as opposed 
+to leaving in the middle of the procedure. 
+
+EGO DEPLETION 1261 
+sponse, F( 1, 80) = 7.21, p < .01. The corresponding contrast 
+in the no-depletion condition found no difference in movie dura- 
+tion as a function of which response was active versus passive, 
+F( 1, 80) = 0.46, ns. Thus, participants who were depleted were 
+more likely to take the passive route compared with participants 
+who were not as depleted. 
+Additionally, there was a strong trend among participants who 
+had to make an active response in order to quit: They watched 
+the movie longer when they were in the ego-depletion condition 
+than in the no-depletion condition, F(I, 80) = 3.35, p < .07. 
+In other words, when participants had to initiate an action to 
+quit, they tended to watch the movie longer when they were 
+depleted than when they were not depleted. Participants who 
+had to release the button to quit tended to stop watching the 
+movie sooner when they were depleted than when they were 
+not depleted, although this was not statistically significant, F( 1, 
+80) = 2.33, p < ,15. Participants who had to do less work to 
+quit tended to quit sooner when they were depleted than when 
+they were not depleted. 
+Discussion 
+The results of Experiment 4 provide further support for the 
+hypothesis of ego depletion, insofar as ego depletion increased 
+subsequent passivity. We noted that previous studies have found 
+a passive-option effect, according to which a given option is 
+chosen more when it requires a passive response than when it 
+requires an active response. In the present study, ego depletion 
+mediated the passive-option effect. 
+Experiment 4 manipulated ego depletion by having people 
+complete a complex task that required careful monitoring of 
+multiple rules and frequent altering of one's responses--more 
+specifically, they were instructed to cross out every instance of 
+the letter e in a text except when various other conditions were 
+met, in which case they had to override the simple response of 
+crossing out the e. These people subsequently showed greater 
+passivity in terms of how long they watched a boring movie. 
+They watched it longer when continuing was passive (and stop- 
+ping required an active response) than when continuing required 
+active responses (and stopping would be passive). Without ego 
+depletion, we found no evidence of the passive-option effect: 
+People watched the movie for about the same length of time 
+regardless of whether stopping or continuing required the active 
+response. 
+Thus, Experiment 4 found the passive-option effect only under 
+ego depletion. That is, only when people had completed an 
+initial task requiring concentration and careful monitoring of 
+Table 4 
+Boredom Tolerance (Experiment 4) 
+Condition No depletion Depletion 
+Active quit 88 125 
+Passive quit 102 71 
+Difference - 14 54 
+Note. Numbers are mean durations, in seconds, that participants 
+watched the boring movie. Bottom row (difference) refers to size of 
+passive-option effect (the passive quit mean subtracted from the active 
+quit mean). 
+one's own responses in relation to rules did people favor the 
+passive option (regardless of which option was passive). These 
+findings suggest that people are less inclined to make active 
+responses following ego depletion. Instead, depleted people are 
+more prone to continue doing what is easiest, as if carried along 
+by inertia. 
+Earlier, we suggested that the results of Experiment 2 indi- 
+cated that choice depleted the ego. It might seem contradictory 
+to suggest that passive choice does not draw on the same re- 
+source, but in fact we think the results of the two studies are 
+quite parallel. The procedures of Experiment 2 involved active 
+choice, insofar as the person thought about and consented to a 
+particular behavior. The no-choice condition corresponded to 
+passive choice in an important sense, because people did implic- 
+itly have the option of refusing to make the assigned counteratti- 
+tudinal speech, but they were not prompted by the experimenter 
+to go through an inner debate and decision process. The active 
+choices in Experiment 4 required the self to abandon the path 
+of least resistance and override any inertia that was based on 
+how the situation was set up, and so it required the self to 
+do something. Thus, the high- and low-choice conditions of 
+Experiment 2 correspond to the active and passive options of 
+Experiment 4. Only active choice draws on the self's volitional 
+resource. 
+General Discussion 
+The present investigation began with the idea that the self 
+expends some limited resource, akin to energy or strength, when 
+it engages in acts of volition. To explore this possibility, we 
+tested the hypothesis that acts of choice and self-control would 
+cause ego depletion: Specifically, after one initial act of volition, 
+there would be less of this resource available for subsequent 
+ones. The four experiments reported in this article provided 
+support for this view. 
+Experiment 1 examined self-regulation in two seemingly un- 
+related spheres. In the key condition, people resisted the impulse 
+to eat tempting chocolates and made themselves eat radishes 
+instead. These people subsequently gave up much faster on a 
+difficult, frustrating puzzle task than did people who had been 
+able to indulge the same impulse to eat chocolate. (They also 
+gave up earlier than people who had not been tempted.) It takes 
+self-control to resist temptation, and it takes self-control to make 
+oneself keep trying at a frustrating task. Apparently both forms 
+of self-control draw on the same limited resource, because doing 
+one interferes with subsequent efforts at the other. 
+Experiment 2 examined whether an act of personal, responsi- 
+ble choice would have the same effect. It did. People who freely, 
+deliberately consented to make a counterattitudinal speech gave 
+up quickly on the same frustrating task used in Experiment 1. 
+Perhaps surprisingly, people who freely and deliberately con- 
+sented to make a proattitudinal speech likewise gave up quickly, 
+which is consistent with the pattern of ego depletion. In contrast, 
+people who expected to make the counterattitudinal speech un- 
+der low-choice conditions showed no drop in persistence, as 
+compared with no-speech controls. 
+Thus, it was the act of responsible choice, and not the particu- 
+lar behavior chosen, that depleted the self and reduced subse- 
+quent persistence. Regardless of whether the speech was consis- 
+tent with their beliefs (to hold tuition down) or contrary to 
+
+1262 BAUMEISTER, BRATSLAVSKY, MURAVEN, AND TICE 
+them (to raise tuition), what mattered was whether they made 
+a deliberate act of choice to perform the behavior. Making either 
+choice used up some resource and left them subsequently with 
+less of whatever they needed to persist at a difficult, frustrating 
+task. The effects of making a responsible choice were quite 
+similar to the effects of resisting temptation in Experiment 1. 
+Experiment 3 was designed to address the alternative explana- 
+tion that ego depletion actually improved subsequent self-regu- 
+lation, insofar as giving up early on unsolvable problems could 
+be considered as an adaptive response. In Experiment 3, the 
+dependent variable was task performance on solvable puzzles. 
+Ego depletion resulting from an exercise in affect regulation 
+impaired performance on that task. 
+We had shown (in Experiment 2) that ego-depletion effects 
+carried over from responsible decision making to have an impact 
+on self-regulation. Experiment 4 was designed to show the effect 
+in the opposite direction, namely that prior exertion of self- 
+regulation would have an impact on decision making. To do 
+this, we measured the degree of predominance of the passive 
+option. People were presented with a choice situation in which 
+they could respond either actively or passively. We varied the 
+response format so that the meaning of the passive versus active 
+response was exchanged in a counterbalanced fashion. Prior ego 
+depletion (created by having people do a task that required 
+monitoring their own behavior and multiple, overriding rules) 
+increased people's tendency to use the passive response. 
+The assumption underlying Experiment 4 was that active re- 
+sponding draws on the same resource that the self uses to make 
+responsible decisions and exert self-control. When that resource 
+is depleted, apparently, people have less of it available to make 
+active responses. Therefore, they become more passive. 
+Taken together, these four studies point toward a broad pattern 
+of ego depletion. In each of them, an initial act of volition was 
+followed by a decrement in some other sphere of volition. We 
+found that an initial act of self-control impaired subsequent self- 
+control (Study 1 ), that making a responsible decision impaired 
+subsequent self-control (Study 2), that self-control lowered per- 
+formance on a task that required self-control (Study 3), and 
+that an initial act of self-control led to increased passivity 
+(Study 4). 
+The procedures used in these four studies were deliberately 
+made to be quite different. We have no way of directly measuring 
+the internal resource that the self uses for making decisions or 
+regulating itself. Hence, it seemed important to demonstrate ego 
+depletion in circumstances as diverse as possible, in order to 
+rule out the possibility that results could be artifacts of a particu- 
+lar method or a particular sphere of volition. Our view is that 
+the convergence of findings across the four studies is more 
+persuasive evidence than any of the individual findings. 
+Alternative Explanations 
+It must be acknowledged that the present studies provided no 
+direct measures of the limited resource and hence no direct 
+evidence that some inner quantity is diminished by acts of voli- 
+tion. The view that the active self involves some limited resource 
+is thus an inference based on behavioral observations. It is 
+therefore especially necessary to consider possible alternative 
+interpretations of the effects we have shown. 
+One alternative view is that some form of negative affect 
+caused participants in this research to give up early on the 
+frustrating task. The task was, after all, designed to be frustrating 
+or discouraging, insofar as it was unsolvable. It seems plausible 
+that depression or other negative emotions might cause people 
+to stop working at a task. 
+Although negative affect can undoubtedly affect persistence, 
+the present pattern of results does not seem susceptible to an 
+explanation on the basis of negative affect, for several reasons. 
+We measured negative affect repeatedly and did not find it to 
+differ significantly among the conditions in the various experi- 
+ments. Moreover, in Experiment 3, we found identical effects 
+regardless of whether the person was trying to stifle a positive 
+or a negative emotion. Our work converges with other evidence 
+that mood effects cannot explain aftereffects of stress (Cohen, 
+1980). 
+A second alternative explanation would be that the results 
+were due to cognitive dissonance, especially insofar as several 
+of the procedures required counterattitudinal behavior such as 
+eating radishes instead of chocolate or refusing to laugh at a 
+funny movie. Indeed, Experiment 2 included a condition that 
+used a dissonance procedure, namely having people consent 
+(under high choice) to record a speech in favor of a big tuition 
+increase, contrary to the private beliefs of nearly all participants. 
+Still, dissonance does not seem to provide a full explanation of 
+the present effects. There is no apparent reason that dissonance 
+should reduce persistence on an unrelated, subsequent task. 
+Moreover, Experiment 2 found nearly identical effects of choos- 
+ing a proattitudinal behavior as for choosing a counterattitudinal 
+behavior, whereas dissonance should only arise in the latter 
+condition. 
+A variation on the first two alternate explanations is that 
+arousal might have mediated the results. For example, cognitive 
+dissonance has been shown to be arousing (Zanna & Cooper, 
+1974), and possibly some participants simply felt too aroused 
+to sit there and keep struggling with the unsolvable problems. 
+Given the variations and nonlinearities as to how arousal affects 
+task performance, the decrement in anagram performance in 
+Experiment 3 might also be attributed to arousal. Our data do, 
+however, contradict the arousal explanation in two ways. First, 
+self-report measures of arousal repeatedly failed to show any 
+effects. Second, high arousal should presumably produce more 
+activity rather than passivity, but the effects of ego depletion in 
+Experiment 4 indicated an increase in passivity. If participants 
+were more aroused, they should not have also become more 
+passive as a result. 
+As already noted, the first two experiments were susceptible 
+to a third alternative explanation that quitting the unsolvable 
+problems was actually an adaptive, rational act of good self- 
+regulation instead of a sign of self-regulation failure. This inter- 
+pretation assumes that participants recognized that the problems 
+were unsolvable and so chose rationally not to waste any more 
+time on them. This conclusion was contradicted by the evidence 
+from the debriefing sessions, in which participants consistently 
+expressed surprise when they learned that the problems had 
+been unsolvable. More important, Experiment 3 countered that 
+alternative explanation by showing that ego depletion produced 
+decrements in performance of solvable problems. 
+Another explanation, based on equity considerations, would 
+suggest that experimental participants arrive with an implicit 
+sense of the degree of obligation they owe to the researchers 
+
+EGO DEPLETION 1263 
+and are unwilling to do more. In this view, for example, a person 
+might feel that she has done enough by making herself eat 
+radishes instead of chocolates and therefore feels that she does 
+not owe the experimenter maximal exertion on subsequent tasks. 
+Although there is no evidence for such a view, it could reason- 
+ably cover Experiments 1 and 3. It has more difficulty with 
+Experiment 4, because someone who felt he had already done 
+enough during the highly difficult version of the initial task 
+would presumably be less willing to sit longer during a boring 
+movie, which is the opposite of what happened in the active- 
+quit condition. Experiment 2 also is difficult to reconcile with 
+this alternative explanation, because the participants did not 
+actually complete any initial task. (They merely agreed to one.) 
+Moreover, in that study, the effects of agreeing to make a proatti- 
+tudinal speech were the same as the effects of agreeing to make 
+a counterattitudinal speech, whereas an equity calculation would 
+almost surely assume that agreeing to make the counterattitudi- 
+nal speech would be a much greater sacrifice. 
+Implications 
+The present results could potentially have implications for 
+self-theory. The pattern of ego depletion suggests that some 
+internal resource is used by the self to make decisions, respond 
+actively, and exert self-control. It appears, moreover, that the 
+same resource is used for all of these, as indicated by the carry- 
+over patterns we found (i.e., exertion in one sphere leads to 
+decrements in others). Given the pervasive importance of 
+choice, responsibility, and self-control, this resource might well 
+be an important aspect of the self. Most recent research on 
+the self has featured cognitive representations and interpersonal 
+roles, and the present research does not in any way question 
+the value of that work, but it does suggest augmenting the cogni- 
+tive and interpersonal aspects of self with an appreciation of 
+this volitional resource. The operation Of the volitional, agentic, 
+controlling aspect of the self may require an energy model. 
+Moreover, this resource appears to be quite surprisingly lim- 
+ited. In Study 1, for example, a mere 5 rain of resisting tempta- 
+tion in the form of chocolate caused a reduction by half in how 
+long people made themselves keep trying at unsolvable puzzles. 
+It seems surprising to suggest that a few minutes of a laboratory 
+task, especially one that was not described as excessively nox- 
+ious or strenuous, would seriously deplete some important as- 
+pect of the self. Thus, these studies suggest that whatever is 
+involved in choice and self-control is both an important and 
+very limited resource. The activities of the self should perhaps 
+be understood in general as having to make the most of a scarce 
+and precious resource. 
+The limited nature of this resource might conceivably help 
+explain several surprising phenomena that have been studied in 
+recent years. A classic article by Burger (1989) documented a 
+broad range of exceptions to the familiar, intuitively appealing 
+notion that people generally seek and desire control. Under many 
+circumstances, Burger found, people relinquish or avoid control, 
+and moreover, even under ordinary circumstances, there is often 
+a substantial minority of people who do not want control. The 
+ego-depletion findings of the present investigation suggest that 
+exerting control uses a scarce and precious resource, and the 
+self may learn early on to conserve that resource. Avoiding 
+control under some circumstances may be a strategy for 
+conservation. 
+Bargh (1997) has recently shown that the scope of automatic 
+responses is far wider than many theories have assumed and, 
+indeed, that even when people seem to be consciously making 
+controlled responses, they may in fact be responding automati- 
+cally to subtle cues (see also Bargh, 1982, 1994). Assuming 
+that the self is the controller of controlled processes, it is not 
+surprising that controlled processes should be confined to a 
+relatively small part of everyday functioning, because they are 
+costly. Responding in a controlled (as opposed to automatic) 
+fashion would cause ego depletion and leave the self potentially 
+unable to respond to a subsequent emergency or to regulate 
+itself. Hence, staying in the automatic realm would help con- 
+serve this resource. 
+It is also conceivable that ego depletion is central to various 
+patterns of psychological difficulties that people experience, es- 
+pecially ones that require unusual exertions of affect regulation, 
+choice, or other volition. Burnout, learned helplessness, and 
+similar patterns of pathological passivity might have some ele- 
+ment of ego depletion. Coping with trauma may be difficult 
+precisely because the self's volitional resources were depleted 
+by the trauma but are needed for recovery. Indeed, it is well 
+established that social support helps people recover from 
+trauma, and it could be that the value of social support lies 
+partly in the way other people take over the victim's volitional 
+tasks (ranging from affect regulation to making dinner), thus 
+conserving the victim's resources or allowing them time to re- 
+plenish. On the darker side, it may be that highly controlled 
+people who seem to snap and abruptly perpetrate acts of vio- 
+lence or outrage may be suffering from some abrupt depletion 
+that has undermined the control they have maintained, possibly 
+for years, over these destructive impulses. These possible impli- 
+cations lie far beyond the present data, however. 
+We acknowledge that we do not have a clear understanding of 
+the nature of this resource. We can say this much: The resource 
+functions to connect abstract principles, standards, and inten- 
+tions to overt behavior. It has some link to physical tiredness but 
+is not the same as it. The resource seems to have a quantitative 
+continuum, like a strength. We find it implausible that ego deple- 
+tion would have no physiological aspect or correlates at all, but 
+we are reluctant to speculate about what physiological changes 
+would be involved. The ease with which we have been able 
+to produce ego depletion using small laboratory manipulations 
+suggests that the extent of the resource is quite limited, which 
+implies that it would be seriously inadequate for directing all 
+of a person's behavior, so conscious, free choice must remain 
+at best restricted to a very small proportion of human behavior. 
+(By the same token, most behavior would have to be automatic 
+instead of controlled, assuming that controlled processes depend 
+on this limited resource.) Still, as we noted at the outset, even 
+a small amount of this resource would be extremely adaptive 
+in enabling human behavior to become flexible, varied, and 
+able to transcend the pattern of simply responding to immediate 
+stimuli. 
+Concluding Remarks 
+Our results suggest that a broad assortment of actions make 
+use of the same resource. Acts of self-control, responsible deci- 
+
+1264 BAUMEISTER, BRATSLAVSKY, MURAVEN, AND TICE 
+sion making, and active choice seem to interfere with other such 
+acts that follow soon after. The implication is that some vital 
+resource of the self becomes depleted by such acts of volition. To 
+be sure, we assume that this resource is commonly replenished, 
+although the factors that might hasten or delay the replenishment 
+remain unknown, along with the precise nature of this resource. 
+If further work can answer such questions, it promises to shed 
+considerable light on human agency and the mechanisms of 
+control over self and world. 
+For now, however, two final implications of the present evi- 
+dence about ego depletion patterns deserve reiterating. On the 
+negative side, these results point to a potentially serious con- 
+straint on the human capacity for control (including self-con- 
+trol) and deliberate decision making. On the positive side, they 
+point toward a valuable and powerful feature of human 
+self hood. 
+References 
+Allison, S.T., & Messick, D.M. (1988). The feature-positive effect, 
+attitude strength, and degree of perceived consensus. Personality and 
+Social Psychology Bulletin, 14, 231-241. 
+Banaji, M. R., & Prentice, D. A. (1994). The self in social contexts. In 
+L. Porter & M. Rosenzweig (Eds.), Annual review of psychology 
+(Vol. 45, pp. 297-332). Palo Alto, CA: Annual Reviews. 
+Bargh, J. A. (1982). Attention and automaticity in the processing of 
+self-relevant information. Journal of Personality and Social Psychol- 
+ogy, 43, 425-436. 
+Bargh, J.A. (1994). The four horsemen of automaticity: Awareness, 
+intention, efficiency, and control in social cognition. In R. S. Wyer, 
+Jr., & T. K. Srull (Eds.), Handbook of social cognition (pp. 1-40). 
+Hillsdale, NJ: Erlbaum. 
+Bargh, J. A. (1997). The automaticity of everyday life. In R. S. Wyer 
+(Ed.), Advances in social cognition (Vol. 10, pp. 1-61 ). Mahwah, 
+NJ: Erlbaum. 
+Baumeister, R. E (1998). The self. In D. T. Gilbert, S. T. Fiske, & G. 
+Lindzey (Eds.), Handbook of social psychology (4th ed., pp. 680- 
+740). New York: McGraw-Hill. 
+Baumeister, R. E, Heatherton, T. E, & Tice, D. M. (1994). Losing con- 
+trol: How and why people fail at self-regulation. San Diego, CA: 
+Academic Press. 
+Brehm, J. (1966). A theory of psychological reactance. New York: 
+Academic Press. 
+Brockner, J., Shaw, M.C., & Rubin, J.Z. (1979). Factors affecting 
+withdrawal from an escalating conflict: Quitting before it's too late. 
+Journal of Experimental Social Psychology, 15, 492-503. 
+Burger, J. M. (1989). Negative reactions to increases in perceived per- 
+sonal control. Journal of Personality and Social Psychology, 56, 246- 
+256. 
+Carver, C. S., & Scheier, M. E (1981). Attention and self-regulation: A 
+control theory approach to human behavior. New York: Springer- 
+Verlag. 
+Cioffi, D., & Garner, R. (1996). On doing the decision: The effects of 
+active vs. passive choice on commitment and self-perception. Person- 
+ality and Social Psychology Bulletin, 22, 133-147. 
+Cohen, S. (1980). Aftereffects of stress on human performance and 
+social behavior: A review of research and theory. Psychological Bulle- 
+tin, 88, 82-108. 
+Cooper, J., & Fazio, R. H. (1984). A new look at dissonance theory. In 
+L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 
+17, pp. 229-266). New York: Academic Press. 
+Cooper, J., & Scher, S.J. (1994). Actions and attitudes: The role of 
+responsibility and aversive consequences in persuasion. In T. Brock & 
+S. Shavitt (Eds.), The psychology of persuasion (pp. 95-111 ). San 
+Francisco: Freeman. 
+Cooper, J., Zanna, M. P., & Taves, E A. (1978). Arousal as a necessary 
+condition for attitude change following induced compliance. Journal 
+of Personality and Social Psychology, 36, 1101 - 1106. 
+DeCharms, R. (1968). Personal causation. New York: Academic Press. 
+Deci, E. L., & Ryan, R. M. (1991). A motivational approach to self: 
+Integration in personality. In R. Dienstbier (Ed.), Nebraska Sympo- 
+sium on Motivation: Vol. 38. Perspectives on motivation (pp. 237- 
+288). Lincoln: University of Nebraska Press. 
+Deci, E. L., & Ryan, R.M. (1995). Human autonomy: The basis for 
+true self-esteem. In M. Kemis (Ed.), E~cacy, agency, and self-esteem 
+(pp. 31-49). New York: Plenum. 
+Duval, S., & Wicklund, R. A. (1972). A theory of objective self-aware- 
+ness. New York: Academic Press. 
+Epstein, S. (1973). The self-concept revisited: Or a theory of a theory. 
+American Psychologist, 28, 404-416. 
+Fazio, R. H., Sherman, S. J., & Herr, P. M. (1982). The feature-positive 
+effect in the self-perception process: Does not doing matter as much 
+as doing? Journal of Personality and Social Psychology, 42, 404- 
+411. 
+Feather, N. T. ( 1961 ). The relationship of persistence at a task to expecta- 
+tion of success and achievement related motives. Journal of Abnormal 
+and Social Psychology, 63, 552-561. 
+Festinger, L. (1957). A theory of cognitive dissonance. Stanford, CA: 
+Stanford University Press. 
+Festinger, L., & Carlsmith, J.M. (1959). Cognitive consequences of 
+forced compliance. Journal of Abnormal and Social Psychology, 58, 
+203-210. 
+Fiske, S., & Taylor, S. E. ( 1991 ). Social cognition (2nd ed.). New York: 
+McGraw-Hill. 
+Freud, S. (1961a). The ego and the id. In J. Strachey (Ed. and Trans.), 
+The standard edition of the complete psychological works of Sigmund 
+Freud (Vol. 19, pp. 12-66). London: Hogarth Press. (Original work 
+published 1923) 
+Freud, S. (1961b). New introductory lectures on psycho-analysis. In 
+J. Strachey (Ed. and Trans.), The standard edition of the complete 
+psychological works of Sigmund Freud ( Vol. 22, pp. 7-182). London: 
+Hogarth Press. (Original work published 1933) 
+Glass, D. C., Singer, J. E., & Friedman, L. N. (1969). Psychic cost of 
+adaptation to an environmental stressor. Journal of Personality and 
+Social Psychology, 12, 200-210. 
+Herman, C. P., & Polivy, J. (1975). Anxiety, restraint, and eating behav- 
+ior. Journal of Abnormal Psychology, 84, 666-672. 
+Johnson, N. E., Saccuzzo, D. P., & Larson, G. E. (1995). Self-report 
+effort versus actual performance in information processing paradigms. 
+Journal of General Psychology, 122, 195-210. 
+Langer, E.J. (1975). The illusion of control. Journal of Personality 
+and Social Psychology, 32, 311-328. 
+Leary, M.R. (1995). Self-presentation: Impression management and 
+interpersonal behavior. Madison, WI: Brown & Benchmark. 
+Leary, M. R., & Kowalski, R. M. (1990). Impression management: A 
+literature review and two-component model. Psychological Bulletin, 
+107, 34-47. 
+Linder, D. E., Cooper, J., & Jones, E. E. (1967). Decision freedom as 
+a determinant of the role of incentive magnitude in attitude change. 
+Journal of Personality and Social Psychology, 6, 245-254. 
+Mayer, J. D., & Gaschke, Y. N. (1988). The experience and meta-experi- 
+ence of mood. Journal of Personality and Social Psychology, 55, 
+102-111. 
+McFarlin, D. B. (1985). Persistence in the face of failure: The impact 
+of self-esteem and contingency information. Personality and Social 
+Psychology Bulletin, 11, 152-163. 
+Mischel, W. (1996). From good intentions to willpower. In E Goll- 
+witzer & J. Bargh (Eds.), The psychology of action (pp. 197-218). 
+New York: Guilford Press. 
+Muraven, M., Tice, D. M., & Banmeister, R. E (1998). Self-control as 
+
+EGO DEPLETION 1265 
+limited resource: Regulatory depletion patterns. Journal of Personal- 
+ity and Social Psychology, 74, 774-789. 
+Rothbaum, E, Weisz, J. R., & Snyder, S. S. (1982). Changing the world 
+and changing the self: A two-process model of perceived control. 
+Journal of Personality and Social Psychology, 42, 5-37. 
+Scher, S. J., & Cooper, J. (1989). The motivational basis of dissonance: 
+The singular role of behavioral consequences. Journal of Personality 
+and Social Psychology, 56, 899-906. 
+Schlenker, B. R. (1980). Impression management: The self-concept, so- 
+cial identity, and interpersonal relations. Monterey, CA: Brooks/Cole. 
+Taylor, S.E. (1983). Adjustment to threatening events: A theory of 
+cognitive adaptation. American Psychologist, 38, 1161- I 173. 
+Taylor, S. E. (1989). Positive illusions: Creative self-deception and the 
+healthy mind. New York: Basic Books. 
+"lesser, A. (1988). Toward a self-evaluation maintenance model of social 
+behavior. In L. Berkowitz (Ed.), Advances in experimental social 
+psychology (Vol. 21, pp. 181-227). San Diego, CA: Academic Press. 
+Tetlock, P. E. (1983). Accountability and complexity of thought. Journal 
+of Personality and Social Psychology, 45, 74-83. 
+Tetlock, P. E. (1985). Accountability: A social check on the fundamental 
+attribution error. Social Psychology Quarterly, 48, 227-236. 
+Tetlock, P. E., & Boettger, R. (1989). Accountability: A social magnifier 
+of the dilution effect. Journal of Personality and Social Psychology, 
+57, 388-398. 
+Wegner, D. M. (1989). White bears and other unwanted thoughts. New 
+York: Vintage. 
+Wegner, D. M. (1994). Ironic processes of mental control. Psychologi- 
+cal Review, 101, 34-52. 
+Wegnet; D. M., & Pennebaker, J. W. (Eds.). (1993). Handbook of mental 
+control. Englewood Cliffs, NJ: Prentice Hall. 
+Wegner, D.M., Schneider, D.J., Carter, S.R., & White, T.L. (1987). 
+Paradoxical effects of thought suppression. Journal of Personality 
+and Social Psychology, 53, 5-13. 
+White, R. (1959). Motivation reconsidered: The concept of competence. 
+Psychological Review, 66, 297-333. 
+Zanna, M. P., & Cooper, J. (1974). Dissonance and the pill: An attribu- 
+tion approach to studying the arousal properties of dissonance. Jour- 
+nal of Personality and Social Psychology, 29, 703-709. 
+Zanna, M. P., Higgins, E. T., & Taves, P. A. (1976). Is dissonance phe- 
+nomenologically aversive? Journal of Experimental Social Psychol- 
+ogy, 12, 530-538. 
+Received November 11, 1996 
+Revision received June 10, 1997 
+Accepted June 16, 1997 • 

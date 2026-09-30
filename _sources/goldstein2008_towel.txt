@@ -1,0 +1,986 @@
+000
+/H170152008 by JOURNAL OF CONSUMER RESEARCH, Inc. ● Vol. 35 ● August 2008
+All rights reserved. 0093-5301/2008/3502-0002$10.00. DOI: 10.1086/586910
+A Room with a Viewpoint: Using Social
+Norms to Motivate Environmental
+Conservation in Hotels
+NOAH J. GOLDSTEIN
+ROBERT B. CIALDINI
+VLADAS GRISKEVICIUS*
+Two ﬁeld experiments examined the effectiveness of signs requesting hotel guests’
+participation in an environmental conservation program. Appeals employing de-
+scriptive norms (e.g., “the majority of guests reuse their towels”) proved superior
+to a traditional appeal widely used by hotels that focused solely on environmental
+protection. Moreover, normative appeals were most effective when describing
+group behavior that occurred in the setting that most closely matched individuals’
+immediate situational circumstances (e.g., “the majority of guests in this room reuse
+their towels”), which we refer to as provincial norms. Theoretical and practical
+implications for managing proenvironmental efforts are discussed.
+U
+ntil recently, the greatest towel-related dilemma trav-
+elers faced was reﬂected in the old joke told by the
+nightclub comic, Henny Youngman, about the hotel where
+he had stayed the previous night: “What a hotel: the towels
+were so big and ﬂuffy that I could hardly close my suitcase.”
+In recent years, however, the question of whether or not to
+remove hotel towels has been supplanted by the question
+of whether or not to reuse hotel towels during the course
+of one’s stay. With the adoption of environmental programs
+by hotels, more and more travelers are ﬁnding themselves
+urged to reuse their towels to help conserve environmental
+resources by saving energy and reducing the amount of
+detergent-related pollutants released into the environment.
+*Noah J. Goldstein is assistant professor of behavioral sciences at the
+University of Chicago Graduate School of Business (noah.goldstein@
+ChicagoGSB.edu). Robert B. Cialdini is Regents’ Professor of Marketing
+and Psychology at Arizona State University (Robert.Cialdini@asu.edu).
+Vladas Griskevicius is assistant professor of marketing, Carlson School
+of Management, University of Minnesota (grisk001@umn.edu). Funding
+for these studies was provided by a grant from the Hewlett Foundation
+(2001-7396). Correspondence should be addressed to Noah Goldstein. The
+authors gratefully acknowledge very helpful suggestions on earlier versions
+of the article from Jenessa Shapiro, Wes Schultz, the editor, the associate
+editor, and the reviewers. And ﬁnally, our appreciation goes to Tom Kreitler
+and his management staff, and to all of the hotel room attendants who
+helped us collect the data; their cooperation and generosity were pivotal
+to the completion of this research.
+John Deighton served as editor and Mary Frances Luce served as associate
+editor for this article.
+Electronically published March 3, 2008
+In most cases, the appeal comes in the form of a strategically
+placed card in the hotels’ washrooms. In addition to the
+inherent beneﬁt to the environment and to society, such
+programs are used by an increasing number of hotel chains
+because of the considerable economic beneﬁts of enacting
+them. Besides the direct savings on costs such as labor,
+water, energy, and detergent, there is a burgeoning segment
+of consumers who reward businesses that address environ-
+mental concerns through their business practices (Carlson,
+Grove, and Kangun 1993; Menon and Menon 1997).
+With a nearly limitless array of angles to play and mo-
+tivational strings to pull, how have marketing practitioners
+chosen to encourage hotel guests to participate in these en-
+vironmentally and economically beneﬁcial programs? Con-
+sidering the ﬁnding that over three-quarters of Americans
+think of themselves as environmentalists (Mackoy, Calan-
+tone, and Droge 1995), it is not surprising that tacticians
+overwhelmingly have tended to focus on the importance of
+such programs for the protection of the environment. Guests
+are almost invariably informed that reusing one’s towels
+will conserve natural resources and help save the environ-
+ment from further depletion, disruption, and corruption. No-
+table in its complete absence from these surveyed persuasive
+appeals was one based on a potentially powerful motivator
+of prosocial behavior: social norms.
+When consumers learn that seven out of 10 people choose
+one brand of automobile over another, that teeth-whitening
+toothpaste has become more popular than its less functional
+counterpart, and that nearly everyone at the local cafeteria
+steers clear of the “spamburger surprise” entre ´e, they are
+000 JOURNAL OF CONSUMER RESEARCH
+getting information about social norms. Speciﬁcally, they
+are getting information about descriptive norms, which refer
+to how most people behave in a situation. Descriptive norms
+motivate both private and public actions by informing in-
+dividuals of what is likely to be effective or adaptive be-
+havior in that situation (Cialdini, Kallgren, and Reno 1991).
+A wide variety of research shows that the behavior of others
+in the social environment shapes individuals’ interpretations
+of, and responses to, the situation (Bearden and Etzel 1982),
+especially in novel, ambiguous, or uncertain situations (Gris-
+kevicius et al. 2006; Hochbaum 1954; Park and Lessig 1977;
+Shapiro and Neuberg, forthcoming).
+RESEARCH OVERVIEW
+The complete absence of a descriptive normative ap-
+proach to hotel conservation programs is especially re-
+markable considering that studies conducted by the largest
+manufacturer of hotel towel reuse signs indicate that ap-
+proximately 75% of guests who have the opportunity to
+participate in such programs do reuse their towels at least
+once during their stay. From a practical perspective, then,
+one purpose of this research was to investigate whether using
+an appeal that conveys the descriptive norm for participation
+in such programs would be more effective at encouraging
+towel reuse than the current industry standard appeal. We
+tested this hypothesis in experiment 1 by creating our own
+towel reuse cards and recording the extent to which each
+of the two appeals spurred guests to participate in a hotel’s
+conservation program.
+The central theoretical purpose of the present investiga-
+tion was to examine how hotel guests’ conformity to a de-
+scriptive norm varies as a function of the type of reference
+group tied to that norm. In experiment 2, we examine
+whether the norm of hotel guests’ immediate surroundings,
+which we refer to as the provincial norm, motivates con-
+formity to the norm to a greater extent than the norm of
+guests’ less immediate surroundings, which we refer to as
+the global norm. Speciﬁcally, we investigate whether guests
+who learn the descriptive norm for their particular room are
+more likely to participate in the program than guests who
+learn the same descriptive norm for the whole hotel, even
+though the provincial norm in this context is rationally no
+better an indicator of correct or proper behavior than the
+global norm. We also explore the counterintuitive notion
+that individuals might be more likely to follow the norms
+of a personally unimportant reference group than those of
+a more important one when the personally unimportant ref-
+erence group is provincial in nature.
+More broadly, we felt it was important to venture outside
+the laboratory and into the ﬁeld to study how social norms
+operate on actual consumption—or conservation—choices.
+Although much research has been conducted on normative
+inﬂuences, the vast majority of the literature on social norms
+comes from highly controlled experiments in which the var-
+iables of interest are made especially salient to participants.
+This stands in stark contrast to how norms operate in the
+real world—that is, in a mix of inﬂuences that may over-
+power, dilute, or distract from the factors under examination.
+Thus, it is possible that the impact of social norms has been
+exaggerated in experimental settings, which typically man-
+age and prioritize norm salience (Cialdini and Goldstein
+2004). It is conceivable, then, that marketing practitioners
+and consumers alike might be justiﬁably skeptical about
+whether social norms will prove to be potent or salient
+enough in the course of naturally occurring conduct to in-
+ﬂuence real-world, socially important behavioral choices.
+Therefore, empirical examinations of social normative inﬂu-
+ence in real-world contexts would be especially informative.
+Finally, these experiments are aimed at better understand-
+ing the factors that motivate consumers to engage in actions
+for the beneﬁt of the environment. This important topic,
+along with prosocial behavior, in general, is a severely un-
+derstudied area of consumer research (Menon and Menon
+1997; Mick 2006; Robin and Reidenbach 1987; see also
+Bendapudi, Singh, and Bendapudi 1996). The consumer re-
+search literature has also tended to focus on the factors that
+incline individuals toward consumption rather than toward
+conservation, an imbalance that the current research aims
+to help rectify.
+EXPERIMENT 1: SOCIAL NORMS VERSUS
+INDUSTRY STANDARD
+For experiment 1, we created two signs soliciting partic-
+ipation in the towel reuse program of a hotel that was part
+of a well-known national hotel chain. One message, which
+was designed to reﬂect the industry standard approach, fo-
+cused on the importance of environment protection but pro-
+vided no explicit descriptive norm. A second message con-
+veyed the descriptive norm, informing guests that the
+majority of other guests do, in fact, participate in the pro-
+gram at least once during their stays. Based on the foregoing
+analysis, we hypothesized that the message conveying the
+descriptive norm would result in greater towel reuse than
+the industry standard message.
+Method
+Participants. Over an 80-day span, we collected data
+on 1,058 instances of potential towel reuse in 190 rooms in
+a midsized, midpriced hotel in the Southwest that was part
+of a national hotel chain. The guests were not aware that
+they were participants in the study.
+Materials. Two different messages urging guests’ par-
+ticipation in the towel reuse program were printed on signs
+positioned on washroom towel racks:
+• The standard environmental message focused guests’
+attention on the importance of environmental protection
+but did not provide any descriptive normative infor-
+mation: “HELP SA VE THE ENVIRONMENT. You can
+show your respect for nature and help save the envi-
+ronment by reusing your towels during your stay.”
+• The descriptive norm message informed guests that a
+majority of other guests participate in the towel reuse
+SOCIAL NORMS AND CONSERVATION BEHAVIOR 000
+FIGURE 1
+EXAMPLE OF TOWEL REUSE SIGN (EXPERIMENT 1)
+program: “JOIN YOUR FELLOW GUESTS IN HELP-
+ING TO SA VE THE ENVIRONMENT . Almost 75%
+of guests who are asked to participate in our new re-
+source savings program do help by using their towels
+more than once. You can join your fellow guests in this
+program to help save the environment by reusing your
+towels during your stay.”
+Below each of the respective messages were instructions
+informing the guests how to indicate their willingness to
+participate in the program. The instructions stated, “If you
+choose to participate in the program, please drape used tow-
+els over the curtain rod or the towel rack. If you choose not
+to participate in the program, please place the towels on the
+ﬂoor.” Below the instructions, additional text informed the
+guests, “See the back of this card for more information on
+the impact of participating in this program.”
+On the back of each towel reuse sign, information about
+the beneﬁts of participating in the program was provided
+with the following text: “ DID YOU KNOW that if most of
+this hotel’s guests participate in our resource savings pro-
+gram, it would save the environment 72,000 gallons of water
+and 39 barrels of oil, and would prevent nearly 480 gallons
+of detergent from being released into the environment this
+year alone?”
+The signs were printed on a high-resolution color laser
+printer and were professionally coated with 7-millimeter-thick
+laminate on each side. They were then sent to a professional
+die-cut company, where they were cut into the towel rack
+hanger shape (see ﬁg. 1).
+Training. The hotel’s room attendants were responsible
+for collecting the participation data; the form they had al-
+ready been using was modiﬁed for data reporting. Because
+the hotel already had a conservation program in place before
+this study began, and the participation criteria for the hotel’s
+existing program and the criteria used in our research dif-
+fered slightly, we were careful to ensure that the room at-
+tendants completely understood and adopted the new criteria
+in terms of both towel replacement and data collection. For
+experiments 1 and 2, instructions were given to the room
+attendants a number of times in multiple languages, and
+they were shown pictures detailing what was and was not
+considered to be participation in the program. A great deal
+of time was spent ensuring that the room attendants under-
+stood the protocol. Several room attendants who did not
+understand our directions during training due to the language
+barrier or who did not follow our instructions throughout
+the study were excluded from the analyses.
+Intervention. Each of the 190 hotel rooms was ran-
+domly assigned to one of the two different messages. One
+week prior to data collection, the hotel room attendant su-
+pervisor placed one sign on the towel rack in each hotel
+room’s washroom. The room attendants recorded the par-
+ticipation data on the appropriate forms.
+Results and Discussion
+Because the towel reuse program was not applicable to
+those staying only one night, the data were recorded only
+for guests who stayed a minimum of two nights. In addition,
+throughout these studies, we analyzed only the towel reuse
+data from guests’ ﬁrst eligible day of participation so that
+no guest would participate in the study more than once. The
+dependent variable was dichotomous; room attendants sim-
+ply recorded whether guests reused at least one towel.
+Consistent with our hypothesis, a chi-square test revealed
+that the descriptive norm condition yielded a signiﬁcantly
+higher towel reuse rate (44.1%) than the environmental pro-
+tection condition (35.1%; , ,
+2x (1, N p 433) p 3.72 p p .05
+; see ﬁg. 2). The results of experiment 1 showed thatF p .09
+the normative sign, which we have never observed employed
+by any hotel, yielded a towel reuse rate that was signiﬁcantly
+higher than the industry standard. We should note, however,
+that at ﬁrst glance there appears to be an important short-
+coming to the descriptive normative approach. Speciﬁcally,
+000 JOURNAL OF CONSUMER RESEARCH
+FIGURE 2
+TOWEL REUSE RATES AS A FUNCTION OF SIGN IN ROOM
+(EXPERIMENT 1)
+we informed participants that a large majority (75%) of the
+hotel’s guests participated in the towel reuse program—a
+number provided by the company that supplies such cards
+to hoteliers—yet the best-performing message yielded only
+a 44.1% towel reuse rate. There are two reasons for this
+discrepancy that render this a less worrisome problem. First,
+in keeping with the data reported by the towel hanger sup-
+pliers, the signs in our study informed the guests that the
+majority of individuals recycled at least one towel sometime
+during their stay. Because we only examined towel reuse
+data for participants’ ﬁrst eligible day, the compliance rate
+we observed is likely an underestimation of the number of
+individuals who recycle their towels at least once during
+their stay. Second, we used the most conservative standards
+for counting compliance; that is, we did not count as a reuse
+effort a towel that was hung on a door hook or doorknob—a
+very common practice for towel recyclers who misunder-
+stand or do not thoroughly read the instructions—as we
+wanted to eliminate the likelihood of guests complying un-
+intentionally with the request. Thus, the overall percentage
+of towel reuse was artiﬁcially suppressed.
+EXPERIMENT 2: WHOSE NORMS
+DO WE FOLLOW?
+Experiment 1 demonstrated how hotel guests were es-
+pecially motivated to reuse their towels when they learned
+that most others have chosen to participate in the environ-
+mental conservation program. In experiment 2, we sought
+to investigate how hotel guests’ conformity to such a de-
+scriptive norm varies as a function of the type of reference
+group attached to that norm.
+Several factors are known to inﬂuence the extent to which
+individuals will adhere to the descriptive norms of a given
+reference group (Cialdini and Goldstein 2004; Goldstein and
+Cialdini, forthcoming). One important variable affecting the
+likelihood of norm adherence is the level of perceived sim-
+ilarity among others and a given individual (Burnkrant and
+Cousineau 1975; Moschis 1976). According to Festinger’s
+(1954) social comparison theory, people often evaluate
+themselves by comparing themselves to others—especially
+to others with whom they share similar personal character-
+istics. In line with this supposition, people are indeed more
+likely to follow the behaviors of others with similar features,
+including age (Murray et al. 1984), personality attributes
+(Carli, Ganley, and Pierce-Otay 1991), gender (White, Hogg,
+and Terry 2002), and attitudes (Suedfeld, Bochner, and Matas
+1971).
+Another well-established factor affecting norm adherence
+is the extent to which individuals identify with the reference
+group. Much of the research exploring this relationship has
+examined the topic from a social identity perspective. Al-
+though the concept of social identity has taken on a variety
+of meanings in various disciplines, it is often deﬁned broadly
+as an expansion of the self-concept involving a shift in the
+level of self-conception from the individual self to the col-
+lective self, frequently based on perceived membership in
+a social category (Hogg 2003; Reed 2004). An individual
+may hold social identities at various levels of abstraction,
+ranging from concrete groups of people (e.g., our depart-
+ment’s faculty) to broader categories of people (e.g., men,
+women, citizen). A number of scholars have argued that
+one’s adherence to the descriptive norms of a group of peo-
+ple is primarily inﬂuenced by the perceived importance of
+those others to one’s self-concept and social identity (Bear-
+den, Nettemeyer, and Teel 1989; Brinberg and Plimpton
+1986; Kelman 1961; Terry, Hogg, and White 1999). Ac-
+cording to this perspective, when the relevant social identity
+is salient (Forehand and Deshpande´ 2001; Forehand, Desh-
+pande´, and Reed 2002), individuals will adhere to the norms
+of that social identity to the extent that they consider the
+social identity to be personally important to them (Desh-
+pande´, Hoyer, and Donthu 1986; Kleine, Kleine, and Kernan
+1993; Reed 2004; Stayman and Deshpande´ 1989; Terry and
+Hogg 1996; Terry et al. 1999).
+A close inspection of the normative social identity lit-
+erature and of the body of research examining the role of
+similarity on norm adherence reveals that both research areas
+have focused almost exclusively on the importance of com-
+monalities among personal, rather than contextual, charac-
+teristics of individuals and the groups whose behaviors they
+observe. That is, these literatures examine how personal
+similarities (e.g., in attitudes, gender, ethnicity, age, values)
+between a target individual and a group of people inﬂuence
+the target’s adherence to the group’s social norms. However,
+researchers have largely failed to address the role of situ-
+ational similarities in norm adherence.
+SOCIAL NORMS AND CONSERVATION BEHAVIOR 000
+Adhering to provincial norms—the norms of one’s local
+setting and circumstances—is typically both logical and
+effective. For example, what may be effective and norm-
+consistent behavior at one’s fraternity party is certainly not
+going to be adaptive in other settings and situations, es-
+pecially those with powerful and well-established norms,
+such as how to behave in a library during ﬁnals week
+(Aarts and Dijksterhuis 2003). After all, the old adage tells
+us that we should do as the Romans do when we are in
+Rome—not when we are in Egypt. In contrast, much of
+the current social norms literature, which focuses on the
+importance of personal similarities, would emphasize that
+Romans should do what other Romans do—especially if
+they highly identify with other Romans—while saying lit-
+tle about the role of their surroundings. Thus, we argue
+that individuals are more likely to be inﬂuenced by the
+norms of their immediate surroundings than those of their
+less immediate surroundings.
+In experiment 2, we examined whether the towel reuse
+norm of hotel guests’ immediate surroundings (i.e., the pro-
+vincial norm for their particular room) motivates participation
+in the conservation program to a greater extent than the norm
+of guests’ less immediate surroundings (i.e., the global norm
+for the whole hotel), despite the fact that, in this context, the
+provincial norm is rationally no more diagnostic of effective
+or appropriate behavior than the global norm. We also sought
+to investigate whether individuals might be more likely to
+follow the norms of a personally unimportant reference group
+than those of a more important one when the personally un-
+important reference group is provincial in nature.
+We created ﬁve towel reuse signs soliciting the partici-
+pation of guests at the same hotel that was used in exper-
+iment 1. One was the standard environmental sign from
+experiment 1, which focused on the importance of environ-
+ment protection but provided no explicit descriptive norm.
+All four of the other messages, which communicated the
+descriptive norm, informed guests that in a study conducted
+several years earlier, approximately 75% of the people who
+had been asked to participate in these programs did so. We
+chose the timing of this ostensible study to be several years
+before experiment 2 actually took place so that guests would
+not feel as though their behaviors were currently being recor-
+ded.
+We altered the reference group identity in those four nor-
+mative messages—that is, to whom the norms referred. One
+of the signs conveyed that these norms were characteristic
+of other hotel guests (global norm), whereas another con-
+veyed that these norms were characteristic of a rationally
+meaningless and relatively nondiagnostic group—other ho-
+tel guests who had stayed in the guests’ particular rooms
+(provincial norm). The other two signs conveyed norms of
+reference groups that are considered to be important and
+personally meaningful to people’s social identities. Specif-
+ically, a third sign paired the descriptive norm with the
+reference group identity of citizen (see Madrigal 2001),
+whereas a fourth sign paired it with a meaningful social
+category commonly used in reference group and social iden-
+tity research, that of gender (Bardach and Park 1996; Mac-
+coby 1988; Meyers-Levy 1988; Stitka and Maslach 1996).
+Based on the premise that it is generally beneﬁcial to
+follow the norms that most closely match one’s environ-
+ment, situation, or circumstances, we hypothesized that the
+appeal conveying the descriptive norm of that particular
+room’s previous occupants—the identity that should be the
+least meaningful but most relevant to guests’ local circum-
+stances—would result in higher towel reuse rates than the
+other descriptive norm appeals.
+Method
+Participants. Over a 53-day span, we collected data on
+1,595 instances of potential towel reuse at the same hotel
+used in experiment 1. Once again, the guests were not aware
+that they were participants in a study.
+Materials. Five different messages urging guests’ par-
+ticipation in the towel reuse program were printed on signs
+positioned on washroom towel racks:
+• The standard environmental message focused guests on
+the importance of environmental protection but did not
+provide any descriptive normative information: “HELP
+SA VE THE ENVIRONMENT. You can show your re-
+spect for nature and help save the environment by re-
+using your towels during your stay.”
+• The guest identity descriptive norm message stated
+“JOIN YOUR FELLOW GUESTS IN HELPING TO
+SA VE THE ENVIRONMENT. In a study conducted in
+Fall 2003, 75% of the guests participated in our new
+resource savings program by using their towels more than
+once. You can join your fellow guests in this program
+to help save the environment by reusing your towels
+during your stay.”
+• The message for the same room identity descriptive
+norm message stated “JOIN YOUR FELLOW GUESTS
+IN HELPING TO SA VE THE ENVIRONMENT.I na
+study conducted in Fall 2003, 75% of the guests who
+stayed in this room (#xxx) participated in our new re-
+source savings program by using their towels more than
+once. You can join your fellow guests in this program
+to help save the environment by reusing your towels
+during your stay.” Note that “(#xxx)” would be replaced
+with “(#313)” for room 313, for example.
+• The citizen identity descriptive norm message stated
+“JOIN YOUR FELLOW CITIZENS IN HELPING TO
+SA VE THE ENVIRONMENT. In a study conducted in
+Fall 2003, 75% of the guests participated in our new
+resource savings program by using their towels more
+than once. You can join your fellow citizens in this
+program to help save the environment by reusing your
+towels during your stay.”
+• The message for the gender identity descriptive norm
+condition stated “ JOIN THE MEN AND WOMEN
+WHO ARE HELPING TO SA VE THE ENVIRON-
+MENT. In a study conducted in Fall 2003, 76% of the
+women and 74% of the men participated in our new
+000 JOURNAL OF CONSUMER RESEARCH
+resource savings program by using their towels more
+than once. You can join the other men and women in
+this program to help save the environment by reusing
+your towels during your stay.”
+Test of Manipulations. Because we could not ask the
+actual participants additional questions about our speciﬁc
+manipulations, we asked a separate group of participants
+questions regarding two key aspects of the social categories
+that we used for the appeals in experiment 2. First, we
+wanted to examine the extent to which each of our appeals
+activated the intended social identities. Second, we wished
+to investigate the degree to which participants felt that each
+of these social identities was personally meaningful to them.
+To achieve these goals, 53 participants were asked to con-
+sider that they were staying at a hotel and saw one of ﬁve
+signs (which we presented to them in random order) hanging
+on the towel rack in the washroom. After reading the mes-
+sage on each sign, participants were asked about the extent
+to which reading that particular message made them think
+of the corresponding social identity. Speciﬁcally, they were
+asked, “To what extent would reading the sign make you
+think of your identity as . . .” one of the following: “an
+environmentally concerned individual, a hotel guest, a cit-
+izen, a male or female, or a guest in the particular room in
+which you are staying”? The response choices ranged from
+“not at all” (1) to “a great deal” (5). When ﬁnished with
+this exercise, participants were asked, one at a time and in
+random order, “How important to your identity is being
+. . .” followed by one of the ﬁve aforementioned social
+identities. The response choices ranged from “not at all” (1)
+to “very much” (7).
+We expected participants to rate each of the signs as
+equally effective at making them think about the relevant
+social identity or identities that the messages highlighted,
+which would suggest that our operationalizations of the con-
+ditions were successful. Where we did expect to see a no-
+ticeable difference, however, was in the participants’ ratings
+of the importance of the various social categories to their
+social identity. Speciﬁcally, we anticipated that participants
+would consider their identities as a citizen, as a male or
+female, and as an environmentally concerned individual to
+be more important than as a hotel guest and, especially, as
+a hotel guest in a particular room.
+The results of this test of the manipulations supported our
+expectations. A within-subjects analysis of variance revealed
+that there were no signiﬁcant differences in the extent to
+which each of the messages made participants think of their
+social identity as it related to the relevant social category
+( , NS; overall ; ). ThisF(5, 53) p 1.21 M p 3.02 SD p 0.14
+ﬁnding supports the assertion that our operationalizations of
+each of the conditions were equally effective at making
+salient the intended social identities.
+To examine the extent to which participants viewed the
+various social categories as important to their own identities,
+we conducted several within-subjects contrasts, the out-
+comes of which supported our predictions. As expected, the
+combined categories of citizen, male or female, and envi-
+ronmentally concerned individual ( ; )M p 5.12 SD p 0.84
+were considered much more important to participants’ iden-
+tities than were the combined categories of hotel guest and
+hotel guest in a particular room ( ; ;M p 2.19 SD p 0.32
+, , ). Also as expected,
+2F(1, 52) p 191.56 p ! .001 h p .79p
+the category of hotel guest in a particular room was less
+important to participants’ identities ( ; M p 1.96 SD p
+) than was the broader category of hotel guest (1.39 M p
+; ; , , ; see 22.42 SD p 1.62 F(1, 52) p 6.49 p p .01 h p .11p
+ﬁg. 3).
+Intervention. Each of the hotel rooms was randomly
+assigned to one of the ﬁve different messages. One week
+prior to data collection, the hotel room attendant supervisor
+placed one sign on the towel rack in each hotel room’s
+washroom. The room attendants recorded the participation
+data on the appropriate forms.
+Results
+A chi-square test for overall differences among the towel
+reuse rates for the ﬁve conditions yielded a signiﬁcant dif-
+ference among the groups ( ,
+2x (4, N p 1,595) p 9.87 p !
+, ; see ﬁg. 4). In line with our predictions, a.05 F p .08
+planned comparison revealed that all four descriptive norm
+messages combined (44.5%) fared signiﬁcantly better than
+the standard environmental message (37.2%;
+2x (1, N p
+, , ). That is, merely inform-1,595) p 4.94 p p .03 F p .06
+ing hotel guests that other guests generally reused their tow-
+els signiﬁcantly increased towel reuse compared to focusing
+guests on the importance of environmental protection.
+Consistent with predictions, an additional planned com-
+parison revealed that the same room identity descriptive
+norm condition yielded a signiﬁcantly higher towel reuse
+rate (49.3%) than the other three descriptive norm con-
+ditions combined (42.8%; ,
+2x (1, N p 1,318) p 4.18 p !
+, ). That is, even though the provincial norm for.05 F p .06
+the frequency of guests’ towel reuse in a particular hotel
+room is not any more diagnostic of effective or approved
+behavior than the other norms—and the same-room message
+references the norms of the least meaningful group in the
+experiment—this condition produced the highest level of
+towel reuse. These other three descriptive norm condi-
+tions—the citizen identity descriptive norm (43.5%), the
+gender identity descriptive norm (40.9%), and the guest
+identity descriptive norm (44.0%)—did not differ from one
+another, all .p’s
+1 .42
+Discussion
+Several aspects of the ﬁndings from experiment 2 are
+noteworthy. First, the social identity salience data suggested
+that the social categories highlighted in each of the messages
+focused the participants on the intended social identity and
+that the messages did so equally. Second, the data conﬁrmed
+our expectations regarding the large disparities in the extent
+to which the various social categories were considered by
+participants to be important to their own identities. Specif-
+SOCIAL NORMS AND CONSERVATION BEHAVIOR 000
+FIGURE 3
+IMPORTANCE OF SOCIAL IDENTITIES (EXPERIMENT 2)
+FIGURE 4
+TOWEL REUSE RATES AS A FUNCTION OF SIGN IN ROOM (EXPERIMENT 2)
+ically, the categories of both hotel guest and guest in a
+particular room were signiﬁcantly less important to partic-
+ipants’ identities than were those associated with gender,
+citizenship, and environmentalism. Third, we found that the
+towel reuse rates of the four descriptive normative message
+identities did not map onto the extent to which individuals
+consider those identities personally meaningful and impor-
+tant to them. These data are particularly interesting in light
+of the research suggesting that the more important a social
+category is to an individual’s social identity, the more likely
+he or she will be to follow the norms of that category. That
+is, much of the extant literature suggests that participants’
+conservation behaviors should map onto the importance rat-
+ings. According to the importance ratings, participants
+should have been most likely to follow the norms of citizens
+or males/females and least likely to conform to the norms
+of hotel guests for the particular room in which the partic-
+ipants were staying. Yet, the data indicate that the appeal
+conveying the descriptive norm of those who had previously
+stayed in the guests’ room yielded not the lowest compliance
+000 JOURNAL OF CONSUMER RESEARCH
+rate, as predicted by the importance ratings, but, in fact, the
+highest compliance rate (see ﬁgs. 3 and 4).
+GENERAL DISCUSSION
+Noting how very little empirical work has been conducted
+in the consumer behavior literature on the factors that in-
+ﬂuence consumers’ prosocial behaviors, and even less on
+proenvironmental behaviors, researchers have emphasized
+the need for more consumer research in such areas (Ben-
+dapudi et al. 1996; Menon and Menon 1997; Mick 2006;
+Robin and Reidenbach 1987). The present research seeks to
+redress this gap in the literature while also making theoretical
+contributions so as to better understand the types of norms
+and identities that are likely to motivate consumer behavior
+in general.
+The results of two ﬁeld experiments demonstrated the
+power of descriptive norms to motivate others to engage in
+the important real-world domain of environmental conser-
+vation. Furthermore, the superiority of the descriptive norm
+messages relative to the industry standard, which experiment
+2 showed activated guests’ identities as environmentally
+concerned individuals but provided no explicit descriptive
+norm, suggests that making a meaningful social identity
+salient without providing descriptive normative information
+is not an optimal approach.
+The current research also examined an often-ignored as-
+pect of social norms. Although the social identity literature
+and the literature on the effects of similarity have addressed
+the issues of “who” as they related to adherence to social
+norms, these literatures have by and large failed to address
+the issues of “where.” That is, these bodies of research have
+focused on how personal, rather than situational, common-
+alities among inﬂuence targets and reference groups affect
+social norm adherence.
+Experiment 2 conﬁrmed that individuals are, in fact, more
+likely to be inﬂuenced by descriptive norms when the setting
+in which those norms are formed is comparable to the setting
+those individuals are currently occupying, an issue that no
+prior research of which we are aware has addressed. Those
+informed that the majority of people who had stayed within
+the conﬁnes of their immediate surroundings—their
+room—had participated in the towel reuse program were
+most likely to participate in the program themselves. This
+was the case even though the normative information was
+rationally no more informative or diagnostic of effective
+or appropriate behavior than information about the norms
+of less physically proximate surroundings. For example,
+there was no logical reason that the norms of people who
+had stayed in a guest’s particular room should be any more
+informative for the guest’s own conduct than the norms
+of those who stayed in a room across the hall. In fact, one
+might even argue that it is more rational to follow the
+global norms, which should be more diagnostic of effective
+action because they describe the actions of a greater num-
+ber of people.
+Another important ﬁnding of this research is that the greater
+motivational power of provincial group norms over global
+group norms does not appear to be driven by the extent to
+which people consider the group identities referenced by the
+norms to be personally important to them. In experiment 2,
+participants were more likely to follow the descriptive norms
+of a group of individuals with whom they shared the same
+setting than the norms of groups sharing the social identities
+that we tested. In fact, consistent with predictions, but con-
+trary to previous conceptualizations, we found that partic-
+ipation rates were actually highest for the reference group
+that participants felt was the least personally meaningful to
+them (but most physically proximate).
+How can the data we obtained in these experiments be
+reconciled with previous research demonstrating that group
+norms are followed to the extent that the group is considered
+meaningful to an individual? We are certainly not arguing
+that the meaningfulness of a group or social identity to one’s
+personal identity is irrelevant; in fact, in many cases, it might
+be one of the strongest individual predictors of adherence
+to such norms. Instead, we are suggesting that the mean-
+ingfulness of the group to one’s social identity is but one
+of several central determinants of consumers’ private ad-
+herence to social norms. In addition to the factors of norm
+salience (Cialdini et al. 1991), the level of uncertainty (Fes-
+tinger 1954), and the extent of meaningfulness/identiﬁcation
+with the reference group (Deshpande´ et al. 1986), another
+important factor is the degree of match among one’s setting,
+situation, and circumstances and those in which the norms
+were formed.
+Potential Mechanisms Underlying the Effect of
+Provincial Norms
+There are several potential processes that might be re-
+sponsible for the enhanced towel reuse among those in the
+provincial norm condition. However, with the limitations of
+ﬁeld experiment data, we can only speculate at this point.
+One possible explanation for why provincial norms might
+be especially inﬂuential stems from the fact that it is typi-
+cally beneﬁcial to follow the norms that most closely match
+one’s immediate settings, situations, and circumstances. As
+a natural part of the learning process, individuals are attuned
+to the extent to which their inferences, decisions, and be-
+haviors have led to adaptive outcomes in the past. To make
+information processing and decision making more manage-
+able in novel or uncertain circumstances, individuals often
+generalize the associations they learn from previous expe-
+riences (Zebrowitz 1990).Although such generalizations often
+lead to correct interpretations of stimuli, successful decisions,
+and effective behaviors, they occasionally lead to errors due to
+the unavailability of information or to the overgeneralization
+of their previous association (Zebrowitz and Collins 1997). For
+example, a consumer who has been satisﬁed with the reliability
+of her previous automobile purchases from several different
+Japanese manufacturers may overgeneralize this association,
+leading her to believe, even mistakenly, that all Japanese-made
+cars are reliable. Such an overgeneralization could affect her
+future purchases—and possibly lead to a mistake when pur-
+SOCIAL NORMS AND CONSERVATION BEHAVIOR 000
+chasing a Japanese brand with which she has no previous exper-
+ience.
+Similarly, because individuals learn through experience
+that the norms characteristic of their proximate settings tend
+to be more diagnostic of effective and appropriate behavior
+than those characteristic of more general or distal settings,
+they may overgeneralize this association, which could lead
+them to behave in ways that are not entirely rational. Spe-
+ciﬁcally, this overgeneralized association might inﬂuence be-
+havior even when the norms of one’s local environment are
+clearly and rationally no more indicative of successful or
+proper behavior than those of more general or distal environ-
+ments.
+Another possible explanation for the greater motivational
+strength of provincial norms is suggested by Heider’s (1958)
+work on interpersonal relations. Heider argued that, although
+socially meaningful similarities can engender strong feelings
+of association (which he referred to as the perception of a
+unit relationship) between a person and another entity, even
+minor and socially irrelevant similarities can create unit re-
+lationships of comparable or greater magnitudes. According
+to Heider, people perceive unit relationships with another
+individual when it becomes salient that they share with that
+other an uncommon experience or attribute not shared by
+others around them (see also Tajfel 1978). Moreover, in
+order to keep in a state of balance, individuals are often
+driven to change their attitudes or behavior in accordance
+with the standards of the individual or group with whom
+they share a unit relationship (Insko 1981).
+Thus, if strong unit connections can be created without
+the existence of meaningful group identities, and individuals
+tend to follow the norms of others with whom they feel
+associated—even if the association is not based on a mean-
+ingful group identity—individuals in some circumstances
+might be more likely to follow the norms of a meaningless
+and unimportant social identity than a meaningful and im-
+portant social identity. As Heider suggested, this is partic-
+ularly likely to be the case when the connection is based
+on an uncommon characteristic (see also Goldstein and Cial-
+dini 2007). Therefore, the rarity of the shared social identity
+may be another central determinant of consumers’ private
+adherence to a reference group’s social norms. In light of
+this supposition, consider that in experiment 2, although
+individuals report that the social identities of citizen and
+male or female are important to them, these identities are
+likely to be considered common. However, the social iden-
+tity of a hotel guest in a particular room is considered un-
+important to individuals but is also likely considered to be
+more uncommon. Guests in any given room have shared the
+same experience of staying in that room with relatively few
+people and thus may feel a close association with those
+individuals. This suggests that had we employed a descrip-
+tive norm characterizing a social identity that was considered
+by guests to be both important and uncommon, the unit
+relationship between the guests and the group might have
+been especially powerful, leading to a greater sense of af-
+ﬁliation with the reference group and to even higher towel
+reuse rates. Future research that empirically tests these and
+other potential mechanisms will be fruitful in better under-
+standing the processes underlying the driving force of pro-
+vincial norms.
+Implications for Marketers, Managers,
+and Policy Makers
+The results of our studies have clear implications for mar-
+keters, managers, and policy makers. It is worth noting that
+the normative messages, which were messages that we have
+never seen used by hotel chains, fared signiﬁcantly better
+at spurring participation in the hotel’s environmental con-
+servation program than did the type of message most com-
+monly used by hotel chains—messages that focus on the
+importance of environmental protection and that make sa-
+lient guests’ identities as environmentalists. These ﬁndings
+highlight the utility of employing social science research
+and theory rather than business communicators’ hunches,
+lay theories, or best guesses in crafting persuasive appeals.
+These ﬁndings also suggest that in order to optimize social
+identity effects, it is wise for communicators to ensure that
+an important social identity is not only salient but that the
+norms associated with the identity are known and also sa-
+lient. This, of course, assumes that the true norm is consis-
+tent with the direction in which the communicator would
+like to move the audience (Cialdini et al. 2006; Schultz et
+al. 2007).
+The results from the current investigation also indicate
+that managers, policy makers, and communicators imple-
+menting a descriptive normative component to their per-
+suasive appeals or information campaigns should ensure that
+the norms of the reference group are as situationally similar
+as possible to the intended audience’s circumstances or en-
+vironment. For example, our research indicates that if Henny
+Youngman had been informed that no one who had previ-
+ously stayed in his particular room had ever stolen a single
+towel from its washroom, he probably would have had a
+much easier time closing his suitcase as he prepared to check
+out.
+REFERENCES
+Aarts, Henk and Ap Dijksterhuis (2003), “The Silence of the Li-
+brary: Environment, Situational Norm, and Social Behavior,”
+Journal of Personality and Social Psychology, 84 (1), 18–28.
+Bardach, Louis and Bernadette Park (1996), “The Effect of In-
+Group/Out-Group Status on Memory for Consistent and In-
+consistent Behavior of an Individual,” Personality and Social
+Psychology Bulletin, 22 (2), 169–78.
+Bearden, William O. and Michael J. Etzel (1982), “Reference
+Group Inﬂuence on Product and Brand Purchase Decisions,”
+Journal of Consumer Research , 9 (September), 183–94.
+Bearden, William O., Richard G. Nettemeyer, and Jesse E. Teel
+(1989), “Measurement of Consumer Susceptibility to Interper-
+sonal Inﬂuence,” Journal of Consumer Research, 15 (March),
+473–81.
+Bendapudi, Neeli, Surendra N. Singh, and Venkat Bendapudi
+000 JOURNAL OF CONSUMER RESEARCH
+(1996), “Enhancing Helping Behavior: An Integrative Frame-
+work for Promotion Planning,” Journal of Marketing ,6 0
+(July), 33–49.
+Brinberg, David and Linda Plimpton (1986), “Self-Monitoring and
+Product Conspicuousness on Reference Group Inﬂuence,” in
+Advances in Consumer Research, Vol. 13, ed. Richard J. Lutz,
+Provo, UT: Association for Consumer Research, 297–300.
+Burnkrant, Robert E. and Alain Cousineau (1975), “Informational
+and Normative Social Inﬂuence in Buyer Behavior,” Journal
+of Consumer Research , 2 (December), 206–15.
+Carli, Linda L., Roseanne Ganley, and Amy Pierce-Otay (1991),
+“Similarity and Satisfaction in Roommate Relationships,”
+Personality and Social Psychology Bulletin , 17 (4), 419–26.
+Carlson, Les, Stephen Grove, and Norman Kangun (1993), “A
+Content Analysis of Environmental Advertising Claims: A
+Matrix Method Approach,” Journal of Advertising , 22 (3),
+27–39.
+Cialdini, Robert B., Linda J. Demaine, Brad J. Sagarin, Daniel W .
+Barrett, Kelton Rhoads, and Patricia L. Winter (2006), “Man-
+aging Social Norms for Persuasive Impact,” Social Inﬂuence,
+1 (1), 3–15.
+Cialdini, Robert B. and Noah J. Goldstein (2004), “Social Inﬂu-
+ence: Compliance and Conformity,” Annual Review of Psy-
+chology, 55, 591–622.
+Cialdini, Robert B., Carl A. Kallgren, and Raymond R. Reno
+(1991), “A Focus Theory of Normative Conduct: A Theo-
+retical Reﬁnement and Reevaluation of the Role of Norms in
+Human Behavior,” in Advances in Experimental Social Psy-
+chology, Vol. 24, ed. Leonard Berkowitz, San Diego: Aca-
+demic Press, 201–34.
+Deshpande´, Rohit, Wayne D. Hoyer, and Naveen Donthu (1986),
+“The Intensity of Ethnic Afﬁliation: A Study of the Sociology
+of Hispanic Consumption,” Journal of Consumer Research ,
+13 (2), 214–20.
+Festinger, Leon (1954), “A Theory of Social Comparison Pro-
+cesses,” Human Relations, 7 (2), 117–40.
+Forehand, Mark R. and Rohit Deshpande ´ (2001), “What We See
+Makes Us Who We Are: Priming Ethnic Self-Awareness and
+Advertising Response,” Journal of Marketing Research ,3 8
+(3), 336–48.
+Forehand, Mark R., Rohit Deshpande ´, and Americus Reed II
+(2002), “Identity Salience and the Inﬂuence of Activation of
+the Social Self-Schema on Advertising Response,” Journal
+of Applied Psychology , 87 (6), 1086–99.
+Goldstein, Noah J. and Robert B. Cialdini (2007), “The Spyglass
+Self: A Model of Vicarious Self-Perception,” Journal of Per-
+sonality and Social Psychology , 92 (3), 402–17.
+Goldstein, Noah J. and Robert B. Cialdini (forthcoming), “Social
+Inﬂuences on Consumption and Conservation Behavior,” in
+Social Psychology of Consumer Behavior , ed. Michaela
+Wa¨nke, New York: Psychology Press.
+Griskevicius, Vladas, Noah J. Goldstein, Chad R. Mortensen, Rob-
+ert B. Cialdini, and Douglas T . Kenrick (2006), “Going Along
+versus Going Alone: When Fundamental Motives Facilitate
+Strategic (Non)Conformity,” Journal of Personality and So-
+cial Psychology, 91 (2), 281–94.
+Heider, Fritz (1958), The Psychology of Interpersonal Relations ,
+New York: Wiley.
+Hochbaum, Godfrey M. (1954), “The Relation between Group
+Members’ Self-Conﬁdence and Their Reactions to Group
+Pressures to Uniformity,” American Sociological Review ,1 9
+(6), 678–87.
+Hogg, Michael A. (2003), “Social Identity,” in Handbook of Self
+and Identity, ed. Mark R. Leary and June P. Tangney, New
+York: Guilford, 462–79.
+Insko, Chester A. (1981), “Balance Theory and Phenomenology,”
+in Cognitive Responses in Persuasion , ed. Richard E. Petty,
+Thomas M. Ostrom, and Timothy C. Brock, Hillsdale, NJ:
+Erlbaum, 309–38.
+Kelman, Herbert C. (1961), “Processes of Opinion Change,”Public
+Opinion Quarterly, 25 (Spring), 57–78.
+Kleine, Robert E., Susan S. Kleine, and Jerome B. Kernan (1993),
+“Mundane Consumption and the Self: A Social Identity Per-
+spective,” Journal of Consumer Psychology , 2 (3), 209–35.
+Maccoby, Eleanor E. (1988), “Gender as a Social Category,” De-
+velopmental Psychology, 24 (6), 755–65.
+Mackoy, Robert D., Roger Calantone, and Cornelia Droge (1995),
+“Environmental Marketing: Bridging the Divide between the
+Consumption Culture and Environmentalism,” in Environ-
+mental Marketing , ed. Michael J. Polonsky and Alma T .
+Mintu-Wimsatt, Binghamton, NY: Haworth, 37–54.
+Madrigal, Robert (2001), “Social Identity Effects in Belief Atti-
+tudes Intentions Hierarchy: Implications for Corporate Spon-
+sorship,” Psychology and Marketing , 18 (2), 145–65.
+Menon, Ajay and Anil Menon (1997), “Enviropreneurial Market-
+ing Strategy: The Emergence of Corporate Environmentalism
+as Market Strategy,” Journal of Marketing , 61 (January),
+51–67.
+Meyers-Levy, Joan (1988), “The Inﬂuence of Sex Roles on Judg-
+ment,” Journal of Consumer Research , 14 (March), 522–30.
+Mick, David G. (2006), “Meaning and Mattering through Trans-
+formative Consumer Research,” in Advances in Consumer
+Research, Vol. 33, ed. Cornelia Pechmann and Linda L. Price,
+Provo, UT: Association for Consumer Research, 297–300.
+Moschis, George P. (1976), “Social Comparison and Informal
+Group Inﬂuence,” Journal of Marketing Research , 13 (Au-
+gust), 237–44.
+Murray, David M., Russell V . Luepker, Anderson C. Johnson, and
+Maurice B. Mittelmark (1984), “The Prevention of Cigarette
+Smoking in Children: A Comparison of Four Strategies,”
+Journal of Applied Social Psychology , 14 (3), 274–88.
+Park, C. Whan and Parker V . Lessig (1977), “Students and House-
+wives: Differences in Susceptibility to Reference Group In-
+ﬂuence,” Journal of Consumer Research , 4 (September),
+102–10.
+Reed, Americus II (2004), “Activating the Self-Importance of
+Consumer Selves: Exploring Identity Salience Effects on
+Judgments,” Journal of Consumer Research , 31 (Septem-
+ber), 286–95.
+Robin, Donald P. and Eric Reidenbach (1987), “Social Respon-
+sibility, Ethics, and Marketing Strategy: Closing the Gap be-
+tween Concept and Application,” Journal of Marketing ,5 1
+(January), 44–58.
+Schultz, P. Wesley, Jessica M. Nolan, Robert B. Cialdini, Noah J.
+Goldstein, and Vladas Griskevicius (2007), “The Construc-
+tive, Destructive, and Reconstructive Power of Social Norms,”
+Psychological Science, 18 (5), 429–34.
+Shapiro, Jenessa R. and Steven L. Neuberg (forthcoming), “When
+Do the Stigmatized Stigmatize? The Ironic Effects of Being
+Accountable to (Perceived) Majority Group Prejudice-Expres-
+sion Norms,” Journal of Personality and Social Psychology.
+Stayman, Douglas M. and Rohit Deshpande ´ (1989), “Situational
+Ethnicity and Consumer Behavior,” Journal of Consumer Re-
+search, 16 (December), 361–71.
+Stitka, Linda J. and Christina Maslach (1996), “Gender as Sche-
+SOCIAL NORMS AND CONSERVATION BEHAVIOR 000
+matic Category: A Role Construct Approach,” Social Behav-
+ior and Personality , 24 (1), 53–73.
+Suedfeld, Peter, Stephen Bochner, and Carol Matas (1971), “Pe-
+titioner’s Attire and Petition Signing by Peace Demonstrators:
+A Field Experiment,” Journal of Applied Social Psychology ,
+1 (3), 278–83.
+Tajfel, Henri (1978), Differentiation between Social Groups: Stud-
+ies in the Social Psychology of Intergroup Relations , New
+York: Academic.
+Terry, Deborah J. and Michael A. Hogg (1996), “Group Norms
+and the Attitude-Behaviour Relationship: A Role for Group
+Identiﬁcation,” Personality and Social Psychology Bulletin ,
+22 (8), 776–93.
+Terry, Deborah J., Michael A. Hogg, and Katherine M. White
+(1999), “The Theory of Planned Behaviour: Self-Identity, So-
+cial Identity, and Group Norms,” British Journal of Social
+Psychology, 38 (3), 225–44.
+White, Katherine M., Michael A. Hogg, and Deborah J. Terry
+(2002), “Improving Attitude-Behavior Correspondence
+through Exposure to Normative Support from a Salient In-
+group,” Basic and Applied Social Psychology, 24 (2), 91–103.
+Zebrowitz, Leslie A. (1990), Social Perception, Paciﬁc Grove, CA:
+Brooks-Cole.
+Zebrowitz, Leslie A., and Mary A. Collins (1997), “Accurate So-
+cial Perception at Zero Acquaintance: The Affordances of a
+Gibsonian Approach,” Personality and Social Psychology Re-
+view, 1 (3), 203–22.

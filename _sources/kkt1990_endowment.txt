@@ -1,0 +1,976 @@
+Experimental Tests of the Endowment Effect 
+and the Coase Theorem 
+Daniel Kahneman 
+University of California, Berkeley 
+Jack L. Knetsch 
+Simon Fraser University 
+Richard H. Thaler 
+Cornell University 
+Contrary to theoretical expectations, measures of willingness to ac- 
+cept greatly exceed measures of willingness to pay. This paper re- 
+ports several experiments that demonstrate that this "endowment 
+effect" persists even in market settings with opportunities to learn. 
+Consumption objects (e.g., coffee mugs) are randomly given to half 
+the subjects in an experiment. Markets for the mugs are then con- 
+ducted. The Coase theorem predicts that about half the mugs will 
+trade, but observed volume is always significantly less. When markets 
+for "induced-value" tokens are conducted, the predicted volume is 
+observed, suggesting that transactions costs cannot explain the 
+undertrading for consumption goods. 
+I. Introduction 
+The standard assumptions of economic theory imply that when in- 
+come effects are small, differences between an individual's maximum 
+Financial support was provided by Fisheries and Oceans Canada, the Ontario Minis- 
+try of the Environment, and the behavioral economics program of the Alfred P. Sloan 
+Foundation. We wish to thank Vernon Smith for encouraging us to conduct these 
+experiments and for providing extensive comments on earlier drafts. Of course, the 
+usual disclaimer applies. 
+Journal of Political Economy, 1990, vol. 98, no. 6] 
+? 1990 by The University of Chicago. All rights reserved. 0022-3808/90/9806-0004$01.50 
+1325 
+1326 JOURNAL OF POLITICAL ECONOMY 
+willingness to pay (WTP) for a good and minimum compensation 
+demanded for the same entitlement (willingness to accept [WTA]) 
+should be negligible (Willig 1976). Thus indifference curves are 
+drawn without reference to current endowments; any difference be- 
+tween equivalent and compensating variation assessments of welfare 
+changes is in practice ignored;' and there is wide acceptance of the 
+Coase theorem assertion that, subject to income effects, the allocation 
+of resources will be independent of the assignment of property rights 
+when costless trades are possible. 
+The assumption that entitlements do not affect value contrasts 
+sharply with empirical observations of significantly higher selling than 
+buying prices. For example, Thaler (1980) found that the minimal 
+compensation demanded for accepting a .001 risk of sudden death 
+was higher by one or two orders of magnitude than the amount 
+people were willing to pay to eliminate an identical existing risk. 
+Other examples of similar reported findings are summarized in table 
+1. The disparities observed in these examples are clearly too large to 
+be explained plausibly by income effects. 
+Several factors probably contribute to the discrepancies between 
+the evaluations of buyers and sellers that are documented in table 1. 
+The perceived illegitimacy of the transaction may, for example, con- 
+tribute to the extraordinarily high demand for personal compensa- 
+tion for agreeing to the loss of a public good (e.g., Rowe, d'Arge, and 
+Brookshire 1980). Standard bargaining habits may also contribute to 
+a discrepancy between the stated reservation prices of buyers and 
+sellers. Sellers are often rewarded for overstating their true value, 
+and buyers for understating theirs (Knez, Smith, and Williams 1985). 
+By force of habit they may misrepresent their true valuations even 
+when such misrepresentation confers no advantage, as in answering 
+hypothetical questions or one-shot or single transactions. In such situ- 
+ations the buying-selling discrepancy is simply a strategic mistake, 
+which experienced traders will learn to avoid (Coursey, Hovis, and 
+Schulze 1987; Brookshire and Coursey 1987). 
+The hypothesis of interest here is that many discrepancies between 
+WTA and WTP, far from being a mistake, reflect a genuine effect 
+of reference positions on preferences. Thaler (1980) labeled the in- 
+creased value of a good to an individual when the good becomes part 
+of the individual's endowment the "endowment effect." This effect is 
+a manifestation of "loss aversion," the generalization that losses are 
+weighted substantially more than objectively commensurate gains in 
+' For example, the conventional prescription for assessing environmental and other 
+losses is that, "practically speaking, it does not appear to make much difference which 
+definition is accepted" (Freeman 1979, p. 3). 
+t- - - 
+Mo cli cli cl clis . Z~~~~~~ 
+H Y t Nte~css tsn 
+4 z 00 C4 00 0 t i o o 
+? H 4 a N 6 
+0~~~~~~~~~~~~0 
+00 Ln C04 
+;|l H r> K --'t- - 04 ~ ~ ~ ~ ~~~I o14 -4 
+04 
+. 
+W W ct 4 - 
+M 
+(I)~~~~~~~~~~~~I 
+0 bO b~~~~c 00 u r 
+*0 0 r 
+0 ( _014 ' 
+v o ~~~00v 
+e ?O- < .04 
+: S ct - 0 _ Cz CIZV~" 
+vC)0 . 
+4 NO. r. 
+H V~~~~~~~~Z V & O - C 
+1328 JOURNAL OF POLITICAL ECONOMY 
+the evaluation of prospects and trades (Kahneman and Tversky 1979; 
+Tversky and Kahneman, in press). An implication of this asymmetry 
+is that if a good is evaluated as a loss when it is given up and as a gain 
+when it is acquired, loss aversion will, on average, induce a higher 
+dollar value for owners than for potential buyers, reducing the set of 
+mutually acceptable trades. 
+There are some cases in which no endowment effect would be 
+expected, such as when goods are purchased for resale rather than 
+for utilization. A particularly clear case of a good held exclusively for 
+resale is the notional token typically traded in experimental markets 
+commonly used to test the efficiency of market institutions (Plott 
+1982; Smith 1982). Such experiments employ the induced-value tech- 
+nique in which the objects of trade are tokens to which private re- 
+demption values that vary among individual participants have been 
+assigned by the experimenter (Smith 1976). Subjects can obtain the 
+prescribed value assigned for the tokens when redeeming them at the 
+end of the trading period; the tokens are otherwise worthless. 
+No endowment effect would be expected for such tokens, which are 
+valued only because they can be redeemed for cash. Thus both buyers 
+and sellers should value tokens at the induced value they have been 
+assigned. Markets for induced-value tokens can therefore be used as 
+a control condition to determine whether differences between the 
+values of buyers and sellers in other markets could be attributable to 
+transaction costs, misunderstandings, or habitual strategies of bar- 
+gaining. Any discrepancy between the buying and selling values can 
+be isolated in an experiment by comparing the outcomes of markets 
+for real goods with those of otherwise identical markets for induced- 
+value tokens. If no differences in values are observed for the induced- 
+value tokens, then economic theory predicts that no differences be- 
+tween buying and selling values will be observed for consumption 
+goods evaluated and traded under the same conditions. 
+The results from a series of experiments involving real exchanges 
+of tokens and of various consumption goods are reported in this 
+paper. In each case, a random allocation design was used to test for 
+the presence of an endowment effect. Half of the subjects were en- 
+dowed with a good and became potential sellers in each market; the 
+other half of the subjects were potential buyers. Conventional eco- 
+nomic analysis yields the simple prediction that one-half of the goods 
+should be traded in voluntary exchanges. If value is unaffected by 
+ownership, then the distribution of values in the two groups should be 
+the same except for sampling variation. The supply and demand 
+curves should therefore be mirror images of each other, intersecting 
+at their common median. The null hypothesis is, therefore, that half 
+of the goods provided should change hands. Label this predicted 
+ENDOWMENT EFFECT 1329 
+volume V*. If there is an endowment effect, the value of the good will 
+be higher for sellers than for buyers, and observed volume V will be 
+less than V*. The ratio V/V* provides a unit-free measure of the 
+undertrading that is produced by the effect of ownership on value. 
+To test the hypothesis that market experience eliminates undertrad- 
+ing, the markets were repeated several times. 
+A test for the possibility that observed undertrading was due to 
+transaction costs was provided by a comparison of the results from a 
+series of induced-value markets with those from the subsequent 
+goods markets carried out with identical trading rules. Notice that this 
+comparison can also be used to eliminate numerous other possible 
+explanations of the observed undertrading. For example, if the in- 
+structions to the subjects are confusing or misleading, the effects 
+should show up in both the induced-value markets and the experi- 
+mental markets for real goods. Section II describes studies of trading 
+volume in induced-value markets and in consumption goods markets. 
+Section III provides a further test for strategic behavior and demon- 
+strates that the disparity findings are not likely caused by this. Section 
+IV investigates the extent to which the undertrading of goods is pro- 
+duced by reluctance to buy and reluctance to sell. Section V examines 
+undertrading in bilateral negotiations and provides a test of the Coase 
+theorem. Section VI describes an experiment that rules out income 
+effects and a trophy effect as explanations of the observed valuation 
+disparity. Implications of the observed effects are discussed in Section 
+VII. 
+II. Repeated Market Experiments 
+In experiment 1, 44 students in an advanced undergraduate law and 
+economics class at Cornell University received a packet of general 
+instructions plus 11 forms, one for each of the markets that were 
+conducted in the experiment. (The instructions for all experiments 
+are available from the authors.) The first three markets were con- 
+ducted for induced-value tokens. Sellers received the following in- 
+structions (with differences for buyers in brackets): 
+In this market the objects being traded are tokens. You are 
+an owner, so you now own a token [You are a buyer, so you 
+have an opportunity to buy a token] which has a value to you 
+of $x. It has this value to you because the experimenter will 
+give you this much money for it. The value of the token is 
+different for different individuals. A price for the tokens will 
+be determined later. For each of the prices listed below, 
+please indicate whether you prefer to: (1) Sell your token at 
+1330 JOURNAL OF POLITICAL ECONOMY 
+this price and receive the market price. [Buy a token at this 
+price and cash it in for the sum of money indicated above.] 
+(2) Keep your token and cash it in for the sum of money 
+indicated above. [Not buy a token at this price.] For each 
+price indicate your decision by marking an X in the appro- 
+priate column. 
+Part of the response form for sellers follows: 
+At a price of $8.75 I will sell I will not sell 
+At a price of $8.25 I will sell I will not sell 
+The same rectangular distribution of values-ranging from $0.25 
+to $8.75 in steps of $0.50-was prepared for both buyers and sellers. 
+Because not all the forms were actually distributed, however, the 
+induced supply and demand curves were not always precisely sym- 
+metrical. Subjects alternated between the buyer and seller role in the 
+three successive markets and were assigned a different individual 
+redemption value in each trial. 
+Experimenters collected the forms from all participants after each 
+market period and immediately calculated and announced the mar- 
+ket-clearing price,2 the number of trades, and the presence or absence 
+of excess demand or supply at the market-clearing price.3 Three 
+buyers and three sellers were selected at random after each of the 
+induced markets and were paid off according to the preferences 
+stated on their forms and the market-clearing price for that period. 
+Immediately after the three induced-value markets, subjects on al- 
+ternating seats were given Cornell coffee mugs, which sell for $6.00 
+each at the bookstore. The experimenter asked all participants to 
+examine a mug, either their own or their neighbor's. The experi- 
+menter then informed the subjects that four markets for mugs would 
+be conducted using the same procedures as the prior induced mar- 
+kets with two exceptions: (1) One of the four market trials would 
+subsequently be selected at random, and only the trades made on this 
+2 The instructions stated that "it is in your best interest to answer these questions truthfully. 
+For any question, treat the price as fixed. (In economics jargon, you should act as 'price 
+takers'.)" All the subjects were junior and senior economics majors, so they were famil- 
+iar with the terms used. If subjects asked how the market prices were determined, they 
+were told, truthfully, that the market price was the point at which the elicited supply 
+and demand curves intersected. The uniformity of the results across many different 
+experiments suggests that this information had no discernible effect on behavior. Fur- 
+thermore, the responses of the subjects in the induced-value portion of the experi- 
+ments indicate that nearly all understood and accepted their role as price takers. See 
+also experiment 5, in which a random price procedure was used. 
+3 When this occurred, a random draw determined which buyers and sellers were 
+accommodated. 
+ENDOWMENT EFFECT 1331 
+trial would be executed. (2) In the binding market trial, all trades 
+would be implemented, unlike the subset implemented in the 
+induced-value markets.4 The initial assignment of buyer and seller 
+roles was maintained for all four trading periods. The clearing price 
+and the number of trades were announced after each period. The 
+market that "counted" was indicated after the fourth period, and 
+transactions were executed immediately. All sellers who had indicated 
+that they would give up their mugs for a sum at the market-clearing 
+price exchanged their mugs for cash, and successful buyers paid this 
+same price and received their mugs. This design was used to permit 
+learning to take place over successive trials and yet make each trial 
+potentially binding. The same procedure was then followed for four 
+more successive markets using boxed ballpoint pens with a visible 
+bookstore price tag of $3.98, which were distributed to the subjects 
+who had been buyers in the mug markets. 
+For each goods market, subjects completed a form similar to that 
+used for the induced-value tokens, with the following instructions: 
+You now own the object in your possession. [You do not 
+own the object that you see in the possession of some of your 
+neighbors.] You have the option of selling it [buying one] if a 
+price, which will be determined later, is acceptable to you. 
+For each of the possible prices below indicate whether you 
+wish to: (1) Sell your object and receive this price [Pay this 
+price and receive an object to take home with you] or (2) 
+Keep your object and take it home with you. [Not buy an 
+object at this price.] For each price indicate your decision by 
+marking an X in the appropriate column. 
+The buyers and sellers in the consumption goods markets faced the 
+same incentives that they had experienced in the induced-value mar- 
+kets. Buyers maximized their potential gain by agreeing to buy at all 
+prices below the value they ascribed to the good, and sellers max- 
+imized their welfare by agreeing to sell at all prices above the good's 
+worth to them. As in the induced-value markets, it was in the best 
+interest of the participants to act as price takers. 
+As shown in table 2, the markets for induced-value tokens and 
+consumption goods yielded sharply different results. In the induced- 
+value markets, as expected, the median buying and selling prices were 
+identical. The ratio of actual to predicted volume (V/V*) was 1.0, 
+4 The experimental design was intended to give the markets for consumption goods 
+every possible chance to be efficient. While in the induced-value markets not everyone 
+was paid, in the consumption goods markets everyone was paid. Also, the consumption 
+goods markets were conducted after the induced-value markets and were repeated 
+four times each, to allow the subjects the maximum opportunity for learning. 
+1332 JOURNAL OF POLITICAL ECONOMY 
+TABLE 2 
+RESULTS OF EXPERIMENT 1 
+INDUCED-VALUE MARKETS 
+Actual Expected 
+Trial Trades Trades Price Expected Price 
+1 12 11 3.75 3.75 
+2 11 11 4.75 4.75 
+3 10 11 4.25 4.25 
+CONSUMPTION GOODS MARKETS 
+Median Buyer Median Seller 
+Trial Trades Price Reservation Price Reservation Price 
+Mugs (Expected Trades = 11) 
+4 4 4.25 2.75 5.25 
+5 1 4.75 2.25 5.25 
+6 2 4.50 2.25 5.25 
+7 2 4.25 2.25 5.25 
+Pens (Expected Trades = 11) 
+8 4 1.25 .75 2.50 
+9 5 1.25 .75 1.75 
+10 4 1.25 .75 2.25 
+11 5 1.25 .75 1.75 
+aggregating over the three periods. In contrast, the median selling 
+prices in the mug and pen markets were more than twice the median 
+buying prices, and the V/V* ratio was only .20 for mugs and .41 for 
+pens. Observed volume did not increase over successive periods in 
+either the mug or the pen markets, providing no indication that sub- 
+jects learned to adopt equal buying and selling prices. 
+The results of the first and last markets for coffee mugs are also 
+displayed in figure 1. There are five features to notice in this figure: 
+(1) Both buyers and sellers display a wide range of values, indicating 
+that in the absence of an endowment effect there would be enough 
+rents to produce gains from trade. Indeed, the range of values is 
+similar to that used in the induced-value markets, which had near- 
+perfect market efficiency. (2) The distribution of selling prices has a 
+single mode, unlike some recent results in which an evaluation dis- 
+crepancy could be explained by a bimodal distribution of compensa- 
+tion demanded (Boyce et al. 1990). (3) The payment of a small com- 
+mission for trading, such as $0.25 per trade, would not significantly 
+alter the results. (4) The mugs were desirable. Every subject assigned 
+a positive value to the mug, and the lowest value assigned by a seller 
+ENDOWMENT EFFECT 1 3'3 3 
+9 
+8 8- ~~~~Supply 4 
+7 
+6 
+0 o~~~ 5 8 -{Supply 1 
+2 ]72 Demad 1 3 1 
+2 
+1 ~Demand 4 1 
+0 2 4 6 8 10 12 14 16 18 20 22 
+Quantity 
+FIG. 1.-Supply and demand curves, markets 1 and 4 
+was $2.25. (5) Neither demand nor supply changed much between 
+the first and last markets. 
+Experiment 2 was conducted in an undergraduate microeconomics 
+class at Cornell (N = 38). The procedure was identical to that of 
+experiment 1, except that the second consumption good was a pair of 
+folding binoculars in a cardboard frame, available at the bookstore 
+for $4.00. The results are reported in table 3. 
+In experiments 3 and 4, conducted in Simon Fraser University 
+undergraduate economics classes, the subjects were asked to provide 
+minimum selling prices or maximum buying prices rather than to 
+answer the series of yes or no questions used in experiments 1 and 2. 
+The induced-value markets were conducted with no monetary pay- 
+offs and were followed by four markets for pens in experiment 3 and 
+five markets for mugs in experiment 4. In experiment 3, subjects 
+were told that the first three markets for pens would be used for 
+practice, so only the fourth and final market would be binding. In 
+experiment 4, one of the five markets was selected at random to 
+count, as in experiments 1 and 2. Other procedures were unchanged. 
+The results are shown in table 4. 
+Experiments 2-4 all yielded results similar to those obtained in 
+experiment 1. Summing over the induced-value markets in all four 
+experiments produced a V/V* index of .91. This excellent perfor- 
+mance was achieved even though the participants did not have the 
+1334 JOURNAL OF POLITICAL ECONOMY 
+TABLE 3 
+RESULTS OF EXPERIMENT 2 
+INDUCED-VALUE MARKETS 
+Actual Expected 
+Trial Trades Trades Price Expected Price 
+1 10 10 3.75 4.25 
+2 9 10 4.75 4.25 
+3 7 8 4.25 4.75 
+CONSUMPTION GOODS MARKETS 
+Median Buyer Median Seller 
+Trial Trades Price Reservation Price Reservation Price 
+Mugs (Expected Trades = 9.5) 
+4 3 3.75 1.75 4.75 
+5 3 3.25 2.25 4.75 
+6 2 3.25 2.25 4.75 
+7 2 3.25 2.25 4.25 
+Binoculars (Expected Trades = 9.5) 
+8 4 1.25 .75 1.25 
+9 4 .75 .75 1.25 
+10 3 .75 .75 1.75 
+11 3 .75 .75 1.75 
+benefit of experience with the trading rules, there were limited mone- 
+tary incentives in experiments 1 and 2, and there were no monetary 
+incentives in experiments 3 and 4. In the markets for consumption 
+goods, in which all participants faced monetary incentives and ex- 
+perience with the market rules gained from the induced-value mar- 
+kets, V/V* averaged .31, and median selling prices were more than 
+double the corresponding buying prices. Trading procedures were 
+precisely identical in markets for goods and for induced-value tokens. 
+The high volume of trade in money tokens therefore eliminates trans- 
+action costs (or any other feature that was present in both types of 
+markets) as an explanation of the observed undertrading of con- 
+sumption goods. 
+It should be noted that subjects in the position of buyers were not 
+given money to use for purchases, but rather had to make transac- 
+tions using their own money. (Subjects were told to bring money to 
+class and that credit and change would be available if necessary. Some 
+subjects borrowed from friends to make payments.) The aim was to 
+study transactions in a realistic setting. While the present design 
+makes potential sellers slightly wealthier, at least in the first market, 
+the magnitude of the possible income effect is trivial. In one of the 
+ENDOWMENT EFFECT 1335 
+TABLE 4 
+RESULTS OF EXPERIMENTS 3 AND 4 
+Actual Expected Ratio of Seller Median Value 
+Trial N Object Trades Trades to Buyer Median Value 
+Experiment 3 
+1 26 Induced 5 6.5 
+2 26 Pen 2 6.5 6.0 
+3 26 Pen 2 6.5 6.0 
+4 26 Pen 2 6.5 5.0 
+5 26 Pen 1 6.5 5.0 
+Experiment 4 
+1 74 Induced 15 18.5 
+2 74 Induced 16 18.5 
+3 74 Mug 6 18.5 3.8 
+4 74 Mug 4 18.5 2.8 
+5 72 Mug 4 18 2.2 
+6 73 Mug 8 18 1.8 
+7 74 Mug 8 18.5 1.8 
+markets the equilibrium price was only $0.75, and the prices in other 
+markets were never above a few dollars. Also, as shown in experi- 
+ments 7 and 8 below, equal undertrading was found in designs that 
+eliminated the possibility of an income effect or cash constraint. 
+As shown in tables 2-4, subjects showed almost no undertrading 
+even in their first trial in an induced-value market. Evidently neither 
+bargaining habits nor any transaction costs impede trading in money 
+tokens. On the other hand, there is no indication that participants in 
+the markets for goods learned to make valuations independent of 
+their entitlements. The discrepant evaluations of buyers and sellers 
+remained stable over four, and in one case five, successive markets for 
+the same good and did not change systematically over repeated mar- 
+kets for successive goods. 
+A difference in procedure probably explains the apparent conflict 
+between these results and the conclusion reached in some other stud- 
+ies, that the WTA-WTP discrepancy is greatly reduced by market 
+experience. The studies that reported a disciplinary effect of market 
+experience assessed this effect by comparing the responses of buyers 
+and sellers in preliminary hypothetical questions or nonbinding mar- 
+ket trials to their behavior in a subsequent binding trial with real 
+monetary payoffs (Knez et al. 1985; Brookshire and Coursey 1987; 
+Coursey et al. 1987). In the present experiments, the markets for 
+consumption goods were real and potentially binding from the first 
+trial, and the WTA-WTP discrepancy was found to be stable over a 
+series of such binding trials. 
+1336 JOURNAL OF POLITICAL ECONOMY 
+It should be stressed that previous research did not actually demon- 
+strate that the discrepancy between buyers and sellers is eliminated in 
+markets. Although the discrepancy between the final selling and buy- 
+ing prices in the sucrose octa-acetate experiment of Coursey et al. 
+(1987) was not statistically significant, the ratio of median prices of 
+sellers and buyers was still 2.6.5 If the buyers and sellers had been 
+allowed to trade according to their final bids, a total of nine advanta- 
+geous exchanges would have occurred between the two groups, com- 
+pared to the theoretical expectation of 16 trades (for details, see 
+Knetsch and Sinden [1987]). This V/V* ratio of .56 is quite similar to 
+the ratios observed in experiments 1-4. In the study by Brookshire 
+and Coursey (1987), the ratio of mean prices was indeed reduced by 
+experience, from a high of 77 for initial hypothetical survey responses 
+to 6.1 in the first potentially binding auction conducted in a labora- 
+tory. However, the ratio remained at 5.6 in the final auction. 
+III. Testing for Misrepresentation 
+As previously stated, subjects faced identical incentives in the in- 
+duced-value and consumption goods phases of experiments 1-4. 
+Therefore, it seems safe to attribute the difference in observed trad- 
+ing to the endowment effect. However, some readers of early drafts 
+of this paper have suggested that because of the way market prices 
+were determined, subjects might have felt that they had an incentive 
+to misstate their true values in order to influence the price, and per- 
+haps this incentive was perceived to be greater in the consumption 
+goods markets. To eliminate this possible interpretation of the previ- 
+ous results, experiment 5 was carried out in a manner similar to the 
+first four experiments, except that subjects were told that the price 
+would be selected at random. As is well known, this is an incentive- 
+compatible procedure for eliciting values (see Becker, DeGroot, and 
+Marschak 1964). 
+Each participant received the following instructions (with appropri- 
+ate alternative wording in the buyers' forms): 
+After you have finished, one of the prices listed below will 
+be selected at random and any exchanges will take place at 
+that price. If you have indicated you will sell at this price you 
+will receive this amount of money and will give up the mug; 
+if you have indicated that you will keep the mug at this price 
+5 The ratio of the mean selling and buying prices is 1.4 if all subjects are included. 
+However, if one buyer and one seller with extreme valuations are excluded, the ratio is 
+1.9. These numbers were reported in an earlier version of Coursey et al. (1987). 
+ENDOWMENT EFFECT 1337 
+then no exchange will be made and you can take the mug 
+home with you. 
+... Your decision can have no effect on the price actually 
+used because the price will be selected at random. 
+The experiment was conducted in a series of six tutorial groups of a 
+business statistics class at Simon Fraser University. The use of small 
+groups helped assure complete understanding of the instructions, 
+and the exercises were conducted over the course of a single day 
+to minimize opportunities for communication between participants. 
+Each group was divided equally: half of the subjects were designated 
+as sellers by random selection, and the other half became buyers. A 
+total of 59 people took part. 
+Two induced-value markets for hypothetical payoffs and a subse- 
+quent third real exchange market for money and mugs were con- 
+ducted with identical trading rules used in all three. All participants 
+maintained the same role as either buyers or sellers for the three 
+markets. As in experiments 1 and 2, the prices that individuals chose 
+to buy or to sell were selected from possible prices ranging from $0.00 
+to $9.50 listed by increments of $0.50. 
+The results of this experiment were nearly identical to the earlier 
+ones in which the actual exchanges were based on the market-clearing 
+price. Even though possibly less motivating hypothetical values were 
+used in the two induced-value markets, nearly all participants pur- 
+sued a profit-maximizing selection of prices to buy or sell the assets. 
+Fourteen exchanges at a price of $4.75 were expected in the first 
+induced-value market on the basis of the randomly distributed values 
+written on the forms. Thirteen trades at this price were indicated 
+by the prices actually selected by the participants. The results of the 
+second hypothetical induced-value market were equally convincing, 
+with 16 of the 17 expected exchanges made at the expected price of 
+$5.75. The procedures and incentives were apparently well under- 
+stood by the participants. 
+Mugs, comparable to those used in other experiments, were distrib- 
+uted to the potential sellers after the induced-value markets were 
+completed. A mug was also shown to all the potential buyers. The 
+following form with instructions, nearly identical to the ones used in 
+the induced-value markets, was then distributed (with the alternative 
+wording for buyers in brackets): 
+You now [do not] have, and own a mug which you can 
+keep and take home. You also have the option of selling it 
+and receiving [buying one to take home by paying] money 
+for it. 
+For each of the possible prices listed below, please indicate 
+1338 JOURNAL OF POLITICAL ECONOMY 
+whether you wish to: (1) Receive [pay] that amount of money 
+and sell your [buy a] mug, or (2) Not sell your [buy a] mug at 
+this price. 
+After you have finished, one of the prices listed below will 
+be selected at random and any exchanges will take place at 
+that price. If you have indicated you will sell [buy] at this 
+price you will receive this amount of money [a mug] and will 
+give up the mug [pay this amount of money]; if you have 
+indicated that you will keep the [not buy a] mug at this price 
+then no exchange will be made and you can take the mug 
+home with you [do not pay anything]. 
+Notice the following two things: (1) Your decision can 
+have no effect on the price actually used because the price 
+will be selected at random. (2) It is in your interest to indicate 
+your true preferences at each of the possible prices listed 
+below. 
+For each price indicate your decision by marking an X in 
+the appropriate column. 
+I Will Sell I Will Keep 
+[Buy] [Not Buy] the Mug 
+If the price is $0 
+If the price is $0.50 
+If the price is $9.50 
+After the instructions were read and reviewed by the experimenter 
+and questions were answered, participants completed the forms indi- 
+cating either their lowest selling price or their highest buying price. A 
+random price, from among the list from $0.00 to $9.50, was then 
+drawn, and exchanges based on this price were completed. 
+The results again showed a large and significant endowment effect. 
+Given the 29 potential buyers, 30 potential sellers, and the random 
+distribution of the mugs, 14.5 exchanges would be expected if entitle- 
+ments did not influence valuations. Instead, only six were indicated 
+on the basis of the values actually selected by the potential buyers and 
+sellers (V/V* = .41). The median selling price of $5.75 was over twice 
+the median buying price of $2.25, and the means were $5.78 and 
+$2.21, respectively. 
+IV. Reluctance to Buy versus Reluctance to Sell 
+Exchanges of money and a good (or between two goods) offer the 
+possibilities of four comparisons: a choice of gaining either the good 
+or money, a choice of losing one or the other, buying (giving up 
+ENDOWMENT EFFECT 1339 
+money for the good), and selling (giving up the good for money) 
+(Tversky and Kahneman, in press). The endowment effect results 
+from a difference between the relative preferences for the good and 
+money. The comparison of buying and selling to simple choices be- 
+tween gains permits an analysis of the discrepancy between WTA and 
+WTP into two components: reluctance to sell (exchanging the good 
+for money) and reluctance to buy (exchanging money for the good). 
+Experiments 6 and 7 were carried out to assess the weight of reluc- 
+tance to buy and reluctance to sell in undertrading of a good similar 
+to the goods used in the earlier experiments. The subjects in experi- 
+ment 6 were 77 Simon Fraser students, randomly assigned to three 
+groups. Members of one group, designated sellers, were given a cof- 
+fee mug and were asked to indicate whether or not they would sell the 
+mug at a series of prices ranging from $0.00 to $9.25. A group of 
+buyers indicated whether they were willing to buy a mug at each of 
+these prices. Finally, choosers were asked to choose, for each of the 
+possible prices, between a mug and cash. 
+The results again reveal substantial undertrading: While 12.5 
+trades were expected between buyers and sellers, only three trades 
+took place (V/V* = .24). The median valuations were $7.12 for 
+sellers, $3.12 for choosers, and $2.87 for buyers. The close similarity 
+of results for buyers and choosers indicates that there was relatively 
+little reluctance to pay for the mug. 
+Experiment 7 was carried out with 117 students at the University of 
+British Columbia. It used an identical design except that price tags 
+were left on the mugs. The results were consistent with those in ex- 
+periment 6. Nineteen trades were expected on the basis of valuation 
+equivalence, but only one was concluded on the basis of actual valua- 
+tions (V/V* = .05). The median valuations were $7.00 for sellers, 
+$3.50 for choosers, and $2.00 for buyers. 
+It is worth noting that these results eliminate any form of income 
+effect as an explanation of the discrepant valuations since the posi- 
+tions of sellers and choosers were strictly identical. The allocation of a 
+particular mug to each seller evidently induced a sense of endowment 
+that the choosers did not share: the median value of the mug to the 
+sellers was more than double the value indicated by the choosers even 
+though their choices were objectively the same. The results imply that 
+the observed undertrading of consumption goods may be largely due 
+to a reluctance to part with entitlements. 
+V. Bilateral Bargaining and the Coase Theorem 
+According to the Coase theorem, the allocation of resources to indi- 
+viduals who can bargain and transact at no cost should be indepen- 
+1340 JOURNAL OF POLITICAL ECONOMY 
+dent of initial property rights. However, if the marginal rate of sub- 
+stitution between one good and another is affected by endowment, 
+then the individual who is assigned the property right to a good will 
+be more likely to retain it. A bilateral bargaining experiment (experi- 
+ment 8) was carried out to test this implication of the endowment 
+effect. 
+The subjects were 35 pairs of students in seven small tutorials at 
+Simon Fraser University. The students were enrolled in either a be- 
+ginning economics course or an English class. Each student was ran- 
+domly paired with another student in the same tutorial group, with 
+care taken to assure that students entering the tutorial together were 
+not assigned as a pair. A game of Nim, a simple game easily ex- 
+plained, was played by each pair of participants. The winners of the 
+game were each given a 400-gram Swiss chocolate bar and told it was 
+theirs to keep. 
+An induced-value bargaining session was then conducted. The 
+member of each pair who did not win the Nim game, and therefore 
+did not receive the chocolate bar, was given a ticket and an instruction 
+sheet that indicated that the ticket was worth $3.00 because it could be 
+redeemed for that sum. The ticket owners were also told that they 
+could sell the ticket to their partner if mutually agreeable terms could 
+be reached. The partners (the chocolate bar owners) received instruc- 
+tions indicating that they could receive $5.00 for the ticket if they 
+could successfully buy it from the owner. Thus there was a $2.00 
+surplus available to any pair completing a trade. 
+The pairs were then given an unlimited amount of time to bargain. 
+Subjects were told that both credit and change were available from 
+the experimenter. Results of the bargaining sessions were recorded 
+on their instruction sheets. 
+Of the 35 pairs of participants, 29 agreed to an exchange (V/V* - 
+.83). The average price paid for the 29 tickets was $4.09, with 12 of 
+the exchange prices being exactly $4.00. Payments of the redemption 
+values of the tickets were made as soon as the exchanges were com- 
+pleted. These payments were made in single dollar bills to facilitate 
+trading in the subsequent bargaining session. After the ticket ex- 
+changes were completed, owners of the chocolate bars were told that 
+they could sell them to their partners if a mutually agreeable price 
+could be determined. The procedures used for the tickets were once 
+again applied to these bargaining sessions. 
+An important effect of the preliminary induced-value ticket bar- 
+gains was to provide the ticket owners with some cash. The average 
+gain to the ticket owners (including the six who did not sell their 
+tickets) was $3.90. The average gain to their partners (the chocolate 
+bar owners) was only $0.76. Thus the potential chocolate bar buyers 
+ENDOWMENT EFFECT 1341 
+were endowed with an average of $3.14 more than the owners, creat- 
+ing a small income effect toward the buyers. Also, to the extent that a 
+windfall gain such as this is spent more casually by subjects than other 
+money (for evidence on such a "house money effect," see Thaler and 
+Johnson [1990]), trading of chocolate bars should be facilitated. 
+Results of the chocolate bar bargains once again suggest reluctance 
+to trade. Rather than the 17.5 trades expected from the random 
+allocations, only seven were observed (V/V* = .4). The average price 
+paid in those exchanges that did occur was $2.69 (the actual prices 
+were $6.00, $3.10, $3.00, $2.75, $2.00, $1.00, and $1.00). If the six 
+pairs of subjects who did not successfully complete bargains in the 
+first stage are omitted from the sample on the grounds that they did 
+not understand the task or procedures, then six trades are observed 
+where 14.5 would be expected (V/V* = .414). Similarly, if two more 
+pairs are dropped because the prices at which they exchanged tickets 
+were outside the range $3.00-$5.00, then the number of trades falls 
+to four, and V/V* falls to .296. (No significant differences between the 
+students in the English and economics classes were observed.)6 
+To be sure that the chocolate bars were valued by the subjects and 
+that these valuations would vary enough to yield mutually beneficial 
+trades, the same chocolate bars were distributed to half the members 
+of another class at Simon Fraser. Those who received chocolate bars 
+were asked the minimum price they would accept to sell their bar, 
+while those without the bars were asked the maximum price they 
+would pay to acquire a bar. The valuations of the bars varied from 
+$0.50 to $8.00. The average value ascribed by sellers was $3.98, while 
+the buyers' average valuation was $1.25. (The median values were 
+$3.50 and $1.25.) 
+VI. The Endowment Effect in Choices between 
+Goods 
+The previous experiments documented undertrading in exchanges 
+of money and consumption goods. A separate experiment (Knetsch 
+1989) establishes the same effect in exchanges between two goods. 
+Participants in three classes were offered a choice between the same 
+two goods. All students in one class were given a coffee mug at the 
+6 We conducted two similar bargaining experiments that yielded comparable results. 
+Twenty-six pairs of subjects negotiated the sale of mugs and then envelopes containing 
+an uncertain amount of money. Buyers had not been given any cash endowment. 
+These sessions yielded six and five trades, respectively, where 13 would be expected. 
+Also, some induced-value bilateral negotiation sessions were conducted in which only 
+$0.50 of surplus was available (the seller's valuation was $1.50 and the buyer's was 
+$2.00). Nevertheless, 21 of a possible 26 trades were completed. 
+1342 JOURNAL OF POLITICAL ECONOMY 
+beginning of the session as compensation for completing a short ques- 
+tionnaire. At the completion of the task, the experimenters showed 
+the students a bar of Swiss chocolate that they could immediately 
+receive in exchange for the mug. The students in another class were 
+offered an opportunity to make the opposite exchange after first 
+being given the chocolate bar. The students in a third class were sim- 
+ply offered a choice, at the beginning of the session, between a choco- 
+late bar and a mug. The proportion of students selecting the mug was 
+89 percent in the class originally endowed with mugs (N = 76), 56 
+percent in the class offered a choice (N = 55), and only 10 percent in 
+the class originally endowed with chocolate bars (N = 87). For most 
+participants a mug was more valuable than the chocolate when the 
+mug had to be given up but less valuable when the chocolate had to be 
+given up. This experiment confirms that undertrading can occur 
+even when income effects are ruled out. It also demonstrates an en- 
+dowment effect for a good that was distributed to everyone in the 
+class and therefore did not have the appeal of a prize or trophy. 
+VII. Discussion 
+The evidence presented in this paper supports what may be called an 
+instant endowment effect: the value that an individual assigns to such 
+objects as mugs, pens, binoculars, and chocolate bars appears to in- 
+crease substantially as soon as that individual is given the object.7 The 
+apparently instantaneous nature of the reference point shift and con- 
+sequent value change induced by giving a person possession of a good 
+goes beyond previous discussions of the endowment effect, which 
+focused on goods that have been in the individual's possession for 
+some time. While long-term endowment effects could be explained by 
+sentimental attachment or by an improved technology of consump- 
+tion in the Stigler-Becker (1977) sense, the differences in preference 
+or taste demonstrated by more than 700 participants in the experi- 
+ments reported in this paper cannot be explained in this fashion. 
+The endowment effect is one explanation for the systematic differ- 
+ences between buying and selling prices that have been observed so 
+often in past work. One of the objectives of this study was to examine 
+an alternative explanation for this buying-selling discrepancy, namely 
+that it reflects a general bargaining strategy (Knez and Smith 1987) 
+that would be eliminated by experience in the market (Brookshire 
+7 The impression gained from informal pilot experiments is that the act of giving the 
+participant physical possession of the good results in a more consistent endowment 
+effect. Assigning subjects a chance to receive a good, or a property right to a good to be 
+received at a later time, seemed to produce weaker effects. 
+ENDOWMENT EFFECT 1343 
+and Coursey 1987; Coursey et al. 1987). Our results do not support 
+this alternative view. The trading institution used in experiments 1-7 
+encouraged participants to be price takers (especially in experiment 
+5), and the rules provided no incentive to conceal true preferences. 
+Furthermore, the results of the induced-value markets indicate that 
+the subjects understood the demand-revealing nature of the ques- 
+tions they were asked and acted accordingly. Substantial undertrad- 
+ing was nevertheless observed in markets for consumption goods. As 
+for learning and market discipline, there was no indication that buy- 
+ing and selling prices converged over repeated market trials, though 
+full feedback was provided at the end of each trial. The undertrading 
+observed in these experiments appears to reflect a true difference in 
+preferences between the potential buyers and sellers. The robustness 
+of this result reduces the risk that the outcome is produced by an 
+experimental artifact. In short, the present findings indicate that the 
+endowment effect can persist in genuine market settings. 
+The contrast between the induced-value markets and the consump- 
+tion goods markets lends support to Heiner's (1985) conjecture that 
+the results of induced-value experiments may not generalize to all 
+market settings. The defining characteristic of the induced-value 
+markets is that the values of the tokens are unequivocally defined by 
+the amount the experimenter will pay for them. Loss aversion is irrel- 
+evant with such objects because transactions are evaluated simply on 
+the basis of net gain or loss. (If someone is offered $6.00 for a $5.00 
+bill, there is no sense of loss associated with the trade.) Some markets 
+may share this feature of induced-value markets, especially when the 
+conditions of pure arbitrage are approached. However, the computa- 
+tion of net gain and loss is not possible in other situations, for ex- 
+ample, in markets in which risky prospects are traded for cash or in 
+markets in which people sell goods that they also value for their use. 
+In these conditions, the cancellation of the loss of the object against 
+the dollars received is not possible because the good and money are 
+not strictly commensurate. The valuation ambiguity produced by this 
+lack of commensurability is necessary, although not sufficient, for 
+both loss aversion and a buying-selling discrepancy. 
+The results of the experimental demonstrations of the endowment 
+effect have direct implications for economic theory and economic 
+predictions. Contrary to the assumptions of standard economic the- 
+ory that preferences are independent of entitlements,8 the evidence 
+8 Although ownership can affect taste in the manner suggested by Stigler and Becker 
+(1977), in the absence of income effects, it is traditional to assume that the indifference 
+curves in an Edgeworth box diagram do not depend on the location of the endowment 
+point. 
+1344 JOURNAL OF POLITICAL ECONOMY 
+presented here indicates that people's preferences depend on their 
+reference positions. Consequently, preference orderings are not de- 
+fined independently of endowments: good A may be preferred to B 
+when A is part of an original endowment, but the reverse may be true 
+when initial reference positions are changed. Indifference curves will 
+have a kink at the endowment or reference point (see Tversky and 
+Kahneman, in press), and an indifference curve tracing acceptable 
+trades in one direction may even cross another indifference curve 
+that plots the acceptable exchanges in the opposite direction (Knetsch 
+1989). 
+The existence of endowment effects reduces the gains from trade. 
+In comparison with a world in which preferences are independent of 
+endowment, the existence of loss aversion produces an inertia in the 
+economy because potential traders are more reluctant to trade than is 
+conventionally assumed. This is not to say that Pareto-optimal trades 
+will not take place. Rather, there are simply fewer mutually advanta- 
+geous exchanges possible, and so the volume of trade is lower than it 
+otherwise would be. 
+To assess the practical significance of the endowment effect, it is 
+important to consider first some necessary conditions for the effect to 
+be observed. Experiments 6 and 7 suggest that the endowment effect 
+is primarily a problem for sellers; we observed little reluctance to buy 
+but much reluctance to sell. Furthermore, not all sellers are afflicted 
+by an endowment effect. The effect did not appear in the markets for 
+money tokens, and there is no reason in general to expect reluctance 
+to resell goods that are held especially for that purpose. An owner will 
+not be reluctant to sell an item at a given price if a perfect substitute is 
+readily available at a lower price. This reasoning suggests that endow- 
+ment effects will almost certainly occur when owners are faced with 
+an opportunity to sell an item purchased for use that is not easily 
+replaceable. Examples might include tickets to a sold-out event, hunt- 
+ing licenses in limited supply (Bishop and Heberlein 1979), works of 
+art, or a pleasant view. 
+While the conditions necessary for an endowment effect to be ob- 
+served may appear to limit its applicability in economic settings, in 
+fact these conditions are very often satisfied, and especially so in the 
+bargaining contexts to which the Coase theorem is applied. For ex- 
+ample, tickets to Wimbledon are allocated by means of a lottery. A 
+standard Coasean analysis would imply that in the presence of an 
+efficient ticket brokerage market, winners of the lottery would be no 
+more likely to attend the matches than other tennis fans who had won 
+a similar cash prize in an unrelated lottery. In contrast, the experi- 
+mental results presented in this paper predict that many winners of 
+Wimbledon tickets will attend the event, turning down opportunities 
+ENDOWMENT EFFECT 1345 
+to sell their tickets that exceed their reservation price for buying 
+them. 
+Endowment effects can also be observed for firms and other or- 
+ganizations. Endowment effects are predicted for property rights ac- 
+quired by historic accident or fortuitous circumstances, such as gov- 
+ernment licenses, landing rights, or transferable pollution permits. 
+Owing to endowment effects, firms will be reluctant to divest them- 
+selves of divisions, plants, and product lines even though they would 
+never consider buying the same assets; indeed, stock prices often rise 
+when firms do give them up. Again, the prediction is not an absence 
+of trade, just a reduction in the volume of trade. 
+Isolating the influence of endowment effects from those of transac- 
+tion costs as causes of low trading volumes is, of course, difficult in 
+actual market settings. Demonstrations of endowment effects are 
+most persuasive where transaction costs are very small. By design, this 
+was the case in the experimental markets, where the efficiency of the 
+induced-value markets demonstrated the minimal effect of transac- 
+tion costs, or other impediments, on exchange decisions, leaving the 
+great reluctance to trade mugs and other goods to be attributable to 
+endowment effects. 
+Endowment effects are not limited to cases involving physical goods 
+or to legal entitlements. The reference position of individuals and 
+firms often includes terms of previous transactions or expectations of 
+continuation of present, often informal, arrangements. There is clear 
+evidence of dramatically asymmetric reactions to improvements and 
+deteriorations of these terms and a willingness to make sacrifices to 
+avoid unfair treatment (Kahneman, Knetsch, and Thaler 1986). The 
+reluctance to sell at a loss, owing to a perceived entitlement to a 
+formerly prevailing price, can explain two observations of apparent 
+undertrading. The first pertains to housing markets. It is often ob- 
+served that when housing prices fall, volume also falls. When house 
+prices are falling, houses remain on the market longer than when 
+prices are rising. Similarly, the volume for stocks that have declined 
+in price is lower than the volume for stocks that have increased in 
+value (Shefrin and Statman 1985; Ferris, Haugen, and Makhija 
+1988), although tax considerations would lead to the opposite predic- 
+tion. 
+Another manifestation of loss aversion in the context of multiattri- 
+bute negotiations is what might be termed "concession aversion": a 
+reluctance to accept a loss on any dimension of an agreement. A 
+straightforward and common instance of this is the downward stick- 
+iness of wages. A somewhat more subtle implication of concession 
+aversion is that it can produce inefficient contract terms owing to 
+historic precedents. Old firms may have more inefficient arrange- 
+1346 JOURNAL OF POLITICAL ECONOMY 
+ments than new ones because new companies can negotiate without 
+the reference positions created by prior agreements. Some airlines, 
+for example, are required to carry three pilots on some planes while 
+others-newer ones-operate with two. 
+Loss aversion implies a marked asymmetry in the treatment of 
+losses and forgone gains, which plays an essential role in judgments of 
+fairness (Kahneman et al. 1986). Accordingly, disputes in which con- 
+cessions are viewed as losses are often much less tractable than dis- 
+putes in which concessions involve forgone gains. Court decisions 
+recognize the asymmetry of losses and forgone gains by favoring 
+possessors of goods over other claimants, by limiting recovery of lost 
+profits relative to compensation for actual expenditures, and by fail- 
+ing to enforce gratuitous promises that are coded as forgone gains to 
+the injured party (Cohen and Knetsch 1989). 
+To conclude, the evidence reported here offers no support for the 
+contention that observations of loss aversion and the consequential 
+evaluation disparities are artifacts; nor should they be interpreted as 
+mistakes likely to be eliminated by experience, training, or "market 
+discipline." Instead, the findings support an alternative view of en- 
+dowment effects and loss aversion as fundamental characteristics of 
+preferences. 
+References 
+Banford, Nancy D.; Knetsch, Jack L.; and Mauser, Gary A. "Feasibility 
+Judgements and Alternative Measures of Benefits and Costs."J. Bus. Ad- 
+min. 11, nos. 1, 2 (1979): 25-35. 
+Becker, Gordon M.; DeGroot, Morris H.; and Marschak, Jacob. "Measuring 
+Utility by a Single-Response Sequential Method." Behavioral Sci. 9 (July 
+1964): 226-32. 
+Bishop, Richard C., and Heberlein, Thomas A. "Measuring Values of Ex- 
+tramarket Goods: Are Indirect Measures Biased?" American J. Agricultural 
+Econ. 61 (December 1979): 926-30. 
+Boyce, Rebecca R.; Brown, Thomas C.; McClelland, Gary D.; Peterson, 
+George L.; and Schulze, William D. "An Experimental Examination of 
+Intrinsic Environmental Values." Working paper. Boulder: Univ. Col- 
+orado, 1990. 
+Brookshire, David S., and Coursey, Don L. "Measuring the Value of a Public 
+Good: An Empirical Comparison of Elicitation Procedures." A.E.R. 77 
+(September 1987): 554-66. 
+Brookshire, David S.; Randall, Alan; and Stoll, John R. "Valuing Increments 
+and Decrements in Natural Resource Service Flows." American J. Agricul- 
+tural Econ. 62 (August 1980): 478-88. 
+Cohen, David, and Knetsch, Jack L. "Judicial Choice and Disparities between 
+Measures of Economic Values." Working paper. Burnaby, B.C.: Simon 
+Fraser Univ., 1989. 
+Coursey, Don L.; Hovis, John L.; and Schulze, William D. "The Disparity 
+ENDOWMENT EFFECT 1347 
+between Willingness to Accept and Willingness to Pay Measures of Value." 
+Q.J.E. 102 (August 1987): 679-90. 
+Ferris, Stephen P.; Haugen, Robert A.; and Makhija, Anil K. "Predicting 
+Contemporary Volume with Historic Volume at Differential Price Levels: 
+Evidence Supporting the Disposition Effect." J. Finance 43 (July 1988): 
+677-97. 
+Freeman, A. Myrick. The Benefits of Environmental Improvement. Washington: 
+Resources for the Future, 1979. 
+Hammack, Judd, and Brown, Gardner Mallard, Jr. Waterfowl and Wetlands: 
+Toward Bio-economic Analysis. Baltimore: Johns Hopkins Press (for Re- 
+sources for the Future), 1974. 
+Heberlein, Thomas A., and Bishop, Richard C. "Assessing the Validity of 
+Contingent Valuation: Three Field Experiments." Paper presented at the 
+International Conference on Man's Role in Changing the Global Environ- 
+ment, Italy, 1985. 
+Heiner, Ronald A. "Experimental Economics: Comment." A.E.R. 75 (March 
+1985): 260-63. 
+Kahneman, Daniel; Knetsch, Jack L.; and Thaler, Richard. "Fairness as a 
+Constraint on Profit Seeking: Entitlements in the Market." A.E.R. 76 (Sep- 
+tember 1986): 728-41. 
+Kahneman, Daniel, and Tversky, Amos. "Prospect Theory: An Analysis of 
+Decision under Risk." Econometrica 47 (March 1979): 263-91. 
+Knetsch, Jack L. "The Endowment Effect and Evidence of Nonreversible 
+Indifference Curves." A.E.R. 79 (December 1989): 1277-84. 
+Knetsch, Jack L., and Sinden, J. A. "Willingness to Pay and Compensation 
+Demanded: Experimental Evidence of an Unexpected Disparity in Mea- 
+sures of Value." QJ.E. 99 (August 1984): 507-21. 
+"The Persistence of Evaluation Disparities." QJ.E. 102 (August 
+1987): 691-95. 
+Knez, Marc, and Smith, Vernon L. "Hypothetical Valuations and Preference 
+Reversals in the Context of Asset Trading." In Laboratory Experiments in 
+Economics: Six Points of View, edited by Alvin E. Roth. Cambridge: Cam- 
+bridge Univ. Press, 1987. 
+Knez, Peter; Smith, Vernon L.; and Williams, Arlington W. "Individual Ra- 
+tionality, Market Rationality, and Value Estimation." A.E.R. Papers and 
+Proc. 75 (May 1985): 397-402. 
+Plott, Charles R. "Industrial Organization Theory and Experimental Eco- 
+nomics."J. Econ. Literature 20 (December 1982): 1485-1527. 
+Rowe, Robert D.; d'Arge, Ralph C.; and Brookshire, David S. "An Experi- 
+ment on the Economic Value of Visibility." J. Environmental Econ. and Man- 
+agement 7 (March 1980): 1-19. 
+Shefrin, Hersh, and Statman, Meir. "The Disposition to Sell Winners Too 
+Early and Ride Losers Too Long: Theory and Evidence." J. Finance 40 
+(July 1985): 777-90. 
+Sinclair, William F. The Economic and Social Impact of Kemano II Hydroelectric 
+Project on British Columbia's Fisheries Resources. Vancouver: Dept. Fisheries 
+and Oceans, 1978. 
+Smith, Vernon L. "Experimental Economics: Induced Value Theory." A.E.R. 
+Papers and Proc. 66 (May 1976): 274-79. 
+. "Macroeconomic Systems as an Experimental Science." A.E.R. 72 
+(December 1982): 923-55. 
+Stigler, George J., and Becker, Gary S. "De Gustibus Non Est Disputandum." 
+A.E.R. 67 (March 1977): 76-90. 
+1348 JOURNAL OF POLITICAL ECONOMY 
+Thaler, Richard. "Toward a Positive Theory of Consumer Choice." J. Econ. 
+Behavior and Organization 1 (March 1980): 39-60. 
+Thaler, Richard, and Johnson, Eric J. "Gambling with the House Money and 
+Trying to Break Even: The Effects of Prior Outcomes on Risky Choice." 
+Management Sci. 36 (June 1990). 
+Tversky, Amos, and Kahneman, Daniel. "Reference Theory of Choice and 
+Exchange." QJ.E. (in press). 
+Willig, Robert D. "Consumer's Surplus without Apology." A.E.R. 66 (Septem- 
+ber 1976): 589-97. 

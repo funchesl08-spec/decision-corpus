@@ -1,0 +1,703 @@
+PSYCHOLOGICAL SCIENC E
+Research Report
+WHEN MORE PAIN IS PREFERRED TO LESS:
+Adding a Better End
+Daniel Kahneman, ' Barbar a L . Fredrickson, ^ Charle s A. Schreiber, ' an d
+Donald A. Redelmeier^
+^University of California, ^Duke University, and ^University of Toronto
+Abstract— Subjects were  exposed to  two
+aversive experiences: in the  short  trial,
+they immersed  one  hand  in  water  at
+14 °Cfor 60  s; in the long trial, they im-
+mersed the other hand at 14 "C for 60  s,
+then kept  the  hand  in  the  water  30  s
+longer as the  temperature  of  the  water
+was gradually raised to 15 °C, still pain-
+ful but  distinctly  less  so  for most  sub-
+jects. Subjects  were later given a choice
+of which  trial  to  repeat.  A  significant
+majority chose to  repeat  the  long  trial,
+apparently preferring  more  pain  over
+less. The  results add  to  other  evidence
+suggesting that  duration  plays a  small
+role in retrospective evaluations of aver-
+sive experiences;  such  evaluations  are
+often dominated by the discomfort at the
+worst and at the  final moments  of  epi-
+sodes.
+Decisions are often controlled by he-
+donic predictions. We choose the option
+that will caus e mos t pleasure , o r leas t
+pain—i n Jerem y Bentham' s terms , th e
+option that will yield the greatest utility,
+Hedonic predictio n usuall y relie s o n
+memories o f previou s experiences : W e
+expect t o lik e wha t w e remembe r a s
+pleasant and t o dislike what we remem-
+ber a s unpleasant . Ho w accurat e ar e
+these evaluation s o f pas t experiences ?
+Do they provid e good guides for futur e
+decisions?
+When w e as k a  friend wh o ha s re -
+cently returned  fro m th e Bahamas , o r
+from th e dentist , "Ho w wa s it? " o r
+"Was i t bette r tha n las t time? " w e as -
+sume that the friend know s the answer .
+Retrospective assessment s of the utility
+of past experience s ar e accepte d i n ev-
+eryday interaction with almost a s much
+confidence a s th e answer s t o question s
+about th e affect o f th e moment : "Ar e
+Address correspondence to Daniel Kahne-
+man, Woodrow Wilson School of Public and
+International Affairs , Princeto n University ,
+Princeton, NJ 08544-1013.
+you enjoying this? " o r "Doe s i t hurt? "
+This confidence coul d b e unwarrante d
+because tw o fallible menta l processe s
+separate retrospective assessments from
+the sequence of experiences that consti-
+tuted th e original episode ; a n operatio n
+of memor y an d a n ac t o f evaluation .
+Some recen t researc h ha s calle d int o
+question th e accuracy of people' s mem-
+ories for thei r hedonic and affective ex -
+periences (Kent, 1985; Rachman & Eyrl,
+1989; Thomas &  Diener, 1990). This ar-
+ticle focuses on the process of evaluating
+past episodes of pain.
+Some rules for th e evaluation of epi-
+sodes hav e th e appeal of logical princi-
+ples. Th e mos t compelling i s a  rul e of
+temporal monotonicity,  whic h require s
+that adding moments of pain t o the end
+of an episode can only make the episode
+worse, and that adding moments of plea-
+sure mus t mak e i t better . A s w e shal l
+see, however, the psychology of evalua-
+tion does not obey this rule.
+In one investigation (Varey & Kahne-
+man, 1992), subjects made global evalu-
+ations of episodes of discomfort suffered
+by anothe r person . Th e subject s wer e
+shown a  series o f "discomfor t ratings "
+on a  scal e from 0  t o 10 ; thes e rating s
+were purportedly made by an individual
+at 5-min interval s during a n unpleasan t
+experience (e.g. , exposure t o loud drill-
+ing noise). The episodes to be evaluated
+varied in duration, i n average intensity ,
+and in the temporal trend of the discom-
+fort. Global evaluations were highly sen-
+sitive t o intensity an d t o trend : A n un-
+weighted combinatio n o f pea k discom -
+fort an d of the discomfort a t the end of
+the episod e accounte d fo r 94 % of th e
+variance. The effect o f duration, though
+statistically significant, wa s remarkably
+small; Adding thi s facto r raise d R^  by
+only a  further 3% . The neglect of dura-
+tion and the emphasis on endings led to
+predictable violation s o f monotonicity .
+For example , th e serie s o f discomfor t
+ratings 2-5-8-4 (indicating a  20-min epi-
+sode ending with a  discomfort ratin g of
+4) was judged muc h les s aversiv e tha n
+the series 2-5-8, even though the only dif-
+ference betwee n th e tw o episode s wa s
+the 5  extr a mi n o f discomfor t i n th e
+former.
+More recently, we have extended this
+research t o the retrospectiv e evaluatio n
+of episode s o f pleasur e o r discomfor t
+that subject s experienc e themselves . I n
+the first of these studies (Fredrickson &
+Kahneman, 1993), subjects viewed a  se-
+ries o f short , plotles s films , varyin g i n
+content from pleasant (penguins at play)
+to highl y aversiv e (an  amputation) .
+There wer e tw o version s o f eac h film ,
+one thre e time s longe r tha n th e other .
+Each subjec t sa w th e lon g versio n o f
+some films and the short version of oth-
+ers. Subject s provide d continuou s rat -
+ings o f affect whil e watching eac h film
+and assessment s o f overal l pleasur e o r
+discomfort a t its end. The results of this
+analysis were strikingly similar t o those
+of the earlier (Varey & Kahneman, 1992)
+study; Retrospectiv e evaluation s wer e
+well predicted b y a weighted average of
+the peak affect rating and the final rating
+recorded fo r eac h film;  th e duratio n o f
+the film did no t emerge a s a n indepen-
+dent predictor of the overall evaluation .
+A subsequen t stud y extende d thes e
+findings to th e retrospectiv e evaluatio n
+of a  painful medica l procedur e (Redel -
+meier &  Kahneman, 1993). Patients un-
+dergoing diagnosti c colonoscop y indi -
+cated their current discomfort ever y 60 s
+during th e procedure . The y als o pro -
+vided retrospectiv e evaluation s o f th e
+procedure , bot h immediatel y an d 1
+month later. Again, a combination of the
+ratings o f th e wors t an d th e final  mo -
+ments of the colonoscopy predicted sub-
+sequent evaluations with substantial ac -
+curacy. Th e duration o f th e procedure ,
+which varied between 4  min and 69 min
+for differen t patients , di d no t signifi -
+cantly affec t an y o f th e retrospectiv e
+judgments. The attending physician and
+nurse als o provided independen t retro -
+spective evaluation s o f eac h patient' s
+VOL. 4, NO. 6, NOVEMBER 1993 Copyright ©  1993 American Psychological Society 401
+PSYCHOLOGICAL SCIENCE
+More Pain
+overall discomfort, without access to the
+patient's ratings . A s might b e expecte d
+from the earlier results (Varey & Kahne-
+man, 1992), the judgments o f thes e ob -
+servers wer e als o dominate d b y th e
+worst and the final moments of the pro-
+cedure, and unrelated t o its duration.
+The common finding of these studies
+is the relative neglect of duration in ret-
+rospective evaluations an d th e success -
+ful prediction of the global disutility of an
+extended aversive episode by the disutil-
+ity of tw o singular moments—th e pea k
+and th e en d o f th e experience . Th e re -
+sults sugges t a n averagin g mode l fo r
+global evaluation s (Anderson , 1991) ,
+which implie s violation s o f tempora l
+monotonicity. As illustrated by the ficti-
+tious sequence s 2-5-8 and 2-5-8-4 men-
+tioned earlie r (Vare y &  Kahneman ,
+1992), the evaluation of an aversive epi-
+sode can b e improved b y adding t o it a
+period of diminishing discomfort. I n the
+present study , w e teste d whethe r thi s
+process can lead subjects to prefer more
+pain over less pain in a direct choice .
+Subjects had two separate unpleasant
+experiences i n th e cours e o f a n experi-
+mental session : a  shor t tria l i n whic h
+they immersed one hand in water at the
+moderately painful temperatur e of 14 °C
+for 6 0 s and a  long trial i n which the y
+immersed th e othe r han d i n wate r a t
+14 °C for 6 0 s, the n kep t th e han d im-
+mersed 30 s longer while the temperature
+of th e wate r wa s raise d slightly , stil l
+within th e uncomfortable range . Thus ,
+the long trial included all the discomfort
+of the short trial, plus an extra period of
+slowly diminishing discomfort. Th e sub-
+jects expected to have a third unpleasant
+experience during the session , and they
+were given a choice of whether to repeat
+the first or the second trial. Our hypoth-
+esis wa s tha t subject s woul d retai n a
+more favorable memor y of the long epi-
+sode because it ended at a lower level of
+discomfort, an d tha t the y would conse -
+quently choose to repeat tha t episode .
+METHOD
+Subjects
+Thirty-two mal e Universit y o f Cali-
+fornia students , age 19 to 39 (median age
+= 22.5), were paid $10 for a 1-hr session.
+Participants wer e screene d fo r healt h
+problems and use of drugs, including to-
+bacco. Thre e o f th e subject s replace d
+others whose data were discarded, 1  be -
+cause of technical difficulties wit h tem-
+perature control, and 2 because they did
+not indicate a  consistent preference be -
+tween the two trials.
+Apparatus
+A plastic tu b i n which subject s im -
+mersed their hand was filled to a depth of
+11 cm with 7 L of water cooled to 14.1 °C
+(±0.3 °C). To maintain a  constant tem-
+perature and a slight agitation of the wa-
+ter, a n externa l pum p circulated wate r
+from th e tu b through a n aluminum coil
+submerged in ice water. Water tempera-
+ture was controlled also by using another
+pump t o circulate wate r through a  coil
+submerged i n room-temperatur e wate r
+(21 °C ± 1.1 °C). By simultaneously turn-
+ing off the first pump and turning on the
+second, th e wate r temperatur e i n th e
+subject's tu b could b e increased b y 1.1
+°C (±0. 3 °C) in 30 s . Th e switching of
+pumps was not audible and produced no
+noticeable chang e i n tu b circulation .
+Pumps, coils, and switches were not vis-
+ible to the subject.
+An on-line measure of discomfort was
+obtained usin g a  "discomfor t meter, "
+which consisted of a potentiometer and a
+linear arra y o f 1 5 light-emitting diode s
+(LEDs). A single green LE D at one end
+of th e display remained li t a t all times .
+By adjusting th e potentiometer, subjects
+could contro l th e numbe r of re d LED s
+that were lit, thereby indicating the level
+of discomfort . Th e potentiomete r wa s
+sampled five times pe r second , and th e
+1-s means were recorded by a computer,
+which also recorded wate r temperature .
+Discomfort value s could range between
+0 and 14.
+Procedure
+Subjects were tested individually by a
+female experimenter . The y wer e tol d
+that th e experimen t concerne d judg -
+ments of discomfort and that they would
+be asked to place a hand in a tub of cold
+water o n thre e separat e occasions . Th e
+cover story was that the study dealt with
+lateral differences i n th e experienc e o f
+discomfort. A s part of the consent pro -
+cedure, subjects were asked to immerse
+both hands in the cold-water tu b for 5  s
+before agreein g t o participate . The y
+were given n o indication tha t th e trial s
+would differ, excep t tha t the y wer e t o
+use one hand in the first experience and
+the other hand in the second. The orde r
+of the long and short trials and their as-
+signment t o th e dominan t o r nondomi -
+nant hand wer e counterbalanced acros s
+subjects.
+Immediately befor e eac h trial , sub -
+ject s immerse d bot h hand s i n room -
+temperature wate r fo r a  2-min baselin e
+period. After each trial, they spent 7 min
+in a waiting area working on a personal-
+ity inventory. Before th e expected thir d
+trial, they were told that we needed their
+impressions o f th e first  tw o trial s be-
+cause they would choose one of them to
+be repeated . The y wer e the n give n a
+questionnair e title d "Impression s o f
+Cold-Water Trials. " Th e first  questio n
+was, "Suppos e w e pai d yo u t o com e
+back tomorrow t o repeat just on e of the
+two cold-water trials that you'v e experi-
+enced today . Whic h on e woul d yo u
+choose? " The choice referred to the first
+and the second trials . The next question
+was, "Fo r today' s thir d trial , yo u ca n
+pick whic h o f th e previou s cold-wate r
+trials you will repeat. Which one do you
+choose? " (Tw o subject s wh o gav e in -
+consistent response s t o these tw o ques-
+tions were replaced.) Subjects then com-
+pared thei r tw o experience s usin g fou r
+Likert scale s (ranging from - 5 t o -1-5).
+They wer e aske d "Whic h tria l cause d
+the greater overall discomfort?" "Whic h
+trial laste d longer? " "A t it s mos t ex -
+treme moment, which trial was colder? "
+and "Whic h trial was tougher for you to
+cope with? " Finally , subject s depicte d
+the discomfor t the y fel t "moment-by -
+moment during each trial " by drawing a
+continuous lin e acros s a  Discomfort x
+Time char t provide d b y th e experi -
+menter. Subject s wer e the n informe d
+that ther e woul d b e n o thir d tria l an d
+were fully debriefed .
+RESULTS
+Real-time measure s o f discomfor t
+were essentiall y identica l fo r th e shor t
+trial and for the first 60 s of the long trial:
+The mea n response s recorde d a t 6 0 s
+were 8.44 for the short trial and 8.34 for
+the lon g trial . Th e gradua l increas e o f
+402 VOL. 4, NO. 6, NOVEMBER 1993
+PSYCHOLOGICAL SCIENCE
+D. Kahnenian e t al.
+water temperatur e (fro m a  mea n o f
+14.1 °C to 15.2 °C) during the final 30 s of
+the long trial caused a  pronounced dro p
+of the discomfort measure (M = 2.65 for
+the change score, r[31] = 6.80, p < .01),
+The hig h sensitivit y o f pai n t o mino r
+changes of temperature in this range con-
+firms prio r result s (Cabanac , 1981) .
+However, no t al l subject s responde d
+alike to the temperature change : Eleven
+of the 32 subjects indicated a  decrement
+of discomfort of 1  point or less, and 2 of
+these subjects even reported an increase
+of discomfort durin g the last 30 s of the
+long trial. Figure 1 shows the time course
+of th e discomfort measur e i n th e lon g
+trial for these 11 subjects and for the ma-
+jority wh o showed a  larger decrement .
+Note that , even for th e latter , th e expe-
+rience at the end of the long trial was still
+distinctly unpleasant .
+The main dependent variable was the
+subject's choic e fo r th e thir d trial . A s
+predicted, mos t subject s (2 2 o f 32 , o r
+69%) preferred t o repeat the long trial (z
+= 2.15 , p <  .0 5 by sign test) . Note that
+this proportion would be zero if subjects
+acted to minimize their exposure to pain.
+Additional tests showed that choices did
+not depend on whether the long trial was
+experienced first  o r second o r with th e
+dominant o r nondominan t hand . A s
+might be expected , a  preference fo r th e
+long trial was correlated with the decre-
+ment of discomfort indicate d during the
+last 30 s of that trial {r^,,^ =  .38, p < .05).
+Among th e 2 1 subjects wh o showe d a
+decrement o f 2  or mor e points , 1 7 (or
+81%) preferred th e long trial; the 11 sub-
+jects who showed little or no decrement
+of discomfort spli t 6: 5 i n favo r o f th e
+short trial.
+The comparative ratings that subjects
+provided after statin g their choice wer e
+usually consisten t wit h thei r decisions ,
+but not always with the facts. Thus, most
+subjects indicated tha t the long trial had
+caused les s overal l discomfor t ( M =
+-0.91 , r[31] =  2.12 , p <  .05), was less
+cold at its most extreme moment (M =
+-0.91,/[31 ] =  1.90), and was less tough
+to cope with (M =  -  1.12, /[31] =  2.90,
+p < .01). Since th e long trial contained
+all th e pai n o f th e shor t tria l an d the n
+some, thes e postchoice  judgment s ar e
+simply wrong . Th e bia s in favor o f th e
+long trial may have affected som e judg-
+ments of duration: six subjects reporte d
+that th e long trial wa s actually shorter ,
+and 9  did no t report any difference. O n
+average, however , th e relative duratio n
+of the two trials was judged correctly (M
+= 1.09, ?[31] =  3,27 , p <  .01) . The du-
+ration difference evidentl y did not loom
+large in subjects ' choices , although on e
+was heard to mutter after comparing the
+duration of the two trials, "Th e choice I
+made doesn't seem to make much sense."
+The correlation s betwee n subjects '
+choices an d thei r postchoice  compari -
+sons of the tw o trials suppor t tw o con-
+clusions: First , subject s almos t alway s
+1 4  -
+1 3  •
+1 2  -
+1 1 -
+1 0  -
+• NO IMPROVEMENT (11 Ss)
+•IMPROVEMENT (21 Ss)
+3 0 60 90
+SECONDS
+Fig. t . Mea n of real-time discomfort measur e on the long trial, for 11 subjects who
+indicated little or no decrement of discomfort when temperature changed and for 21
+subjects who indicated decrease d discomfort .
+chose to repeat the trial that they remem-
+bered as being easier; the biserial corre-
+lation wa s .8 0 between choic e an d th e
+comparison o f overal l discomfort. Sec -
+ond, the neglect of duration is confirmed
+by a  correlatio n o f onl y .1 6 betwee n
+choice and the comparison of durations .
+The intercorrelations among the compar-
+ative judgments tell the same story . The
+(mostly erroneous ) judgments o f which
+trial include d th e coldes t temperatur e
+correlated .69 with ratings of overall dis-
+comfort an d .6 2 with rating s o f "toug h
+coping." In contrast , the (mostly veridi-
+cal) judgment s o f duratio n correlate d
+only ,0 8 with rate d discomfort an d .1 8
+with rated difficulties of coping. Subjects
+evidently fel t littl e pressur e t o distor t
+their judgments o f duratio n t o fit  thei r
+global impression of the trials.
+GENERAL DISCUSSION
+The presen t result s ar e compatibl e
+with th e peak-and-end patter n w e hav e
+observed before, in which an average of
+the real-time responses to the worst and
+to th e final  moment predict s th e retro -
+spective evaluatio n o f a n aversiv e epi -
+sode with fair accuracy , wherea s dura -
+tion is relatively neglected. This patter n
+entails different results for those subjects
+who experienced diminishing pain in the
+long trial and for those who did not. Fo r
+the typical subject , th e wors t moment s
+of th e shor t an d o f th e lon g tria l wer e
+about equally bad, but the final moment
+was bette r in the long trial. A  weighted
+average o f thes e momentar y utilitie s
+would therefore yiel d a  more favorabl e
+evaluation of the long trial, as was found.
+A minority of subjects indicated no less-
+ening of discomfort in the long trial; their
+worst discomfort an d their final discom-
+fort wer e therefor e approximatel y th e
+same within each trial, and similar across
+the two trials. The peak-and-end patter n
+predicts that the long and the short trials
+should b e abou t equall y aversiv e fo r
+these individuals , a s wa s found . Thus ,
+the peak-and-end patter n explain s bot h
+the case s in which ou r initial prediction
+was confirmed an d those in which it ap-
+peared to fail.
+We suspected that the requirement to
+report affect i n real time could enhanc e
+the salienc e o f th e wors t an d th e final
+moments, but the results do not depend
+VOL. 4, NO. 6, NOVEMBER 1993 403
+PSYCHOLOGICAL SCIENCE
+More Pain
+on this feature of the design. The strong
+preference fo r th e lon g tria l wa s con -
+firmed in a replication of the present ex-
+periment in which the real-time measure
+of discomfort was eliminated: Of 37 par-
+ticipants in that replication, 24 chose the
+long trial . W e hav e als o found i n tw o
+other studie s (Fredrickso n &  Kahne -
+man, 1993 ; Redelmeier &  Kahneman ,
+1993) that the peak-and-end patter n and
+the neglect of duration wer e maintained
+even when subjects did not provide ex-
+plicit evaluations of ongoing experience.
+We d o no t propos e tha t duratio n i s
+always neglected: It seems likely that du-
+ration could play a role in the evaluation
+of affective episode s that are either very
+much longer or very much shorte r tha n
+expected. No r do we propose that peak
+affect an d en d affect ar e th e only rele -
+vant predictor s o f retrospectiv e evalua -
+tion. For example, the velocity of an im-
+proving o r deteriorating tren d ha s been
+shown to be a factor in evaluations (Hsee
+& Abelson, 1991; Hsee, Abelson, &  Sa-
+lovey, 1991), and there are surely others.
+We suspect that there are cases in which
+memories o f a n episod e ar e dominate d
+by its initial moments. There are also sit-
+uations i n which th e pea k ma y b e dis -
+counted an d only th e en d matters : Th e
+positive affect associated with hope for a
+good outcome may not be counted in ret-
+rospective evaluations of an episode that
+eventually end s in disappointment (Car-
+mon & Kahneman, 1993; see also Fred-
+rickson, 1991).
+We view the peak-and-end patter n as
+an instanc e o f th e broade r propositio n
+that people tend to use selected moments
+as proxies i n evaluating temporally ex -
+tended state s or episodes . This proposi-
+tion applies to both prospective and ret-
+rospective evaluations. For example, ev-
+idence from studie s o f decision s abou t
+monetary gambles suggests tha t th e ef-
+fective carrier s of utility ar e changes of
+wealth (gains an d losses) , no t state s of
+wealth (Kahnema n &  Tversky , 1979).
+The behavio r o f subjects i n simple ex -
+changes als o indicate s tha t choice s ar e
+governed b y th e affect associate d wit h
+obtaining an attractive object or giving it
+up, not by the long-term utility of owning
+the object o r retaining a  sum of money
+(Kahneman, Knetsch , &  Thaler, 1991).
+A general principle o f mental represen -
+tation may be involved: Just as the visual
+system appear s t o describ e object s i n
+terms of boundaries and singular points,
+the cognitive syste m may represen t ex -
+tended experience s i n term s o f transi -
+tions an d singula r moments . Not e tha t
+we refer here to representations that are
+formed fo r th e purpos e o f evaluation .
+We do not claim that other information is
+necessarily lost , only that it is often no t
+used . Indeed , mos t subject s i n th e
+present experimen t coul d correctl y re -
+trieve th e relativ e duration s o f th e tw o
+trials, but did not use that knowledge in
+making their choices . Thus , th e neglect
+of duration that we have observed i s an
+attentional phenomenon; it does not rep-
+resent a n inability t o us e duration a s a
+cue to decision or a general policy to ig-
+nore this attribute .
+In the present experiment, the neglect
+of duration led most subjects t o expose
+themselves to more pain rather than less.
+Nothing i n th e subjects ' comment s re -
+ferred t o a  particula r advantag e i n th e
+long trial that made the extra pain worth-
+while. Furthermore , w e d o no t believe
+that subject s wh o choose th e long trial
+would actually prefer t o keep their hand
+in slowly warming cold water, if after 60
+s at 14 °C they were offered th e alterna-
+tive of a dry towel. In the absence of any
+valid reaso n for th e choice , th e prefer -
+ence for the long trial must be viewed as
+a violation o f temporal monotonicity—
+and as a mistake.
+We conclude tha t subjects chos e th e
+long trial simply because the y liked th e
+memory of it better than the alternative
+(or dislike d i t less) , no t becaus e the y
+were willing to suffer for the sake of ob-
+taining a  mor e favorabl e memory . A s
+they normally d o i n othe r choices , w e
+suppose, our subjects trusted their retro-
+spective evaluations of the two episodes
+as a basis for a  decision: What could be
+wrong with repeating the experience one
+now likes best? Indeed, evaluated mem-
+ories ar e th e onl y availabl e guid e fo r
+many decisions, but our experiment has
+shown this guide to be fallible. I t is part
+of the human condition that people pre-
+fer t o repea t th e experience s tha t hav e
+left the m with the most favorable mem-
+ories—no t necessaril y th e experience s
+that actually gave the most pleasure and
+the least pain.
+A better understanding of the rules of
+retrospectiv e evaluatio n coul d yiel d
+some valuabl e applications . Fo r exam -
+ple, the peak-and-end rul e suggests that
+the memory o f a  painful medica l treat -
+ment is likely to be less aversive if relief
+from th e pain is gradual tha n if relief is
+abrupt. A  related hypothesi s i s that th e
+provision of relief in the context in which
+pain ha s bee n experience d wil l yield a
+more favorable memory than immediate
+transition t o a  new contex t a s th e pai n
+ends. Thes e ar e meaningfu l issue s i n
+medical care, given the general availabil-
+ity of analgesics tha t var y i n onset , du -
+ration, and strength. Furthermore , mem-
+ories of treatment can affect medical out-
+comes if they influence patients ' morale
+and complianc e wit h treatmen t recom -
+mendations (Redelmeie r &  Kahneman ,
+1993).
+While it offers ne w opportunities, the
+dissociation of retrospective evaluation s
+from immediat e experienc e als o raise s
+intricate dilemmas of informed consent .
+Consider, fo r example , a  direc t exten -
+sion o f th e presen t stud y t o a  medica l
+context: Will a physician b e allowed t o
+add an interval of diminishing pain to the
+end o f a  medical procedur e i f th e sol e
+benefit of the added pain is to cause pa-
+tients to retain a more favorable memory
+of it? The answer is likely to depend on
+how the patient is informed. O n the one
+hand, i t i s safe t o assum e tha t few pa -
+tients will agree to expose themselves to
+pain for the sole purpose of improving a
+future memory . Thus , informed consen t
+would probably be denied. On the othe r
+hand, th e presen t result s imply tha t pa -
+tients wh o hav e actuall y experience d
+both versions of the procedure— a form
+of knowledge tha t i s generally consid -
+ered superior to a mere description—wil l
+generally prefer to repeat the longer one.
+What weight should be given to a choice
+that is informed b y personal experienc e
+if thi s choic e ca n b e trace d t o a  faulty
+evaluation process? The ethical question
+of which of these conflicting preference s
+should b e considered authoritativ e ma y
+not have a straightforward answer .
+Acknowledgments—Thi s researc h wa s
+supported by grants from the Sloan Foun-
+dation and the National Science Founda -
+tion. We thank George Loewenstein an d
+Amos Tversky for helpful suggestions and
+comments. We are particularly grateful t o
+Kathy L . KnopofF, wh o was involved i n
+the study from the early stages of pretest-
+ing and was the sole experimenter.
+404 VOL. 4, NO. 6, NOVEMBER 1993
+PSYCHOLOGICAL SCIENCE
+D. Kahnema n et aL
+REFERENCES
+Anderson, N,H , (1991), Functional memory in per-
+son cognition. In N,H. Anderson (Ed.) , Con-
+tributions to information integration theory:
+Cognition (Vol, 1, pp, 1-55), Hillsdale, NJ:
+Erlbaum,
+Cabanac, M. (1981), Physiological signals for ther-
+mal comfort. I n K, Cena &  J, Clark (Eds,) ,
+Bioengineering, thermal  physiology and com-
+fort (pp, 181-192), Amsterdam: Elsevier,
+Carmon, Z,, & Kahneman, D, (1993), Real-time and
+retrospective accounts  of  simulated waiting
+lines. Manuscript in preparation. University of
+California, Berkeley,
+Fredrickson, B,L , (1991), Anticipated endings: An
+explanation fo r selectiv e socia l interactio n
+(Doctoral dissertation , Stanfor d University ,
+1990), Dissertation Abstracts tnternationai, 3,
+AAD91-00818.
+Fredrickson, B,L. , & Kahneman, D, (1993), Dura-
+tion neglect in retrospective evaluations of af-
+fective episodes . Journal of Personality and
+Social Psychology, 65, 45-55,
+Hsee, C,K., & Abelson, R,P, (1991), Velocity rela-
+tion: Satisfaction as a function of the First de-
+rivative of outcome over time. Journal of Per-
+sonality and Social Psychology, 60,  341-347,
+Hsee, C,K,, Abelson, R,P. , &  Salovey, P , (1991),
+The relative weighting of position and velocity
+in satisfaction. Psychological Science, 2, 263 -
+266,
+Kahneman, D, , Knetsch, J, , & Thaler, R, (1991).
+The endowment effect, loss aversion, and sta-
+tus quo bias. Journal  of Economic Perspec-
+tives, 5, 193-206,
+Kahneman, D,, & Tversky, A, (1979), Prospect the-
+ory: A n analysi s o f decision s unde r risk .
+Econometrica, 47, 313-327,
+Kent, G, (1985), Memory of dental pain. Pain, 21,
+187-194,
+Rachman, S,, & Eyrl, K, (1989), Predicting and re-
+membering recurren t pain . Behaviour  Re-
+search and Therapy, 27, 621-635,
+Redelmeier, D,A,, & Kahneman, D, (1993). On the
+discrepancy between experiences and memo-
+ries: Patients'  real-time  and  retrospective
+evaluations of the pain of colonoscopy. Manu-
+script submitted for publication,
+Thomas, D.L,, & Diener, E, (1990), Memory accu-
+racy in the recall of emotions. Journal of Per-
+sonality and Social Psychology, 59, 291-297.
+Varey, C, & Kahneman, D, (1992), Experiences ex-
+tended acros s time : Evaluation o f moments
+and episodes. Journal of Behavioral Decision
+Making, 5, 169-195,
+(RECEIVED 12/20/92; ACCEPTE D 3/5/93)
+VOL. 4 , NO, 6, NOVEMBER 1993 405

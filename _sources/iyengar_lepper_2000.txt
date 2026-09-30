@@ -1,0 +1,1259 @@
+When Choice is Demotivating: Can One Desire Too Much 
+of a Good Thing? 
+Sheena S. Iyengar 
+Columbia University 
+Mark R. Lepper 
+Stanford University 
+Current psychological theory and research affirm the positive affective and motivational consequences of 
+having personal choice. These findings have led to the popular notion that the more choice, the 
+better--that the human ability to manage, and the human desire for, choice is unlimited. Findings from 3 
+experimental studies starkly challenge this implicit assumption that having more choices is necessarily 
+more intrinsically motivating than having fewer. These experiments, which were conducted in both field 
+and laboratory settings, show that people are more likely to purchase gourmet jams or chocolates or to 
+undertake optional class essay assignments when offered a limited array of 6 choices rather than a more 
+extensive array of 24 or 30 choices. Moreover, participants actually reported greater subsequent 
+satisfaction with their selections and wrote better essays when their original set of options had been 
+limited. Implications for future research are discussed. 
+Ne quid nimis. (In all things moderation.) 
+--Publius Terentius Afer (Terence), c. 171 B.C. 
+It is a common supposition in modern society that the more 
+choices, the better--that the human ability to manage, and the 
+human desire for, choice is infinite. From classic economic theo- 
+ries of free enterprise, to mundane marketing practices that provide 
+customers with entire aisles devoted to potato chips or soft drinks, 
+to important life decisions in which people contemplate alternative 
+career options or multiple investment opportunities, this belief 
+pervades our institutions, norms, and customs. Ice cream parlors 
+compete to offer the most flavors; major fast-food chains urge us 
+to "Have it our way." 
+Sheena S. Iyengar, Graduate School of Business, Columbia University; 
+Mark R. Lepper, Department of Psychology, Stanford University. 
+We gratefully acknowledge the cooperation and assistance of Draeger's 
+Grocery Store located in Menlo Park, California, for generously offering 
+their store as a field site for conducting Study 1. Similarly, Study 2 could 
+not have occurred without the cooperation and support of Claude Steele at 
+Stanford University who generously allowed his introductory social psy- 
+chology course to be used as a forum for conducting this field experiment. 
+Further, we would like to thank the numerous graduate students in the 
+Department of Psychology at Stanford University and undergraduate re- 
+search assistants who generously dedicated their time and effort to help 
+conduct these studies. 
+Correspondence concerning this article should be addressed to Sheena 
+S. Iyengar, Columbia University, Graduate School of Business, Uris Hall- 
+Room 714, 3022 Broadway, New York, New York 10027-6902, or to Mark 
+R. Lepper, Department of Psychology, Jordan Hall-Building 420, Stanford 
+University, Stanford, California 94305-2130. Electronic mail may be sent 
+to ss957@columbia.edu or lepper@psych.stanford.edu. 
+On the face of it, this supposition seems well supported by 
+decades of psychological theory and research that has repeatedly 
+demonstrated, across many domains, a link between the provision 
+of choice and increases in intrinsic motivation, perceived control, 
+task performance, and life satisfaction (Deci, 1975, 1981; Deci & 
+Ryan, 1985; Glass & Singer, 1972a, 1972b; Langer & Rodin, 
+1976; Rotter, 1966; Schulz & Hanusa, 1978; Taylor, 1989; Taylor 
+& Brown, 1988). In a typical laboratory study, the intrinsic moti- 
+vation of participants is compared across two conditions: one in 
+which participants are given a choice among half a dozen possible 
+activities, and a second in which participants are told by an 
+experimenter which specific activity to undertake (Zuckerman, 
+Porac, Lathin, Smith & Deci, 1978). The recurring empirical 
+finding from these studies is that the provision of choice increases 
+intrinsic motivation and enhances performance on a variety of 
+tasks. 
+Moreover, the positive consequences of choice are often appar- 
+ent even in contexts where the choice itself is trivial or incidental 
+(Cordova & Lepper, 1996; Dember, Galinsky, & Warm, 1992; 
+Swann& Pittman, 1977). Indeed, many important theories in 
+social psychology, including attribution theory (e.g., Kelley, 1967, 
+1973), dissonance theory (e.g., Collins & Hoyt, 1972; Cooper & 
+Fazio, 1984; Linder, Cooper, & Jones, 1967), and reactance theory 
+(e.g., Brehm, 1966), all presume that even purely illusory percep- 
+tions of choice will have powerful effects (Langer, 1975; Lefcourt, 
+1973; Lewin, 1952). 
+Although prior research has made a compelling case for the 
+psychological benefits of the provision of choice, there remain 
+some potential limitations to this literature. Consider one seem- 
+ingly trivial, yet potentially important, methodological character- 
+istic of prior studies: that the number of options presented in 
+Journal of Personality and Social Psychology, 2000, Vol. 79, No. 6, 995-1006 
+Copyright 2000 by the American Psychological Association, Inc. 0022-3514/00/$5.00 DOI: 10.1037//0022-3514.79.6.995 
+995 
+
+
+996 IYENGAR AND LEPPER 
+previous experiments was characteristically small, typically be- 
+tween two and six alternatives. It would appear, then, that what 
+prior research has actually shown is that choice among relatively 
+limited alternatives is more beneficial than no choice at all. Pre- 
+sumably, of course, constraints on the number of options offered in 
+past choice studies were imposed primarily for the sake of conve- 
+nience; however, real-world situations often provide more than a 
+limited selection, sometimes even an overwhelming number of 
+options. What happens when the range of alternatives becomes 
+larger and the differences among options become relatively small? 
+Certainly, there are cases when even a vast array of choices may 
+still have beneficial effects. Imagine a group of people who arrive 
+at a new restaurant, for example, all hoping to order their personal 
+favorite dishes. Obviously, the more items offered on the menu, 
+the more satisfied these customers will be, on average. More 
+generally, in preference-matching contexts, in which people enter 
+hoping to find some particular product or service they already 
+know themselves to prefer, larger numbers of options should 
+increase the likelihood that they will be successful in their search. 
+On the other hand, a growing body of research also suggests that 
+people can have difficulty managing complex choices. To begin 
+with, research has shown that as the attractiveness of alternatives 
+rises, individuals experience conflict and as a result tend to defer 
+decision, search for new alternatives, choose the default option, or 
+simply opt not to choose (Dhar, 1997; Shafir, Simonson, & Tver- 
+sky, 1993; Shafir & Tversky, 1992). Furthermore, consumer re- 
+search suggests that as both the number of options and the infor- 
+mation about options increases, people tend to consider fewer 
+choices and to process a smaller fraction of the overall information 
+available regarding their choices (Hauser & Wernerfelt, 1990). 
+In fact, studies show that the selection, evaluation, and integra- 
+tion of information are all clearly affected by the available number 
+of options; this suggests that, as the complexity of making choices 
+rises, people tend to simplify their decision-making processes by 
+relying on simple heuristics (Payne, 1982; Payne, Bettman, & 
+Johnson, 1988, 1993; Timmermans, 1993; Wright, 1975). For 
+instance, a comparison of the decision strategies of people pre- 
+sented with three, six, or nine alternatives revealed that 21% used 
+an elimination strategy in the case of three options, 31% used an 
+elimination strategy in the case of six options, and 77% used an 
+elimination strategy when there were nine options (Timmermans, 
+1993). The increase in the percentage of participants who used an 
+elimination strategy as the number of alternatives grew was also 
+accompanied by a decrease in the percentage of information used. 
+This sharp decrease in the number of attributes considered as 
+problem complexity increases suggests that information overload 
+may produce a change to a noncompensatory but more efficient 
+decision rule. 
+The three studies presented in this article, therefore, examine for 
+the first time the possibility that there may be differential motiva- 
+tional consequences of encountering contexts that offer a limited 
+(i.e., psychologically manageable), versus an extensive (i.e., psy- 
+chologically excessive), number of choices. Specifically, the 
+choice overload hypothesis underlying these studies is that, al- 
+though the provision of extensive choices may sometimes still be 
+seen as initially desirable, it may also prove unexpectedly demo- 
+tivating in the end. 
+In these studies, limited-choice conditions were operationalized 
+as contexts that offered roughly the same number of options 
+(approximately six) as used in past research (e.g., Zuckerman et 
+al., 1978). In comparison, extensive-choice conditions were opera- 
+tionalized as contexts in which participants would have some 
+reasonably large, but not ecologically unusual, number of options. 
+In addition, to provide a clear test of the choice overload 
+hypothesis, several additional methodological considerations 
+seemed important. On the one hand, to minimize the likelihood of 
+simple preference matching, care was taken to select contexts in 
+which most participants would not already have strong specific 
+preferences. On the other hand, to minimize the potential impor- 
+tance of effortful information search, care was also taken to select 
+tasks for which "right" and "wrong" choices would be subjective, 
+so that the effort involved in making a choice would be largely a 
+function of personal preferences. Finally, across experiments, we 
+sought to examine this hypothesis in both field and laboratory 
+settings. Using these criteria, then, the present studies tested the 
+hypothesis that having a limited and more manageable set of 
+choices may be more intrinsically motivating than having an 
+overly extensive set of choices. 
+Study 1 
+In this first field experiment, consumers shopping at an upscale 
+grocery store encountered a tasting booth that displayed either a 
+limited (6) or an extensive (24) selection of different flavors of 
+jam. The two dependent measures of customers' motivation were 
+their initial attraction to the tasting booth and their subsequent 
+purchasing behavior. 
+Method 
+Participants and Experimental Site 
+Study 1 involved a field experiment that examined the motivational 
+consequences of limited versus extensive choice in an upscale grocery 
+store (Draeger's Supermarket) located in Menlo Park, California. This 
+grocery store is of particular interest because its salient distinguishing 
+feature is the extraordinary selection it offers, especially when compared 
+with large grocery chains. For instance, Draeger's offers roughly 250 
+different varieties of mustard, 75 different varieties of olive oil, and over 
+300 varieties of jam. In addition, because of the regular presence of tasting 
+booths at this store, shoppers are frequently offered sample tastes of the 
+enormous array of available products. As a result, this store provided a 
+particularly conducive environment in which a naturalistic experiment that 
+used tasting booths could be conducted. 
+On two consecutive Saturdays, neither of which fell on a long holiday 
+weekend, a tasting booth was set up inside the grocery store. Over the 
+course of these two 5-hr experimental periods, the behavior of approxi- 
+mately 754 shoppers was observed. Among the 386 customers present in 
+the store during the hours when the extensive-choice booth was displayed, 
+only 242 actually encountered the display. Among the 368 customers 
+present in the store during the hours when the limited-choice booth was 
+displayed, only 260 actually encountered the display. By observation, the 
+customers who stopped at the booth were typically middle-aged Cauca- 
+sians; approximately 62% of these customers were women and 38% were 
+men. 
+Product Selection 
+Exotic jams. Before the study, the number of brands and selections 
+within a number of product categories were carefully catalogued. On the 
+basis of the following criteria, the product selected as the experimental 
+
+
+WHEN CHOICE IS DEMOTIVATING 997 
+stimulus was Wilkin & Sons (Purveyors to Her Majesty the Queen) jams. 
+To control for potential differences that might arise from different types of 
+packaging or advertising, it was necessary to find one brand for which there 
+was a sufficiently large variety to constitute an extensive-choice condition. 
+(In total, Wilkin & Sons has 28 varieties of jams.) In addition, careful 
+attention was given to selecting a product with which most consumers 
+would be familiar, yet not so familiar that preferences would already be 
+ftrmiy established. Hence, to ensure that potential customers would not just 
+reach for the more traditional flavors such as strawberry and raspberry, 
+these common flavors were removed from the set of 28, leaving a choice 
+set of 24 more exotic flavors. Finally, because the dependent measure 
+involved purchasing behavior, a relatively inexpensive product needed to 
+be chosen. The price of Wilkin & Sons jams ranged from 4 to 6 dollars. 
+Jam preferences survey. To ensure that the limited-choice set consisted 
+of neither the most preferred nor the least preferred jam flavors, a prelim- 
+inary survey of 30 Stanford undergraduates examined individual prefer- 
+ences for the 24 flavors of jam. These students were provided a list of 
+the 24 exotic jam flavors and were asked, "Please read the following list of 
+jams. Put a star next to the two best-sounding jams, in your opinion. Put a 
+check mark next to two good but not excellent-sounding jams, and an X 
+next to the two worst sounding jams." On the basis of this preliminary 
+survey, kiwi and peach jams were selected to represent the two most 
+preferred jams, black cherry and three-fruits marmalade were selected to 
+represent the moderately tasty jams, and lemon curd and red currant were 
+selected to represent the least preferred jams. 
+Procedure 
+Two research assistants, dressed as store employees, invited passing 
+customers to "come try our Wilkin and Sons jams." Shoppers encountered 
+one of two displays. On the table were either 6 (limited-choice condition) 
+or 24 (extensive-choice condition) different jams. On each of two Satur- 
+days, the displays were rotated hourly; the hours of the displays were 
+counterbalanced across days to minimize any day or time-of-day effects. 
+Initial testing. Consumers were allowed to taste as many jams as they 
+wished. All consumers who approached the table received a coupon for a 
+$1-discount off the purchase of any Wilkin & Sons jam. Afterwards, any 
+shoppers who wished to purchase the jam needed to go to the relevant jam 
+shelf, select the jam of their choice, and then purchase the item at the 
+store's main cash registers. As a result, regardless of the tasting-booth 
+display encountered by each customer, all potential buyers of Wilkin & 
+Sons products necessarily encountered the entire display of flavors. 
+An inconspicuous observer recorded the number of customers who 
+approached the table, as well as the number of passers-by who did not stop. 
+A second observer, also unobtrusive, made educated guesses about the 
+ethnicity, age, and gender of each customer who did stop at the tasting 
+booth. 
+In addition, a random sample of solicitations was tape-recorded and later 
+presented to two independent raters, unaware of both the conditions and 
+hypotheses of the study, who rated each solicitation on a 1-5 Likert scale 
+of "friendliness" ranging from not at all friendly to very friendly. Overall, 
+the average friendliness score was high (M = 4.5), and the correlation 
+between the raters was high, r = .90, p < .0001. Subsequent analyses on 
+these scores showed that the solicitations did not vary according to con- 
+dition, F(1, 99) = .86, ns. 
+Subsequent purchasing. On the bottom left-hand comer of each dis- 
+count coupon was a code indicating the condition assignment and gender 
+of each consumer. Other numbers and letters surrounded these codes to 
+lead customers to believe that the code represented a coupon scan number. 
+Coupons could be redeemed over a period of 1 week. 
+subsequent purchase of the displayed product. As noted, more 
+women than men stopped at the booth; however, there were no 
+gender differences by condition, either for initial attraction or for 
+subsequent purchasing behavior. 
+Initial Attractiveness of Selections 
+To what extent does having extensive choice initially seem 
+desirable? Of the 242 customers who passed the extensive- 
+selection display of jams, 60% (145) actually stopped at the booth. 
+In contrast, of the 260 customers who passed the limited-selection 
+display of jams, only 40% (104) stopped. Thus, consumers who 
+encountered the extensive-choice condition were more attracted to 
+the booth than consumers exposed to the limited-choice condition, 
+suggesting that the variety provided in the extensive-choice con- 
+dition was initially more attractive, 9(2(1, N = 502) = 19.89, p < 
+.001.1 
+One might imagine that consumers who encountered 24 differ- 
+ent jams would sample more flavors than would those who en- 
+countered 6 different varieties. In fact, however, there were no 
+significant differences, F(1, 245) = 0.83, ns; consumers in the 
+extensive-choice condition sampled an average of 1.50 jams 
+(range = 1-2), whereas consumers in the limited-choice condition 
+sampled an average of 1.38 jams (range = 1-2). 
+Subsequent Purchasing Behavior 
+Is the initial attractiveness of extensive choice also reflected in 
+subsequent purchasing behavior? Our findings suggest not: Nearly 
+30% (31) of the consumers in the limited-choice condition subse- 
+quently purchased ajar of Wilkin & Sons jam; in contrast, only 3% 
+(4) of the consumers in the extensive-choice condition did so, X2(1, 
+N = 249) = 32.34, p < .0001. Thus, consumers initially exposed 
+to limited choices proved considerably more likely to purchase the 
+product than consumers who had initially encountered a much 
+larger set of options. 
+Discussion 
+These findings are striking. Certainly, they appear to challenge 
+a fundamental assumption underlying classic psychological theo- 
+ries of human motivation and economic theories of rational- 
+choice--that having more, rather than fewer, choices is necessarily 
+more desirable and intrinsically motivating. The findings from this 
+study show that an extensive array of options can at first seem 
+highly appealing to consumers, yet can reduce their subsequent 
+motivation to purchase the product. Even though consumers pre- 
+sumably shop at this particular store in part because of the large 
+number of selections available, having "too much" choice seems 
+nonetheless to have hampered their later motivation to buy. 
+There are, however, several potential limitations to this initial 
+field experiment. To begin with, it is possible that consumers in the 
+limited-choice condition believed that there was something special 
+about the specific six jams displayed, especially after they became 
+Results 
+The central aim of Study 1 was to examine whether the number 
+of options displayed affected consumers' initial attraction to or 
+In keeping with current guidelines, because the cell sizes in the present 
+studies were substantial (Siegel, 1956) and because there were more than 5 
+times as many subjects as there were ceils (Delucchi, 1983), it was not 
+deemed necessary to perform a correction for continuity. 
+
+
+998 IYENGAR AND LEPPER 
+aware of the multitude of other options available on the shelf. Such 
+a belief could have made the limited-choice consumers more prone 
+to purchase jam. Consequently, it is worth considering whether the 
+pattern of results would be altered if the limited-choice condition 
+were operationalized such that participants were not aware of the 
+multitude of other options potentially available. 
+In addition, the contrasting displays of jam may have invited 
+motivationally differing consumer groups. Although the display 
+of 24 jams may have aroused the curiosity of otherwise uninter- 
+ested passers-by, the display of 6 jams may have appealed to store 
+customers who were more serious about the purchasing of jam. To 
+rule out this possibility, it was necessary to examine the motiva- 
+tional consequences of limited versus extensive choices with a 
+sample of participants who were not given the opportunity to 
+self-select their condition assignment. 
+Finally, since consumers in both conditions sampled no more 
+than two jam flavors, it is possible that the consumers in the 
+extensive-choice condition felt that they did not have sufficient 
+time to determine their preferences. Although consumers in both 
+conditions were allowed the freedom to peruse and to sample as 
+many of the displayed flavors as they wished, social pressure or 
+time constraints may have prevented them from taking full advan- 
+tage of this opportunity. Thus, one might question whether the 
+obtained differences in motivation would be eliminated if partic- 
+ipants in both conditions were given the opportunity to peruse their 
+options in an unconstrained, nonpublic context. 
+Study 2 endeavored to address these concerns and to generalize 
+the findings from Study 1 to an educational setting, in which 
+measures of actual performance, as well as choice, could be 
+observed. Thus, in Study 2, participants in the limited-choice 
+condition were not aware of any options beyond those in the 
+limited-choice set. Similarly, careful attention was given to choos- 
+ing a task that enabled participants to spend as much time as they 
+wished in perusing their choices. Moreover, unlike Study 1, 
+Study 2 employed a yoked design; the limited-choice set was 
+rotated such that for every item encountered by an extensive- 
+choice participant, there was a limited-choice participant who had 
+encountered the same item. 
+Study 2 
+In Study 2, students in an introductory social psychology class 
+were given the opportunity to write a two-page essay as an extra- 
+credit assignment. Students were given either 6 or 30 potential 
+essay topics on which they could choose to write. Intrinsic moti- 
+vation was assessed by comparing the percentage of students who 
+completed the assignment across the two conditions and the qual- 
+ity of the essays written in each condition. 
+Method 
+Participants 
+One hundred ninety-seven students in an introductory social psychology 
+class at Stanford University served as the participants in this study. The 
+class included 116 women and 81 men. In addition to attending biweekly 
+lectures, all students were required to attend smaller weekly discussion 
+sections led by five graduate student teaching assistants. The students were 
+divided into 10 discussion sections; each of the five teaching assistants 
+led 2 sections. Sections included anywhere from 8 to 26 students. Four 
+students ultimately dropped the class and were therefore excluded from the 
+analysis. 
+Procedures 
+As part of the course, all students were required to watch the movie, 
+"Twelve Angry Men." Related to this requirement, an extra-credit assign- 
+ment was offered, and it was the administration of this extra-credit oppor- 
+tunity that provided the context for a naturalistic experiment. 
+Before Thanksgiving week, extra-credit assignments were distributed to 
+the students. All assignments included the following instructions: 
+Instead of having section next week, all students will be required to 
+watch a movie being shown in room 40 on Monday, November 25, 
+between 7-9 PM. After watching the movie, you can obtain two extra 
+credit points on your next midterm examination by writing a response 
+paper to the movie. The following is a list of possible questions you 
+can write about. Papers should be approximately one to two pages 
+typed, double spaced, and are due Tuesday, December 3, in class. If 
+you choose to do this assignment, you must circle the paper topic and 
+attach this page to your response paper. 
+After reading these instructions, students found themselves confronted 
+by either 6 different essay topics (limited-choice condition) or 30 different 
+essay topics (extensive-choice condition). All essay questions dealt with 
+topics related to the material covered in the course. Careful attention was 
+given to selecting essay topics that were comparable in difficulty, and 
+analyses of performance revealed no differences as a function of the 
+specific topic chosen. 
+In all, there were six different versions of the extra-credit assignment. In 
+addition to the 30-topic assignment, five versions of the 6-topic assignment 
+were created, such that all of the items from the list of 30 were counter- 
+balanced across the five limited-choice assignments. 
+Students were first informed of the movie requirement during the weekly 
+section meeting before Thanksgiving week. To minimize the possibility 
+that students would notice the different versions, assignments were handed 
+out in the section meetings rather than in class lectures. At this time, the 
+teaching assistants distributed these assignments, with an identical verbal 
+description, reinforcing the information about the opportunity for students 
+to gain two extra points on their next midterm. On no occasion were 
+students led to believe that their essays would be graded. On the contrary, 
+they were explicitly told that their performance on the assignment was 
+irrelevant to the receipt of the two points. 
+Because each of the five teaching assistants administered two separate 
+sections, one of these two sections was assigned to the limited-choice 
+condition and the other was assigned to the extensive-choice condition. In 
+this way, five sections of students received six essay topics and five 
+sections of students received thirty. Because the number of students per 
+section varied, it was not possible to assign equal numbers of students to 
+the two conditions. As a result, 70 students were assigned to the limited- 
+choice condition, whereas 123 students were assigned to the extensive- 
+choice condition. No differences were found across the five teaching 
+assistants in terms of assignment completion; students assigned to one 
+teaching assistant were just as likely to do the extra-credit assignment as 
+students assigned to another teaching assistant. 
+Dependent Measures 
+Two measures assessed students' subsequent motivation in the two 
+conditions. The first was the percentage of participants who chose to write 
+an essay. The second was the quality of the essays produced. 
+As previously indicated, the students were told that their performance on 
+these extra-credit assignments would have no impact on their class grades. 
+Nevertheless, it was of interest to determine whether the number of 
+alternatives available might also affect performance quality. Accordingly, 
+
+
+WHEN CHOICE IS DEMOTIVATING 999 
+two graduate students, unaware of both the participants' choice conditions 
+and the hypotheses of this experiment, graded each of the response papers 
+for both content and form using two 10-point scales, which ranged from 
+"extremely poor" to "excellent. ''2 
+When grading for content, two factors were taken into consideration. 
+The first was the accurate depiction and appropriate use of social- 
+psychological concepts. The second was the use of clear examples from the 
+film that related and mapped onto the different social-psychological pro- 
+cesses being discussed. The inter-rater correlation for content scores was 
+r = .70, p < .0001. The form score similarly assessed students' facility on 
+two dimensions. First, each paper was judged on whether it had clear 
+structure (e.g., "Did the introductory paragraph define a hypothesis?"). 
+Second, the papers were evaluated on technical proficiency--spelling, 
+grammar, and the like. The inter-rater correlation for form scores was r = 
+.89, p < .0001. Because there was considerable agreement across the two 
+graders on both content and form, their ratings were averaged, yielding one 
+content and one form score per student. 
+Results 
+Preliminary Analyses 
+The central point of interest in Study 2 lay, once again, in the 
+comparison of participants' responses across the two experimental 
+conditions of limited versus extensive choice. Because preliminary 
+analyses showed no differences as a function of gender and no 
+interactions between gender and condition on either measure, the 
+data were collapsed across this factor. 
+Assignment Completion 
+Did the number of choices provided on the instruction sheet 
+actually influence the percentage of students who completed the 
+assignment? Overall, 65% (126) of the students chose to do the 
+assignment. There was, however, a significant effect of condition, 
+X2(1, N = 193) -- 3.93, p < .05. Of the 70 students assigned to the 
+limited-choice condition, 74% turned in the assignment. In con- 
+trast, of the 123 students assigned to the extensive-choice condi- 
+tion, only 60% chose to complete the assignment. 
+Quality of Essays 
+Were these differences in students' willingness to write an essay 
+also reflected in differences in the quality of these essays? For 
+content, there was a main effect for condition, F(1, 124) = 4.18, 
+p < .05. On average, students assigned to the limited-choice 
+condition performed slightly, although significantly, better 
+(M = 8.13, SD = 0.95) than those assigned to the extensive-choice 
+condition (M = 7.79, SD = 0.91). A similar main effect was found 
+for form, F(I, 124) = 4.64, p < .03. On average, students in the 
+limited-choice condition scored higher (M = 8.04, SD = 1.33) 
+than students in the extensive-choice condition (M = 7.59, 
+SD = 1.02). 
+Because measures of content and form proved significantly 
+correlated (r = .52, p < .0001), content and form grades were also 
+averaged to give one overall grade. The condition effect was also 
+significant for this overall measure, F(1, 124) = 5.65, p < .02, 
+with students in the limited-choice condition receiving higher 
+grades (M = 8.09, SD = 1.05) than those in the extensive-choice 
+condition (M = 7.69, SD = 0.82). 
+One might ask whether the observed differences in motivation 
+or performance could somehow have been driven by differences in 
+students' prior performance in the class. There were, however, no 
+differences in class midterm performance by condition among the 
+students who completed the extra-credit assignments, nor were 
+there differences in midterm performance between those who 
+subsequently did or did not choose to do the assignment. 
+Discussion 
+The findings from Study 2 both confirm and expand on the 
+findings from Study 1. The results from both studies suggest that 
+the provision of extensive choices does not necessarily lead to 
+enhanced motivation when compared with contexts that offer a 
+limited array of choices. Quite the opposite seems to be the case. 
+In both studies, people actually seemed to prefer to exercise their 
+opportunity to choose in contexts where their choices were limited, 
+and, in Study 2, they even performed better in such limited-choice 
+contexts. 
+Particularly counterintuitive, from the perspective of traditional 
+models, is the finding that the same choice selected from a limited- 
+choice set can lead to better performance than if the same option 
+had been selected from an extensive-choice set. Interestingly, in 
+contrast to prior studies, the measure of performance in the present 
+experiment was designed to reflect intrinsic motivation. Because 
+none of the participants thought that their essays would be evalu- 
+ated, the quality of the paper they wrote should have been primar- 
+ily a function of their personal interest and motivation. 
+Thus, the results of Studies 1 and 2 support the hypothesis that 
+extensive-choice contexts may be initially more appealing but 
+are subsequently more likely to hamper people's intrinsic motiva- 
+tion. Although these field experiments provide compelling 
+empirical evidence to support this hypothesis, they shed little 
+light on the mediating mechanisms underlying choice overload. 
+What, then, are the processes that produce the decreases in sub- 
+sequent motivation exhibited in contexts that offer extensive 
+choices? 
+One possibility is that people encountering overly extensive 
+choices use a choice-making heuristic that necessarily leads them 
+to feel less committed to exercising their preferences. Previous 
+research has argued that limited-choice contexts invite people to 
+engage in rational optimization--to try to decide which option in 
+a set is the single best one for them. By contrast, choosers in 
+extensive-choice contexts may endeavor to balance the tradeoffs 
+between accuracy and effort, adopting simplifying heuristic strat- 
+egies that are much more selective in their use of available infor- 
+mation (Christensen-Szalanski, 1978, 1980; Payne et al., 1988, 
+1993). Consequently, extensive-choice contexts may invite people 
+merely to "satisfice"--to stop when they find any choice that 
+seems acceptable (Mills, Meltzer, & Clark, 1977; Simon, 1955, 
+1956). In other words, when people have "too many" options to 
+consider, they simply strive to end the choice-making ordeal by 
+finding a choice that is merely satisfactory, rather than optimal. 
+Doing otherwise would demand more effort than seems justified 
+by the prospective increase in utility or satisfaction. Hence, one 
+2 No actual grade proved lower than a "5," and grades were not restricted 
+to whole numbers. 
+
+
+1000 IYENGAR AND LEPPER 
+might predict that people who encounter extensive choices should 
+report making a less informed decision and should be more likely 
+to opt for a default choice (Hauser & Wernerfelt, 1990; Payne, 
+1982; Shafir et al., 1993; Shafir & Tversky, 1992). Similarly, 
+choosers opting to satisfice in extensive-choice contexts should 
+also report being less confident of their choices and less likely to 
+expect to be satisfied with their particular choices. 
+A contrasting possibility is that choosers in extensive-choice 
+contexts may actually feel more committed to the choice-making 
+process; that is, that they may feel more responsible for the choices 
+they make because of the multitude of options available. These 
+enhanced feelings of responsibility, in turn, may inhibit choosers 
+from exercising their choices, out of fear of later regret. In other 
+words, choice-makers in extensive-choice contexts might feel 
+more responsible for their choices given the potential opportunity 
+of finding the very best option, but their inability to invest the 
+requisite time and effort in seeking the so-called best option may 
+heighten their experience of regret with the options they have 
+chosen. If so, choosers in extensive-choice contexts should per- 
+ceive the choice-making process to be more enjoyable given 
+all the possibilities available. They should at the same time, 
+however, find it more difficult and frustrating given the potentially 
+overwhelming and confusing amount of information to be 
+considered. 
+Study 3, therefore, sought both to provide an instantiation of the 
+phenomenon of choice overload in a controlled laboratory setting 
+and to supplement the findings from the last two studies by 
+including a number of measures designed to test the two opposing 
+hypotheses outlined above. To test the first hypothesis--that peo- 
+ple encountering extensive choices tend to use a satisficing heu- 
+ristic, whereas people encountering limited choices tend to use an 
+optimizing heuristic--Study 3 examined choosers' expectations 
+regarding the choices they had made. 
+As before, after participants had encountered either a limited 
+array or an extensive array of options in this study, they were asked 
+to make a choice. Unlike the prior two studies, however, before 
+being given the opportunity to sample the selection they had made, 
+choosers' expectations about this choice were assessed. Partici- 
+pants provided predictions about how satisfied they would be with 
+their stated preference--whether they expected the choice they 
+made to be merely "satisfactory" or "among the best." Participants 
+also indicated whether they had chosen a default option and 
+reported how well-informed they felt about the choice they had 
+made. To test the second hypothesis--that people in extensive- 
+choice contexts feel more responsible for the choices they make-- 
+several affect items were added to Study 3. Specifically, after 
+making their choices, but before sampling their choices, partici- 
+pants were asked to provide ratings of their enjoyment, difficulty, 
+and frustration during the choice-making process. Later, after 
+sampling their choices, they provided ratings of satisfaction and 
+regret. 
+Finally, Study 3 also included a no-choice control condition. 
+Inclusion of this third group allowed us to examine whether 
+differences between the limited- and extensive-choice groups were 
+the result of increases in motivation among limited-choice partic- 
+ipants and/or decreases in motivation among extensive-choice 
+participants. 
+Study 3 
+In Study 3, participants initially made a selection from either a 
+limited array or an extensive array of chocolates. Subsequently, 
+participants in the experimental groups sampled the chocolate of 
+their choosing, whereas participants in the control group sampled 
+a chocolate that was chosen for them. Participants' initial satisfac- 
+tion with the choosing process, their expectations concerning the 
+choices they had made, their subsequent satisfaction with their 
+sampled chocolates, and their later purchasing behavior served as 
+the four main dependent measures in this study. 
+Conceptually, then, the design of Study 3 involved three groups: 
+limited choice, extensive choice, and a no-choice control condi- 
+tion. Because it seemed important to control for the number of 
+alternatives presented across the choice and no-choice conditions, 
+half of the participants in the no-choice conditions were shown the 
+same 6 choices as participants in the limited-choice condition, 
+whereas the other half were shown the full array of 30 choices, as 
+were participants in the extensive-choice condition. 
+Because the choice-condition participants and their no-choice 
+counterparts were treated identically up through the administration 
+of the first set of dependent measures, analyses of these measures 
+will involve only comparisons of those exposed to limited displays 
+versus those exposed to extensive displays. Once participants had 
+been given either their own selection or an arbitrarily assigned 
+chocolate to taste, however, comparisons of limited-choice and 
+extensive-choice participants to those in the no-choice control 
+condition then became relevant. 
+Method 
+Participants 
+One hundred thirty-four students from Columbia University were ran- 
+domly assigned to one of three conditions. There were 33 participants in 
+the limited-choice condition, 34 participants in the extensive-choice con- 
+dition, and 67 participants in the no-choice condition. This sample included 
+63% women and 37% men. The ethnic distribution of the participants was 
+55% Caucasian, 25% Asian, 5% Latino, 4% African American, and 11% 
+Other. 
+To eliminate any participant who might have an aversion to chocolate, 
+all potential participants were prescreened on the basis of two questions. 
+First, all potential participants were asked, "Do you like chocolate?" Only 
+those who responded "yes" to this item were then recruited to be partici- 
+pants in this study. Second, participants were asked, "How often do you eat 
+Godiva chocolates?" Responses were coded as "never," "occasionally," or 
+"frequently." Because it was believed that high familiarity with Godiva 
+flavors and varieties might confound a participant's behavior within this 
+study, only those participants who responded "never" or "occasionally" 
+were recruited for this study. Approximately 92% of all potential partici- 
+pants met these two criteria and were invited to be part of the study. 
+Instruments 
+Decision-making measures. A questionnaire was designed to examine 
+participants' affective responses to the choice-making process and their 
+expectations after making a choice. To prevent participants' responses 
+from being biased by the outcome of their choice, we asked them to 
+complete the questionnaire after they had chosen which chocolates they 
+wished to sample, but before they had been given the opportunity to sample 
+their choice. All items called for ratings on a Likert scale ranging from 1 
+(not at all) to 7 (extremely). 
+
+
+WHEN CHOICE IS DEMOTIVATING 1001 
+To test the hypothesis that people encountering extensive choices can 
+experience the choice-making process as both enjoyable and overwhelm- 
+ing, the questionnaire examined participants' perceptions of the choice- 
+making process. Specifically, participants were asked about the extent to 
+which they felt the choice-making process had been enjoyable ("How 
+much did you enjoy making the choice?"), difficult ("Did you find it 
+difficult to make your decision of which chocolate to pick?"), or frustrating 
+("How frustrated did you feel when making the choice?"). They also 
+predicted how satisfied they would be if they had the opportunity to sample 
+their chosen chocolate ("How satisfied do you think you will be if you 
+sample this chocolate?"). 
+To evaluate whether people encountering limited choices are more likely 
+to optimize (i.e., to seek the very best option) whereas people encountering 
+extensive choices are more likely to satisfice (i.e., to accept any satisfactory 
+option), two items were created to examine participants' expectations 
+regarding their choices. To measure perceived satisficing, we asked par- 
+ticipants to provide ratings for, "How confident are you that this chocolate 
+will satisfy you?" To examine perceived optimizing, we asked "How 
+confident are you that this chocolate will be among the best you've ever 
+had?" Similarly, to evaluate whether people in an extensive-choice context 
+feel less informed and are therefore more prone to choose a default option, 
+we also asked participants, "Do you feel that you made a well-informed 
+decision on the chocolate you picked?" and, "Is this a chocolate that you 
+would normally pick?" 
+Sample-satisfaction measures. The satisfaction measures were de- 
+signed to inquire about participants' overall satisfaction with their sampled 
+chocolates. Specifically, these questions assessed participants' actual sat- 
+isfaction with the chocolate they had consumed, their regrets about the 
+chocolate they had tasted, and their satisfaction with the number of choices 
+they had been given. Experimental participants reported their satisfaction 
+with their chosen samples, of course, whereas control participants reported 
+their satisfaction with a chocolate that had been chosen for them. 
+To test the hypothesis that participants exposed to extensive choices 
+would be less satisfied with their choices than participants exposed to 
+limited choices, three items examined participants' satisfaction with their 
+sampled chocolates: "How satisfied were you with the chocolate you 
+tasted?", "How much did you enjoy the sample you tasted?", and, "How 
+tasty was the chocolate you sampled?" All responses were given on Likert 
+scales, ranging from 1 (not at all) to 7 (extremely). 
+Similarly, to test whether any potential decrease in satisfaction among 
+people encountering overly extensive choices would be accompanied by an 
+increase in regret, two items were included to measure regret: "How much 
+do you regret eating the chocolate you tasted?" and "Do you think that 
+there were chocolates on the table that tasted much better?" Both items 
+were answered on 7-point Likert scales, ranging from 1 (no, not at all) to 7 
+(yes, completely). 
+Because one can only infer through behavioral measures in Studies 1 
+and 2 whether 30 or 24 choices actually constituted an overly extensive 
+choice set, Study 3 included a manipulation check in which participants 
+were asked their perceptions about the number of choices provided. Spe- 
+cifically, participants were asked: "When initially given the task to pick a 
+chocolate from the display, do you think the selection should have included 
+more kinds of chocolates?" Responses were given on a 7-point Likert scale, 
+with 1 being, l felt that I had too few to choose from, 4 being, I had the 
+right number of choices to choose from, and 7 being, No, I had too many 
+to choose from. 
+Demographic measures. At the conclusion of the experiment, all par- 
+ticipants completed a brief demographics questionnaire. This questionnaire 
+inquired about participants' age, ethnicity, gender, and affiliation with 
+Columbia University. 
+Experimental Procedures 
+As participants entered the laboratory, the experimenter directed them to 
+sit at a round table on which there was one of two different displays of 
+chocolates. In the limited-choice display, participants encountered one row 
+of 6 different flavors of Godiva chocolates; in the extensive-choice display, 
+participants encountered 30 different chocolates, arranged in five rows 
+of 6. Next to each chocolate was a label indicating its "official," Godiva 
+name (e.g., "Grand Marnier Truffle"). When designating the composition 
+of the five rows, careful attention was given to ensuring that similar flavors 
+were not in the same row (e.g., a Strawberry Cordial would not be assigned 
+to the same group as the Raspberry Cordial). In those conditions in which 
+participants encountered only six chocolates, the five groups were rotated 
+such that for every chocolate encountered in the extensive-choice display 
+there was a possibility of the same chocolate being encountered in the 
+limited-choice display. 
+The experimenter gave participants the following cover story for the 
+study: "We're doing a marketing research study that examines how people 
+select chocolates. What I would like you to do is take a look at the names 
+of the chocolates and the chocolates themselves, and tell me which one you 
+would buy for yourself." All participants then proceeded to choose the 
+chocolate they would wish to have. 
+Because prior research suggests that people making a choice among four 
+alternatives sometimes take less time than people making a selection 
+between two (Hendrick, Mills, & Kiesler, 1968; Kiesler, 1966), the amount 
+of time spent deciding which chocolate to sample was also recorded in this 
+study. Once the participants pointed to a chocolate, they were asked to 
+complete the decision-making measures described above. 
+Next, participants encountered the manipulation of choice. In the two 
+choice conditions, the experimenter offered the participants the opportunity 
+to sample the chocolate they had chosen. In contrast, in the no-choice 
+condition, the participants were not permitted to sample the chocolate they 
+had chosen but were instead told, "We have some sample chocolates that 
+have been chosen for you at random. These are [e.g.,] 'Milk Chocolate 
+Truffles'." The experimenter then opened a box containing eight identical 
+chocolates, which were not of the participants' choosing, and asked the 
+participants to take one. As in prior studies (Zuckerman et al., 1978), we 
+used a yoked design, so that the same chocolates chosen by participants in 
+the choice conditions were the ones offered to participants in the no-choice 
+condition. 
+After sampling the chocolate, participants completed the sample satis- 
+faction measures and the demographics questionnaire described above. 
+Next, the experimenter led the participant to believe that the experiment 
+had concluded, saying, "Thanks. We appreciate your time. You can go see 
+the manager for your compensation in room three." 
+In the payment room, a second experimenter, unaware of the condition 
+assignments, greeted the participants. This experimenter offered the subject 
+a choice of receiving a payment of either 5 dollars or a box containing four 
+Godiva chocolates ordinarily priced at 5 dollars: "As you know, your 
+compensation is five dollars for being in the study. You can choose 
+between getting five dollars in cash or a box of Godiva chocolates that is 
+worth five dollars. Which one would you like for participating in the 
+survey?" Boxes bearing the emblem of Godiva were visible to the partic- 
+ipants as they walked into the room. The number of participants who opted 
+for the box of chocolates constituted the final dependent measure. 
+One potential problem with these experimental procedures is that al- 
+though the first experimenters were unaware of the hypotheses underlying 
+the study, they were necessarily aware of the experimental manipulations. 
+As a result, one might reasonably wonder whether the experimenters might 
+vary their behavior across conditions. Therefore, all experimental sessions 
+were videotaped, and 40 sessions (10 from each choice condition and 20 
+from the no-choice condition) were randomly selected for coding by 
+external raters. Two raters unaware of the hypotheses and the experimental 
+manipulations rated the friendliness of the two experimenters across the 
+forty sessions on a 5-point Likert scale. There was considerable agreement 
+across the two raters (r = .69, p < .0001), and their responses were 
+therefore averaged. This average friendliness score (M = 2.86, SD = 0.78) 
+
+
+1002 IYENGAR AND LEPPER 
+did not vary by condition, F(2, 36) = .01, ns, and there were no interactions 
+between condition and experimenter, F(2, 36) = .22, ns. 
+Results 
+Preliminary Analyses 
+Our primary aim in Study 3 was to examine differences in 
+satisfaction, purchasing behavior, and related measures across 
+limited-choice, extensive-choice, and no-choice conditions. Before 
+turning to these central issues, however, we first examined the 
+effects of gender and ethnicity on these various measures. No 
+significant differences were observed on any of the dependent 
+variables as a function of these factors. Nor were there any sig- 
+nificant interactions between these two factors and experimental 
+conditions. Hence, the data were collapsed across these demo- 
+graphic variables. 3 
+Finally, preliminary analyses also provided an empirical exam- 
+ination of two key presumptions underlying our main analyses. As 
+should be expected, for those measures obtained before the intro- 
+duction of the choice manipulation, there were no significant 
+interactions between the size of the choice set and participants' 
+later receipt of their own selection or an arbitrary alternative. 
+Similarly, as predicted, there were no significant differences on 
+measures obtained after the choice manipulation between no- 
+choice participants previously exposed to a limited versus an 
+extensive set of available alternatives. Data for the relevant mea- 
+sures were therefore collapsed, as appropriate, across these factors. 
+Manipulation Checks 
+Choosing time. As one might assume, the amount of time 
+spent deciding which chocolate to sample varied significantly by 
+condition, F(1, 131) = 77.02, p < .0001. Contrary to some prior 
+findings (Hendrick et al., 1968; Kiesler, 1966), participants spent 
+significantly more time (in seconds) deciding which chocolate to 
+sample when there were 30 chocolates (M _ 24.36, SD = 12.99) 
+than they did when there were only six (M = 8.91, SD = 6.02). 
+However, it should be noted that, unlike this study, previous 
+studies only compared choosing times across much smaller choice 
+sets of two versus four alternatives. 
+Perception of choices. Similarly, we examined participants' 
+responses to the question concerning whether they felt the number 
+of choices available was too few, just right, or too many. Here 
+again, there was a significant effect for the number of options 
+presented, F(1, 132) = 43.68, p < .0001, Participants who en- 
+countered 30 chocolates reported feeling that they had been given 
+"too many" (M = 4.88, SD = 1.20), whereas participants who 
+encountered 6 chocolates reported feeling that the number of 
+alternatives was "about right" (M = 3.61, SD = 1.01). These data 
+provide direct evidence for our assumption that 30 chocolates 
+would seem an overly extensive choice set. 
+that they had chosen a satisfactory chocolate versus one of the very 
+best chocolates did not vary as a function of the number of 
+chocolates displayed. The results revealed no differences by con- 
+dition for questions regarding goals of either satisficing, F(1, 
+94) = 0.15, ns, or optimizing, F(1, 94) = 0.09, ns. Instead, a 
+within-subject analysis of variance (ANOVA) suggested that both 
+the limited- and extensive-choice participants were predictably 
+more confident that their chocolate selection would satisfy them 
+(M = 5.67, SD = 1.21) than that it would be among the best they 
+had ever had (M = 4.16, SD = 1.59), F(1, 190) = 54.75, p < 
+.0001. 
+Nor were there any differences in anticipated satisfaction. Re- 
+sults indicate that baseline predictions of likely satisfaction did not 
+vary by condition, F(1, 132) = 0.61, ns, suggesting that partici- 
+pants did not perceive the number of available alternatives to he an 
+important variable in their expected satisfaction with their choices. 
+In addition, we observed no differences by condition in partic- 
+ipants' reports of how informed they felt about their choices or in 
+their tendency to choose default options. Both extensive-choice 
+and limited-choice participants reported being moderately well 
+informed (M = 4.53, SD = 1.39), F(1, 132) = 0.14, ns. Likewise, 
+there were no differences in participants' responses to the question 
+of whether they chose a chocolate that they would normally pick, 
+F(1, 132) = 0.24, ns. 
+Desirability of choosing. Is it possible for people to experience 
+extensive choices as being both more enjoyable and more over- 
+whelming? Consistent with the findings of Study 1, participants 
+encountering the extensive options (M = 6.02, SD = 0.75) re- 
+ported enjoying the decision-making process significantly more 
+than participants who encountered limited options (M = 4.72, 
+SD = 1.36), F(1, 132) = 47.01, p < .0001. Yet, participants 
+offered extensive choices (M = 4.45, SD = 1.79) also reported 
+finding the decision-making process to be more difficult than did 
+participants offered more limited choices (M = 3.30, SD = 1.49), 
+F(1,132) = 16.38, p < .0001. Likewise, extensive-choice partic- 
+ipants (M = 3.10, SD = 1.77) also reported finding the decision- 
+making process to be more frustrating than did limited-choice 
+participants (M = 2.24, SD = 1.72), F(1,123) = 7.61, p < .007. 
+Interestingly, there was no significant correlation between the 
+extent to which participants reported enjoying decision-making 
+and the extent to which they found the decision process to be 
+difficult (r = .11, ns) or frustrating (r = .11, ns). How difficult 
+participants found the decision-making process, however, was 
+correlated with the extent to which they found the process to be 
+frustrating (r = .36, p < .0001). Thus, it appears that people can 
+indeed find choosing among too many alternatives to be both 
+enjoyable and overwhelming. 
+Subsequent Satisfaction 
+Five questions assessed participants' actual subsequent satisfac- 
+tion with the particular sample chocolate they were given to taste. 
+Decision-Making Measures 
+Satisficing versus optimizing. Were participants in the 
+extensive-choice condition more apt to satisfice, and were partic- 
+ipants in the limited-choice condition more apt to optimize? We 
+find no empirical evidence to support such a hypothesis. Contrary 
+to prior predictions (Mills et al., 1977), participants' confidence 
+3 Preliminary analyses also asked whether certain chocolates were more 
+preferred than the rest. While no chocolate was universally chosen, there 
+were four chocolates that were never selected. An examination of the 
+frequency distribution reveals that none of the thirty chocolates was se- 
+lected more than 12.7% of the time and that the specific choices did not 
+differ by condition. 
+
+
+WHEN CHOICE IS DEMOTIVATING 1003 
+Three of these items (i.e., tastiness, enjoyment, and satisfaction) 
+assessed subjective enjoyment directly. Because these questions 
+proved significantly correlated with one another (average r = .62, 
+p < .0001) and the pattern of results was similar across the three, 
+a composite enjoyment measure was derived by averaging across 
+these three items for each participant. Two other items assessed 
+participants' feelings of regret about the chocolate they had tasted. 
+These two items also proved significantly correlated (r = .41, p < 
+.0001) and were combined into a composite regret measure. Fi- 
+nally, because these two composite measures (i.e., "enjoyment" 
+and "regret") proved to be highly related (r = -.55, p < .0001), 
+a single overall sample-satisfaction score was created for each 
+participant by averaging these components (with regret scores, of 
+course, being coded negatively). It should be noted that the three 
+items that constitute the satisfaction measure were converted into 
+z scores before averaging, as were the two items constituting the 
+regret measure. 
+A one-way ANOVA on these overall satisfaction scores yielded 
+significant differences among conditions, as in the prior studies, 
+F(I, 122) = 28.02, p < .0001. Tukey comparisons further showed 
+that, in keeping with the results from Studies 1 and 2, participants 
+in the limited-choice condition were significantly more satisfied 
+(M = 6,28, SD = 0.54) with their sampled chocolates than were 
+participants in the extensive-choiee condition (M = 5.46, 
+SD = 0.82). Tukey comparisons further revealed that on this 
+measure, participants in both choice groups reported themselves to 
+be more satisfied with their chosen chocolates than did no-choice 
+participants (M = 4.92, SD = 0.98), who had been given samples 
+of chocolates they had not selected. 
+Purchasing Behavior 
+Finally, as in the previous studies, we also examined the effects 
+of limited versus extensive choices on participants' ultimate pur- 
+chasing behavior. Once again, the results demonstrated the signif- 
+icant advantages of a relatively small choice set, X2(2, N = 
+134) = 21.84, p < .0001. In particular, participants in the limited- 
+choice condition (48%) were significantly more likely to choose 
+chocolates as compensation, as compared with participants in both 
+the extensive-choice condition (12%), X2(1, N --- 67) = 10.78, p < 
+.001, and the no-choiee condition (10%), X2(1, N = 100) = 18.06, 
+p < .0001, which, on this behavioral measure, clearly did not 
+differ from one another. 
+General Discussion 
+In 1830, Alexis de Tocqueville commented that, "In America I 
+have seen the freest and best educated of men in circumstances the 
+happiest to be found in the world; yet it seemed to me that a cloud 
+habitually hung on their brow, and they seemed serious and almost 
+sad even in their pleasures" (p. 536). More than 100 years later, we 
+are confronted by an empirical instantiation of what some have 
+referred to as "the tyranny of choice" (Schwartz, 2000). 
+The three studies described in this report demonstrate for the 
+first time the possibility that, although having more choices might 
+appear desirable, it may sometimes have detrimental consequences 
+for human motivation. Studies 1, 2, and 3 provide compelling 
+empirical evidence that the provision of extensive choices, though 
+initially appealing to choice-makers, may nonetheless undermine 
+choosers' subsequent satisfaction and motivation. Study 1 showed 
+that although more consumers were attracted to a tasting booth 
+when the display included 24 flavors of jam rather than 6, con- 
+sumers were subsequently much more likely to purchase jam if 
+they had encountered the display of only 6 jams. Study 2 revealed 
+that students in an introductory college level course were more 
+likely to write an essay for extra credit when they were provided 
+a list of only 6, rather than 30, potential essay topics. Moreover, 
+even after having chosen to write an essay, students wrote higher 
+quality essays if their essay topic had been picked from a smaller 
+rather than a larger choice set. Finally, Study 3 demonstrated that 
+people reported enjoying the process of choosing a chocolate more 
+from a display of 30 than from a display of 6. However, despite 
+their greater initial enjoyment in the extensive-display condition, 
+participants proved more dissatisfied and regretful of the choices 
+they made and were subsequently considerably less likely to 
+choose chocolates rather than money as compensation for their 
+participation. 
+But, what are the mediating mechanisms underlying this phe- 
+nomenon of choice overload? Contrary to the predictions of our 
+first hypothesis, we found no empirical support in Study 3 for the 
+theory that choosers in extensive-choice contexts are more likely 
+to use a satisficing heuristic, whereas choosers in a limited-choice 
+context are more likely to use an optimizing heuristic. Instead, at 
+least in this study, choosers in both extensive-choice contexts and 
+limited-choice contexts tended to report using a satisficing heuris- 
+tic. Nor were there any differences in participants' reports of their 
+anticipated satisfaction with the selections they had made, their 
+feelings of having made an informed choice, or their tendency to 
+opt for a default choice. 
+Consistent with our second hypothesis, however, we did find 
+considerable empirical support for the theory that choosers in 
+extensive-choice contexts enjoy the choice-making process 
+more--presumably because of the opportunities it affords--but 
+also feel more responsible for the choices they make, resulting in 
+frustration with the choice-making process and dissatisfaction with 
+their choices. Indeed, participants in the extensive-choice condi- 
+tion reported experiencing the decision-making process as being 
+simultaneously more enjoyable, more difficult, and more frustrat- 
+ing. Later, after actually sampling their chocolates, extensive- 
+choice participants reported being more dissatisfied and having 
+more regret about the choices they had made than did limited- 
+choice participants. This greater dissatisfaction and regret exhib- 
+ited by extensive-choice participants may be the consequence of an 
+initial greater tendency to disengage from the choice-making pro- 
+cess, which later results in the choosers' inability to use the 
+psychological processes for the enhancement of the attractiveness 
+of their own choices (see Gilovich & Medvec, 1995). Even more 
+compelling, participants in the extensive-choice condition were 
+actually less likely to opt for chocolates rather than money as their 
+compensation than were their limited-choice counterparts, and 
+they did not differ in this respect from participants in the no-choice 
+control condition. 
+How can there be so much dissatisfaction in the face of so much 
+opportunity? More than providing a conclusive answer to this 
+question, the present findings raise a number of questions of both 
+theoretical and practical relevance that are worth considering in 
+future research. 
+
+
+1004 IYENGAR AND LEPPER 
+Perhaps it is not that people are made unhappy by the decisions 
+they make in the face of abundant options but that they are instead 
+unsure--that they are burdened by the responsibility of distin- 
+guishing good from bad decisions. Interviews with several hundred 
+U.S. citizens suggest that modern Americans are uneasy about 
+their current life decisions--that they do not seem to know 
+whether they are doing the right things with their lives, or even 
+what those "right things" are (BeUah, Madsen, Sullivan, Swindler 
+& Tipton, 1985). Our findings demonstrate that the offer of overly 
+extensive choices in relatively trivial choice-making contexts can 
+have significant demotivating effects, but perhaps the phenomenon 
+of choice overload may be further exacerbated in contexts (such as 
+decisions about major stock purchases or alternative medical treat- 
+ments) in which (a) the costs associated with making the "wrong" 
+choice, or even beliefs that there are truly "wrong" choices, are 
+much more prominent, and/or (b) substantial time and effort would 
+be required for choosers to make truly informed comparisons 
+among alternatives. In the present studies, care was taken to select 
+tasks for which "right" and "wrong" choices would be subjective 
+and for which the effort involved in making a choice would be 
+largely a function of personal preferences. If one were to compare 
+the present contexts to those in which the choosers perceived there 
+to be significantly "better" and "worse" choices, in domains of 
+personal significance, we might expect even more substantial 
+choice overload effects. 
+Indeed, whether choosers perceive their choice-making task to 
+be a search for the "objectively best" option, or a search for the one 
+option most reflective of their personal preferences, may funda- 
+mentally influence their very preference for choosing. Although 
+prior research has indicated that people will necessarily be intrin- 
+sically motivated to make their own choices, the more choosers 
+perceive their choice-making task to necessitate expert informa- 
+tion, the more they may be inclined not to choose, and further, they 
+may even surrender the choice to someone else--presumably more 
+expert (e.g., de Charms, 1968; Deci & Ryan, 1985; Langer & 
+Rodin, 1976; Lepper, 1983; Malone & Lepper, 1987; Schulz, 
+1976; Taylor, 1989; Zuckerman et al., 1978). In Schwartz's (1994) 
+terms, one important paradox confronting the modern world is that 
+as the freedom of individuals expands, so too does their depen- 
+dence on institutions and other people. 
+Similarly, if the identity of the choice recipient were varied, we 
+might observe variation in the experience of choice overload 
+among the choosers. Prior research has shown that, when con- 
+fronted by choices that are anticipated to result in regret, choosers 
+experience decision aversion more so when making choices for 
+others--even when the others exhibit no preferences--than when 
+making choices for themselves (Beattie, Baron, Hershey, & 
+Spranca, 1994). In the three present studies, we did not systemat- 
+ically vary the identity of the choice recipients. Consistent with the 
+results of Beattie and his colleagues, we might expect that if we 
+were to compare choosers making choices for themselves with 
+choosers making choices for others, the latter would show greater 
+choice overload effects in extensive-choice contexts. 
+Perhaps the experience of choice overload is accompanied by 
+the use of more decision rules, which are affective rather than 
+cognitive. Contrary to recent findings by Dhar and Nowlis (1999), 
+the results from our studies suggest that even when a choice- 
+making situation involves an approach-approach conflict, the pro- 
+vision of choices with uniquely good features does not appear to 
+minimize decision aversion. Being confronted by a plethora of 
+options, each possessing unique attributes, may instead simulta- 
+neously attract and repel choice-makers. One wonders then: Do 
+people use affective experiences aroused by choosing as a heuristic 
+for deciding how they ultimately feel about the product? If not 
+such an affective "bleedover," then what else might be accounting 
+for these effects? 
+Moreover, even when choices are self-generated, it is possible 
+that overly extensive choices may have demotivating conse- 
+quences. Because people seem to enjoy extensive-choice contexts 
+more than limited-choice contexts, they may sometimes prefer to 
+make available to themselves many more choices than they can 
+possibly handle. Hence, it would be of considerable theoretical 
+interest to examine the effects of extensive-choice contexts that are 
+self-generated, rather than externally generated as in the present 
+studies. 
+Finally, it is worth considering attributes of contexts in which 
+the provision of extensive choices does not lead to choice over- 
+load. To minimize the likelihood of simple preference-matching in 
+the present studies, we selected specific choice-making tasks and 
+prescreened our participant population to ensure that they would 
+not already have strong specific preferences. We all know people 
+who, when confronted by an extraordinary variety of options, 
+know exactly what they want. Is this certainty in preference the 
+result of arduously developed and maintained expertise? The ulti- 
+mate paradox might be that the only circumstance in which choos- 
+ers are truly comfortable with extensive choices is when, because 
+of the chooser's previous experience, these choices are perceived 
+as limited in number. Therefore, the precise number of options that 
+would be considered reasonable, as opposed to excessive, may 
+vary as a function of both the chooser's perception of their choice- 
+making goals and their prior expertise with the subject of choice. 
+Having unlimited options, then, can lead people to be more 
+dissatisfied with the choices they make. Although such a finding 
+may seem counterintuitive to social psychologists long schooled in 
+research on the benefits of choice, the commercial world seems 
+already to know what experimental psychologists are just now 
+discovering. Several major manufacturers of a variety of consumer 
+products have been streamlining the number of options they pro- 
+vide customers. Proctor & Gamble, for example, reduced the 
+number of versions of its popular Head and Shoulders shampoo 
+from 26 to 15, and they, in turn, experienced a 10% increase in 
+sales (Osnos, 1997). Indeed, even to many of today's humorists, 
+this phenomenon seems already well known. Consider Bill Watter- 
+son's (1996) portrayal of one particularly exasperated grocery 
+shopper: 
+Look at this peanut butter! There must be three sizes of five brands of 
+four consistencies! Who demands this much choice? I know! I'll quit 
+my job and devote my life to choosing peanut butter! Is "chunky" 
+chunky enough or do ! need EXTRA chunky? I'll compare ingredi- 
+ents! I'll compare brands! I'I1 compare sizes and prices! Maybe I'll 
+drive around and see what other stores have! So much selection, and 
+so little time! (p. 107) 
+
+
+WHEN CHOICE IS DEMOTIVATING 1005 
+References 
+Beattie, J., Baron, J., Hershey, J. C., & Spranca, M. D. (1994). Psycho- 
+logical determinants of decision attitude. Journal of Behavioral Decision 
+Making, 7, 129-144. 
+Bellah, R., Madsen, R., Sullivan, W., Swindler, A., & Tipton, S. (1985). 
+Habits of the heart. Los Angeles: University of California Press. 
+Bovie, P. (Ed.) (1992). Terence: The comedies. Baltimore and London: 
+Johns Hopkins University Press. 
+Brehm, J. W. (1966). A theory of psychological reactance. New York: 
+Academic Press. 
+Christeusen-Szalanski, J. J. J. (1978). Problem solving strategies: A selec- 
+tion mechanism, some implications, and some data. Organizational 
+Behavior and Human Performance, 22, 307-323. 
+Christensen-Szalanski, J. J. J. (1980). A further examination of the selec- 
+tion of problem-solving strategies: The effects of deadlines and analytic 
+aptitudes. Organizational Behavior and Human Performance, 25, 107- 
+122. 
+Collins, B. E., & Hoyt, M. G. (1972). Personal responsibility for conse- 
+quences: An integration and extension of the "forced compliance" lit- 
+erature. Journal of Experimental Social Psychology, 8, 558-593. 
+Cooper, J., & Fazio, R. H. (1984). A new look at dissonance theory. In L. 
+Berkowitz (Ed.), Advances in experimental social psychology (Vol. 17, 
+pp. 229-266). Orlando, FL: Academic Press. 
+Cordova, D. I., & Lepper, M. R. (1996). Intrinsic motivation and the 
+process of learning: Beneficial effects of contextualization, personaliza- 
+tion, and choice. Journal of Educational Psychology, 88, 715-730. 
+de Charms, R. (1968). Personal causation. New York: Academic Press. 
+Deci, E. L. (1975). Intrinsic motivation. New York: Plenum Press. 
+Deci, E. L. (1981). The psychology of self-determination. Lexington, MA: 
+Heath. 
+Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self- 
+determination in human behavior. New York: Plenum Press. 
+Delucchi, K. L. 0983). The use and misuse of chi-square: Lewis and Burke 
+revisited. Psychological Bulletin, 94, 166-176. 
+Dember, W. N., Galinsky, T. L., & Warm, J. S. (1992). The role of choice 
+in vigilance performance. Bulletin of the Psychonomic Society, 30, 
+201-204. 
+de Tocqueville, A. (1969). Democracy in America. New York: Harper & 
+Row. (Original work published in 1830) 
+Dhar, R. (1997). Consumer preference for a no-choice option. Journal of 
+Consumer Research, 24, 215-231. 
+Dhar, R., & Nowlis, S. (1999). The effect of time pressure on consumer 
+choice deferral. Journal of Consumer Research, 25, 369-384. 
+Gilovich, T., & Medvec, V. H. (1995). The experience of regret: What, 
+when, and why. Psychological Review, 102, 379-395. 
+Glass, D. C., & Singer, J. E. (1972a). Stress and adaptation: Experimental 
+studies of behavioral effects of exposure to aversive events. New York: 
+Academic Press. 
+Glass, D. C., & Singer, J. E. (1972b). Urban stress. New York: Academic 
+Press. 
+Hauser, J. R., & Wernerfelt, B. (1990). An evaluation cost model of 
+consideration sets. Journal of Consumer Research, 16, 393-408. 
+Hendrick, C., Mills, M., & Kiesler, C. A. (1968). Decision time as a 
+function of the number and complexity of equally attractive alternatives. 
+Journal of Personality and Social Psychology, 8, 313-318. 
+Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine 
+(Ed.), Nebraska Symposium on Motivation (Vol. 15, pp. 192-240). 
+Lincoln, NE: University of Nebraska Press. 
+Kelley, H. H. (1973). The process of causal attribution. American Psychol- 
+ogist, 28, 107-128. 
+Kiesler, C. A. (1966). Conflict and number of choice alternatives. Psycho- 
+logical Reports, 18, 603-610. 
+Langer, E. J. (1975). The illusion of control. Journal of Personality and 
+Social Psychology, 32, 311-328. 
+Langer, E. J., & Rodin, J. (1976). The effects of choice and enhanced 
+personal responsibility for the aged: A field experiment in an institu- 
+tional setting. Journal of Personality and Social Psychology, 34, 191- 
+198. 
+Lefcourt, H. M. (1973). The function of the illusions of control and 
+freedom. American Psychologist, 28, 417-425. 
+Lepper, M. R. (1983). Social control processes and the internalization of 
+social values: An attributional perspective. In E. T. Higgins, D. N. 
+Ruble, & W. W. Hartup (Eds.), Social cognition and social development 
+(pp. 294-330). New York: Cambridge University Press. 
+Lewin, K. (1952). Group decision and social change. In G. E. Swanson, 
+T. M. Newcomb, & E. L. Hartley (Eds.), Readings in social psychology 
+(pp. 459-473). New York: Henry Holt. 
+Linder, D. E., Cooper, J., & Jones, E. E. (1967). Decision freedom as a 
+determinant of the role of incentive magnitude in attitude change. 
+Journal of Personality and Social Psychology, 6, 245-254. 
+Malone, T. W., & Lepper, M. R. (1987). Making learning fun: A taxonomy 
+of intrinsic motivations for learning. In R. E. Snow & M. J. Farr (Eds.), 
+Aptitude, learning and instruction: Vol. 3. Cognitive and affective pro- 
+cess analysis (pp. 223-253). Hillsdale, NJ: Erlbaum. 
+Mills, J., Meltzer, R., & Clark, M. (1977). Effect of number of options on 
+recall of information supporting different decision strategies. Personal- 
+ity and Social Psychology Bulletin, 3, 213-218. 
+Osnos, E. (1997, September 27). Too many choices? Firms cut back on 
+new products. Philadelphia Inquirer, D1, D7. 
+Payne, J. (1982). Contingent decision behavior. Psychological Bulletin, 92, 
+382-402. 
+Payne, J. W., Bettman, J. R., & Johnson, E. J. (1988). Adaptive strategy 
+selection in decision making. Journal of Experimental Psychology: 
+Learning, Memory, and Cognition, 14, 534-552. 
+Payne, J. W., Bettman, J. R., & Johnson, E. J. (1993). The adaptive 
+decision maker. Cambridge, MA: Cambridge University Press. 
+Rotter, J. B. (1966). Generalized expectancies for internal versus external 
+locus of control of reinforcement. Psychological Monographs, 80, 1-28. 
+Schulz, R. (1976). Effects of control and predictability on the physical and 
+psychological well-being of the institutionalized aged. Journal of Per- 
+sonality and Social Psychology, 33, 563-573. 
+Schulz, R., & Hanusa, B. H. (1978). Long-term effects of control and 
+predictability-enhancing interventions: Findings and ethical issues. 
+Journal of Personality and Social Psychology, 36, 1194-1201. 
+Schwartz, B. (1994). The costs of living: How market freedom erodes the 
+best things in life. New York: W. W. Norton & Company. 
+Schwartz, B. (2000). Self-determination: The tyranny of freedom. Ameri- 
+can Psychologist, 55, 79-88. 
+Shafir, E., Simonson, I., & Tversky, A. (1993). Reason-based choice. 
+Cognition, 49, 11-36. 
+Shafir, E., & Tversky, A. (1992). Thinking through uncertainty: Non- 
+consequential reasoning and choice. Cognitive Psychology, 24, 449- 
+474. 
+Siegel, S. (1956). Nonparametric statistics for the behavioral sciences. 
+New York: McGraw-Hill. 
+Simon, H. A. (1955). A behavioral model of rational choice. Quarterly 
+Journal of Economics, 59, 99-118. 
+Simon, H. A. 0956). Rational choice and the structure of the environment. 
+Psychological Review, 63, 129-138. 
+Swarm, W. B., & Pittman, T. S. (1977). Initiating play activity of children: 
+The moderating influence of verbal cues on intrinsic motivation. Child 
+Development, 48, 1128-1132. 
+Taylor, S. E. (1989). Positive illusions: Creative self-deception and the 
+healthy mind. New York: Basic Books. 
+Taylor, S. E., & Brown, J. D. (1988). Illusion and well-being: A social- 
+
+

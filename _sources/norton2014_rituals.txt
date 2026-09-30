@@ -1,0 +1,755 @@
+Rituals Alleviate Grieving for Loved Ones, Lovers, and Lotteries
+Michael I. Norton and Francesca Gino
+Harvard Business School
+Three experiments explored the impact of mourning rituals—after losses of loved ones, lovers, and
+lotteries— on mitigating grief. Participants who were directed to reflect on past rituals or who were
+assigned to complete novel rituals after experiencing losses reported lower levels of grief. Increased
+feelings of control after rituals mediated the link between use of rituals and reduced grief after losses, and
+the benefits of rituals accrued not only to individuals who professed a belief in rituals’ effectiveness but
+also to those who did not. Although the specific rituals in which people engage after losses vary widely
+by culture and religion—and among our participants— our results suggest a common psychological
+mechanism underlying their effectiveness: regained feelings of control.
+Keywords: rituals, control, grief, loss
+Rituals of mourning in the face of loss—from the death of loved
+ones to the end of meaningful relationships to losses in wars and
+competitions—are ubiquitous across time and cultures ( Ashen-
+burg, 2004 ; Durkheim, 1912/2001 ; Stroebe, Hansson, Stroebe, &
+Schut, 2001 ). The most frequently studied rituals are those sur-
+rounding religion: People turn to prayer after negative life events
+such as September 11th, for example, and prayer has been asso-
+ciated with improved coping ( Ai, Tice, Peterson, & Huang, 2005 ;
+Pargament, 1997 ; Sherkat & Reed, 1992 ). So common is this
+instinct to devise rituals in the face of negative events that the wide
+variety of known mourning rituals can even be contradictory:
+Crying near the dying is viewed as disruptive by Tibetan Buddhists
+but as a sign of respect by Catholic Latinos; Hindu rituals stress the
+removal of hair when mourning, while growing hair (a beard) is
+the preferred ritual for Jewish males ( Clements et al., 2003 ; Kemp
+& Bhungalia, 2002 ). Ritualistic behavior manifests not just in
+religious practice, however, but is present across domains of
+human life, providing order and stability while marking change—
+especially in times of chaos and disorder ( Romanoff, 1998; Turner,
+1969). Integrating prior conceptualizations ( Cohn, 1990 ; Crew &
+Boutcher, 1986 ; Rook, 1985 ), we define ritual as a symbolic
+activity that is performed before, during, or after a meaningful
+event in order to achieve some desired outcome—from alleviating
+grief to winning a competition to making it rain. Often, rituals
+occur in fixed, repeated sequences and in communal or religious
+settings; as our data below demonstrate, however, people often
+create everyday rituals that are performed in the absence of such
+factors but which still meet the definition of a symbolic behavior
+performed to induce some desired effect.
+Why are rituals so ubiquitous, and, given that they are unlikely
+to be effective in producing some desired outcomes (such as
+actually influencing the production of rain), why might they im-
+prove coping after loss? Despite the variance in the form that
+rituals take, we propose that a common psychological mechanism
+underlies their effectiveness: a restoration of feelings of control
+that losses impair. Indeed, people who suffer losses often report
+feeling out of control ( Low, 1994 ) and actively try to regain
+control when they feel it slipping away ( Brehm, 1966 ); feeling in
+control, in turn, is associated with increased well-being, physical
+health, and coping ability ( Glass & Singer, 1972 ; Klein, Fencil-
+Morse, & Seligman, 1976 ; Rodin & Langer, 1977 ). Some quali-
+tative data offer initial evidence for the link between rituals and
+control; for example, the extent to which athletes and fisherman
+engage in rituals is related to the unpredictability of their jobs
+(Gmelch, 1971 ; Malinowski & Redfield, 1948 ; see Whitson &
+Galinsky, 2008 ). We suggest that the use of rituals serves as a
+compensatory mechanism designed to restore feelings of control
+after losses and that this increased feeling of control contributes to
+reduced grief.
+We propose that people turn to rituals after diverse kinds of
+losses—in the experiments below, of loved ones, lovers, and
+lotteries—in order to reestablish their feelings of control and
+mitigate their general negative feelings, such that the feelings of
+control brought about by rituals mediate the relationship between
+ritual use and reduced grief. Despite the many differences in the
+specific rituals that people perform after experiencing losses, and
+the diversity of emotions that accompany different types of losses,
+we propose that a common psychological mechanism—perceived
+control— underlies the effectiveness of rituals in alleviating grief.
+Pilot Study
+To gain a better understanding of the type and variety of rituals
+people use to cope with their losses, we conducted a pilot study in
+which participants provided descriptions of rituals in which they
+engaged after experiencing a loss. Individuals ( N /H1100576; M
+age /H11005
+37.92 years, SD /H1100510.79; 43% male) from a pool of subjects
+managed by a public university in the southern United States were
+This article was published Online First February 11, 2013.
+We thank Max Bazerman, Eugene Caruso, Zoe Chance, David DeSteno,
+Jane Risen, Maurice Schweitzer, Chen-Bo Zhong, and members of the
+GiNorton lab group for their comments and Austin Crumpton, Jennifer
+Fink, Mindi Rock, Leslie Talbott, and Ruth Winecoff for their assistance.
+Correspondence concerning this article should be addressed to either
+Michael I. Norton or Francesca Gino, Harvard Business School, Soldiers
+Field Road, Boston, MA 02163. E-mail: mnorton@hbs.edu or fgino@
+hbs.edu
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Journal of Experimental Psychology: General © 2013 American Psychological Association
+2014, Vol. 143, No. 1, 266 –272 0096-3445/14/$12.00 DOI: 10.1037/a0031772
+266
+asked to recall a significant loss— either the death of a loved one
+or the end of a close relationship—and to write in detail about how
+they coped with that loss, including any ritual in which they
+engaged to cope with that loss.
+Participants’ descriptions of their rituals revealed wide variety,
+encompassing changes in habits, attitudes, behaviors, and prefer-
+ences (see Table 1 for examples). For instance, some participants
+reported engaging in the person’s favorite activities, while others
+reported avoiding those activities. Two coders read the descrip-
+tions and noted whether the ritual (1) was communal or carried out
+individually, (2) involved public or private actions, and (3) was
+religious or not. The two coders agreed 93% of the time; disagree-
+ments were resolved by a third coder. Few rituals (5%) were
+specifically religious in nature, while just 10% were performed in
+public and just 5% performed communally. Thus, most of the
+rituals recalled were private, everyday rituals that were unique to
+the individual rather than publicly performed, commonly utilized
+rituals.
+Experiment 1: Control as Psychological Mechanism
+In Experiment 1, we examined the influence of such everyday
+rituals on perceived control and grief. We asked all participants to
+write in detail about one of two significant losses: the death of a
+loved one or the end of a close relationship. Some participants
+were further assigned to include a description of a ritual in which
+they engaged after experiencing that loss. We used a recall task
+due to the obvious impossibility of producing these kinds of losses
+in a laboratory setting; this reminiscence-based methodology has
+been used successfully in previous research to study the emotional
+consequences of real-world experiences ( Strack, Schwarz, &
+Gschneidinger, 1985 ; Van Boven & Gilovich, 2003 ). Upon fin-
+ishing the writing task, participants completed a survey that in-
+cluded questions about their feelings of grief about the person they
+lost (our primary dependent measure). While previous research has
+documented a positive impact of writing about traumatic events
+(Nolen-Hoeksema & Larson, 1999 ; Pennebaker & Chung, 2007 ),
+we predicted a benefit of writing about rituals over and above
+simply writing about loss.
+We also assessed our proposed mechanism underlying the im-
+pact of rituals: the ability of rituals to restore feelings of control
+that are undermined by losses. We predicted that individuals who
+reflected on the rituals they performed to cope with their losses
+would be more likely to report feeling in control at the time they
+performed those rituals and that these heightened feelings of
+control would be related to reduced grief about the loss.
+Method
+Participants. Two hundred forty-seven individuals ( Mage /H11005
+32.60 years, SD /H110058.88; 42% male; 18% students) recruited from
+Amazon’s Mechanical Turk participated in this study in exchange
+for $2.
+Procedure. Experiment 1 employed two between-subjects
+manipulations: type of loss (relationship ending vs. death) and
+presence of rituals (ritual vs. no ritual). Participants were randomly
+assigned to one of these four conditions. Across conditions, they
+were asked to recall a loss and write about it for 5–10 min.
+Participants in the relationship-ending conditions received the
+following instructions:
+(Both ritual and no-ritual conditions) Please think back to a relation-
+ship you truly cared about that ended in the past. Think of the time you
+spent with the person before the relationship ended and of how you
+felt when the relationship ended. Please describe this event in detail.
+What was it like to be in this situation? What thoughts and feelings did
+you experience?
+Participants in the death conditions read:
+(Both ritual and no-ritual conditions) Please think back to a person
+you truly cared about who you lost in the past. Think of the time you
+spent with the person before the person passed away and of how you
+felt when the death occurred. Please describe this event in detail.
+What was it like to be in this situation? What thoughts and feelings did
+you experience?
+Participants assigned to the ritual conditions also read the fol-
+lowing instruction, which appeared as part of the instructions
+described above:
+(Both relationship-ending and death conditions) As part of your de-
+scription, please describe a RITUAL you engaged in after you expe-
+rienced the loss (e.g., you stopped going to a place that was mean-
+ingful for your relationship with this person for a while, you stopped
+Table 1
+Examples of Rituals (Pilot Study)
+Failed relationship Death of a loved one
+1. I returned alone to the location of the breakup each month on the
+anniversary of the breakup to help cope with my loss and think
+things over.
+1. I used to play the song by Natalie Cole “I miss you like crazy” and cry every
+time I heard it and thought of my mom.
+2. I washed his car every week as he used to do.
+2. I wrote a letter expressing my feelings and I never mailed it. I
+destroyed the letter and let my painful feelings go.
+3. When we were together, I had had special playlists of happy,
+romantic music that I/we would listen to over and over again.
+After the breakup, I avoided all places that reminded me of him
+and stopped listening to any songs I had associated with him or a
+particular memory of something we had done.
+4. I looked for all the pictures we took together during the time we
+3. The ritual involved sitting shiva for a week, being in what I term “major
+sloshim” for thirty days, and being in mourning for a year. On the
+anniversary of her death (7 Adar-Hebrew calendar), I say Mourners Kaddish
+and El Malei Rachamim (Memorial Prayer) and light a yarzheit candle. That
+date was a week ago. She died 21 years ago. I will do this until I die.
+4. I hadn’t gone back to her house in fifteen years. And in these fifteen years, I
+have been going to hairdressers to cut my hair every first Saturday of the
+month as we used to do together.
+dated. I then destroyed them into small pieces (even the ones I
+really liked!), and then burnt them in the park where we first
+kissed.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+267RITUALS AND GRIEF
+wearing clothes he/she liked for a while). Please provide a detailed
+description.
+Participants then completed our measure of perceived control.
+The instructions read:
+Now please answer the following questions about the event you wrote
+about, and the activities you may have engaged in after it. We realize
+it may be difficult for you to remember exactly how you felt, but please
+answer the questions as best as you can.
+We used four items to assess participants’ retrospective feelings of
+lack of control, on a 7-point scale ranging from 1 ( not at all )t o7
+(very much): (1) “To what extent did you feel out of control?” (2)
+“To what extent did you feel a sense of helplessness?” (3) “To
+what extent did you feel things were in check?” (reverse-coded),
+and (4) “To what extent did you feel powerless?” We averaged
+these items to create a composite measure of perceived lack of
+control ( /H9251/H11005.83).
+Finally, participants answered questions about their feelings
+toward the person they lost. We adapted Prigerson et al.’s (1995)
+grief scale. Participants answered 16 questions (e.g., “I feel that
+life is empty without this person”) on a 5-point scale ranging from
+1( never)t o5( always). We averaged these items to create a
+composite measure of grief ( /H9251/H11005.92).
+Results and Discussion
+Perceived lack of control. As predicted, participants reported
+lower retrospective feelings of lack of control in the ritual condi-
+tion ( M /H110055.04, SD /H110051.48) than in the no-ritual condition ( M /H11005
+5.40, SD /H110051.22), F(1, 243) /H110054.43, p /H11005.036, /H9257
+p2 /H11005.018. There
+was no significant effect of type of loss ( p /H11005.95) and no interac-
+tion between use of rituals and type of loss ( p /H11005.72).
+Grief. Participants also reported reduced grief in the ritual
+condition ( M /H110052.12, SD /H110050.73) compared to the no-ritual
+condition ( M /H110052.37, SD /H110050.83), F(1, 243) /H110056.39, p /H11005.012,
+/H9257p2 /H11005.026; the main effect of type of loss was not significant ( p /H11005
+.74), nor was the interaction ( p /H11005.25).
+Mediation analysis. We expected reduced retrospective feel-
+ings of lack of control to mediate the impact of rituals on grief. The
+effect of rituals on grief was significantly reduced (from /H9252/H11005–.16,
+p /H11005.014, to /H9252/H11005–.12, p /H11005.054) when participants’ retrospective
+feelings of lack of control were included in the equation, and these
+feelings significantly predicted grief ( /H9252/H11005.29, p /H11021.001), control-
+ling for type of loss.
+1 The 95% bias-corrected confidence intervals
+for the size of the indirect effect excluded zero (– 0.14, – 0.01),
+suggesting a significant indirect effect ( MacKinnon, Fairchild, &
+Fritz, 2007 ). These results indicate that, as predicted, perceived
+control mediated the effect of recalling rituals on grief.
+Word count. Given the benefits of writing about traumatic
+events ( Nolen-Hoeksema & Larson, 1999 ; Pennebaker & Chung,
+2007), we wanted to demonstrate that writing about rituals pro-
+duced benefits over and above the effect of simply writing about
+losses. We first examined whether participants wrote more in the
+ritual conditions than in the no-ritual conditions . A 2 (type of
+loss) /H110032 (presence of rituals) between-subjects analysis of vari-
+ance (ANOVA) revealed no main effect for type of loss, F(1, 243)
+/H110211, p /H11005.33, /H9257
+p2 /H11005.004, or interaction, F(1, 243) /H110211, p /H11005.54,
+/H9257p2 /H11005.002; there was a marginally significant effect for presence of
+rituals (Mritual /H11005151.74 words vs. Mno ritual /H11005132.32 words), F(1,
+243) /H110052.69, p /H11005.10, /H9257p2 /H11005.011. Given this trend, we conducted
+two 2 /H110032 ANOVAs with grief and retrospective feelings of lack
+of control as the dependent measures while controlling for number
+of words. Importantly, our results were similar; as before, the only
+significant effect related to our ritual manipulation: for grief, F(1,
+242) /H110056.24, p /H11005.013, /H9257
+p2 /H11005.025; for lack of control, F(1, 242) /H11005
+4.20, p /H11005.042, /H9257p2 /H11005.017. In both analyses, number of words was
+not a significant covariate, F(1, 242) /H110211, p /H11005.92, /H9257p2 /H11005.000, and,
+F(1, 242) /H110211, p /H11005.70, /H9257p2 /H11005.001, respectively. Together, these
+results suggest that rituals produce benefits beyond those gener-
+ated by writing alone.
+Experiment 2: Losses in the Laboratory
+Experiment 2 had four primary goals. First, Experiment 1 sug-
+gests that a wide variety of everyday rituals that people devise and
+perform after losses are effective in assuaging grief; as a strong test
+of the impact of rituals on grief, Experiment 2 examines whether
+even novel rituals assigned by an experimenter can decrease grief.
+Second, while Experiment 1 demonstrated that reflecting on past
+rituals can alleviate mourning, Experiment 2 is a behavioral study
+in which participants engaged or did not engage in a ritual imme-
+diately after experiencing a third kind of loss: losing a lottery.
+Third, Experiment 2 explores whether the benefits of rituals
+emerge not only for people who believe in rituals and tend to
+engage in them but also for those who do not have such beliefs and
+do not commonly use rituals. Finally, one possible reason for
+people reporting reduced grief after being asked about rituals is
+experimenter demand: “If they are asking me how I feel after
+rituals, perhaps they are implying that I should feel better.” As a
+result, we assessed perceptions of demand to show that rituals have
+benefits independent of experimenter demand.
+Method
+Participants. One hundred nine individuals ( Mage /H1100521.47
+years, SD /H110052.64; 48% male) from a pool of subjects managed by
+a private university in the northeastern United States participated
+in the study for pay. Participants received a $15 show-up fee and
+had the opportunity to earn an additional $200.
+Design and procedure. Experiment 2 employed one
+between-subjects manipulation—no ritual versus ritual—and in-
+cluded both an online portion and a laboratory portion. After
+signing up for the study, participants were asked to complete an
+online survey at least 3 days prior to the laboratory portion of the
+study. The survey included demographic questions (i.e., age, gen-
+der, and ethnicity), some filler questions (e.g., “Which character-
+istic most fits you?” athletic, intelligent, social, hard-working),
+and measures assessing both the frequency with which respondents
+used rituals and their belief in their effectiveness.
+Two questions assessed participants’ frequency of engaging in
+rituals, on 5-point scales ranging from 1 ( not at all )t o5( very
+frequently): (1) “How often do you engage in rituals before per-
+forming an important activity (e.g., an exam or a competition)?”
+and (2) “How often do you engage in rituals after a meaningful
+1 We control for type of loss in all mediational analyses.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+268 NORTON AND GINO
+event (e.g., a death of a loved one)?” We averaged these items to
+form a composite measure of use of rituals ( /H9251/H11005.65). To assess
+beliefs about rituals’ effectiveness, participants indicated the ex-
+tent to which they believed that “performing rituals influences the
+way people feel (e.g., more calm, less sad, etc.)” on a 7-point scale
+ranging from 1 ( not at all )t o7( to a great extent ).
+The subsequent laboratory sessions had between 9 and 15 par-
+ticipants per session. At the beginning of each session, the exper-
+imenter informed participants that one participant in the room
+would be randomly chosen as a lottery winner and that this
+participant would receive $200 and be allowed to leave the session
+early. In order to make the loss personally relevant, participants
+were asked to write a short essay about why they cared about
+winning the $200 and how they would spend it. The experimenter
+then randomly chose one participant and gave him/her $200 in
+cash; this participant was dismissed from the experiment. The
+remaining participants were sent into individual cubicles and ran-
+domly assigned to one of the two experimental conditions. Partic-
+ipants assigned to the ritual condition read:
+Your next task is to engage in a ritual. Previous research has found
+that people often engage in rituals after a loss. Please engage in each
+of the following steps involved in the ritual. The experimenter will let
+you know when time is up.
+Step 1. Please draw how you currently feel on the piece of paper on
+your desk for two minutes; Step 2. Please sprinkle a pinch of salt on
+the paper with your drawing; Step 3. Please tear up the piece of
+paper; Step 4. Now please count up to ten in your head five times; Step
+5. You have now completed this task.
+Participants assigned to the no-ritual condition engaged in a
+filler task for the same amount of time. Specifically, they were told
+to draw how they currently felt on a piece of paper for a few
+minutes.
+Participants then completed a five-item measure of perceived
+control (e.g., “To what extent are you able to have some control
+over what happens in the world?”) on a 7-point scale ranging from
+1( very little control )t o7( a great deal of control ; from Fast,
+Gruenfeld, Sivanathan, & Galinsky, 2009 ; /H9251/H11005.80). Next, partic-
+ipants indicated their agreement with three items assessing their
+grief (e.g., “I can’t help feeling angry and upset about the fact that
+I did not win the $200”) on a 7-point scale ranging from 1
+(strongly disagree )t o7( strongly agree ; /H9251/H11005.87).
+Finally, participants answered a question that assessed potential
+demand effects, by rating the extent to which they thought the
+experimenter wanted them to feel better about the loss they had
+experienced in the random draw, on a 7-point scale ranging from
+1( not at all )t o7( to a large extent ).
+Results and Discussion
+Perceived control. As predicted, feelings of control varied by
+condition, t(98) /H110053.23, p /H11005.002. Participants reported higher
+feelings of control in the ritual condition ( M /H110053.35, SD /H110051.07)
+than in the no-ritual condition ( M /H110052.67, SD /H110051.03).
+Grief. In addition, participants reported lower levels of grief
+about losing the lottery in the ritual condition ( M /H110052.95, SD /H11005
+1.36) than in the no-ritual condition ( M /H110054.07, SD /H110051.78),
+t(98) /H11005–3.51, p /H11005.001.
+Mediation. Providing further support for the mechanism re-
+ported in Experiment 1, participants’ feelings of perceived control
+mediated the effects of rituals on reduced grief: The effect of
+rituals was significantly reduced (from /H9252/H11005–.33, p /H11005.001, to /H9252/H11005
+–.26, p /H11005.01) when perceived control was included in the equa-
+tion, and perceived control significantly predicted grief ( /H9252/H11005–.25,
+p /H11005.013). A bootstrap analysis showed that the 95% bias-
+corrected confidence intervals for the size of the indirect effect
+excluded zero (– 0.57, – 0.07), suggesting a significant indirect
+effect ( MacKinnon et al., 2007 ).
+Beliefs in rituals. We next tested whether these benefits of
+rituals would accrue only to individuals who had reported using
+and believing in rituals, or whether the effects of rituals would
+emerge regardless of these factors. We conducted separate regres-
+sion analyses with our manipulation (ritual vs. no ritual), the two
+measures of participants’ usage of and belief in rituals, and the
+interaction between our manipulation and each measure. For grief,
+we observed no effect of frequency or belief ( /H9252s /H11005–.08 and .11,
+ps /H11005.55 and .46, respectively), nor was there a significant inter-
+action of frequency or belief with presence of rituals ( /H9252s /H11005.24 and
+/H11002.27, ps /H11005.40 and .48, respectively). For control, there was an
+overall effect of frequency ( /H9252/H11005.30, p /H11005.03)—such that regard-
+less of their condition, participants who engaged in rituals more
+frequently felt more in control—and no effect of belief ( /H9252/H11005.13,
+p /H11005.41). Most importantly for our account, there were again no
+interactions of frequency or belief with presence of rituals ( /H9252s /H11005
+–.27 and –.29, ps /H11005.34 and .45, respectively). This lack of
+moderation for frequency and belief across both grief and control
+suggests that rituals do not require belief in order to yield benefits.
+Demand effects. Participants’ belief that the experimenter
+wanted them to feel better about their loss was not affected by our
+manipulation ( M
+ritual /H110053.52, SD /H110051.61, vs. Mno ritual /H110053.26,
+SD /H110051.66), t(98) /H110211, p /H11005.43. In addition, we conducted two
+analyses of covariance (ANCOVAs) with grief and perceived
+control as the dependent measures while controlling for the de-
+mand effect item. These analyses revealed that our ritual manip-
+ulation remained significant: for grief, F(1, 97) /H1100512.22, p /H11005.001,
+/H9257
+p2 /H11005.112; for perceived control, F(1, 97) /H1100510.25, p /H11005.002, /H9257p2 /H11005
+.096. In both analyses, perceived demand effects was not a signif-
+icant covariate, F(1, 97) /H110211, p /H11005.86, /H9257
+p2 /H11005.000, and, F(1, 97) /H11021
+1, p /H11005.99, /H9257p2 /H11005.001, respectively.
+Experiment 3: The Power of Performing Rituals
+Using different types of losses and rituals, our first two exper-
+iments provide consistent evidence that rituals performed after
+experiencing a loss increase perceived control and mitigate grief.
+Experiment 3 explores whether actually performing the actions
+underlying ritualistic behavior is necessary for the benefits of
+rituals on perceived control and grief to emerge. We tested this
+hypothesis in two ways. First, some participants who had just
+experienced a loss were informed that people often engage in
+rituals after a loss, but the participants did not perform the ritual.
+This condition tests whether simple awareness that people com-
+monly use rituals after losses—without actually going through the
+motions of the ritual— has beneficial effects. Second, we added
+conditions in which participants were told that people often sit in
+silence after a loss (and again let some participants perform this
+activity while others were only informed but did not actually sit in
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+269RITUALS AND GRIEF
+silence); this condition tests whether performing any activity said
+to have benefits reduces grief, or whether information plus com-
+pleting an actual ritual is necessary, as our account suggests.
+Method
+Participants. One hundred seventy-two individuals ( Mage /H11005
+21.44 years, SD /H110052.75; 47% male) from a pool of subjects
+managed by a private university in the northeastern United States
+participated in the study for pay. As in Experiment 2, participants
+received a $15 show-up fee and had the opportunity to earn an
+additional $200.
+Design and procedure. Experiment 3 employed the same
+general procedures and measures as in Experiment 2, with a few
+key differences. First, there was no pre-session online survey.
+Second, rather than having two conditions, Experiment 3 em-
+ployed two between-subjects manipulations: (1) information plus
+action versus information only and (2) ritual versus sitting in
+silence.
+As in Experiment 2, the experimenter first informed participants
+about the random draw and asked them to write a short essay about
+why they cared about winning the $200 and how they would spend
+it. After the lottery winner was announced and dismissed from the
+experiment, the remaining participants were randomly assigned to
+one of the four experimental conditions. Participants assigned to
+the information plus action/ritual condition read:
+Your next task is to engage in a ritual. Previous research has found
+that people often engage in rituals after a loss. Please engage in each
+of the following steps involved in the ritual. Please read the instruc-
+tions to each step carefully and follow what they are asking you to do.
+The experimenter will let you know when time is up.
+Step 1. Please draw how you currently feel on the piece of paper on
+your desk for two minutes; Step 2. Please sprinkle a pinch of salt on
+the paper with your drawing; Step 3. Please tear up the piece of
+paper; Step 4. Now please count up to ten in your head five times; Step
+5. You have now completed this task.
+Participants assigned to the information plus action/sitting in
+silence condition read:
+Your next task is to sit in silence for a few minutes. Previous research
+has found that people often sit in silence after a loss. The experimenter
+will let you know when time is up.
+Participants assigned to the information only/ritual condition
+read:
+Previous research has found that people often engage in rituals after
+a loss. Please click next to move to the next screen.
+Participants assigned to the information only/sitting in silence
+condition read:
+Previous research has found that people often sit in silence after a
+loss. Please click next to move to the next screen.
+Participants completed the same measures as in Experiment 2:
+the five-item measure of perceived control ( /H9251/H11005.79), the three-
+item measure of grief ( /H9251/H11005.87), and the item assessing demand
+effects.
+Results and Discussion
+Table 2 reports means and standard deviations for all dependent
+variables by condition.
+Perceived control. A 2 (information: information plus action
+vs. information only) /H110032 (action: ritual vs. sitting in silence)
+between-subjects ANOVA with perceived control as the depen-
+dent variable revealed a significant effect of information,
+F(1, 150) /H110058.76, p /H11005.004, /H9257
+p2 /H11005.055, and action, F(1, 150) /H11005
+6.68, p /H11005.011, /H9257p2 /H11005.043. These main effects were qualified by a
+significant interaction, F(1, 150) /H110054.04, p /H11005.046, /H9257p2 /H11005.026. Post
+hoc tests revealed that perceived control was higher in the infor-
+mation plus action/ritual condition than in any of the other three
+conditions (all ps /H11021.01) and did not significantly differ across
+these other conditions (all ps /H11022.50).
+Grief. A similar 2 /H110032 ANOVA with grief as the dependent
+variable revealed a marginally significant effect of information,
+F(1, 150) /H110052.93, p /H11005.089, /H9257
+p2 /H11005.019, and no significant effect
+for action ( p /H11005.23). This analysis also revealed the predicted
+interaction, F(1, 150) /H110054.48, p /H11005.036, /H9257p2 /H11005.029. As with
+perceived control, post hoc tests revealed that grief was lower in
+the information plus action/ritual condition than in any of the other
+three conditions (all ps /H11021.04) and did not differ across these other
+conditions (all ps /H11022.52).
+Mediation. Next, we conducted regression analyses to assess
+whether participants’ feelings of perceived control in the informa-
+tion plus action/ritual condition mediated the effects of rituals on
+reduced grief. We included a dummy variable equal to 1 for the
+information plus action/ritual condition, and 0 otherwise. The
+effect of rituals in this condition (compared with all others) was
+significantly reduced (from /H9252/H11005–.23, p /H11005.004, to /H9252/H11005–.14, p /H11005
+.094) when perceived control was included in the equation, and
+perceived control was a significant predictor of grief ( /H9252/H11005–.28,
+p /H11005.001). A bootstrap analysis showed that the 95% bias-
+corrected confidence intervals for the size of the indirect effect
+excluded zero (– 0.67, – 0.12), suggesting a significant indirect
+effect ( MacKinnon et al., 2007 ).
+Demand effects. As in Experiment 2, participants’ belief that
+the experimenter wanted them to feel better about their loss was
+not affected by our manipulations (all ps /H11022.43). We conducted
+two 2 /H110032 ANCOVAs with grief and perceived control as the
+dependent measures while controlling for the question about de-
+mand effects. Confirming the results of our primary analyses, these
+analyses revealed the same significant interactions as above: for
+grief, F(1, 149) /H110054.62, p /H11005.033, /H9257
+p2 /H11005.030; for perceived control,
+F(1, 149) /H110054.18, p /H11005.043, /H9257p2 /H11005.027. In both analyses, perceived
+demand was not a significant covariate ( Fs /H110211, ps /H11022.52).
+Table 2
+Means (and Standard Deviations) for the Main Variables
+Assessed in Experiment 3, by Condition
+Demand effect Perceived control Grief
+Information only
+Sitting in silence 2.72 (1.38) 2.87 (1.02) 3.44 (1.77)
+Ritual 2.61 (1.59) 2.97 (1.03) 3.66 (1.44)
+Information plus action
+Sitting in silence 2.55 (1.37) 3.03 (0.92) 3.54 (1.44)
+Ritual 2.82 (1.60) 3.81 (1.19) 2.72 (1.40)
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+270 NORTON AND GINO
+Overall, the results of Experiment 3 provide further support for
+the beneficial effects of rituals on perceived control and reduced
+grief. In addition, they indicate that these effects emerge when
+performing the actions underlying ritualistic behavior, rather than
+from simply knowing that people often engage in rituals after
+experiencing a loss.
+General Discussion
+Despite the large body of qualitative data on rituals and their
+pervasive use in marking both positive and negative life mile-
+stones—from births to marriages to deaths—little is known about
+the causal impact of rituals on people’s emotional health. Given
+the profoundly negative impact of grief on both psychological and
+physical health ( Stroebe, Schut, & Stroebe, 2007 ), uncovering
+means by which to alleviate grief is a critical endeavor. Although
+the specific rituals used to cope with losses vary widely from
+culture to culture—and indeed our participants reported engaging
+in a wide variety of rituals themselves— our results suggest that a
+common psychological mechanism both underlies these different
+rituals and explains their effectiveness. Engaging in rituals miti-
+gates grief by restoring the feelings of control that are impaired by
+both life-changing (the death of loved ones) and more mundane
+(losing lotteries) losses.
+Our research makes three primary contributions. First, our pilot
+study demonstrates that people use a wide variety of rituals,
+indicating that the particular actions people perform when carrying
+out rituals are not the primary driver of reduced grief. Second,
+believing in the effectiveness of rituals did not moderate the
+relationship between performing rituals and reduced grief (Exper-
+iment 2), suggesting that people do not need to explicitly endorse
+the efficacy of rituals in order for rituals to increase perceived
+control and lower grief after a loss. Finally, as the results of
+Experiment 3 show, referring to a set of actions as a ritual and
+performing such actions are both critical ingredients for rituals to
+be effective: asking participants to sit in silence after telling them
+that people often sit in silence after a loss neither increased
+perceived control nor reduced grief, whereas performing a ritual
+that consisted of a series of behaviors after learning that people
+often engage in rituals after experiencing a loss was effective.
+Together, these results suggest that rituals appear to be defined by
+purposeful behaviors designed to achieve some desired outcome
+and that the specific behaviors that constitute those rituals are less
+important than performing some form of ritualistic behavior.
+In our initial pilot study, we relied on participants’ self-
+definitions of what constitutes a ritual. As a result, our investiga-
+tion encompasses a broad definition of the term, including (1)
+actions prescribed by a religion or a community of reference, (2)
+everyday rituals chosen by participants, and (3) novel rituals
+designed by the experimenters. Our choice of this broad definition
+is consistent with evidence that mourning rituals across cultures
+and religious are often contradictory, suggesting that the effective-
+ness of rituals on grief after a loss is driven primarily by the act of
+engaging in a ritual and not by the specific actions involved in the
+ritual. Future research, however, is needed to explore at a more
+granular level the impact of specific forms of rituals on mourning.
+Similarly, specific forms of mourning likely elicit different types
+of rituals. Indeed, we do not mean to imply that the emotional
+consequences of losing loved ones and losing lotteries are identi-
+cal, and the divergent consequences of each type of loss—and
+which rituals are most effective at assuaging grief for which types
+of losses— clearly warrant further investigation. At the same time,
+our results suggest that despite these divergences, rituals serve at
+least one common purpose across different types of losses: they
+restore a lost sense of control.
+In Experiments 2 and 3, the rituals we asked participants to
+perform involved drawing a picture of their feelings on a piece of
+paper and then ripping that paper into pieces. By performing this
+particular behavior, participants potentially destroyed a symbolic
+representation of their loss, which may have contributed to their
+decreased grief over and above the effect of less-symbolic ritual-
+istic behaviors. Future research should examine how incorporating
+symbolism into ritualistic behaviors may increase the efficacy of
+rituals in helping people cope with their losses.
+Our findings contribute to the literature examining compensa-
+tory behaviors that follow threats, as well as the aversive accom-
+panying states. Proulx and Inzlicht (2012; see also Proulx, Inzlicht,
+& Harmon-Jones, 2012 ) have proposed a meaning-maintenance
+model that integrates social psychological theories of compensa-
+tory behaviors following threats and expectancy violations. Con-
+sistent with this model, losses may in fact serve as threats and be
+experienced as aversive states. People may thus use rituals as a
+way to compensate for losses and relieve their aversive arousal.
+This framework offers the interesting possibility that rituals may
+involve both cognitive factors—such as perceived control—and
+also emotional factors: engaging in rituals to cope with losses may
+also reduce subsequent aversive emotional states. Rituals may not
+only reduce negative but also increase positive emotions: rituals
+involved in consumption (such as eating and drinking) can en-
+hance enjoyment due to the greater involvement they prompt in the
+consumption experience ( Vohs, Wang, Gino, & Norton, in press ).
+Future research that simultaneously examines the role of cognitive
+and affective factors as both motivators for engaging in rituals and
+outcomes of having engaged in those rituals would deepen our
+understanding of the psychology of rituals.
+Finally, we note that our participants were drawn from nonclini-
+cal samples, and our conclusions therefore must be qualified in
+light of research suggesting that overly ritualistic behavior can
+negatively impair psychological functions, as in the case of
+obsessive-compulsive disorder ( Tolin, Abramowitz, Przeworski,
+& Foa, 2002 ). As a result, further research is needed to understand
+which types of rituals benefit which types of individuals. Still, our
+results offer initial support for Durkheim’s contention that
+“mourning is left behind, thanks to mourning itself” ( Durkheim,
+1912/2001, p. 299); the rituals of mourning in which our partici-
+pants engaged hastened the decline of the feeling of mourning that
+accompanies loss.
+References
+Ai, A. L., Tice, T. N., Peterson, C., & Huang, B. (2005). Prayers, spiritual
+support, and positive attitudes in coping with the September 11 national
+crisis. Journal of Personality, 73, 763–792. doi:10.1111/j.1467-6494
+.2005.00328.x
+Ashenburg, K. (2004). The mourner’s dance: What we do when people die .
+New York, NY: North Point Press.
+Brehm, J. W. (1966). A theory of psychological reactance . New York, NY:
+Academic Press.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+271RITUALS AND GRIEF
+Clements, P. T., Vigil, G. J., Manno, M. S., Henry, G. C., Wilks, J.,
+Kellywood, R., & Foster, W. (2003). Cultural perspectives of death,
+grief, and bereavement. Journal of Psychosocial Nursing and Mental
+Health Services, 41, 18 –26.
+Cohn, P. J. (1990). Pre-performance routines in sport: Theoretical support
+and practical applications. Sport Psychologist, 4, 301–312.
+Crews, D. J., & Boutcher, S. H. (1986). An exploratory observational
+behavior analysis of professional golfers during competition. Journal of
+Sport Behavior, 9, 51–58.
+Durkheim, E. (2001). The elementary forms of religious life . Oxford,
+England: Oxford University Press. (Original work published 1912)
+Fast, N. J., Gruenfeld, D. H., Sivanathan, N., & Galinsky, A. D. (2009).
+Illusory control: A generative force behind power’s far-reaching effects.
+Psychological Science, 20, 502–508. doi:10.1111/j.1467-9280.2009
+.02311.x
+Glass, D. C., & Singer, J. E. (1972). Behavioral aftereffects of unpredict-
+able and controllable aversive events. American Scientist, 60, 457– 465.
+Gmelch, G. J. (1971). Baseball magic. Transaction, 8 (8), 39 – 41.
+Kemp, C., & Bhungalia, S. (2002). Culture and the end of life: A review
+of major world religions. Journal of Hospice and Palliative Nursing, 4,
+235–242. doi:10.1097/00129191-200210000-00022
+Klein, D. C., Fencil-Morse, E., & Seligman, M. E. P. (1976). Learned
+helplessness, depression, and the attribution of failure. Journal of Per-
+sonality and Social Psychology, 33, 508 –516. doi:10.1037/0022-3514
+.33.5.508
+Low, S. M. (1994). Embodied metaphors: Nerves as lived experience. In
+T. J. Csordas (Ed.), Embodiment and experience: The existing ground of
+culture and self (pp. 139 –162). Cambridge, England: Cambridge Uni-
+versity Press.
+MacKinnon, D. P., Fairchild, A. J., & Fritz, M. S. (2007). Mediation
+analysis. Annual Review of Psychology, 58, 593– 614. doi:10.1146/
+annurev.psych.58.110405.085542
+Malinowski, B., & Redfield, R. (1948). Magic, science and religion, and
+other essays . Boston, MA: Beacon Press.
+Nolen-Hoeksema, S., & Larson, J. (1999). Coping with loss . Mahwah, NJ:
+Erlbaum.
+Pargament, K. I. (1997). The psychology of religion and coping: Theory,
+research, practice . New York, NY: Guilford Press.
+Pennebaker, J. W., & Chung, C. K. (2007). Expressive writing, emotional
+upheavals, and health. In H. Friedman & R. Silver (Eds.), Handbook of
+health psychology (pp. 263–284). New York, NY: Oxford University
+Press.
+Prigerson, H. G., Maciejewski, P. K., Reynolds, C. F., III, Bierhals, A. J.,
+Newsom, J. T., Fasiczka, A. ,... Miller, M. (1995). Inventory of
+Complicated Grief: A scale to measure maladaptive symptoms of loss.
+Psychiatry Research, 59, 65–79. doi:10.1016/0165-1781(95)02757-2
+Proulx, T., & Inzlicht, M. (2012). The five “A”s of meaning maintenance:
+Finding meaning in the theories of sense-making. Psychological Inquiry,
+23, 317–335. doi:10.1080/1047840X.2012.702372
+Proulx, T., Inzlicht, M., & Harmon-Jones, E. (2012). Understanding all
+inconsistency compensation as a palliative response to violated expec-
+tations. Trends in Cognitive Sciences, 16, 285–291. doi:10.1016/j.tics
+.2012.04.002
+Rodin, J., & Langer, E. J. (1977). Long-term effects of a control-relevant
+intervention with the institutionalized aged. Journal of Personality and
+Social Psychology, 35, 897–902. doi:10.1037/0022-3514.35.12.897
+Romanoff, B. D. (1998). Rituals and the grieving process. Death Studies,
+22, 697–711. doi:10.1080/074811898201227
+Rook, D. W. (1985). The ritual dimension of consumer behavior. Journal
+of Consumer Research, 12, 251–264. doi:10.1086/208514
+Sherkat, D. E., & Reed, M. D. (1992). The effects of religion and social
+support on self-esteem and depression among the suddenly bereaved.
+Social Indicators Research, 26, 259 –275. doi:10.1007/BF00286562
+Strack, F., Schwarz, N., & Gschneidinger, E. (1985). Happiness and
+reminiscing: The role of time perspective, affect and mode of thinking.
+Journal of Personality and Social Psychology, 49, 1460 –1469. doi:
+10.1037/0022-3514.49.6.1460
+Stroebe, M. S., Hansson, R. O., Stroebe, W., & Schut, H. (Eds.). (2001).
+Handbook of bereavement research: Consequences, coping and care .
+Washington, DC: American Psychological Association. doi:10.1037/
+10436-000
+Stroebe, M., Schut, H., & Stroebe, W. (2007, December 8). Health out-
+comes of bereavement. Lancet, 370, 1960 –1973. doi: 10.1016/S0140-
+6736(07)61816-9
+Tolin, D. F., Abramowitz, J. S., Przeworski, A., & Foa, E. B. (2002).
+Thought suppression in obsessive-compulsive disorder. Behaviour Re-
+search and Therapy, 40, 1255–1274.
+Turner, V. (1969). The ritual process . Chicago, IL: Aldine.
+Van Boven, L., & Gilovich, T. (2003). To do or to have? That is the
+question. Journal of Personality and Social Psychology, 85, 1193–1202.
+doi:10.1037/0022-3514.85.6.1193
+Vohs, K. D., Wang, Y., Gino, F., & Norton, M. I. (in press). Rituals
+enhance consumption. Psychological Science .
+Whitson, J. A., & Galinsky, A. D. (2008, October 3). Lacking control
+increases illusory pattern perception. Science, 322, 115–117. doi:
+10.1126/science.1159845
+Received May 2, 2012
+Revision received January 7, 2013
+Accepted January 7, 2013 /H18546
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+272 NORTON AND GINO

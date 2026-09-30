@@ -1,0 +1,1345 @@
+Journal ol Experimental Psychology:
+Human Perception and Performance
+1975, Vol. 1, No. 3, 288-299
+Hindsight ^Foresight: The Effect of Outcome Knowledge
+on Judgment Under Uncertainty
+Baruch Fischhoff
+Hebrew University of Jerusalem, Israel
+One major difference between historical and nonhistorical judgment is that
+the historical judge typically knows how things turned out. In Experiment
+1, receipt of such outcome knowledge was found to increase the postdicted
+likelihood of reported events and change the perceived relevance of event-
+descriptive data, regardless of the likelihood of the outcome and the truth
+of the report. Judges were, however, largely unaware of the effect that
+outcome knowledge had on their perceptions. As a result, they overesti-
+mated what they would have known without outcome knowledge (Experi-
+ment 2), as well as what others (Experiment 3) actually did know without
+outcome knowledge. It is argued that this lack of awareness can seriously
+restrict one's ability to judge or learn from the past.
+Hindsight and foresight differ formally in
+the information available to the observer.
+The hindsightful judge possesses outcome
+knowledge, that is, he knows how things
+turned out. The foresightful judge does
+not. Although foresight usually implies
+looking at the future, in the absence of out-
+come knowledge, past and future events can
+be equally inscrutable.
+The studies presented here ask two ques-
+tions about the judgmental differences be-
+tween hindsight and foresight: (a) How
+does receipt of outcome knowledge affect
+judgment? (b) How aware are people of the
+effects that outcome knowledge has on their
+perceptions? Answers to these questions
+will shed light on how people do learn and
+might better learn from history.
+The two hypotheses explored are: (a)
+Preparation of this report was supported by the
+Advanced Research Projects Agency of the De-
+partment of Defense (ARPA Order 2449) and
+was monitored by the Office of Naval Research
+under Contract No. N00014-73-C-0438 (NR 197-
+026). The research reported constitutes part of
+a doctoral dissertation submitted to The Hebrew
+University of Jerusalem. I am deeply indebted to
+Amos Tversky, Daniel Kahneman, Paul Slovic,
+Ruth Beyth, and Sarah Lichtenstein for their con-
+tributions to this project. The detailed comments
+of two anonymous reviewers on a previous draft
+are gratefully acknowledged.
+Requests for reprints should be sent to Baruch
+Fischhoff, Oregon Research Institute, P.O. Box
+3196, Eugene, Oregon 97403.
+Reporting an outcome's occurrence increases
+its perceived probability of occurrence; and
+(b) people who have received outcome
+knowledge are largely unaware of its having
+changed their perceptions in the manner de-
+scribed in the first hypothesis. In combina-
+tion, these two hypotheses indicate that re-
+porting an outcome produces an unjustified
+increase in its perceived predictability, for it
+seems to have appeared more likely than it
+actually was.
+Indirect support for the first hypothesis
+may be found in a variety of sources. For
+example, the historian Georges Florovsky
+(1969) notes:
+The tendency toward determinism is somehow im-
+plied in the method of retrospection itself. In
+retrospect, we seem to perceive the logic of the
+events which unfold themselves in a regular or
+linear fashion according to a recognizable pattern
+with an alleged inner necessity. So that we get
+the impression that it really could not have hap-
+pened otherwise, (p. 369)
+An apt name for this hypothesized tend-
+ency to perceive reported outcomes as hav-
+ing been relatively inevitable might be
+"creeping determinism"—in contrast with
+philosophical determinism, which is the con-
+scious belief that whatever happens has to
+happen.
+Phenomena resembling creeping determi-
+nism have been noted by psychologists as
+well as historians. One example is Tversky
+and Kahneman's (1971) "law of small
+288
+HINDSIGHT *£ FORESIGHT 289
+numbers," the belief that data which were
+observed more or less had to be observed. A
+second example is the tendency to rework
+or reconstruct the biographies of deviants
+to show that their present diagnoses (labels)
+are inevitable products of their life histo-
+ries (Lofland, 1969; Rosenhan, 1973; Schur,
+1971). A third is the defensive attribution
+of responsibility for accidents, a process in
+which people carefully scrutinize the data
+describing accidents in order to uncover or
+impose a pattern that will increase their per-
+ceived predictability and avoidability (Wals-
+ter, 1967).
+All of this evidence for creeping determi-
+nism is, however, either indirect, imprecise,
+unsystematic (anecdotal), or confounded by
+motivational and emotional issues. Experi-
+ment 1 directly tested the validity of the
+creeping determinism hypothesis and ex-
+plored some of the concomitant effects of
+outcome knowledge on judgment.
+EXPERIMENT 1
+Method
+Design. The six subexperiments described in
+this section are identical except for the stimuli
+used. In each, subjects were randomly assigned
+to one of five experimental groups, one Before
+group and four After groups. In each subexperi-
+ment, the Before group read a brief (150 word)
+description of a historical or clinical event for
+which four possible outcomes were provided. The
+After groups read identical passages to which a
+final sentence presenting one of the possible out-
+comes as the "true" outcome had been added. As
+the possible outcomes were mutually exclusive,
+three of the four After groups received "true"
+outcomes that actually had not happened. Sub-
+jects in all groups were asked to (a) estimate the
+likelihood of occurrence of each of the four pos-
+sible outcomes, and (b) evaluate the relevance of
+each datum in the event description. In two of
+the subexperiments subjects were also asked to
+indicate the relative extent to which they relied on
+the passage and on outside information.
+Instructions. The cover sheet of each question-
+naire read:
+In this questionnaire we are interested in
+knowing how people judge the likelihood of
+possible outcomes of social events. A passage
+describing an unfamiliar historical event ap-
+pears below. We will ask you to evaluate the
+probability of occurrence of each of the four
+possible outcomes of the event [including that
+which actually happened—for After subjects] in
+the light of the information appearing in the
+passage.
+A typical passage, as taken from Woodward's
+(1938) The Age of Reform, was:
+[1] For some years after the arrival of Hastings
+as governor-general of India, the consolidation
+of British power involved serious war, [2] The
+first of these wars took place on the northern
+frontier of Bengal where the British were faced
+by the plundering raids of the Gurkas of Nepal.
+[3] Attempts had been made to stop the raids
+by an exchange of lands, but the Gurkas would
+not give up their claims to country under British
+control, [4] and Hastings decided to deal with
+them once and for all. [5] The campaign began
+in November, 1814, It was not glorious. [6]
+The Gurkas were only some 12,000 strong; [7]
+but they were brave fighters, fighting in terri-
+tory well-suited to their raiding tactics. [8J
+The older British commanders were used to war
+in the plains where the enemy ran away from
+a resolute attack. [9] In the mountains of Nepal
+it was not easy even to find the enemy. [10]
+The troops and transport animals suffered from
+the extremes of heat and cold, [11] and the offi-
+cers learned caution only after sharp reverses.
+[12] Major-General Sir D. Octerlony was the
+one commander to escape from these minor de-
+feats, (pp. 383-384)
+The possible outcomes offered were: (a) Brit-
+ish victory, (b) Gurka victory, (c) military stale-
+mate with no peace settlement, and (d) military
+stalemate with a peace settlement. For After sub-
+jects, the appropriate outcome was appended to
+the passage in the form of an additional sentence,
+such as, "The two sides reached a military stale-
+mate, but were unable to come to a peace settle-
+ment."
+Following the passage, subjects were asked, "In
+the light of the information appearing in the pas-
+sage, what was the probability of occurrence of
+each of the four possible outcomes listed below.
+(The probabilities should sum to 100%)." On the
+following page, each datum appeared on a separate
+line followed by a seven-point scale on which
+subjects were asked to indicate "how relevant or
+important each datum in the event description was
+in determining the event's outcome." The numbers
+in the passage above indicate the division into
+datum units. They did not appear in the passage
+presented to subjects.
+Stimulus selection. Four different events were
+used to achieve greater generality for the results
+obtained: Event A, the British-Gurka struggle
+cited above; Event B, the near-riot in Atlanta,
+Georgia in July 1967, as described in the Kerner
+Commission Report on Civil Disorders (National
+Advisory Commission, 1968, pp. 53-5); Events
+C and D, clinical cases reported by Albert Ellis
+290 BARUCH FISCHHOFF
+(1966, pp. 262-264).* For Events C and D, the
+word "social" in the instructions was replaced by
+"individual" and the word "historical" was de-
+leted.
+Several methodological considerations guided the
+event selection process: (a) The event should be
+sufficiently familiar to permit intelligent responses
+and sufficiently unfamiliar to rule out the possibility
+of subjects knowing what really happened—espe-
+cially those receiving false outcome reports, (b)
+Past events were used to allow provision of "true"
+outcomes to the After groups.2 (c) The space of
+possible outcomes had to be readily partitionable.
+For Events B, C, and D, the set of outcomes was
+constructed to be mutually exclusive and exhaus-
+tive. Although this is not the case for Event A,
+pretests indicated that these four outcomes con-
+stituted an effective partition.
+Subjects. Approximately equal numbers of sub-
+jects participated in each group in each subexperi-
+ment. Event A (Gurkas) was administered twice,
+once to a group of 100 English-speaking students
+recruited individually at The Hebrew University
+campus in Jerusalem and once to a class of 80
+Hebrew-speaking subjects at the University of the
+Negev in Beer Sheba. Event B (riot) was ad-
+ministered to two separate classes at The Hebrew
+University, one containing 87 Hebrew-speaking
+psychology majors with at least one year's study of
+statistics and one of 100 Hebrew-speaking stu-
+dents with no knowledge of statistics. Event C
+(Mrs. Dewar) was administered to the 80 Uni-
+versity of the Negev students; Event D (George)
+to the 100 Hebrew University students without
+statistics training.
+Procedure. Questionnaires for the various ex-
+perimental groups were distributed randomly.
+Subjects devoted 20-30 min to the completion of
+each questionnaire.
+Results
+Probability estimates. Table 1 presents
+the mean probability assigned to each out-
+come by subjects in each experimental group
+for each subexperiment.
+Similar patterns of data emerged in the
+two subexperiments using Event A (differ-
+ing in subjects' language) and in the two
+using Event B (differing in subjects' knowl-
+1 Copies of these stimuli with the four offered
+outcomes will be supplied with all requested re-
+prints. The permission granted by the Oxford
+University Press and Ronald Press to use these
+copyrighted materials is gratefully acknowledged.
+2 It might be wondered whether Before subjects
+might not behave like After subjects with reference
+to their predictions, which they know are actually
+postdictions. In a series of five experiments
+(Fischhoff, in press), we found that manipulating
+the temporal setting of possible outcomes has no
+effect on their perceived likelihood.
+edge of statistics). For the sake of tabular
+brevity, only one subexperiment in each pair
+is presented.
+The creeping determinism hypothesis pre-
+dicts that After subjects told that a particu-
+lar outcome has happened will assign it a
+higher probability than will Before subjects.
+Four outcomes reported to different groups
+in each of six subexperiments afford 24 op-
+portunities to test the hypothesis. The criti-
+cal comparisons are between the outlined
+diagonal cells (those indicating the mean
+probability assigned to an outcome by sub-
+jects for whom that outcome was reported to
+have happened) and the Before cell in the
+top row above them.
+In each of the 24 cases, reporting an out-
+come increased its perceived likelihood of
+occurrence (p < .001; sign test). Twenty-
+two of these differences were individually
+significant (p < .025; median test). Thus
+the creeping determinism effect was obtained
+over all variations of subject population,
+event description, outcome reported, and
+truth of outcome reported. The differences
+between mean Before and After probabili-
+ties for reported outcomes ranged from
+3.6% to 23.4%, with a mean of 10.8%.
+Slightly over 70% of After subjects assigned
+the reported outcome a higher probability
+than the mean assignment by the corre-
+sponding Before subjects.
+No outcome was judged inevitable by any
+Before subject, whereas a small proportion
+(2.1%) of After subjects did assign 100%
+to reported outcomes. Evidently, most After
+subjects felt that in the light of the facts
+given in the description, other (unreported)
+outcomes were still possible (e.g., "The
+Gurkas had a 70% chance of winning, but
+the British still might have pulled it off").
+Similarly, After subjects found a higher per-
+centage of unreported outcomes to have been
+impossible (as indicated by a probability of
+0%) than did Before subjects (11.5% ver-
+sus 8.0%).
+Another way to appraise the extent of
+creeping determinism is to translate mean
+Before probabilities into the form of a priori
+odds and the mean After probabilities for
+reported outcomes into a posteriori odds.
+HINDSIGHT ^ FORESIGHT 291
+TABLE 1
+MEAN PROBABILITIES ASSIGNED TO EACH OUTCOME, EXPERIMENT 1
+Experimental group
+Outcomeprovided
+Outcome evaluated
+Event A: British-Gurka struggle (English-speaking subjects)
+Before 20
+After 20
+20
+20
+20
+none 33.8 21.3 32.3 12.3
+1 57. 2 14.3 1S.3
+2 30.3 38,4 20.4
+3 25.7 17.0 48.0
+4 33.0 15.8 24.3
+13.4
+10.5
+9.9
+27.0
+Event B: Near-riot in Atlanta (subjects with knowledge of statistics)
+Before
+After
+20
+20
+20
+20
+20
+none
+1
+2
+3
+4
+11.2 30.8 43.8 14.2
+[ 30.6
+5.5
+3.9
+16.7
+25.8
+51.8
+23.9
+31.9
+23.3
+24.3
+50.8
+23.4
+20.3
+18.5
+21.4
+27.9
+Event C: Mrs. Dewar in therapy
+Before 19
+After 13
+17
+16
+17
+none 26
+1 43
+2 26
+3 30
+4 21
+6 15.8 23.4 34.4
+1 13.9
+5 23.2
+6 14.1
+2 10.2
+17.3
+13,4
+34.1
+22.6
+25.8
+36.9
+21.3
+46.1
+Event D: George in therapy
+Before
+After
+17
+18
+18
+20
+17
+none 27.4 26.9
+1 33.6
+2 22.4
+3 20.5
+4 30.6
+20.8
+41.8
+22.3
+19.5
+39.4 6.3
+37.8
+28.9
+50.0
+37.7
+8.0
+7.1
+7.3
+12.3
+Note, The actual outcomes are numbers 1, 1,4, and 2 for Kvents A, B, C, and D, respectively. Outlined cells are those withAfter probabilities of reported outcomes.
+The ratio of prior and posterior odds for
+outcome i provides a sort of average likeli-
+hood ratio for the impact of the datum
+"Outcome i did actually occur" (where the
+two hypotheses are "Outcome i occurs" and
+"Outcome i does not occur"). Over the
+24 outcomes reported, these likelihood ratios
+varied from 1.2 to 3.5 (M = 1.96). Thus
+in the" present sense, reporting an outcome's
+occurrence approximately doubles its per-
+ceived likelihood of occurrence.
+Because the outcomes varied considerably
+in their mean Before probability (from 6.3%
+to 44.0%), reporting their occurrence may
+be seen as confirming (or disconfirming)
+subjects' expectations to varying degrees.
+There was a highly significant negative cor-
+relation (r=.435; p < .001) between the
+prior odds and likelihood ratios associated
+with reported outcomes (as computed in the
+preceding paragraph). Thus, the more un-
+likely an outcome report, the greater the
+impact it has.
+Relevance judgments. Table 2 presents
+the mean relevance judgments for each
+datum in one subexperiment. Inspection re-
+veals that the relevance attributed to any
+datum is highly dependent on which out-
+come, if any, subjects believe to be true.
+Some of these differences seem readily inter-
+292 BARUCH FISCHHOFF
+TABLE 2
+MEAN DATA RELEVANCE JUDGMENTS FOR EVENT A,
+EXPERIMENT 1 (HEBREW-SPEAKING SUBJECTS)
+Datum number
+Outcome reported
+None
+British victory
+Gurka victory
+Stalemate
+with peace treaty
+without peace treaty
+l
+4.50
+4.78
+3.66
+4.50
+4.94
+2
+5.11
+4.44
+4.83
+4.72
+5.50
+3
+4.22
+5.28
+3.55
+4.55
+4.39
+4
+5.78
+4.83
+4.44
+5.89
+5.11
+5
+4.50
+4.61
+5.89
+5.50
+5.33
+6
+6.00
+4.44
+5.11
+4.17
+5.11
+7
+5.50
+4.61
+4.11
+4.22
+4.78
+8
+5.44
+4.56
+4.61
+5.00
+4.39
+9
+4.39
+5.72
+3.72
+4.22
+4.17
+10
+4.56
+5.33
+5.22
+5.22
+3.72
+11
+4.28
+5.78
+4.11
+4.89
+4.50
+12
+5.56
+4.11
+4.78
+4.94
+4.61
+pretable. For example, the fact that "the
+British officers learned caution only after
+sharp reverses" (Datum No. 11) was
+judged most relevant by subjects told of a
+British victory, and rather irrelevant by sub-
+jects told of a Gurka victory.
+A less impressionistic analysis on the ef-
+fects of outcome knowledge on relevance
+judgments proceeded in the following man-
+ner. For each subexperiment, a two-way
+(outcome reported X datum evaluated) fixed
+model analysis of variance (ANOVA) was
+performed on subjects' judgments of data
+relevance. To accommodate the varying
+number of subjects in the experimental
+groups of subexperiments, the following pro-
+cedure was adopted: The analysis was re-
+peated three times to produce maximum,
+minimum, and middle solutions. For the
+maximum solution, subjects were randomly
+sampled from the smaller experimental
+groups and their responses duplicated, equat-
+ing the size of all cells. For the minimum
+solution, subjects were randomly deleted
+from the larger groups until cell size was
+equated. For the middle solution, a com-
+bination of duplication and elimination was
+performed.
+The same ANOVA was performed on the
+three sets of data. The results discussed
+hold for all three solutions, (a) In each
+subexperiment, there was a significant Out-
+come Reported X Datum Evaluated interac-
+tion reflecting the differential effect of out-
+come knowledge on relevance judgments
+discussed above and shown in Table 2. (b)
+Over the six subexperiments, only two weak
+outcome-reported effects emerged. Thus,
+there is no indication of an entire set of data
+having greater mean relevance for one out-
+come than another, (c) Datum-evaluated
+effects appear in all but one subexperiment.
+They reflect data perceived to be either rele-
+vant or irrelevant whatever happens (e.g.,
+Hastings' decision to deal with the Gurkas
+"once and for all" [Datum No. 4] was uni-
+versally perceived as relevant).
+Reliance. Subjects in two of the sub-
+experiments were asked to indicate with a
+number from Q% to 100% the extent to
+which they had relied on the material pre-
+sented in the passage compared with general
+(outside) knowledge. In both cases, Before
+subjects indicated relying significantly (/> <
+.05; median test) more on the passage than
+did After subjects.
+Discussion
+Reporting an outcome's occurrence con-
+sistently increases its perceived likelihood
+and alters the judged relevance of data de-
+scribing the situation preceding the event.
+Hindsight-foresight differences in perceived
+data relevance have also been noted by his-
+torians observing the creeping determinism
+effect. Consider, for example, Tawney
+(1961): "Historians give an appearance of
+inevitability to an existing order by dragging
+into prominence the forces which have tri-
+umphed and thrusting into the background
+those which they have swallowed up" (p.
+177). Or, consider Wohlstetter (1962):
+"It is much easier after the event to sort
+the relevant from the irrelevant signals.
+After the event, of course, a signal is always
+crystal clear. We can now see what disaster
+it was signaling since the disaster has oc-
+curred, but before the event it is obscure and
+HINDSIGHT 76 FORESIGHT 293
+pregnant with conflicting meanings" (p.
+387).
+How justified are the judgmental changes
+affected by receipt of outcome knowledge?
+It is hard to say, simply because there is no
+unequivocal way to assign probabilities or
+relevance weights to unique events like the
+British-Gurka struggle. If, for example,
+someone claims that there was no chance
+(or a 7% chance or a 98.6% chance) of a
+thermonuclear war during the 1960s, who
+can prove him wrong? Indeed, the only
+wrong estimate is that it was 100% likely.
+Were such events well defined and re-
+occurring, the wisdom of increasing the
+postdicted probability of some reported out-
+comes would be readily apparent. Consider
+a judge who has previously encountered four
+British-Gurka-type struggles, each indistin-
+guishable from the one used here, two of
+which were won by the Gurkas. Upon
+learning of another Gurka victory, he may
+properly update that outcome's predictive
+(Before) probability of 50% to a higher
+postdictive (After) probability. Hearing of
+a Gurka victory may also justify some
+change in relevance judgments by showing,
+for example, the true importance of British
+suffering from climatic extremes. It may
+also teach him something about the nature
+of 19th century colonialism—and thus change
+the sort of "laws" or reasons he uses in
+drawing inferences from the event descrip-
+tion.
+Thus, the judgmental changes which we
+have called creeping determinism could con-
+ceivably reflect what judges learn from out-
+come reports. The skepticism expressed in
+the anecdotal observations presented above
+(e.g., Florovsky, Schur, Tawney), however,
+suggests that this is not the case. In the
+light of these comments, it appears that vvhat
+passes for the wisdom of hindsight often
+contains heady doses of sophistry—that the
+perceived inevitability of reported outcomes
+is imposed upon, rather than legitimately in-
+ferred from, the available evidence.
+As described in these accounts, postdictive
+likelihood estimates are exaggerated through
+a largely unconscious process evoked by re-
+ceipt of outcome knowledge. How aware
+people are of the effect that outcome knowl-
+edge has on their perceptions was examined
+in Experiment 2. Aside from helping to
+clarify the nature of creeping determinism,
+these results have considerable intrinsic in-
+terest. Awareness is clearly crucial to know-
+ing what one has learned from the past
+(i.e., from outcome knowledge). It may be
+necessary for learning from the past at all.
+EXPERIMENT 2
+Method
+Design. Subjects were presented stimulus ma-
+terials identical to those used in the After groups
+of Experiment 1, with each event description ac-
+companied by a "true" outcome. They were asked
+to respond "as they would have had they not
+known the outcome." For each of the four events
+there were four After (ignore) groups, one re-
+ceiving each possible outcome as true. If sub-
+jects are aware of the effect of outcome knowl-
+edge on their judgments, the responses of all of
+the After (ignore) groups should resemble those
+of that Before group in Experiment 1 which dealt
+with the same event. If After (ignore) subjects
+are completely unable to ignore the effect of out-
+come knowledge, their responses should resemble
+those of the After group in Experiment 1 which
+received the same outcome as "true."
+Instructions. The cover of each test booklet
+read:
+A number of short descriptions of real social
+and personal events appear below, each with a
+number of possible outcomes. On the basis of
+these data, we ask you to evaluate the likelihood
+of the outcomes listed. We thank you for your
+participation.
+Each remaining page of the test booklet was identi-
+cal to the corresponding page of the Experiment 1
+booklet, except that each response section was
+preceded with the instruction to "answer as you
+would have had you not known what happened."
+Subjects. Eighty members of an introductory
+statistics class at the University of the Negev
+participated.
+Procedure. Questionnaires were randomly dis-
+tributed to a single group of subjects. Each sub-
+ject received one version of each of the four dif-
+ferent events. In a test booklet, Events A, B, and
+C alternated systematically as the first three events,
+with Event D (the least interesting) always ap-
+pearing last. Order was varied to reduce the
+chances that subjects sitting in adjoining seats
+either copied from one another or discovered the
+experimental deception. All materials were in
+Hebrew. Questionnaires were anonymous.
+Results
+Probability estimates. Table 3 presents
+mean probability assignments by subjects in
+294 BARUCH FISCHHOFF
+TABLE 3
+MEAN PROBABILITIES ASSIGNED BY SUBJECTS RESPONDING "As IF You DID NOT
+KNOW WHAT HAPPENED," EXPERIMENT 2
+Kxperimental group
+Outcome
+provided
+Outcome evaluated
+Event A: British-Gurka struggle
+Before
+After (ignore)
+17
+20
+IS
+18
+18
+none
+1
+2
+3
+4
+29.4
+129.8
+38.0
+22.1
+18.1
+23.S
+27.4
+21.7
+31.8
+32.9
+34.7 12.4
+24.9
+19.7
+31.9
+28.9
+18.4
+20.7
+14.3
+21.2
+Event B: Near-riot in Atlanta
+Before
+After (ignore)
+39
+17
+21
+20
+20
+none
+1
+2
+3
+4
+11.3
+[24.6
+9.0
+6.3
+13.3
+29.0
+27.0
+41.5
+24.5
+20.3
+43.9 16.3
+28.3
+36.4
+43.5
+36.5
+19.8
+13.1
+25.8
+24.0
+Event C: Mrs. Dewar in therapy
+Before
+After (ignore)
+19
+19
+19
+15
+20
+none 26.6
+1 36.4
+2 24.7
+3 25.1
+4 18.3
+15.8 23.4 34.4
+10.2 16.1 37.4
+28.8 15.5 31.9
+13.7 34.9 26.4
+12.3 21,8 52.8
+Event D: George in therapy
+Before
+After (ignore)
+17
+17
+18
+20
+18
+none 26
+1 41
+2 24
+3 18
+4 21
+4 26.9 39.4 6.3
+8 16.5
+6 35.9
+3 20.4
+0 21.1
+35.3
+32.4
+57.3
+38.4
+6.5
+7.0
+4.0
+19.6
+Note. In each case the Before results are taken from the corresponding before (no outcome) group in Experiment 1 (subjectswho actually responded not knowing what happened). Outlined cells are those with After(ignore) probabilities of repo rteoutcomes.
+each of the After (ignore) groups along with
+the responses of the corresponding Before
+groups from Experiment 1. (The Hebrew-
+speaking group is used for Event A, the
+pooled responses of both relevant subexperi-
+ments for Event B.) The entries in each
+row will be called a profile. They indicate
+the probabilities subjects believed they
+would have assigned to the outcomes had
+they not known "what really happened."
+These reconstructed probabilities indicate
+no more than marginal awareness of the ef-
+fects of outcome knowledge. In 13 of 16
+cases, the mean After (ignore) probability of
+the reported outcome was higher than the
+mean Before probability for the same event.
+For reported outcomes the mean Before-
+After (ignore) difference of 9.2% was
+slightly but not significantly less than the
+10.8% mean Before-After difference in Ex-
+periment 1 (p > .10; Mann-Whitney U
+test).
+The After (ignore) profiles closely resem-
+bled the corresponding After profiles. For
+14 of 16 profiles, the mean absolute differ-
+ence between corresponding cells was smaller
+for the After(ignore)-After comparison than
+for the relevant After (ignore)-Before com-
+HINDSIGHT ^ FORESIGHT 295
+parison (/> < .002; sign test). The median
+absolute difference between corresponding
+cells was 3.7% for After (ignore)-After,
+and 6.4% for After (ignore)-Before (p <
+.001; Mann-Whitney U test). There is no
+apparent reason, other than sampling error,
+for the weaker results obtained with Event A.
+Relevance judgments. If After(ignore)
+subjects are able to ignore outcome knowl-
+edge, the outcome report they received
+should have no effect on their reconstructed
+relevance judgments. Instead, however,
+these relevance judgments clearly reflected
+the outcomes that After (ignore) subjects
+believed to have happened (but were in-
+structed to ignore). For example, in Ex-
+periment 1 After subjects told of a British
+victory assigned substantially greater impor-
+tance to the fact that "British officers learned
+caution only after sharp reverses" (Datum
+No. 11) than did Before subjects; those told
+of a Gurka victory assigned it slightly less
+importance. After (ignore) subjects in Ex-
+periment 2 who were asked to ignore a
+report of British victory believed that even
+without the report they would have per-
+ceived the relevance of Datum No. 11; those
+told to ignore a report of Gurka victory be-
+lieved that they in foresight would have
+seen its irrelevance. When the relevance
+judgment ANOVA of Experiment 1 is re-
+peated on the present data, this dependence
+is reflected in highly significant (p < .0005)
+Outcome Reported X Datum Evaluated in-
+teractions.
+Interestingly, for 128 of the 184 individual
+datum units evaluated by subjects in the
+four outcome groups of the four events After
+and After(ignore) relevance judgments were
+either both higher or both lower than the
+corresponding Before judgments (as was the
+case in the example, Datum No. 11, given
+above) (#=5.23; sign test). There was
+no tendency for After and After (ignore)
+relevance judgments to be consistently
+higher or lower than Before relevance judg-
+ments, which might in itself account for
+this result.
+Discussion
+Experiment 1 showed that receipt of out-
+come knowledge affects subjects' judgments
+in the direction predicted by the creeping
+determinism hypothesis. Experiment 2 has
+shown that subjects are either unaware of
+outcome knowledge having an effect on their
+perceptions or, if aware, they are unable to
+ignore or rescind that effect. Both the
+relevance and the probability judgments of
+After (ignore) subjects suggest that subjects
+fail to properly reconstruct foresightful (Be-
+fore) judgments because they are "an-
+chored" in the hindsightful state of mind
+created by receipt of outcome knowledge.
+It might be asked whether this failure to
+empathize with ourselves in a more ignorant
+state is not paralleled by a failure to empa-
+thize with outcome-ignorant others. How
+well people manage to reconstruct the per-
+ceptions that others had before the occur-
+rence of some event is a crucial question for
+historians, and indeed for all human under-
+standing. The assumption that we clearly
+perceive how others viewed situations be-
+fore receipt of outcome knowledge underlies
+most second-guessing of their decisions. Ex-
+periment 3 examined this question.
+EXPERIMENT 3
+Method
+Design. Subjects were presented with stimulus
+materials identical to those used in Experiments
+1 and 2. They were asked to respond as had other
+student judges who had not known the true out-
+come. Before (others) subjects were not provided
+with any outcome knowledge. After (others) sub-
+jects received versions of the stimulus events with
+one of the four possible outcomes presented as
+the true outcome (what had actually happened).
+After(others) subjects' task was essentially to ig-
+nore outcome knowledge in order to respond like
+Before (others) subjects.
+Instructions. The cover of each test booklet
+read:
+Short descriptions of a number of real social and
+personal events appear below, each with several
+possible outcomes. These descriptions were pre-
+sented to students of social science in other uniT
+versities in Israel. (However, they were not
+told which of the possible outcomes actually
+happened.) We will ask you to guess the judg-
+ments of these students regarding the likeli-
+hood of possible outcomes. We thank you for
+your participation.
+The section in parentheses only appeared in the in-
+structions for After (others) subjects. Each page
+of the test booklets was identical to the corre-
+296 BARUCH FISCHHOFF
+TABLE 4
+MEAN PROBABILITIES ASSIGNED BY SUBJECTS RESPONDING "As DID OTHER STUDENTS
+WHO DID NOT KNOW WHAT HAPPENED," EXPERIMENT 3
+Experimental group
+Outcomeprovided
+Outcome evaluated
+Event A: British-Gurka struggle
+Before
+After (ignore)
+21
+17
+17
+22
+17
+none 26.4 24.S
+1 39.4
+2 18.8
+3 31.1
+4 28.2
+22.4
+42.6
+21.2
+21.9
+29.5 19.5
+20.3
+20.3
+26.6
+23.7
+18.8
+20.0
+20.0
+26.2
+Event B: Near-riot in Atlanta
+Before
+After (ignore)
+20
+17
+18
+19
+16
+none 11.0 24.0 41.8 23.2
+1 15.0 24.7
+2 13.2 36.0
+3 4.8 22.5
+4 12.3 26.4
+36.5
+35.2
+51.1
+38.4
+23.8
+14.6
+21.6
+22.8
+Event C: Mrs. Dewar in therapy
+Before
+After (ignore)
+21
+18
+18
+16
+19
+none 19.6 15.9 24.0 40.5
+1 20.3 20.0 28.3
+2 31.9 23.3 14.8
+3 30.6 12.5 26.9
+4 12.5 20.4 22.6
+31.4
+30.0
+30.1
+44.4
+Event D: George in therapy
+Before
+After (ignore)
+19
+15
+16
+17
+16
+none 30.7 22.4 39.2 7.8
+1 46.0 15.3 30.0 8.7
+2 22.5 36.6 34.1 6.9
+3 19.8 14.8 57.7 7.8
+4 23.5 18.3 40.3 17.8
+Note, Outlined cells are those with After (ignore) probabilities of reported outcomes.
+spending page of the Experiment I test booklets,
+except for the addition of a reminder, "Answer as
+you think other students (who did not know what
+happened) answered" before each response section.
+Subjects, Ninety-four members of an inter-
+mediate statistics class at the University of the
+Negev participated.
+Results
+Probability estimates. Table 4 presents
+mean probability assignments by subjects in
+each group. After (others) subjects' in-
+ability to ignore the effects of creeping de-
+terminism is clearly evident. For 14 of the
+16 reported outcomes (p < .002; sign test),
+they attributed higher probabilities to out-
+come-ignorant others than did Before (oth-
+ers) subjects. As in Experiment 2, being
+told to ignore outcome knowledge slightly,
+but not significantly (p > .10; Mann-Whit-
+ney U test), reduced its impact. The mean
+Before(others)-After(others) difference was
+8.7% compared with the mean Before-After
+difference of 10.8% in Experiment 1.
+Relevance judgments. After (ignore) sub-
+jects who had received different outcome re-
+ports attributed markedly different relevance
+judgments to the outcome-ignorant others.
+The dependence of the relevance judgments
+that they attributed on the outcome knowl-
+edge they were to ignore produced signifi-
+HINDSIGHT ^ FORESIGHT 297
+cant (p < .01) Outcome Reported X Datum
+Evaluated interactions for each of the four
+events. Thus, After (ignore) subjects ex-
+pected other subjects to have seen in fore-
+sight patterns of data relevance that they
+themselves only saw in hindsight.
+Projection. Comparing Tables 1 and 4
+and Tables 3 and 4, it is apparent that the
+entries in corresponding Before and Before-
+(others) cells are quite similar, as are cor-
+responding After (others) and After(ignore)
+cells. The mean absolute difference between
+entries in corresponding cells is 3.5% for the
+first comparison, 5.1% for the latter. This
+suggests that when asked to respond like
+similar others, subjects respond as they be-
+lieve they themselves would have responded
+in similar circumstances (i.e., by projec-
+tion). Both the probability and relevance
+judgments of After (others) subjects more
+closely resembled those of After (ignore)
+and After subjects than those of Before(oth-
+ers) subjects.
+Reasons. Some 87% of the subjects pro-
+vided reasons for their judgments. Al-
+though content analysis of these reasons
+proved intractable, one interesting finding is
+that After (others) subjects offered consist-
+ently more reasons than Before subjects (p
+<.05; median test). In Experiment 1,
+After subjects reported relying more on out-
+side information (as compared with the text)
+than did Before subjects. Perhaps in both
+cases knowing what happened facilitates
+knowing where to look for and what to ac-
+cept as reasons.
+GENERAL DISCUSSION
+Finding out that an outcome has occurred
+increases its perceived likelihood. Judges are,
+however, unaware of the effect that outcome
+knowledge has on their perceptions. Thus,
+judges tend to believe that this relative in-
+evitability was largely apparent in foresight,
+without the benefit of knowing what hap-
+pened.
+In a fourth study (Fischhoff & Beyth,
+1975), subjects were asked on the eve of
+former President Nixon's trips to China
+and the USSR (in early 1972) to estimate
+the probability of various possible outcomes
+of the visits (e.g., Nixon's meeting Chair-
+man Mao, visiting Lenin's tomb, or an-
+nouncing that the trips were successful).
+From 2 wk to 6 mo after the trips' comple-
+tion, these same subjects were asked to re-
+member as best they could their own origi-
+nal predictions. They were also asked to
+indicate for each event whether or not they
+believed that it had actually happened.
+Results showed that subjects remembered
+having given higher probabilities than they
+actually had to events believed to have oc-
+curred and lower probabilities to events that
+hadn't occurred. Their original predictions
+showed considerable overestimation of low
+probabilities, that is, too many events that
+they judged to be extremely unlikely or im-
+possible did occur. The probability judg-
+ments that they remembered, however, con-
+sistently underestimated low probabilities.
+Indeed, almost no events to which they re-
+membered assigning low probabilities were
+perceived to have occurred.
+Thus, undiagnosed creeping determinism
+not only biases people's impressions of what
+they would have known without outcome
+knowledge, but also their impressions of
+what they themselves and others actually did
+know in foresight.
+Explanations
+The simplest hypothesis regarding the
+manner in which judges process outcome
+knowledge suffices to account for these re-
+sults. Assume that upon receipt of outcome
+knowledge judges immediately assimilate it
+with what they already know about the event
+in question. In other words, the retrospec-
+tive judge attempts to make sense, or a co-
+herent whole, out of all that he knows about
+the event. The changes in relevance judg-
+ments could reflect such assimilative mean-
+ing adjustment.
+Assimilation of this type would tend to
+induce creeping determinism for judges
+using any of the techniques for producing
+subjective probability estimates appearing in
+Tversky and Kahneman's (1974) com-
+pendium. Judges using the heuristic of
+"representativeness" perceive outcomes as
+likely when they match or represent the
+298 BARUCH FISCHHOFF
+dominant features of the situation that
+produced them. Assimilation of outcome
+knowledge should certainly increase the per-
+ceived "fit" between the reported outcome
+and the situation that preceded it. A second
+heuristic leads judges to evaluate an out-
+come's likelihood by the relative "avail-
+ability" of scenarios leading to its occur-
+rence and nonoccurrence. The judge who
+knows what happened, and has adjusted his
+perceptions in the light of that knowledge,
+may well find it difficult to imagine how
+things could have turned out otherwise.
+An alternative mode of explanation focuses
+on structural differences between the tasks
+of hindsight and foresight. Judges possessing
+outcome knowledge may, for example, tend
+to reverse their temporal perspective and
+produce scenarios that proceed backward
+in time, from the outcome to the preceding
+situation. Such scenario retrodiction may
+effectively obscure the ways in which events
+might not have taken place, much as solving
+a maze backward can obscure the ways in
+which one might have gotten lost entering
+from the beginning.
+Receipt of outcome knowledge may also
+restructure the task of judges using the
+"anchoring and adjustment" heuristic (Tver-
+sky & Kahneman, 1974). Judges may esti-
+mate the likelihood of a reported outcome by
+initially assigning it 100%, the most salient
+possible value, and then looking for reasons
+to adjust downward from there. Adjust-
+ment from initial values is typically inade-
+quate and would produce creeping determ-
+inism with this task.
+Of these explanations, those based on
+assimilation most readily account for the
+underestimation of creeping determinism
+found in Experiments 2 and 3 and in the
+Fischhoff and Beyth (1975) study. Making
+sense out of what one is told about the past
+seems so natural and effortless a response
+that one may be unaware that outcome
+knowledge has had any effect at all on him.
+Judges who are aware that outcome knowl-
+edge has affected their perceptions still face
+the unenviable task of reconstructing their
+foresightful state of mind. "Undiagnosed
+creeping determinism" would characterize
+the responses of subjects who, in reconstruc-
+tion, were unable to adequately unanchor
+themselves from the perspective of hind-
+sight.
+Implications
+In the short run, failure to ignore out-
+come knowledge holds substantial benefits.
+It is quite flattering to believe, or lead others
+to believe, that we would have known all
+along what we could only know with out-
+come knowledge, that is, that we possess
+hindsightful foresight. In the long run, how-
+ever, unperceived creeping determinism can
+seriously impair our ability to judge the
+past or learn from it.
+Consider a decision maker who has been
+caught unprepared by some turn of events
+and who tries to see where he went wrong
+by recreating his preoutcome knowledge
+state of mind. If, in retrospect, the event
+appears to have seemed relatively likely, he
+can do little more than berate himself for
+not taking the action which his knowledge
+seems to have dictated. He might be said
+to add the insult of regret to the injury
+inflicted by the event itself. When second-
+guessed by a hindsightful observer, his mis-
+fortune appears to have been incompetence,
+folly, or worse.
+In situations where information is limited,
+and indeterminate, occasional surprises-—•
+and resulting failures—are inevitable. It
+is both unfair and self-defeating to castigate
+decision makers who have erred in fallible
+systems, without admitting to that fallibility
+and doing something to improve the system.
+According to historian Roberta Wohlstetter
+(1962), the lesson to be learned from Amer-
+ican surprise at Pearl Harbor is that we
+must "accept the fact of uncertainty and
+learn to live with it. Since no magic will
+provide certainty, our plans must work
+without it" (p. 401).
+When we attempt to understand past
+events, we implicitly test the hypotheses or
+rules we use to both interpret and anticipate
+the world around us. If, in hindsight, we
+systematically underestimate the surprises
+which the past held and holds for us, we are
+subjecting those hypotheses to inordinately
+weak tests and, presumably, finding little
+reason to change them. Thus, the very out-
+HINDSIGHT 96 FORESIGHT 299
+come knowledge which gives us the feeling
+that we understand what the past was all
+about may prevent us from learning anything
+from it.3
+3 Elaboration on this point as well as specula-
+tion on how hindsight can be improved may be
+found'in Fischhoff (1974) and Fischhoff and Beyth
+(1974).
+REFERENCES
+Ellis, A. Psychosexual and marital problems. In
+L. A. Berg & L. A. Pennington (Eds.), An
+introduction to clinical psychology. New York:
+Ronald, 1966.
+Fischhoff, B. Hindsight: Thinking backward?
+Oregon Research Institute Research Monograph,
+1974,14, No. 1.
+Fischhoff, B. Temporal setting and judgment
+under uncertainty. Organisational Behavior
+and Human Performance, in press.
+Fischhoff/ B., & Beyth, R, Failure has many
+fathers (Review of Victims of groupthlnk by
+I. Janis). Oregon Research Institute Research
+Bulletin, 1974, 14, No. 17.
+Fischhoff, B., & Beyth, R. "I knew it would hap-
+pen"—remembered probabilities of once-future
+things. Organisational Behavior and Human
+Performance, 1975, 13, 1-16.
+Florovsky, G. The study of the past. In R. H.
+Nash (Ed.), Ideas of history (Vol. 2). New
+York: Button, 1969.
+Lofland, R. Deviance and identity. Englewood
+Cliffs, N.J.: Prentice-Hall, 1969.
+National Advisory Commission. Kerner Com-
+mission report on civil disorders. New York:
+Bantam, 1968.
+Rosenhan, D. On being sane in insane places.
+Science, 1973, 79, 250-252.
+Schur, E. Labelling deviant behavior. New York:
+Harper & Row, 1971.
+Tawney, R. H. The agrarian problem in the
+sixteenth century. New York: Franklin, 1961.
+Tversky, A., & Kahneman, D. Belief in the law
+of small numbers. Psychological Bulletin, 1971,
+76, 105-110.
+Tversky, A., & Kahneman, D. Judgment under
+uncertainty: Heuristics and biases. Science, 1974,
+185, 1124-1131.
+Walster, E. "Second guessing" important events.
+Human Relations, 1967, 20, 239-250.
+Wohlstetter, R. Pearl Harbor: Warning and
+decision. Stanford, Calif.: Stanford University
+Press, 1962.
+Woodward, E. L. Age of reform. London:
+Oxford University Press, 1938.
+(Received January 6, 1975)

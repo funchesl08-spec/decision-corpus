@@ -1,0 +1,19 @@
+# 原料存档 · wald_memo.pdf 前 10 页（纯图像扫描页）视觉 OCR 笔记
+# 处理方式：pymupdf 渲染 110dpi PNG → 视觉直读（2026-09-29）。扫描件→文字成果的第一条管线记录。
+
+---
+
+【文件身份鉴定】wald_memo.pdf 前 10 页无文字层，经视觉 OCR 鉴定为：
+**Mangel, M. & Samaniego, F. J. (1984). "Abraham Wald's Work on Aircraft Survivability." JASA 79(386): 259–267.**（JSTOR 扫描版，封面页 2001 年时间戳）
+——即卡 14 引用的"复原瓦尔德方法的论文"本体，比预期更有价值：第 11 页起才是 SRG 备忘录 reprint（有文字层）。
+
+【原文照录（视觉 OCR）】
+1. "While he was a member of the Statistical Research Group (SRG), Abraham Wald worked on the problem of estimating the vulnerability of aircraft, using data obtained from survivors. This work was published as a series of SRG memoranda and was used in World War II and the wars in Korea and Vietnam."
+2. "The operational commander does not know the distribution of hits on an aircraft that did not return. This is the basic difficulty in making a decision."（★卡 14 主引文）
+3. "The papers that Wald wrote describing the methods were recently reprinted by the Center for Naval Analyses (Wald 1980); there are eight memoranda, totaling over 100 pages."
+4. 作者注：Mangel 与 Samaniego 时为 UC Davis 统计系教授。
+
+【Figure 1 流程图内容（Wald 八份备忘录的结构）】
+SRG Memo 85：基本方程（观测值 a_j 与未知数 q_j）；Memo 87：精确上界 1-∏q_j；Memo 88：近似上界；Memo 89：先验假设下的界；Memo 96：按易损性分区；Memo 103：抽样误差；Memo 109/126：杂项。
+
+【结论】卡 14 的"已核原文"级现在有三重支撑：Mangel & Samaniego 原文全文（OCR+文字层）、SRG 备忘录 reprint 文字层、AMS 辨伪专文。
