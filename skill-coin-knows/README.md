@@ -21,7 +21,7 @@ cp -r skill-coin-knows <你的agent技能目录>/coin-knows
 ```
 
 **方式三 · 任意聊天 AI（通用）**
-把 `SKILL.md` 与 `references/models.md` 的内容粘贴进系统提示或对话开头即可——它是纯 Markdown，任何大模型都能照做。
+把 `SKILL.md`、`references/models.md`、`references/knowledge-index.md` 的内容粘贴进系统提示或对话开头即可——它是纯 Markdown，任何大模型都能照做。`assets/` 两个 JSON 一并给到效果最佳（没有 JSON 时，签文层可由 AI 用报数法临时模拟）；`references/cards/` 内是 80 张知识卡全文，问到最后挂出处时直接引用。
 
 ## 它会什么
 
@@ -33,7 +33,7 @@ cp -r skill-coin-knows <你的agent技能目录>/coin-knows
 | "最近好倒霉，帮算算运势" | **测**：运气体检——概率小测验＋古法知识签，明确不预测 |
 | "两个 offer 怎么选" | **称**：维度加权账＋锚定/框架防御 |
 | "这东西 3000 块值不值" | **押**：时薪换算＋稀缺检测＋30 天冷静期 |
-| "我和 TA 还有缘分吗" | 温柔拒答 → 转「秤」 |
+| "我和 TA 还有缘分吗" | **缘**：缘分体检——测"账上还剩多少"不判"命里有没有"：传统合签＋巴纳姆拆解＋行为三问 |
 
 每个结果的背后都挂着一条可查证的知识卡（`decision-corpus/cards/`，80 张，全部带核验等级）。
 
